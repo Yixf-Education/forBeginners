@@ -14,3 +14,11 @@
 * Markdown：Markdown编辑器，Markdown学习资源
 * RE(regular expression)：正则表达式学习资源
 * Others：其他学习资源，翻墙资料，……
+
+## ToDo
+* 在README中详细介绍各个主题
+* 对每个主题中的内容进行详细分类
+* 对所有内容进行挑选删减
+* 对每个主题中的每个分类的内容进行排序
+* 为所有内容添加简介、点评等
+
