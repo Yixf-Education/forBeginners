@@ -29,4 +29,5 @@
 * [SHELL编程之语法基础](http://liwei.life/2016/05/16/69/)
 * [Shell十三问](http://wiki.jikexueyuan.com/project/13-questions-of-shell/)
 * [SHELL编程之执行过程](http://liwei.life/2016/05/23/shell%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B/)
+* [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 
