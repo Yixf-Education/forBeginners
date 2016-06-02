@@ -1,9 +1,5 @@
 # Linux
 
-[TOC]
-
-* * *
-
 ## 资讯网站
 * [Linux中国](http://linux.cn/): 通过网站、微博、微信和邮件列表等平台传播各种Linux技术和资讯
 * [OMG! Ubuntu!](http://www.omgubuntu.co.uk/)
