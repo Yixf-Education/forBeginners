@@ -22,3 +22,4 @@
 * [轻松学习正则表达式](http://wiki.jikexueyuan.com/project/regex/)
 * [正则表达式“派别”简述](http://liujiacai.net/blog/2014/12/07/regexp-favors/)
 * [Regular expressions in Perl](https://www.cs.tut.fi/~jkorpela/perl/regexp.html)
+* [正则表达式视频教程](http://regex.parryqiu.com/)
