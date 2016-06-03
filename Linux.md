@@ -110,11 +110,12 @@
 * [RHCSA系列（十五）： 虚拟化基础和使用KVM进行虚拟机管理](https://linux.cn/article-6362-1.html)
 
 ## LFCS系列
-* [lfcs系列第一讲：如何在linux上使用gnu sed等命令来创建、编辑和操作文件](https://linux.cn/article-7161-1.html)
-* [lfcs系列第二讲：如何安装和使用纯文本编辑器vi/vim](https://linux.cn/article-7165-1.html)
-* [lfcs系列第三讲：归档/压缩文件及目录、设置文件属性和搜索文件](https://linux.cn/article-7171-1.html)
-* [lfcs系列第四讲：对存储设备分区、格式化文件系统和配置交换分区](https://linux.cn/article-7187-1.html)
-* [lfcs系列第五讲：如何在linux中挂载/卸载本地文件系统和网络文件系统（samba和nfs](https://linux.cn/article-7210-1.html)
-* [lfcs系列第六讲：组装分区为raid设备——创建和管理系统备份](https://linux.cn/article-7229-1.html)
-* [lfcs系列第七讲：通过sysvinit、systemd和upstart管理系统自启动进程和服务](https://linux.cn/article-7365-1.html)
+* [LFCS系列第一讲：如何在linux上使用gnu sed等命令来创建、编辑和操作文件](https://linux.cn/article-7161-1.html)
+* [LFCS系列第二讲：如何安装和使用纯文本编辑器vi/vim](https://linux.cn/article-7165-1.html)
+* [LFCS系列第三讲：归档/压缩文件及目录、设置文件属性和搜索文件](https://linux.cn/article-7171-1.html)
+* [LFCS系列第四讲：对存储设备分区、格式化文件系统和配置交换分区](https://linux.cn/article-7187-1.html)
+* [LFCS系列第五讲：如何在linux中挂载/卸载本地文件系统和网络文件系统（samba和nfs](https://linux.cn/article-7210-1.html)
+* [LFCS系列第六讲：组装分区为raid设备——创建和管理系统备份](https://linux.cn/article-7229-1.html)
+* [LFCS系列第七讲：通过sysvinit、systemd和upstart管理系统自启动进程和服务](https://linux.cn/article-7365-1.html)
+* [LFCS系列第八讲：管理用户和用户组、文件权限和属性以及启用账户sudo访问权限](https://linux.cn/article-7418-1.html)
 
