@@ -26,8 +26,12 @@
 ## shell编程
 * [Shell编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
 * [Shell脚本编程初体验](https://linux.cn/article-5591-1.html)
-* [SHELL编程之语法基础](http://liwei.life/2016/05/16/69/)
 * [Shell十三问](http://wiki.jikexueyuan.com/project/13-questions-of-shell/)
-* [SHELL编程之执行过程](http://liwei.life/2016/05/23/shell%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B/)
 * [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+
+## shell编程系列
+* [SHELL编程之语法基础](http://liwei.life/2016/05/16/69/)
+* [SHELL编程之执行过程](http://liwei.life/2016/05/23/shell%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B/)
+* [SHELL编程之执行环境](http://liwei.life/2016/05/30/shell%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%A7%E8%A1%8C%E7%8E%AF%E5%A2%83/)
+* [SHELL编程之特殊符号](http://liwei.life/2016/06/06/shell%e7%bc%96%e7%a8%8b%e4%b9%8b%e7%89%b9%e6%ae%8a%e7%ac%a6%e5%8f%b7/)
 

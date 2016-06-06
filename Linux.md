@@ -41,12 +41,15 @@
 * [应该知道的Linux技巧](http://coolshell.cn/articles/8883.html)
 * [理解硬链接和软链接](http://andrewliu.in/2015/08/10/%E7%90%86%E8%A7%A3%E7%A1%AC%E9%93%BE%E6%8E%A5%E5%92%8C%E8%BD%AF%E9%93%BE%E6%8E%A5/)
 * [在线Cron表达式生成器](http://jason.hahuachou.com/cron/index.htm)
+* [新手指南：手把手教你安装Ubuntu和Fedora](https://linux.cn/article-5893-1.html)
+* [Linux新手要了解的十个知识点](http://www.oschina.net/news/73983/linux-knowledge-point)
 
 ## 杂烩
 * [2015年最弱的密码和最强的密码](https://linux.cn/article-6918-1.html)
 * [linus，一生只为寻找欢笑](http://chijianqiang.baijia.baidu.com/article/21626)
 * [我是如何学习linux的](https://linux.cn/article-7277-1.html)
 * [生信分析人员如何系统入门linux？](http://www.bio-info-trainee.com/1661.html)
+* [七步开始你的Linux系统管理员生涯](https://linux.cn/article-7431-1.html)
 
 ## 命令行
 * [20款优秀的Linux终端仿真器](https://linux.cn/article-5738-1.html)

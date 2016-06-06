@@ -9,6 +9,7 @@
 
 ## 翻墙
 * [翻墙集锦](https://github.com/comeforu2012/truth/wiki)
+* [如何科学上网——搭建自己的Shadowsocks服务器](http://sharpdeep.github.io/2016/06/04/fuckGFW01/)
 
 ## 杂烩
 * [Docker Tips](http://www.jianshu.com/p/be4599f5a68a)
