@@ -25,6 +25,8 @@
 * [git版本管理策略及相关技巧(A)](http://www.barretlee.com/blog/2014/05/07/cb-git-improve/)
 * [Git-常用命令总结](http://sunxiaoyang.github.io/2015/11/05/Git-%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93/)
 * [Git全解析之用起来先](http://wustrive2008.github.io/2016/01/06/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/Git%E5%85%A8%E8%A7%A3%E6%9E%90%E4%B9%8B%E5%85%88%E7%94%A8%E8%B5%B7%E6%9D%A5/)
+* [使用原理视角看Git](https://blog.coding.net/blog/principle-of-Git)
+* [Git那些事儿](https://wujunze.com/git_something.jsp)
 
 ## 技能树
 * [闯过这54关，点亮你的Git技能树](http://www.codingstyle.cn/topics/51)

@@ -50,6 +50,7 @@
 * [我是如何学习linux的](https://linux.cn/article-7277-1.html)
 * [生信分析人员如何系统入门linux？](http://www.bio-info-trainee.com/1661.html)
 * [七步开始你的Linux系统管理员生涯](https://linux.cn/article-7431-1.html)
+* [破除Linux的七大认识误区](https://linux.cn/article-7433-1.html)
 
 ## 命令行
 * [20款优秀的Linux终端仿真器](https://linux.cn/article-5738-1.html)
@@ -94,6 +95,7 @@
 * [13个Cat命令管理(显示，排序，建立)文件实例](https://linux.cn/article-2336-1.html)
 * [Linux中grep命令的12个实践例子](https://linux.cn/article-2250-1.html)
 * [Linux下让进程在后台可靠运行的几种方法](https://linux.cn/article-7170-1.html)
+* [在Linux下使用scp命令](https://linux.cn/article-7456-1.html)
 
 ## RHCSA系列
 * [RHCSA系列（一）: 回顾基础命令及系统文档](https://linux.cn/article-6133-1.html)
@@ -121,4 +123,5 @@
 * [LFCS系列第六讲：组装分区为raid设备——创建和管理系统备份](https://linux.cn/article-7229-1.html)
 * [LFCS系列第七讲：通过sysvinit、systemd和upstart管理系统自启动进程和服务](https://linux.cn/article-7365-1.html)
 * [LFCS系列第八讲：管理用户和用户组、文件权限和属性以及启用账户sudo访问权限](https://linux.cn/article-7418-1.html)
+* [LFCS系列第九讲:使用Yum、RPM、Apt、Dpkg、Aptitude进行Linux软件包管理](https://linux.cn/article-7455-1.html)
 

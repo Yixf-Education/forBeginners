@@ -16,3 +16,5 @@
 * [如何用3个月毁掉你的室友？（大学生版）](https://zhuanlan.zhihu.com/p/21249109)
 * [生信分析人员数据处理脚本实战](http://www.bio-info-trainee.com/1670.html)
 * [在Stack Overflow提问的检查表](http://mp.weixin.qq.com/s?__biz=MzAwNzkzOTkzMQ==&mid=2247483777&idx=1&sn=74d2ebb2fd5450ff0d0c8f0086e564ab)
+* [几条编程的小贴士](https://linux.cn/article-7454-1.html)
+* [原来我们每天都在用的键盘，竟是一个精心谋划的「反人类」设计？](http://www.jianshu.com/p/9d79e9a80173)
