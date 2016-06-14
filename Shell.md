@@ -34,4 +34,5 @@
 * [SHELL编程之执行过程](http://liwei.life/2016/05/23/shell%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B/)
 * [SHELL编程之执行环境](http://liwei.life/2016/05/30/shell%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%A7%E8%A1%8C%E7%8E%AF%E5%A2%83/)
 * [SHELL编程之特殊符号](http://liwei.life/2016/06/06/shell%e7%bc%96%e7%a8%8b%e4%b9%8b%e7%89%b9%e6%ae%8a%e7%ac%a6%e5%8f%b7/)
+* [SHELL编程之内建命令](http://liwei.life/2016/06/13/shell%e7%bc%96%e7%a8%8b%e4%b9%8b%e5%86%85%e5%bb%ba%e5%91%bd%e4%bb%a4/)
 
