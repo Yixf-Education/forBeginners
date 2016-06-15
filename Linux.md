@@ -43,6 +43,7 @@
 * [在线Cron表达式生成器](http://jason.hahuachou.com/cron/index.htm)
 * [新手指南：手把手教你安装Ubuntu和Fedora](https://linux.cn/article-5893-1.html)
 * [Linux新手要了解的十个知识点](http://www.oschina.net/news/73983/linux-knowledge-point)
+* [初识Linux文件权限](https://linux.cn/article-7460-1.html)
 
 ## 杂烩
 * [2015年最弱的密码和最强的密码](https://linux.cn/article-6918-1.html)
@@ -51,6 +52,7 @@
 * [生信分析人员如何系统入门linux？](http://www.bio-info-trainee.com/1661.html)
 * [七步开始你的Linux系统管理员生涯](https://linux.cn/article-7431-1.html)
 * [破除Linux的七大认识误区](https://linux.cn/article-7433-1.html)
+* [在Ubuntu Server 16.04 LTS上安装LAMP](https://linux.cn/article-7463-1.html)
 
 ## 命令行
 * [20款优秀的Linux终端仿真器](https://linux.cn/article-5738-1.html)
