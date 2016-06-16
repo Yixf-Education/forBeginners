@@ -19,3 +19,6 @@
 * [几条编程的小贴士](https://linux.cn/article-7454-1.html)
 * [原来我们每天都在用的键盘，竟是一个精心谋划的「反人类」设计？](http://www.jianshu.com/p/9d79e9a80173)
 * [学习如何学习](http://limboy.me/essay/2015/08/14/learning-how-to-learn.html)
+* [提问须知](https://zhuanlan.zhihu.com/p/20752519)
+* [程序员必知的七个图形工具](https://github.com/phodal/fullstack-toolbox/blob/master/graphics.md)
+* [（程序员必知）文档篇](https://github.com/phodal/fullstack-toolbox/blob/master/documents.md)
