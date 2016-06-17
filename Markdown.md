@@ -9,6 +9,7 @@
 * [马克飞象](http://maxiang.info/): 专为印象笔记（Evernote）打造的Markdown编辑器
 * [小书匠](http://markdown.xiaoshujiang.com/): 在线Markdown编辑阅读器
 * [Markdown Live Editor](http://jrmoran.com/playground/markdown-live-editor/)
+* [让你爱上写作的11款Markdown工具](http://www.ifanr.com/app/665209)
 
 ## 语法
 * [什么是Markdown?](http://jingxuan.io/markdown/)
@@ -27,4 +28,5 @@
 * [简单的Markdown指南](http://www.applecho.com/markdown-guide/)
 * [Markdown语法说明](http://www.applecho.com/markdown/)
 * [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)
+* [学会优雅实用的Markdown写作，从这篇文章开始吧](http://www.ifanr.com/app/593507)
 
