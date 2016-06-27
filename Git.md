@@ -27,6 +27,7 @@
 * [Git全解析之用起来先](http://wustrive2008.github.io/2016/01/06/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6/Git%E5%85%A8%E8%A7%A3%E6%9E%90%E4%B9%8B%E5%85%88%E7%94%A8%E8%B5%B7%E6%9D%A5/)
 * [使用原理视角看Git](https://blog.coding.net/blog/principle-of-Git)
 * [Git那些事儿](https://wujunze.com/git_something.jsp)
+* [30分钟git命令入门到放弃](http://www.w3ctrain.com/2016/06/26/learn-git-in-30-minutes)
 
 ## 技能树
 * [闯过这54关，点亮你的Git技能树](http://www.codingstyle.cn/topics/51)

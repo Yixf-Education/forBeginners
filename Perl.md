@@ -14,4 +14,5 @@
 * [编码之道：取个好名字很重要](https://linux.cn/article-6334-1.html)
 * [程序员应该避免的5种代码注释](https://linux.cn/article-6333-1.html)
 * [生信分析人员如何系统入门perl？](http://www.bio-info-trainee.com/1667.html)
+* [【译】如何给变量取个简短且无歧义的名字](http://yemengying.com/2016/06/25/cleanCode4naming)
 
