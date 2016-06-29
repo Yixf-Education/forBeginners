@@ -53,6 +53,7 @@
 * [七步开始你的Linux系统管理员生涯](https://linux.cn/article-7431-1.html)
 * [破除Linux的七大认识误区](https://linux.cn/article-7433-1.html)
 * [在Ubuntu Server 16.04 LTS上安装LAMP](https://linux.cn/article-7463-1.html)
+* [Linux/UNIX 定时任务cron详解](https://linux.cn/article-7513-1.html)
 
 ## 命令行
 * [20款优秀的Linux终端仿真器](https://linux.cn/article-5738-1.html)
@@ -98,6 +99,8 @@
 * [Linux中grep命令的12个实践例子](https://linux.cn/article-2250-1.html)
 * [Linux下让进程在后台可靠运行的几种方法](https://linux.cn/article-7170-1.html)
 * [在Linux下使用scp命令](https://linux.cn/article-7456-1.html)
+* [打造属于自己的个性化终端](http://codingpy.com/article/customize-your-terminal/)
+* [小技巧：多姿多彩的cat命令](http://codingpy.com/article/a-new-colorful-cat)
 
 ## RHCSA系列
 * [RHCSA系列（一）: 回顾基础命令及系统文档](https://linux.cn/article-6133-1.html)
