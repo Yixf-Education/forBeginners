@@ -101,6 +101,7 @@
 * [在Linux下使用scp命令](https://linux.cn/article-7456-1.html)
 * [打造属于自己的个性化终端](http://codingpy.com/article/customize-your-terminal/)
 * [小技巧：多姿多彩的cat命令](http://codingpy.com/article/a-new-colorful-cat)
+* [Linux下五个顶级的开源命令行Shell](https://linux.cn/article-7533-1.html)
 
 ## RHCSA系列
 * [RHCSA系列（一）: 回顾基础命令及系统文档](https://linux.cn/article-6133-1.html)
