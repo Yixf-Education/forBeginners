@@ -23,3 +23,5 @@
 * [程序员必知的七个图形工具](https://github.com/phodal/fullstack-toolbox/blob/master/graphics.md)
 * [（程序员必知）文档篇](https://github.com/phodal/fullstack-toolbox/blob/master/documents.md)
 * [Linux上四个最佳的现代开源代码编辑器](https://linux.cn/article-7468-1.html)
+* [最容易被忽略的三种学习方式](http://www.gtdlife.com/2016/4376/three-study-way)
+* [11款学习编程的好玩的浏览器游戏(译)](http://ljinkai.github.io/2016/07/03/11-fun-javascript-browser-game)
