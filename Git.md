@@ -39,10 +39,10 @@
 * [Githug-Git游戏通关流程](http://www.jianshu.com/p/482b32716bbe)
 
 ## 从0开始学习GitHub系列
-* [从0开始学习GitHub系列之「初识GitHub」](https://zhuanlan.zhihu.com/p/21103336)
-* [从0开始学习GitHub系列之「加入GitHub」](http://chuansong.me/n/348966047152)
-* [从0开始学习GitHub系列之「Git速成」](https://zhuanlan.zhihu.com/p/21269318)
-* [从0开始学习GitHub系列之「向GitHub提交代码」](https://zhuanlan.zhihu.com/p/21302347)
-* [从0开始学习GitHub系列之「Git进阶」](https://zhuanlan.zhihu.com/p/21367056)
+* [从0开始学习GitHub系列之「初识GitHub」](http://stormzhang.com/git/2014/01/29/git-flow/)
+* [从0开始学习GitHub系列之「加入GitHub」](http://stormzhang.com/github/2016/05/26/learn-github-from-zero2/)
+* [从0开始学习GitHub系列之「Git速成」](http://stormzhang.com/github/2016/05/30/learn-github-from-zero3/)
+* [从0开始学习GitHub系列之「向GitHub提交代码」](http://stormzhang.com/github/2016/06/04/learn-github-from-zero4/)
+* [从0开始学习GitHub系列之「Git进阶」](http://stormzhang.com/github/2016/06/16/learn-github-from-zero5/)
 * [从0开始学习GitHub系列之「团队合作利器Branch」](http://chuansong.me/n/404317047764)
 
