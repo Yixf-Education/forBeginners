@@ -40,7 +40,9 @@
 
 ## 从0开始学习GitHub系列
 * [从0开始学习GitHub系列之「初识GitHub」](https://zhuanlan.zhihu.com/p/21103336)
+* [从0开始学习GitHub系列之「加入GitHub」](http://chuansong.me/n/348966047152)
 * [从0开始学习GitHub系列之「Git速成」](https://zhuanlan.zhihu.com/p/21269318)
 * [从0开始学习GitHub系列之「向GitHub提交代码」](https://zhuanlan.zhihu.com/p/21302347)
 * [从0开始学习GitHub系列之「Git进阶」](https://zhuanlan.zhihu.com/p/21367056)
+* [从0开始学习GitHub系列之「团队合作利器Branch」](http://chuansong.me/n/404317047764)
 
