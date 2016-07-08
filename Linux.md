@@ -132,4 +132,5 @@
 * [LFCS系列第七讲：通过sysvinit、systemd和upstart管理系统自启动进程和服务](https://linux.cn/article-7365-1.html)
 * [LFCS系列第八讲：管理用户和用户组、文件权限和属性以及启用账户sudo访问权限](https://linux.cn/article-7418-1.html)
 * [LFCS系列第九讲:使用Yum、RPM、Apt、Dpkg、Aptitude进行Linux软件包管理](https://linux.cn/article-7455-1.html)
+* [LFCS系列第十讲：学习简单的Shell脚本编程和文件系统故障排除](https://linux.cn/article-7549-1.html)
 
