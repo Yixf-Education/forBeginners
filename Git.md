@@ -28,6 +28,8 @@
 * [使用原理视角看Git](https://blog.coding.net/blog/principle-of-Git)
 * [Git那些事儿](https://wujunze.com/git_something.jsp)
 * [30分钟git命令入门到放弃](http://www.w3ctrain.com/2016/06/26/learn-git-in-30-minutes)
+* [小李的版本管理系统](http://chuansong.me/n/410241551627)
+* [你应该知道的基础Git命令](https://linux.cn/article-7552-1.html)
 
 ## 技能树
 * [闯过这54关，点亮你的Git技能树](http://www.codingstyle.cn/topics/51)
