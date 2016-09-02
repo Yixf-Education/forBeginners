@@ -134,3 +134,7 @@
 * [LFCS系列第九讲:使用Yum、RPM、Apt、Dpkg、Aptitude进行Linux软件包管理](https://linux.cn/article-7455-1.html)
 * [LFCS系列第十讲：学习简单的Shell脚本编程和文件系统故障排除](https://linux.cn/article-7549-1.html)
 
+## 软件
+* [海量的超赞Linux软件](https://linux.cn/article-7712-1.html)
+
+
