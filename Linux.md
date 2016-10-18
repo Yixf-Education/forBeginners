@@ -136,5 +136,6 @@
 
 ## 软件
 * [海量的超赞Linux软件](https://linux.cn/article-7712-1.html)
+* [全平台最佳密码管理工具大全：支持 Windows、Linux、Mac、Android、iOS 以及企业应用](https://linux.cn/article-7858-1.html)
 
 
