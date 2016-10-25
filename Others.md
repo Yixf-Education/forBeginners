@@ -6,6 +6,7 @@
 * [free-programming-books](https://github.com/vhf/free-programming-books): 免费的编程书籍合集
 * [实验楼](http://www.shiyanlou.com/)：让用户通过动手实践的方式学会IT技术
 * [写给即将学习编程的大学新生](https://linux.cn/article-5756-1.html)
+* [12 个最佳的免费学习编程的游戏网站](https://linux.cn/article-7845-1.html)
 
 ## 翻墙
 * [翻墙集锦](https://github.com/comeforu2012/truth/wiki)

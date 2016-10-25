@@ -104,6 +104,7 @@
 * [小技巧：多姿多彩的cat命令](http://codingpy.com/article/a-new-colorful-cat)
 * [Linux下五个顶级的开源命令行Shell](https://linux.cn/article-7533-1.html)
 * [sed命令进阶](http://liwei.life/2016/07/04/sed/)
+* [如何使用SSHFS通过SSH挂载远程的Linux文件系统或者目录](https://linux.cn/article-7855-1.html)
 
 ## RHCSA系列
 * [RHCSA系列（一）: 回顾基础命令及系统文档](https://linux.cn/article-6133-1.html)
