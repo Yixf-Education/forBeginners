@@ -5,6 +5,8 @@
 * [Ideone](http://ideone.com/): 在线编译器（含Perl, Bash, Awk）
 * [Coding Ground](http://www.tutorialspoint.com/codingground.htm): 在线的IDE和终端，在线编译Awk、Shell、Perl等
 * [Collabedit](http://collabedit.com/): Collabedit is an online code editor that lets people collaborate in real-time.
+* [Jdoodle](https://www.jdoodle.com/): Easy and quick way to run programs online
+* [Rextester - Run code](http://rextester.com/l/perl_online_compiler): online compiling and execution for some languages
 
 ## 基础
 * [Modern Perl](http://modernperlbooks.com/books/modern_perl_2014/)
