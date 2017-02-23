@@ -106,8 +106,9 @@
 * [sed命令进阶](http://liwei.life/2016/07/04/sed/)
 * [如何使用SSHFS通过SSH挂载远程的Linux文件系统或者目录](https://linux.cn/article-7855-1.html)
 * [使用命令行生成高强度密码](https://linux.cn/article-7936-1.html)
-* [如何在后台运行 Linux 命令并且将进程脱离终端](https://linux.cn/article-7918-1.html)
-* [怎样在 CentOS 里下载 RPM 包及其所有依赖包](https://linux.cn/article-7937-1.html)
+* [如何在后台运行Linux命令并且将进程脱离终端](https://linux.cn/article-7918-1.html)
+* [怎样在CentOS里下载RPM包及其所有依赖包](https://linux.cn/article-7937-1.html)
+* [Linux上12个高效的文本过滤命令](https://linux.cn/article-8216-1.html)
 
 ## RHCSA系列
 * [RHCSA系列（一）: 回顾基础命令及系统文档](https://linux.cn/article-6133-1.html)
