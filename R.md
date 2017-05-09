@@ -12,5 +12,6 @@
 * [数据结构之矩阵](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650237963&idx=1&sn=cfb6a14c08ca2b9a5d4511247de943f5)
 * [数据结构之数据框](http://mp.weixin.qq.com/s?src=3&timestamp=1493857219&ver=1&signature=*UZRAeg5R0pjoY3Lr7g8x0DxUITL8xN4XTkjNGhEg9-annG7NRbBCz0UnY1e6ZT1HzcE54ToPP-kf-OvWu37yn6tIArDXRECtqTVKIt9Hac5ELeOyHJYrKzEkAbE82i0j*obbObEwNVoQn-CNkxy5UKFLmSxVh23OFhLE-YhpAY=)
 * [数据结构之列表](http://mp.weixin.qq.com/s?src=3&timestamp=1493856951&ver=1&signature=*UZRAeg5R0pjoY3Lr7g8x0DxUITL8xN4XTkjNGhEg99TDkMH-WgXI4xck4KCpCyBYP4zLbVaJcthe1RcpJQGfILBH7CyTehJuQFt9F4CAW3md1Nmc*6L-YhXgrG5pcvyRKYBxt-NRYLzpDfIw1s3YMIvR3oHz9IXFz3jQ0AOf98=)
+* [数据的读入](http://mp.weixin.qq.com/s?src=3&timestamp=1494290958&ver=1&signature=*UZRAeg5R0pjoY3Lr7g8x0DxUITL8xN4XTkjNGhEg9-NvgqpxWC7qccl-2GCYLNHKDfnJPh4D0Zd18ApYIcS9cMGQSVgVPf9xmHgU2M2oZ8eCxe-gsZQfdeFdi6Xl8E1u14Wvs-9hjTKQB5FvEc8YMlkJN*crIrWchH7OdgSwf0=)
 * [单个总体均值的t检验](http://mp.weixin.qq.com/s?src=3&timestamp=1493856746&ver=1&signature=*UZRAeg5R0pjoY3Lr7g8x0DxUITL8xN4XTkjNGhEg9-She-UXhGhW9tvkHeFL4TBTOD32n3BwAXUs1ud1A6it2dg7e1VB7gLkabpqDlcuzEART8LKcCW4XuFiMdPB9HTDjWkJh-7NUnLDklW10NmZ-IlCvKVs8XpT2Rnzb5uZQ4=)
 
