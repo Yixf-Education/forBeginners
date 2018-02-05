@@ -7,6 +7,7 @@
 * [实验楼](http://www.shiyanlou.com/)：让用户通过动手实践的方式学会IT技术
 * [写给即将学习编程的大学新生](https://linux.cn/article-5756-1.html)
 * [12 个最佳的免费学习编程的游戏网站](https://linux.cn/article-7845-1.html)
+* [如何优雅的提问](https://mp.weixin.qq.com/s?src=11&timestamp=1517791780&ver=679&signature=Pse3oX8LP2gLR4WtlDX0WqEwiv49E26thw8kP4maBgCUkiQmhHBLJjXLx4vj*q9bu3yjAWn7xBsdQkpXrAuxmZApknsl9lDoV4C922yjMieEjt5QU1dT84TocctVVQqb&new=1)
 
 ## 翻墙
 * [翻墙集锦](https://github.com/comeforu2012/truth/wiki)
