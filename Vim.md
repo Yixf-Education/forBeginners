@@ -30,4 +30,5 @@
 * [史上最全Vim快捷键键位图 -- 入门到进阶](http://cenalulu.github.io/linux/all-vim-cheatsheat/)
 * [vi Cheat Sheet](http://socialmatchbox.com/wp/learn-to-code-learn-programming/cheat-sheets/vi-cheat-sheet/)
 * [vim/vi命令整理](https://zhuanlan.zhihu.com/p/21278816)
+* [vim中文速查表](https://github.com/skywind3000/awesome-cheatsheets/blob/master/editors/vim.txt)
 
