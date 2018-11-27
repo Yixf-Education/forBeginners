@@ -109,6 +109,8 @@
 * [如何在后台运行Linux命令并且将进程脱离终端](https://linux.cn/article-7918-1.html)
 * [怎样在CentOS里下载RPM包及其所有依赖包](https://linux.cn/article-7937-1.html)
 * [Linux上12个高效的文本过滤命令](https://linux.cn/article-8216-1.html)
+* [EzPrompt: Easy Bash PS1 Generator](http://ezprompt.net/)
+* [在 Linux 上自定义 bash 命令提示符](https://linux.cn/article-10280-1.html)
 
 ## RHCSA系列
 * [RHCSA系列（一）: 回顾基础命令及系统文档](https://linux.cn/article-6133-1.html)
