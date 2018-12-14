@@ -11,6 +11,7 @@
 * [awesomecow.com/](http://awesomecow.com/): Enter the name of a Windows program, to see alternatives in Linux.（寻找Windows软件在Linux中的替代品）
 * [Penguspy](http://www.penguspy.com/): just the best Linux games（Linux游戏大全）
 * [commandlinefu.com](http://www.commandlinefu.com/commands/browse)
+* [tutorialspoint](https://www.tutorialspoint.com/)
 
 ## 发行版
 * [Linux下载](https://linux.cn/article-4130-1.html)
@@ -111,6 +112,10 @@
 * [Linux上12个高效的文本过滤命令](https://linux.cn/article-8216-1.html)
 * [EzPrompt: Easy Bash PS1 Generator](http://ezprompt.net/)
 * [在 Linux 上自定义 bash 命令提示符](https://linux.cn/article-10280-1.html)
+* [数据科学家的命令行技巧](https://linux.cn/article-10342-1.html)
+* [The Grymoire - home for UNIX wizards](http://www.grymoire.com/Unix/index.html)
+* [csvkit](https://csvkit.readthedocs.io/en/1.0.3/tutorial.html)
+* [q - Run SQL directly on CSV or TSV files](https://github.com/harelba/q)
 
 ## RHCSA系列
 * [RHCSA系列（一）: 回顾基础命令及系统文档](https://linux.cn/article-6133-1.html)
