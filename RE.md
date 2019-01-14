@@ -2,7 +2,7 @@
 
 ## 在线工具
 * [RegExrv2.0](http://regexr.com/): 解释、测试正则表达式
-* [regexpal](http://regexpal.com/)： a JavaScript regular expression tester 
+* [regexpal](http://www.regexpal.com/)： a JavaScript regular expression tester 
 * [txt2re](http://www.txt2re.com/): 通过示例字符串生成正则表达式
 * [Rubular](http://rubular.com/): 正则表达式编辑器（基于Ruby）
 * [Regexper](http://regexper.com/)
@@ -12,6 +12,7 @@
 * [正则表达式简明参考](http://www.xiaoleilu.com/regex-guide/)
 * [正则表达式30分钟入门教程](http://www.jb51.net/tools/zhengze.html)
 * [正则表达式速查表](http://www.jb51.net/tools/regexsc.htm)
+* [正则表达式速查表](https://www.jb51.net/shouce/jquery1.82/regexp.html)
 * [常用正则表达式](http://www.jb51.net/tools/regex.htm)
 * [55分钟学会正则表达式](http://blog.jobbole.com/63398/)
 * [史上最复杂的验证邮件地址的正则表达式](https://linux.cn/article-5963-1.html)
