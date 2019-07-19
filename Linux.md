@@ -27,6 +27,8 @@
 * [用于‘Suse‘ Linux包管理的Zypper命令大全](https://linux.cn/article-5606-1.html)
 * [新手指南：在Ubuntu和Fedora上安装软件包](https://linux.cn/article-6042-1.html)
 * [Shilpa Nair分享的RedHat Linux包管理方面的面试经验](https://linux.cn/article-6208-1.html)
+* [在线试用 200 多种 Linux 和 Unix 操作系统](https://distrotest.net/)
+* [免费Linux虚拟机映像下载](https://www.osboxes.org/)
 
 ## 基础知识
 * [Linux基础](http://linuxtools-rst.readthedocs.org/zh_CN/latest/base/index.html)
