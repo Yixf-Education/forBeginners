@@ -30,7 +30,7 @@
 * [Shell十三问](http://wiki.jikexueyuan.com/project/13-questions-of-shell/)
 * [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 
-## shell编程系列
+##  shell编程系列
 * [SHELL编程之语法基础](http://liwei.life/2016/05/16/69/)
 * [SHELL编程之执行过程](http://liwei.life/2016/05/23/shell%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%A7%E8%A1%8C%E8%BF%87%E7%A8%8B/)
 * [SHELL编程之执行环境](http://liwei.life/2016/05/30/shell%E7%BC%96%E7%A8%8B%E4%B9%8B%E6%89%A7%E8%A1%8C%E7%8E%AF%E5%A2%83/)
@@ -38,3 +38,7 @@
 * [SHELL编程之内建命令](http://liwei.life/2016/06/13/shell%e7%bc%96%e7%a8%8b%e4%b9%8b%e5%86%85%e5%bb%ba%e5%91%bd%e4%bb%a4/)
 * [SHELL编程之常用技巧](http://liwei.life/2016/06/20/shell%e7%bc%96%e7%a8%8b%e4%b9%8b%e5%b8%b8%e7%94%a8%e6%8a%80%e5%b7%a7/)
 
+## shell教程系列
+* [shell教程(1)：有没有兴趣玩耍一下shell版俄罗斯方块？](https://mp.weixin.qq.com/s/PQZ-Z-0TyXPKTAxC5-2ktw)
+* [shell教程(2)：积木游戏之认识积木--重要的系统命令](https://zhuanlan.zhihu.com/p/73200891)
+* [shell教程（3）变量（一）：a=1？没那么简单](https://mp.weixin.qq.com/s?src=11&timestamp=1565413010&ver=1781&signature=bBXYU6-F55sAYps8qxtZzSdf0KdiOJn61So8WUwCRwUevU3sQRZiA8NCta3Tx67eNOSFnV28aeZcK8Du5ICx8KBFXxI5PJtDwa5GdrV96OJ5K3-gYuzBbcvPCQF-Vs3W&new=1)
