@@ -119,38 +119,5 @@
 * [The Grymoire - home for UNIX wizards](http://www.grymoire.com/Unix/index.html)
 * [csvkit](https://csvkit.readthedocs.io/en/1.0.3/tutorial.html)
 * [q - Run SQL directly on CSV or TSV files](https://github.com/harelba/q)
-
-## RHCSA系列
-* [RHCSA系列（一）: 回顾基础命令及系统文档](https://linux.cn/article-6133-1.html)
-* [RHCSA系列（二）: 如何进行文件和目录管理](https://linux.cn/article-6155-1.html)
-* [RHCSA系列（三）: 如何管理RHEL7的用户和组](https://linux.cn/article-6187-1.html)
-* [RHCSA系列（四）: 编辑文本文件及分析文本](https://linux.cn/article-6229-1.html)
-* [RHCSA系列（五）: RHEL7中的进程管理：开机，关机](https://linux.cn/article-6249-1.html)
-* [RHCSA系列（六）: 使用Parted和SSM来配置和加密系统存储](https://linux.cn/article-6257-1.html)
-* [RHCSA系列（七）: 使用ACL（访问控制列表)和挂载Samba/NFS共享](https://linux.cn/article-6263-1.html)
-* [RHCSA系列（八）: 加固SSH，设定主机名及启用网络服务](https://linux.cn/article-6266-1.html)
-* [RHCSA系列（九）: 安装、配置及加固一个Web和FTP服务器](https://linux.cn/article-6286-1.html)
-* [RHCSA系列（十）: Yum包管理、Cron自动任务计划和监控系统日志](https://linux.cn/article-6300-1.html)
-* [RHCSA系列（十一）: 使用firewalld和iptables来控制网络流量](https://linux.cn/article-6315-1.html)
-* [RHCSA系列（十二）: 使用Kickstart完成RHEL 7的自动化安装](https://linux.cn/article-6335-1.html)
-* [RHCSA系列（十三）： 在RHEL 7中使用SELinux进行强制访问控制](https://linux.cn/article-6339-1.html)
-* [RHCSA系列（十四）： 在RHEL 7中设置基于LDAP的认证](https://linux.cn/article-6348-1.html)
-* [RHCSA系列（十五）： 虚拟化基础和使用KVM进行虚拟机管理](https://linux.cn/article-6362-1.html)
-
-## LFCS系列
-* [LFCS系列第一讲：如何在linux上使用gnu sed等命令来创建、编辑和操作文件](https://linux.cn/article-7161-1.html)
-* [LFCS系列第二讲：如何安装和使用纯文本编辑器vi/vim](https://linux.cn/article-7165-1.html)
-* [LFCS系列第三讲：归档/压缩文件及目录、设置文件属性和搜索文件](https://linux.cn/article-7171-1.html)
-* [LFCS系列第四讲：对存储设备分区、格式化文件系统和配置交换分区](https://linux.cn/article-7187-1.html)
-* [LFCS系列第五讲：如何在linux中挂载/卸载本地文件系统和网络文件系统（samba和nfs](https://linux.cn/article-7210-1.html)
-* [LFCS系列第六讲：组装分区为raid设备——创建和管理系统备份](https://linux.cn/article-7229-1.html)
-* [LFCS系列第七讲：通过sysvinit、systemd和upstart管理系统自启动进程和服务](https://linux.cn/article-7365-1.html)
-* [LFCS系列第八讲：管理用户和用户组、文件权限和属性以及启用账户sudo访问权限](https://linux.cn/article-7418-1.html)
-* [LFCS系列第九讲:使用Yum、RPM、Apt、Dpkg、Aptitude进行Linux软件包管理](https://linux.cn/article-7455-1.html)
-* [LFCS系列第十讲：学习简单的Shell脚本编程和文件系统故障排除](https://linux.cn/article-7549-1.html)
-
-## 软件
-* [海量的超赞Linux软件](https://linux.cn/article-7712-1.html)
-* [全平台最佳密码管理工具大全：支持 Windows、Linux、Mac、Android、iOS 以及企业应用](https://linux.cn/article-7858-1.html)
-
-
+* [相见恨晚的 15 个 Linux 神器，你可能一个都没见过](http://www.qter.org/portal.php?mod=view&aid=2829)
+* [有哪些命令行的软件堪称神器？](https://www.zhihu.com/question/59227720/answer/163594782)
