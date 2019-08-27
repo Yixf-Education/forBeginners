@@ -6,6 +6,7 @@
 * [txt2re](http://www.txt2re.com/): 通过示例字符串生成正则表达式
 * [Rubular](http://rubular.com/): 正则表达式编辑器（基于Ruby）
 * [Regexper](http://regexper.com/)
+* [learn-regex](https://github.com/Yixf-Self/learn-regex): Learn regex the easy way
 
 ## 基础
 * [正则表达式教程](http://www.w3cschool.cc/regexp/regexp-tutorial.html)
