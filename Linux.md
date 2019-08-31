@@ -121,3 +121,5 @@
 * [q - Run SQL directly on CSV or TSV files](https://github.com/harelba/q)
 * [相见恨晚的 15 个 Linux 神器，你可能一个都没见过](http://www.qter.org/portal.php?mod=view&aid=2829)
 * [有哪些命令行的软件堪称神器？](https://www.zhihu.com/question/59227720/answer/163594782)
+* [crontab guru: The quick and simple editor for cron schedule expressions by Cronitor](https://crontab.guru/)
+
