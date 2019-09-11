@@ -7,11 +7,12 @@
 * [Rubular](http://rubular.com/): 正则表达式编辑器（基于Ruby）
 * [Regexper](http://regexper.com/)
 * [learn-regex](https://github.com/Yixf-Self/learn-regex): Learn regex the easy way
+* [regexr](https://regexr.com/): an online tool to learn, build, & test Regular Expressions
 
 ## 基础
 * [正则表达式教程](http://www.w3cschool.cc/regexp/regexp-tutorial.html)
 * [正则表达式简明参考](http://www.xiaoleilu.com/regex-guide/)
-* [正则表达式30分钟入门教程](http://www.jb51.net/tools/zhengze.html)
+* [正则表达式30分钟入门教程](https://deerchao.net/tutorials/regex/regex.htm)
 * [正则表达式速查表](http://www.jb51.net/tools/regexsc.htm)
 * [正则表达式速查表](https://www.jb51.net/shouce/jquery1.82/regexp.html)
 * [常用正则表达式](http://www.jb51.net/tools/regex.htm)
@@ -25,6 +26,7 @@
 * [正则表达式“派别”简述](http://liujiacai.net/blog/2014/12/07/regexp-favors/)
 * [Regular expressions in Perl](https://www.cs.tut.fi/~jkorpela/perl/regexp.html)
 * [正则表达式视频教程](http://regex.parryqiu.com/)
+* [30 分钟的教程写了 13 年，被名字耽误的正则表达式！](https://mp.weixin.qq.com/s?__biz=MzIyMzA2MTcwMg==&mid=2650733911&idx=1&sn=1aeedcf99b7d735b02ebf00ad679fe59&chksm=f029aefec75e27e8a9197ccc57dd7f4cf01e1cfd8ba5394dec4883bde98b7f20223ccb72a584&mpshare=1&scene=1&srcid=&sharer_sharetime=1568173513370&sharer_shareid=f711ef825cf7898cec04de9bbd35691c#rd)
 
 ## 练习
 * [Regex Cross­word](https://regexcrossword.com/)
