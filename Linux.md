@@ -122,4 +122,6 @@
 * [相见恨晚的 15 个 Linux 神器，你可能一个都没见过](http://www.qter.org/portal.php?mod=view&aid=2829)
 * [有哪些命令行的软件堪称神器？](https://www.zhihu.com/question/59227720/answer/163594782)
 * [crontab guru: The quick and simple editor for cron schedule expressions by Cronitor](https://crontab.guru/)
+* [命令行忘性大？这个开源备忘工具一次解决你的所有烦恼](https://www.jiqizhixin.com/articles/2019-09-22)
+* 
 

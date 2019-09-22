@@ -28,3 +28,6 @@
 * [最容易被忽略的三种学习方式](http://www.gtdlife.com/2016/4376/three-study-way)
 * [11款学习编程的好玩的浏览器游戏(译)](http://ljinkai.github.io/2016/07/03/11-fun-javascript-browser-game)
 * [在线打字练习](https://www.typingclub.com/)
+* [15 个边玩游戏边学编程的网站](https://www.dansdigitalpix.com/gongsixinwen/23.html)
+* [15 个边玩游戏边学编程的网站](https://mp.weixin.qq.com/s?__biz=MzA3MTM3NTA5Ng==&mid=2651062660&idx=5&sn=30f4e45d00c6d8b2e75fe0fb0daf6a1d&chksm=84de2013b3a9a905212aef651c83543a9bf6fc417a9641bdb2952f8fc952c16e5f367f4b5366&mpshare=1&scene=1&srcid=0923cb8oNipQwtHxd2TFAV4x&sharer_sharetime=1569196065966&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* 
