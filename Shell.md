@@ -42,3 +42,4 @@
 * [shell教程(1)：有没有兴趣玩耍一下shell版俄罗斯方块？](https://mp.weixin.qq.com/s/PQZ-Z-0TyXPKTAxC5-2ktw)
 * [shell教程(2)：积木游戏之认识积木--重要的系统命令](https://zhuanlan.zhihu.com/p/73200891)
 * [shell教程（3）变量（一）：a=1？没那么简单](https://mp.weixin.qq.com/s?src=11&timestamp=1565413010&ver=1781&signature=bBXYU6-F55sAYps8qxtZzSdf0KdiOJn61So8WUwCRwUevU3sQRZiA8NCta3Tx67eNOSFnV28aeZcK8Du5ICx8KBFXxI5PJtDwa5GdrV96OJ5K3-gYuzBbcvPCQF-Vs3W&new=1)
+* [shell 教程（4）变量（二）：字符串变量截取、替换和删除](https://mp.weixin.qq.com/s?__biz=MzU1NDkzOTk2MQ==&mid=2247485636&idx=1&sn=112d958d13d86651a1839f1a607c4158&chksm=fbdaab92ccad228411e5c80fe2450e2dbe77a38749ad705db384640eba3a29021251ed5ecc9c&mpshare=1&scene=1&srcid=&sharer_sharetime=1569472943866&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
