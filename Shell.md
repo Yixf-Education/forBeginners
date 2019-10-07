@@ -23,6 +23,7 @@
 * [编写更好Bash脚本的8个建议](https://linux.cn/article-6420-1.html)
 * [数据工程师，常用Shell命令](http://www.jianshu.com/p/1ea90c81b659)
 * [bashoneliners.com](http://www.bashoneliners.com/): We aim to collect practical, well-explained bash one-liners, and promote best practices in shell scripting.（单行命令大全）
+* [bash games](https://github.com/abhiTamrakar/playground)
 
 ## shell编程
 * [Shell编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
