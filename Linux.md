@@ -124,4 +124,5 @@
 * [crontab guru: The quick and simple editor for cron schedule expressions by Cronitor](https://crontab.guru/)
 * [命令行忘性大？这个开源备忘工具一次解决你的所有烦恼](https://www.jiqizhixin.com/articles/2019-09-22)
 * [如何在 Linux 中删除文本中的回车字符](https://linux.cn/article-11389-1.html)
+* [Solve puzzles using Unix pipes](https://www.unixgame.io/unix50)
 
