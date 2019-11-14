@@ -9,4 +9,5 @@
 * [AWK程序设计语言](http://awk.readthedocs.org/en/latest/index.html)
 * [Linux命令之sed与awk](http://sadwxqezc.github.io/HuangHuanBlog/linux/2016/03/10/         Linux%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0-Part-Eight.html)
 * [AWK常用技法](http://blog.saymagic.cn/2016/04/24/awk-common-skills.html)
+* [Linux 三剑客之 awk 详解](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666545074&idx=1&sn=7a6f86ae45c5e7254b71da7fcbbdef8d&chksm=80dcfb19b7ab720ff5ffc78d77092b805c54b22839e02fbf4741f06be90845552172258ac978&scene=0&xtrack=1#rd)
 
