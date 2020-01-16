@@ -125,4 +125,5 @@
 * [命令行忘性大？这个开源备忘工具一次解决你的所有烦恼](https://www.jiqizhixin.com/articles/2019-09-22)
 * [如何在 Linux 中删除文本中的回车字符](https://linux.cn/article-11389-1.html)
 * [Solve puzzles using Unix pipes](https://www.unixgame.io/unix50)
+* [推荐 20 个堪称神器的命令行工具](https://sec.thief.one/article_content?a_id=389bf8f2f684b5f49389323618e799af)
 
