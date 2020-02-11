@@ -8,6 +8,7 @@
 * [Regexper](http://regexper.com/)
 * [learn-regex](https://github.com/Yixf-Self/learn-regex): Learn regex the easy way
 * [regexr](https://regexr.com/): an online tool to learn, build, & test Regular Expressions
+* [RegexOne](https://regexone.com/): Learn Regular Expressions with simple, interactive exercises
 
 ## 基础
 * [正则表达式教程](http://www.w3cschool.cc/regexp/regexp-tutorial.html)
