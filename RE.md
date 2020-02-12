@@ -9,6 +9,7 @@
 * [learn-regex](https://github.com/Yixf-Self/learn-regex): Learn regex the easy way
 * [regexr](https://regexr.com/): an online tool to learn, build, & test Regular Expressions
 * [RegexOne](https://regexone.com/): Learn Regular Expressions with simple, interactive exercises
+* [Regulex]([https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24](https://jex.im/regulex/#!flags=&re=^(a|b)*%3F%24)): JavaScript Expression Visualizer
 
 ## 基础
 * [正则表达式教程](http://www.w3cschool.cc/regexp/regexp-tutorial.html)
