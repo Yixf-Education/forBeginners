@@ -59,6 +59,7 @@
 * [破除Linux的七大认识误区](https://linux.cn/article-7433-1.html)
 * [在Ubuntu Server 16.04 LTS上安装LAMP](https://linux.cn/article-7463-1.html)
 * [Linux/UNIX 定时任务cron详解](https://linux.cn/article-7513-1.html)
+* [26 岁创造 UNIX，退休后却成为一名飞行员](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616322&idx=2&sn=ea5e0570ea9221416b997e8c82531c69&chksm=bdceeac48ab963d261ce1723ea8268426d8dc63fcf4618cb0aa205483aa8e7bd8374e6853b79&mpshare=1&scene=1&srcid=&sharer_sharetime=1581914057412&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 
 ## 命令行
 * [20款优秀的Linux终端仿真器](https://linux.cn/article-5738-1.html)
