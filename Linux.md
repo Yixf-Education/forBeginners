@@ -127,4 +127,5 @@
 * [如何在 Linux 中删除文本中的回车字符](https://linux.cn/article-11389-1.html)
 * [Solve puzzles using Unix pipes](https://www.unixgame.io/unix50)
 * [推荐 20 个堪称神器的命令行工具](https://sec.thief.one/article_content?a_id=389bf8f2f684b5f49389323618e799af)
+* [Linux 学习 - 常见错误和快捷操作](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247491726&idx=2&sn=02073c761b331922077509c56aa61ed8&chksm=ec0e2504db79ac125c796e41c3b27e905621e4ca818187c6c9ed3adbf01c86f7b2a2b616f5d6&mpshare=1&scene=1&srcid=&sharer_sharetime=1582686981553&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 
