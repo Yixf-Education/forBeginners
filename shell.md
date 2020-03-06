@@ -46,3 +46,4 @@
 * [shell教程(2)：积木游戏之认识积木--重要的系统命令](https://zhuanlan.zhihu.com/p/73200891)
 * [shell教程（3）变量（一）：a=1？没那么简单](https://mp.weixin.qq.com/s?src=11&timestamp=1565413010&ver=1781&signature=bBXYU6-F55sAYps8qxtZzSdf0KdiOJn61So8WUwCRwUevU3sQRZiA8NCta3Tx67eNOSFnV28aeZcK8Du5ICx8KBFXxI5PJtDwa5GdrV96OJ5K3-gYuzBbcvPCQF-Vs3W&new=1)
 * [shell 教程（4）变量（二）：字符串变量截取、替换和删除](https://mp.weixin.qq.com/s?__biz=MzU1NDkzOTk2MQ==&mid=2247485636&idx=1&sn=112d958d13d86651a1839f1a607c4158&chksm=fbdaab92ccad228411e5c80fe2450e2dbe77a38749ad705db384640eba3a29021251ed5ecc9c&mpshare=1&scene=1&srcid=&sharer_sharetime=1569472943866&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* [Bash 概论 - Linux 系列教程补充篇](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247491783&idx=2&sn=06ece898506b55562735aaa24219132f&chksm=ec0e254ddb79ac5b22957728138b0caa439947fe94b03894b88a48ba1250e21d6a065a2f05ae&mpshare=1&scene=1&srcid=&sharer_sharetime=1583458851825&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
