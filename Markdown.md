@@ -30,3 +30,6 @@
 * [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)
 * [学会优雅实用的Markdown写作，从这篇文章开始吧](http://www.ifanr.com/app/593507)
 
+## 工具
+* [4 个 Linux 命令行下的 Markdown 工具](https://zhuanlan.zhihu.com/p/120132098)
+
