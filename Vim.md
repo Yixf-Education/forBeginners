@@ -23,6 +23,7 @@
 * [撸一撸VIM -- 5 命令行模式](http://zhongmingmao.me/2016/04/30/command_line_mode.html)
 * [[译]希望大家早点知道的Vim技巧](http://www.jointforce.com/jfperiodical/article/2157)
 * [hings About Vim I Wish I Knew Earlier](https://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/)
+* [必知必会的 Vim 编辑器基础命令](http://www.linuxeden.com/a/63946)
 
 ## Vim卡片
 * [初学者Vi备忘单](https://linux.cn/article-7110-1.html)
