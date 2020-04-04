@@ -61,6 +61,7 @@
 * [Linux/UNIX 定时任务cron详解](https://linux.cn/article-7513-1.html)
 * [26 岁创造 UNIX，退休后却成为一名飞行员](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616322&idx=2&sn=ea5e0570ea9221416b997e8c82531c69&chksm=bdceeac48ab963d261ce1723ea8268426d8dc63fcf4618cb0aa205483aa8e7bd8374e6853b79&mpshare=1&scene=1&srcid=&sharer_sharetime=1581914057412&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [塑造 Linux 历史的 10 个时刻](https://posts.careerengine.us/p/5e8402df7ca96c6a5cd65d30)
+* [Linux 桌面史话](https://linux.cn/article-12068-1.html)
 
 ## 命令行
 * [20款优秀的Linux终端仿真器](https://linux.cn/article-5738-1.html)
@@ -141,4 +142,4 @@
 * [生信数据预处理的 Linux 三大神器]()
 * [Linux shell trick for bioinformatics 系列文章之一](https://mp.weixin.qq.com/s?__biz=MzI1MjU5MjMzNA==&mid=2247487996&idx=4&sn=e138f9f94ccfa0d5edb03da8a4e66f93&chksm=e9e0385dde97b14be6e8269b702646be5d72f3af6bfa7547176a39e1f3d4bfb73a8668a2ace4&mpshare=1&scene=1&srcid=&sharer_sharetime=1584688679278&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [linux shell tricks for bioinformatics 系列文章之二](https://mp.weixin.qq.com/s?__biz=MzI1MjU5MjMzNA==&mid=2247487996&idx=5&sn=aaaafa0765d98c860259553068000a62&chksm=e9e0385dde97b14b154478d9f0e30432597dc269c487b2c74cb1316702d6ab67160a2108a97b&mpshare=1&scene=1&srcid=&sharer_sharetime=1584688684792&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
-
+* [不喜欢 diff 么？试试 Meld 吧](https://linux.cn/article-12067-1.html)
