@@ -33,6 +33,7 @@
 * [零代码入门 GitHub，图形化交互让你轻松存代码 | 附 Git GUI 推荐](http://www.sohu.com/a/333645539_610300)
 * [Git 使用教程：最详细、最傻瓜、最浅显、真正手把手教！（万字长文）](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247487533&idx=3&sn=f4ae4e7b827cb4c8abc22e9b5675fb80&chksm=fa0e7faccd79f6ba58b5eddd5a4bf6787f98d8750a9837b025076e5241a1ce7dae071d845950&mpshare=1&scene=1&srcid=&sharer_sharetime=1581731479488&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [git 操作，看这一篇文章就够了！](https://mp.weixin.qq.com/s?__biz=MzAxMTkwODIyNA==&mid=2247494311&idx=1&sn=41bfb8e16d7453966fafac462f59d096&chksm=9bbb4f48acccc65e2743e4cd1ef67f495aa68013ee653019ae37e76f3dd5b0299dc1a40ad984&mpshare=1&scene=1&srcid=&sharer_sharetime=1581897447388&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 
 ## 技能树
 * [闯过这54关，点亮你的Git技能树](http://www.codingstyle.cn/topics/51)

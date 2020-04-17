@@ -7,4 +7,3 @@
 
 ## 生信问题与编程技能
 * [Rosalind is a platform for learning bioinformatics and programming through problem solving.](http://rosalind.info/problems/locations/)
-
