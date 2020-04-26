@@ -145,3 +145,4 @@
 * [不喜欢 diff 么？试试 Meld 吧](https://linux.cn/article-12067-1.html)
 * [如何在基于 Ubuntu 的发行版上安装微软 TrueType 字体](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616702&idx=3&sn=a77f3c49e901962cae4bccce4ffae1ea&chksm=bdcee9b88ab960aecdb997a7382b26d79d46a4a1cae2a458719164476e2b8f70f2588fd6f449&mpshare=1&scene=1&srcid=&sharer_sharetime=1586087182584&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=fbc37fb85bf8cbee81bb8ce71d238d15f7e5fee17c28c0b3412bdb5de39c7fdc7ff75c38f25638888a0d5d031589040752015638b7b57816815ad6ce26217d405b80c36f6baf7aa8fd8fd20d44f25054&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+XP&version=62060841&lang=zh_CN&exportkey=AYjtoGxqjNVqVVgwa9Ugi1U%3D&pass_ticket=Dq%2Fn%2F2sOhPkAzoapmD8lMSoDYSdQcnfqBIAqsaWajKcnEEsRJ4vPRL5T9JBdoqbY)
 * [Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
+* [12 个有趣的 Linux 终端命令](https://posts.careerengine.us/p/5ea5047e9151d96c59cb91b3)
