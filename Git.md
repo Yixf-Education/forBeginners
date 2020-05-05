@@ -34,6 +34,7 @@
 * [Git 使用教程：最详细、最傻瓜、最浅显、真正手把手教！（万字长文）](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247487533&idx=3&sn=f4ae4e7b827cb4c8abc22e9b5675fb80&chksm=fa0e7faccd79f6ba58b5eddd5a4bf6787f98d8750a9837b025076e5241a1ce7dae071d845950&mpshare=1&scene=1&srcid=&sharer_sharetime=1581731479488&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [git 操作，看这一篇文章就够了！](https://mp.weixin.qq.com/s?__biz=MzAxMTkwODIyNA==&mid=2247494311&idx=1&sn=41bfb8e16d7453966fafac462f59d096&chksm=9bbb4f48acccc65e2743e4cd1ef67f495aa68013ee653019ae37e76f3dd5b0299dc1a40ad984&mpshare=1&scene=1&srcid=&sharer_sharetime=1581897447388&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
+* [工作流一目了然，看小姐姐用动图展示 10 大 Git 命令](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247488324&idx=1&sn=d28d5f0921547b444e19d4a90bda0d02&chksm=fa0e7cc5cd79f5d34645340ba7ab5bf0b131c3cc18540b4e77f3e0d790c21e0b71d8c6f050cd&mpshare=1&scene=1&srcid=&sharer_sharetime=1588670247314&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=7024fc3958d21a49c7a4670adda50dde2c285eaf6836c4ad44942dcf800053fe5c002cc43557d7706515a365ebd43e0090c24686091d6bcb3931f3426a76e74a984bc3abbc1c8854e1f5f093d7a01b47&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+XP&version=62060841&lang=zh_CN&exportkey=AaFjzLETYsZDUxui3g5I5WQ%3D&pass_ticket=Bonn4Clmg7J7CqZ8TGREVfh1ftX1k%2BurOQLoz1ESkV153iCg%2FE%2FG9OAv2o2z70el)
 
 ## 技能树
 * [闯过这54关，点亮你的Git技能树](http://www.codingstyle.cn/topics/51)
