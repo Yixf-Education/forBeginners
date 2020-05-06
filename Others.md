@@ -13,6 +13,7 @@
 ## 翻墙
 * [翻墙集锦](https://github.com/comeforu2012/truth/wiki)
 * [如何科学上网——搭建自己的Shadowsocks服务器](http://sharpdeep.github.io/2016/06/04/fuckGFW01/)
+* [软件安装不上，可能是网速慢！Conda/R/pip/brew 等国内镜像大全](https://mp.weixin.qq.com/s?__biz=MzUzMjA4Njc1MA==&mid=2247489999&idx=1&sn=e56e0be73a4eb1f9731347987af66672&chksm=fab9f37ecdce7a688cd49c463295aeab9e2289db6ede48fa9867eacd02a0ed3a412b2badaf9f&mpshare=1&scene=1&srcid=&sharer_sharetime=1588720067471&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=7024fc3958d21a49d960620a321d1dc7e94801fc37a7a36252d34c052b12856544b065b6de91b9fa3de0dd63091ed476ef4032e62d0a038bc3a8031747bb41d6c46222813f9fb9b8f577bd50aaf127cb&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+XP&version=62060841&lang=zh_CN&exportkey=AWL5fatCGcYXmt1fllDHpas%3D&pass_ticket=Bonn4Clmg7J7CqZ8TGREVfh1ftX1k%2BurOQLoz1ESkV153iCg%2FE%2FG9OAv2o2z70el)
 
 ## 杂烩
 * [Docker Tips](http://www.jianshu.com/p/be4599f5a68a)
