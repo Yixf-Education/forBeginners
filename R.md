@@ -1,6 +1,8 @@
 # R
 * [100 “must read” R-bloggers’ posts for 2015](http://www.r-bloggers.com/100-must-read-r-bloggers-posts-for-2015/)
 * [教你如何用R进行数据挖掘](http://shujuren.org/article/95.html)
+* [对照着 Excel 入门 R 语言表格数据处理](https://mp.weixin.qq.com/s?__biz=MzA5NzQzOTgzMw==&mid=2650841350&idx=1&sn=53ca8f74da960ef471ef1848d31dd29b&chksm=8b54d830bc235126ef812c1619147507f2cce6a5ad3507f4b2a14fa0e2655bcd2dba6379c7c2&scene=21#wechat_redirect)
+* [分析数据时你可能遇到一些奇奇怪怪的符号……](https://mp.weixin.qq.com/s?__biz=MzA5NzQzOTgzMw==&mid=2650841537&idx=1&sn=a765f10b6938c9693f1e7bafd94b22bd&chksm=8b54d8f7bc2351e188205809ac9659b3e82265e8b42bcf96061d3bf2745ce742049c857883d4&mpshare=1&scene=1&srcid=&sharer_sharetime=1591784196408&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&exportkey=AZqf8Sf8PUgAffUMrIeaRLo%3D&pass_ticket=N8E7CAWx4m6NpyYg%2FO2prhH2%2F7Yk%2BSmVxsmkV4Q5tDGHy%2BumQaSB7gJTVDPS1qh3#rd)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
