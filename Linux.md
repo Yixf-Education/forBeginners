@@ -30,6 +30,7 @@
 * [在线试用 200 多种 Linux 和 Unix 操作系统](https://distrotest.net/)
 * [免费Linux虚拟机映像下载](https://www.osboxes.org/)
 * [Linux 入门十法](https://linux.cn/article-11124-1.html)
+* [5 个简单步骤使你的 Ubuntu 看起来像 macOS](https://linux.cn/article-12361-1.html)
 
 ## 基础知识
 * [Linux基础](http://linuxtools-rst.readthedocs.org/zh_CN/latest/base/index.html)
@@ -156,3 +157,4 @@
 * [在 Linux 上查看文件内容的 5 种方法](https://linux.cn/article-12340-1.html)
 * [如何使用 Bash history 命令](https://linux.cn/article-12344-1.html)
 * [使用 source 命令将函数和变量导入 Bash](https://linux.cn/article-12346-1.html)
+
