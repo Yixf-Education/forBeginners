@@ -26,6 +26,7 @@
 * [bash games](https://github.com/abhiTamrakar/playground)
 * [为什么执行自己的程序要在前面加./](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247489113&idx=1&sn=ba2e1728fa6a080ac47b56051e2ab7be&chksm=9b5fb2bfac283ba9403a07ec0d73ae7b028e28778230a08fd41c42b7fb3a23b4eb304b740d40&mpshare=1&scene=1&srcid=&sharer_sharetime=1573085965408&sharer_shareid=e442d933228cc83446c4b0b658cb66a2#rd)
 * [怎样用 Bash 编程：逻辑操作符和 shell 扩展](https://linux.cn/article-11687-1.html)
+* [如何在 Linux 的 bash 中永远循环](https://linux.cn/article-12368-1.html)
 
 ## shell编程
 * [Shell编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
