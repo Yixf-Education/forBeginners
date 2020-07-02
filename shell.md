@@ -27,6 +27,9 @@
 * [为什么执行自己的程序要在前面加./](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247489113&idx=1&sn=ba2e1728fa6a080ac47b56051e2ab7be&chksm=9b5fb2bfac283ba9403a07ec0d73ae7b028e28778230a08fd41c42b7fb3a23b4eb304b740d40&mpshare=1&scene=1&srcid=&sharer_sharetime=1573085965408&sharer_shareid=e442d933228cc83446c4b0b658cb66a2#rd)
 * [怎样用 Bash 编程：逻辑操作符和 shell 扩展](https://linux.cn/article-11687-1.html)
 * [如何在 Linux 的 bash 中永远循环](https://linux.cn/article-12368-1.html)
+* [翻译・Ten Things I Wish I’d Known About bash](https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247485181&idx=1&sn=14c8d8aef280446ced328165e876f682&chksm=fa46c3c0cd314ad6b24092be90e59c86f8c8b3e5e8c95ebd6c52b706abb2ec595a1082d24e5b&scene=21#wechat_redirect)
+* [生信小技巧：实用的 one-liners 命令 (1)](https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247485877&idx=1&sn=6a0e676fad4ab41250754db2eb224050&chksm=fa46cc88cd31459ee42a72514ab21ed4400b43bc0897bda887bbcbdfb12414f493b6671dd90a&scene=21#wechat_redirect)
+* [生信小技巧：实用的 one-liners 命令 (2)](https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247485938&idx=1&sn=49162974c6f46192f0a429a7cb9f3061&chksm=fa46cccfcd3145d9c5d9d22cdc4a4fe35cbd8748cf593b2f074a035f691650f87133bfe71a16&scene=21#wechat_redirect)
 
 ## shell编程
 * [Shell编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
