@@ -157,4 +157,5 @@
 * [在 Linux 上查看文件内容的 5 种方法](https://linux.cn/article-12340-1.html)
 * [如何使用 Bash history 命令](https://linux.cn/article-12344-1.html)
 * [使用 source 命令将函数和变量导入 Bash](https://linux.cn/article-12346-1.html)
+* [这些技巧让 Bash 命令历史更加有用](https://linux.cn/article-12381-1.html)
 
