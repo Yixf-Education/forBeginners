@@ -30,6 +30,7 @@
 * [翻译・Ten Things I Wish I’d Known About bash](https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247485181&idx=1&sn=14c8d8aef280446ced328165e876f682&chksm=fa46c3c0cd314ad6b24092be90e59c86f8c8b3e5e8c95ebd6c52b706abb2ec595a1082d24e5b&scene=21#wechat_redirect)
 * [生信小技巧：实用的 one-liners 命令 (1)](https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247485877&idx=1&sn=6a0e676fad4ab41250754db2eb224050&chksm=fa46cc88cd31459ee42a72514ab21ed4400b43bc0897bda887bbcbdfb12414f493b6671dd90a&scene=21#wechat_redirect)
 * [生信小技巧：实用的 one-liners 命令 (2)](https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247485938&idx=1&sn=49162974c6f46192f0a429a7cb9f3061&chksm=fa46cccfcd3145d9c5d9d22cdc4a4fe35cbd8748cf593b2f074a035f691650f87133bfe71a16&scene=21#wechat_redirect)
+* [学习 Shell 脚本编程的免费资源](https://linux.cn/article-12379-1.html)
 
 ## shell编程
 * [Shell编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
