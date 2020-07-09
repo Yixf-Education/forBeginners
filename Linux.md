@@ -158,4 +158,5 @@
 * [如何使用 Bash history 命令](https://linux.cn/article-12344-1.html)
 * [使用 source 命令将函数和变量导入 Bash](https://linux.cn/article-12346-1.html)
 * [这些技巧让 Bash 命令历史更加有用](https://linux.cn/article-12381-1.html)
+* [通过重定向在 Linux 终端任意读写数据](https://linux.cn/article-12385-1.html)
 
