@@ -160,4 +160,5 @@
 * [这些技巧让 Bash 命令历史更加有用](https://linux.cn/article-12381-1.html)
 * [通过重定向在 Linux 终端任意读写数据](https://linux.cn/article-12385-1.html)
 * [除了 find，还有这些文件查找命令](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666546714&idx=1&sn=f97edc0a1b4bc61092943540628e7f16&chksm=80dc82b1b7ab0ba74ac37dd5c017cee2406acdb9f938d1563d27efa605ff99b9a9b854604541&mpshare=1&scene=1&srcid=0710QkiSJtsisVcW3fs1KQLx&sharer_sharetime=1594382633167&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* [Linux 上无痛文件提取](https://linux.cn/article-12410-1.html)
 
