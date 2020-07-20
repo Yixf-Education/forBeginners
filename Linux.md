@@ -161,4 +161,6 @@
 * [通过重定向在 Linux 终端任意读写数据](https://linux.cn/article-12385-1.html)
 * [除了 find，还有这些文件查找命令](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666546714&idx=1&sn=f97edc0a1b4bc61092943540628e7f16&chksm=80dc82b1b7ab0ba74ac37dd5c017cee2406acdb9f938d1563d27efa605ff99b9a9b854604541&mpshare=1&scene=1&srcid=0710QkiSJtsisVcW3fs1KQLx&sharer_sharetime=1594382633167&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [Linux 上无痛文件提取](https://linux.cn/article-12410-1.html)
+* [深入了解定制 Bash](https://linux.cn/article-12429-1.html)
+* [PATH 和 path，傻傻分不清](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247495185&idx=2&sn=0cd01f277c06c8c402589246cc25131c&chksm=ec0e2b9bdb79a28d79d03ea24e2bf50aa0dc7e0684f410ff678012b6e4e162ba44a45d37e258&mpshare=1&scene=1&srcid=0720YFIvJpe5JpY1uHntKZjS&sharer_sharetime=1595207745691&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 
