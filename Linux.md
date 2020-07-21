@@ -163,4 +163,5 @@
 * [Linux 上无痛文件提取](https://linux.cn/article-12410-1.html)
 * [深入了解定制 Bash](https://linux.cn/article-12429-1.html)
 * [PATH 和 path，傻傻分不清](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247495185&idx=2&sn=0cd01f277c06c8c402589246cc25131c&chksm=ec0e2b9bdb79a28d79d03ea24e2bf50aa0dc7e0684f410ff678012b6e4e162ba44a45d37e258&mpshare=1&scene=1&srcid=0720YFIvJpe5JpY1uHntKZjS&sharer_sharetime=1595207745691&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* [Linux 下 9 种优秀的代码比对工具推荐](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666546845&idx=2&sn=a8a638a300311344509770c1c3a8cd75&chksm=80dc8236b7ab0b20ff4e24da631cfdfd20aa26867bd65b03cf2f18863423fd03dc9920e4f1b5&mpshare=1&scene=1&srcid=0720hKYLZWcUPhnmj9YTWYoQ&sharer_sharetime=1595217617423&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 
