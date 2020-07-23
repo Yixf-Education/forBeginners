@@ -24,6 +24,7 @@
 * [[译]希望大家早点知道的Vim技巧](http://www.jointforce.com/jfperiodical/article/2157)
 * [hings About Vim I Wish I Knew Earlier](https://blog.petrzemek.net/2016/04/06/things-about-vim-i-wish-i-knew-earlier/)
 * [必知必会的 Vim 编辑器基础命令](http://www.linuxeden.com/a/63946)
+* [《A Byte of Vim》书评](https://linux.cn/article-12441-1.html)
 
 ## Vim卡片
 * [初学者Vi备忘单](https://linux.cn/article-7110-1.html)
