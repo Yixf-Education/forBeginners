@@ -63,6 +63,7 @@
 * [26 岁创造 UNIX，退休后却成为一名飞行员](https://mp.weixin.qq.com/s?__biz=MjM5NjQ4MjYwMQ==&mid=2664616322&idx=2&sn=ea5e0570ea9221416b997e8c82531c69&chksm=bdceeac48ab963d261ce1723ea8268426d8dc63fcf4618cb0aa205483aa8e7bd8374e6853b79&mpshare=1&scene=1&srcid=&sharer_sharetime=1581914057412&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [塑造 Linux 历史的 10 个时刻](https://posts.careerengine.us/p/5e8402df7ca96c6a5cd65d30)
 * [Linux 桌面史话](https://linux.cn/article-12068-1.html)
+* [50 个绝佳的必备 Ubuntu 应用](https://linux.cn/article-12456-1.html)
 
 ## 命令行
 * [20款优秀的Linux终端仿真器](https://linux.cn/article-5738-1.html)
