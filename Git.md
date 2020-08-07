@@ -38,6 +38,7 @@
 * [Git 教程：最详细、最傻瓜、最浅显、真正手把手教！（又一篇万字长文）](https://mp.weixin.qq.com/s?__biz=MzAwNDc0MTUxMw==&mid=2649643872&idx=1&sn=ffb280ded0ce5dc7649c1e4fc5188899&chksm=833dbb86b44a329022256fc45290e3e93455a4ccd9cc42f9dcd53e2091b3622aebce353a61fc&mpshare=1&scene=1&srcid=&sharer_sharetime=1589859945528&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=eb412a48247fb92000ed780894dff6dafb5bc269f087ff2e04b7c052e7178aa255028f4edbc1b0131f3394c6ee6f21988b6562137c31e10b250d3d8d6e4e9faf2e902643b1a4a3de9351de6c733de5f7&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+XP&version=62060841&lang=zh_CN&exportkey=ATCXlYxaiq5q3nHw3XkqqDQ%3D&pass_ticket=WeQ%2F9lMsk9TGefvhi5xsI1DxDC0Tuk826MThQy%2BRPMirkkwS6E8ZoGX%2BTcUnIroA)
 * [程序员不会用 Git，结果被嘲笑！](https://mp.weixin.qq.com/s?__biz=MzU0NDU5OTY2Ng==&mid=2247486729&idx=1&sn=d4967305bdffd769d2a9c228e0ae1cfe&chksm=fb78f614cc0f7f0252d8fd174ab5f965422933455a73021d6639fe2a800ac0d94ee7a8776d33&mpshare=1&scene=1&srcid=0727qUy9Sz6qUv5WRu3mrgQ7&sharer_sharetime=1595808002209&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [Git Command Explorer](https://gitexplorer.com/)
+* [9 招让你的 GitHub 下载飞速提升到 2M/s 以上](https://mp.weixin.qq.com/s?__biz=MzAwNDc0MTUxMw==&mid=2649645224&idx=1&sn=80c240fd038e8c8aa751205343922acc&chksm=833d804eb44a0958f20bcc812c2237d2881f0ff22918cd0c7e41ce5a7ad08edce507edfb7c47&mpshare=1&scene=1&srcid=0807s6ytiB8YLXIMAIS8vSGy&sharer_sharetime=1596771652003&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 
 ## 技能树
 * [闯过这54关，点亮你的Git技能树](http://www.codingstyle.cn/topics/51)
