@@ -39,6 +39,7 @@
 * [程序员不会用 Git，结果被嘲笑！](https://mp.weixin.qq.com/s?__biz=MzU0NDU5OTY2Ng==&mid=2247486729&idx=1&sn=d4967305bdffd769d2a9c228e0ae1cfe&chksm=fb78f614cc0f7f0252d8fd174ab5f965422933455a73021d6639fe2a800ac0d94ee7a8776d33&mpshare=1&scene=1&srcid=0727qUy9Sz6qUv5WRu3mrgQ7&sharer_sharetime=1595808002209&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [Git Command Explorer](https://gitexplorer.com/)
 * [9 招让你的 GitHub 下载飞速提升到 2M/s 以上](https://mp.weixin.qq.com/s?__biz=MzAwNDc0MTUxMw==&mid=2649645224&idx=1&sn=80c240fd038e8c8aa751205343922acc&chksm=833d804eb44a0958f20bcc812c2237d2881f0ff22918cd0c7e41ce5a7ad08edce507edfb7c47&mpshare=1&scene=1&srcid=0807s6ytiB8YLXIMAIS8vSGy&sharer_sharetime=1596771652003&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* [不要忽视 .gitignore](https://linux.cn/article-12524-1.html)
 
 ## 技能树
 * [闯过这54关，点亮你的Git技能树](http://www.codingstyle.cn/topics/51)
