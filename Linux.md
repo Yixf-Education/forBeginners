@@ -169,4 +169,5 @@
 * [汇总你在 Linux 上的命令使用情况](https://linux.cn/article-12517-1.html)
 * [一网打进 Linux 下那些查找命令](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247496352&idx=2&sn=7a656ec1b0cf7db66a4f39b4cc2bfdad&chksm=ec0e372adb79be3c029a2aa709125eaa99a8eed88c94d76f9f4637233f58eec2891a0c9d9f09&mpshare=1&scene=1&srcid=081508kQSn7gNPbtAewGTnPk&sharer_sharetime=1597452222902&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [[Linux 通过命令 lsof 或者 extundelete 工具恢复误删除的文件或者目录](http://www.21yunwei.com/archives/6030)]
+* [合并和排序 Linux 上的文件](https://linux.cn/article-12539-1.html)
 
