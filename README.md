@@ -16,6 +16,7 @@
 * Shell：shell编程
 * Vim：Vim学习资源
 * sed：sed学习资源
+* scRNA：scRNA-seq分析资源
 
 ## ToDo
 * 在README中详细介绍各个主题
