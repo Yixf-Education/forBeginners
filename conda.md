@@ -1,0 +1,1 @@
+* [一文掌握 Conda 软件安装：虚拟环境、软件通道、加速 solving、跨服务器迁移](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247496964&idx=1&sn=acffbed4e5638463e7659609a10675f5&chksm=ec0e308edb79b99801a92db87d92fdcb4fa544df5f6e2c1da20148b8ad10a1692b3122c88c39&mpshare=1&scene=1&srcid=0826x2OexESgUczBMBQgjZ20&sharer_sharetime=1598411820831&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
