@@ -171,4 +171,5 @@
 * [[Linux 通过命令 lsof 或者 extundelete 工具恢复误删除的文件或者目录](http://www.21yunwei.com/archives/6030)]
 * [合并和排序 Linux 上的文件](https://linux.cn/article-12539-1.html)
 * [如何将文本文件在 Unix 和 DOS（Windows）格式之间转换](https://linux.cn/article-12558-1.html)
+* [把 Linux 上的文件列表和排序玩出花来](https://linux.cn/article-12560-1.html)
 
