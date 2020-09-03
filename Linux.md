@@ -173,4 +173,5 @@
 * [如何将文本文件在 Unix 和 DOS（Windows）格式之间转换](https://linux.cn/article-12558-1.html)
 * [把 Linux 上的文件列表和排序玩出花来](https://linux.cn/article-12560-1.html)
 * [Glances：多功能 Linux 系统监控工具](https://linux.cn/article-12567-1.html)
+* [scp 用户的 rsync 迁移指南](https://linux.cn/article-12575-1.html)
 
