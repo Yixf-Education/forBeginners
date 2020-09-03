@@ -32,6 +32,7 @@
 * [Markdown: Syntax](http://daringfireball.net/projects/markdown/syntax)
 * [学会优雅实用的Markdown写作，从这篇文章开始吧](http://www.ifanr.com/app/593507)
 * [为什么要学习 Markdown？究竟有什么用？](https://mp.weixin.qq.com/s?__biz=MzU1MDQwMTU5OQ==&mid=2247484840&idx=1&sn=7d1f3c28fb44ec6570d0c48f04743659&chksm=fba066f8ccd7efee610df9bcb3343eab16ccc993b4c38e5b67ea321e5d8fa016344bb1e54f51&mpshare=1&scene=1&srcid=&sharer_sharetime=1587377757956&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=7024fc3958d21a49b04403d6748a64f5a3674c77b6bedd16324aa1e6d8103447cb7af82e7b3184609dda13a95378b6822d01bdf0cc54ee2e3c7a8c65a9626fbc5a3d2aedbc12d9933e248720deb4b6d8&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+XP&version=62060841&lang=zh_CN&exportkey=AbLpPWK%2BHjg20rDjTJTyTmA%3D&pass_ticket=CkJMYo9D1EQrpGW50RV9HTNnMupyxHJymZEf2nnRH84oo40zR3l8gMwCHLqaUIU3)
+* [用 rmarkdown 定制你的数据分析报告](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247497675&idx=1&sn=b01b7387629e2bf7230a108cf9694ae8&chksm=ec0e3241db79bb57adaf9193abce65418f455bb00bde9197fa4d8cd002630910bd1838537af3&mpshare=1&scene=1&srcid=0903hsg80dTkXU4NDirf3kjP&sharer_sharetime=1599100802713&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 
 ## 工具
 * [4 个 Linux 命令行下的 Markdown 工具](https://zhuanlan.zhihu.com/p/120132098)
