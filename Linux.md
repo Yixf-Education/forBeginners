@@ -175,4 +175,5 @@
 * [Glances：多功能 Linux 系统监控工具](https://linux.cn/article-12567-1.html)
 * [scp 用户的 rsync 迁移指南](https://linux.cn/article-12575-1.html)
 * [122.Linux 系统和 Shell 命令行简介，走上数据分析之路](https://mp.weixin.qq.com/s?__biz=MzUzMjA4Njc1MA==&mid=2247491990&idx=1&sn=dc006a3e449fdd3c47f6a43e1c400cd0&chksm=faba0b27cdcd82316fabc585d58b90420aa2fbaa035bfba73944764fa7d56736ad8824fe54c3&mpshare=1&scene=1&srcid=0906I8GxMxbgiJmYaho8gw3Q&sharer_sharetime=1599348385003&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* [在 Linux 上调整命令历史](https://linux.cn/article-12596-1.html)
 
