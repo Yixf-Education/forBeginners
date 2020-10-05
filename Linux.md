@@ -64,6 +64,7 @@
 * [塑造 Linux 历史的 10 个时刻](https://posts.careerengine.us/p/5e8402df7ca96c6a5cd65d30)
 * [Linux 桌面史话](https://linux.cn/article-12068-1.html)
 * [50 个绝佳的必备 Ubuntu 应用](https://linux.cn/article-12456-1.html)
+* [Linux 迎来 29 岁：从个人爱好到统治世界的操作系统内核](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247499519&idx=1&sn=0208c34f8930025e18cf87caaa99e2a9&chksm=ec0e3b75db79b2634f04aa1ef28188c4a684dff0189b5488c60253f233da8e0d4b96bcc1904a&mpshare=1&scene=1&srcid=10036EqekNvVTaoZitRBgyUI&sharer_sharetime=1601681937899&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 
 ## 命令行
 * [20款优秀的Linux终端仿真器](https://linux.cn/article-5738-1.html)
