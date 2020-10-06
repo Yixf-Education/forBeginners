@@ -7,3 +7,5 @@
 
 ## 生信问题与编程技能
 * [Rosalind is a platform for learning bioinformatics and programming through problem solving.](http://rosalind.info/problems/locations/)
+* [该如何自学入门生物信息学](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247499445&idx=1&sn=ff602690f406b7431ff5f540edb5b023&chksm=ec0e3b3fdb79b2292460d46d452a5a181ed78f50fbeb4f95888c5081838d13e9ef34d86ab8ec&mpshare=1&scene=1&srcid=09298m7ZnlO9aIesik6ozYrn&sharer_sharetime=1601385051510&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+
