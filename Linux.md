@@ -179,4 +179,5 @@
 * [在 Linux 上调整命令历史](https://linux.cn/article-12596-1.html)
 * [Linux 黑话解释：什么是 Linux 发行版？为什么它被称为 “发行版”？](https://linux.cn/article-12609-1.html)
 * [使用 Linux stat 命令创建灵活的文件列表](https://linux.cn/article-12637-1.html)
+* [Linux 中几个正则表达式的用法](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666547934&idx=2&sn=af6f0a05edf0805b1780aa853e09fe18&chksm=80dc8e75b7ab0763305b81382d8a1d57506eefcd99ccf8da1b35192c007428f5382b948ca149&mpshare=1&scene=1&srcid=0928zZJvg1KNSCrk59qGU5SA&sharer_sharetime=1601270588906&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 
