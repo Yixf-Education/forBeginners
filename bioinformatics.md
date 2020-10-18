@@ -10,3 +10,6 @@
 * [该如何自学入门生物信息学](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247499445&idx=1&sn=ff602690f406b7431ff5f540edb5b023&chksm=ec0e3b3fdb79b2292460d46d452a5a181ed78f50fbeb4f95888c5081838d13e9ef34d86ab8ec&mpshare=1&scene=1&srcid=09298m7ZnlO9aIesik6ozYrn&sharer_sharetime=1601385051510&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [生物信息之程序学习](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247499445&idx=2&sn=3447f6f760cbb06e9d4559df97dcc4c9&chksm=ec0e3b3fdb79b229646d4f316cb7a3e3a20f35856316a1ff7ddd8e6f401a4c30526f58a77d0d&mpshare=1&scene=1&srcid=0929HpY4N3uRCrTU9VGgu0Qd&sharer_sharetime=1601385055853&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 
+## 其他
+
+* [Volcano plot | 别再问我这为什么是火山图 （在线轻松绘制）](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247500086&idx=2&sn=c145c4ecbc1aedb04009d1fee5824044&chksm=ec0e04bcdb798daa4770c753d4cd47a729446badc2ec1674106e834e9d9553ea726238b9753e&mpshare=1&scene=1&srcid=1018MUA4fsG48RYp2rEaFc4g&sharer_sharetime=1603023708679&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
