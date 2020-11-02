@@ -183,4 +183,5 @@
 * [有了这些，文件批量重命名还需要求助其它工具吗？](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247499100&idx=2&sn=7e2b1f93f76bd00a5dda68a1cb356aac&chksm=ec0e38d6db79b1c0e695fa306318879447a44a6d0cc8afa41fa5dff3238b073cb0bba93fcab6&mpshare=1&scene=1&srcid=0926zGQBbKMq6B3t5UiJKyPi&sharer_sharetime=1601075958218&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [Linux 黑话解释：什么是包管理器？它是如何工作的？](https://linux.cn/article-12713-1.html)
 * [2 种从 Linux 终端下载文件的方法](https://linux.cn/article-12752-1.html)
+* [使用 curl 从命令行访问互联网](https://linux.cn/article-12772-1.html)
 
