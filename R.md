@@ -23,3 +23,8 @@
 
 # 生信相关
 * [R - 生存曲线三步走](https://mp.weixin.qq.com/s?__biz=MzAwODIzOTExNw==&mid=2247483660&idx=1&sn=4724ce073cfa23cdb7d49f10eaa8544c&chksm=9b70a06eac072978a26cf94fbbe2040932ad31cbc2201b3b2dcda583bff34f1437d8133eec10&mpshare=1&scene=1&srcid=1101Wmwd9eLeZUwIUnKvG6WT&sharer_sharetime=1604232987944&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+
+# R包
+
+* [如何生成一个 R 包](https://mp.weixin.qq.com/s?__biz=MzI1MjU5MjMzNA==&mid=2247488843&idx=1&sn=7d5062300c9d96b3799753895f465067&chksm=e9e03ceade97b5fcc3094502ddccb602e65d09c82c907919249dde2320f10901e80a38ab8da0&mpshare=1&scene=1&srcid=1102WCqAZRHGbZhY60lfzDT3&sharer_sharetime=1604322904172&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* [开发 R 程序包之忍者篇](https://cosx.org/2011/05/write-r-packages-like-a-ninja/)
