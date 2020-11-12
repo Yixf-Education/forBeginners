@@ -184,4 +184,5 @@
 * [Linux 黑话解释：什么是包管理器？它是如何工作的？](https://linux.cn/article-12713-1.html)
 * [2 种从 Linux 终端下载文件的方法](https://linux.cn/article-12752-1.html)
 * [使用 curl 从命令行访问互联网](https://linux.cn/article-12772-1.html)
+* [Linux 环境变量配置全攻略](https://www.cnblogs.com/youyoui/p/10680329.html)
 
