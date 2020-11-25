@@ -187,4 +187,5 @@
 * [Linux 环境变量配置全攻略](https://www.cnblogs.com/youyoui/p/10680329.html)
 * [linux 常用命令汇总](https://mp.weixin.qq.com/s?__biz=MzI1MDc4NjYyNQ==&mid=2247486739&idx=1&sn=9237d8a42b1446e4c1046aa8aebdeca1&chksm=e9fdab3dde8a222bc73095e6d8c52baa6e0368305cae55007e73720c910cc09518df0a7adf38&mpshare=1&scene=1&srcid=1119vSrStvoineuZX6Qd4pX6&sharer_sharetime=1605787371721&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [使用命令行浏览器在 Linux 终端上网浏览](https://linux.cn/article-12850-1.html)
+* [22 款好用的 CLI 工具](https://mp.weixin.qq.com/s?__biz=MzU0NDU5OTY2Ng==&mid=2247491095&idx=2&sn=a8f4bcde08c390da9903d0902b50d177&chksm=fb78e50acc0f6c1c40b12b1207099ff96632b49f734f578c764ac1123ea797eaf14501875da8&mpshare=1&scene=1&srcid=1125VE4aBy864gaLrDTPnUI1&sharer_sharetime=1606269806086&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 
