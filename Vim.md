@@ -26,6 +26,7 @@
 * [必知必会的 Vim 编辑器基础命令](http://www.linuxeden.com/a/63946)
 * [《A Byte of Vim》书评](https://linux.cn/article-12441-1.html)
 * [打造一款高逼格的 Vim 神器](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247494494&idx=1&sn=49c4c5d44f10db3dde0d39b3a905ce55&chksm=fa0d84dfcd7a0dc9788aef60823eac36a753078a3aadbe2d6edfcd4fe209d8edd75f36e225a5&mpshare=1&scene=1&srcid=10176W6PKLTr8CtOsvzmRDSx&sharer_sharetime=1602938270297&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* [Vim 分屏基本操作详解](https://www.linuxmi.com/vim-fenping.html)
 
 ## Vim卡片
 * [初学者Vi备忘单](https://linux.cn/article-7110-1.html)
