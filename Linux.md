@@ -189,4 +189,5 @@
 * [使用命令行浏览器在 Linux 终端上网浏览](https://linux.cn/article-12850-1.html)
 * [22 款好用的 CLI 工具](https://mp.weixin.qq.com/s?__biz=MzU0NDU5OTY2Ng==&mid=2247491095&idx=2&sn=a8f4bcde08c390da9903d0902b50d177&chksm=fb78e50acc0f6c1c40b12b1207099ff96632b49f734f578c764ac1123ea797eaf14501875da8&mpshare=1&scene=1&srcid=1125VE4aBy864gaLrDTPnUI1&sharer_sharetime=1606269806086&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [这个为生信学习打造的开源 Linux 教程真香！！！](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247504572&idx=2&sn=6fc7779ed8906620da7931851716edbb&chksm=ec0e1736db799e20fb5c7e6dc734e306869c642413793b6b639343c4dd2421e36ad9a12f1cd4&mpshare=1&scene=1&srcid=1201H1defuuSihZeRC8phTYM&sharer_sharetime=1606775938706&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* [52 张图入门 Linux！](https://mp.weixin.qq.com/s?__biz=Mzg3MjA4MTExMw==&mid=2247497436&idx=2&sn=8b607f7439152158135d026709ddca6c&chksm=cef6056af9818c7c2c2da777d6548b9f9e680f6321d537c18bc55168fe9dfd9282d38341cfda&mpshare=1&scene=1&srcid=12060LllvdneEx34qxPvL3Zj&sharer_sharetime=1607253364065&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 
