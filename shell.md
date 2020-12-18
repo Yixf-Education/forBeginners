@@ -32,6 +32,7 @@
 * [生信小技巧：实用的 one-liners 命令 (2)](https://mp.weixin.qq.com/s?__biz=MzUzMTEwODk0Ng==&mid=2247485938&idx=1&sn=49162974c6f46192f0a429a7cb9f3061&chksm=fa46cccfcd3145d9c5d9d22cdc4a4fe35cbd8748cf593b2f074a035f691650f87133bfe71a16&scene=21#wechat_redirect)
 * [学习 Shell 脚本编程的免费资源](https://linux.cn/article-12379-1.html)
 * [Shell 信号发送与捕捉](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666549411&idx=1&sn=9d56ab8089a933dc936c05ec86e8c077&chksm=80dc9408b7ab1d1eb7a5dfdeca0f1e34bfb8aac03f62cb938a3e8b29a42578501bea80dbc081&mpshare=1&scene=1&srcid=12065rKuZXoOb17R8LZ3ZwYq&sharer_sharetime=1607257209676&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* [每天一个 Linux 命令（65）：read 命令](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666549781&idx=2&sn=7dde5521ee8e73b440ead324b376b75a&chksm=80dc96beb7ab1fa87dde67bba1858c53144b7c14c73d1051e521ec677a790d244b744615e68e&mpshare=1&scene=1&srcid=1217UHzh5DTSGTijFdGK1X74&sharer_sharetime=1608210104478&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 
 ## shell编程
 * [Shell编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
