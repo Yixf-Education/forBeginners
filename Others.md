@@ -37,3 +37,5 @@
 * [排序](https://visualgo.net/zh/sorting)
 * [关于编程学习的一些思考](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247495264&idx=2&sn=2840836575cd6254d2d789cbac7e2d28&chksm=ec0e2beadb79a2fcca32d70a649387235d9bac8129bf1c7f38b7034c4f8ff18cfc28de0df6f2&mpshare=1&scene=1&srcid=0723yYRXEwiLlfQciV1uq1hk&sharer_sharetime=1595468511122&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [手把手教你写出烂代码，从此在公司不可被替代！](https://mp.weixin.qq.com/s?__biz=MzU0NDU5OTY2Ng==&mid=2247486935&idx=1&sn=670294575414c2fc1568e9236df3508b&chksm=fb78f6cacc0f7fdca0eae864ebe6a88009a5218ee9cc7714c40c19702d69c2e3a144fb108759&mpshare=1&scene=1&srcid=0801d688pHLPteXLcpPxxork&sharer_sharetime=1596271233279&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* [一个正确的编程学习方法](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247497408&idx=1&sn=d8718c6d112062ab5affcbe60d856bc1&chksm=fa0d9941cd7a10571269e8885cdee3cabc0034f87c633362fad7c013f38a57aa4f00f1d9227e&mpshare=1&scene=1&srcid=0102r77GP5Uppr79nsVzVYZc&sharer_sharetime=1609594485746&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* 
