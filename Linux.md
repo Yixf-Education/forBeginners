@@ -199,4 +199,7 @@
 * [每天一个 Linux 命令（80）： tr 命令](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666550157&idx=3&sn=e0f6d2d7ecdbc9b2f4431c23cb6e114d&chksm=80dc9726b7ab1e302137aff1f6af94a693fb5df1a36a82bc52b3161140521e22660ded15f2c5&mpshare=1&scene=1&srcid=01029uor5Zt5Me5SUrajMH3t&sharer_sharetime=1609548143899&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [每天一个 Linux 命令（81）： nohup 命令](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666550199&idx=2&sn=888c625bce23046bb44680d984a24fc2&chksm=80dc971cb7ab1e0ad1dac8d5c2f6a0f218ffc49823785f4e9732d007d626e3a1106f4d04ae1a&mpshare=1&scene=1&srcid=01024IuDvCvJvzBmrKWr3Qpi&sharer_sharetime=1609594503668&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [每天一个 Linux 命令（82）： su 和 sudo 命令](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666550237&idx=3&sn=b1e1c2de65dbb24c2b5b1152180b5901&chksm=80dc9776b7ab1e6000dc4ad217ab575b3f0a87beae424bb700f731b1468bd0de686f37d6fda5&mpshare=1&scene=1&srcid=0104pnZvvlFdSU8hXYJLX6Is&sharer_sharetime=1609710714431&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* [每天一个 Linux 命令（91）： basename 命令](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666550667&idx=2&sn=d88881a7d927f2d45587134b89bf8038&chksm=80dc9120b7ab1836c13e489a4b2d339c88331e4d93e638c2e62d60508328a09e752514084f40&mpshare=1&scene=1&srcid=0112bfw2fcWeXCpVjWydMcVE&sharer_sharetime=1610424481154&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+
+
 
