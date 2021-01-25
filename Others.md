@@ -7,7 +7,7 @@
 * [实验楼](http://www.shiyanlou.com/)：让用户通过动手实践的方式学会IT技术
 * [写给即将学习编程的大学新生](https://linux.cn/article-5756-1.html)
 * [12 个最佳的免费学习编程的游戏网站](https://linux.cn/article-7845-1.html)
-* [如何优雅的提问](https://mp.weixin.qq.com/s?src=11&timestamp=1517791780&ver=679&signature=Pse3oX8LP2gLR4WtlDX0WqEwiv49E26thw8kP4maBgCUkiQmhHBLJjXLx4vj*q9bu3yjAWn7xBsdQkpXrAuxmZApknsl9lDoV4C922yjMieEjt5QU1dT84TocctVVQqb&new=1)
+* [如何优雅的提问](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247509238&idx=3&sn=8eeff0621ad133af5bf4ae101d159bd9&chksm=ec0e617cdb79e86abcc6fde03741011b5e75af2f9779e498292480c02b14c25e073b1aadf557&mpshare=1&scene=1&srcid=0125ZVPJE9xHwu9O9goc8yZN&sharer_sharetime=1611532194861&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [如何成为一个更好的程序员，或者说是学习者？给你七个建议！](https://mp.weixin.qq.com/s?__biz=MzUyNjQxNjYyMg==&mid=2247488311&idx=2&sn=92053d1577bbe1d37b764aba61d82b43&chksm=fa0e7cb6cd79f5a03f83eaa9cf2a22db42787928daa00826e7fb0e7b3e7d9d673d2f40b05052&mpshare=1&scene=1&srcid=&sharer_sharetime=1588569432621&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=24c4f19be8bd778488e15fad55872ba875c7e2eab70fcd409a4163b6ce3157b0662e27812e611034aea417740fd46b87af9e9ca5e2a814544c8d2fcf93ecaa836645c3c10394d1abb6ad329115203ddc&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+XP&version=62060841&lang=zh_CN&exportkey=AeqD2SEg7qJnTaYNQbzYYbk%3D&pass_ticket=R9x4RUV9mg0JZUSvEqKl9BTh2srunriJ95xf%2Fxcg6%2FHg6xw3Io7RRjwBtyCrSHY4)
 * [群提问艺术与如何提供帮助](https://kaopubear.top/blog/2020-09-16-howtobehelpful/)
 
