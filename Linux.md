@@ -204,6 +204,7 @@
 * [每天一个 Linux 命令（91）： basename 命令](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666550667&idx=2&sn=d88881a7d927f2d45587134b89bf8038&chksm=80dc9120b7ab1836c13e489a4b2d339c88331e4d93e638c2e62d60508328a09e752514084f40&mpshare=1&scene=1&srcid=0112bfw2fcWeXCpVjWydMcVE&sharer_sharetime=1610424481154&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [有了这些，文件批量重命名还需要求助其它工具吗？](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247508978&idx=2&sn=4155531887306067e002d7126cc586f5&chksm=ec0e6678db79ef6e7fe28a7a5128f12f07cc747d787d06104654bbbd57b0d6dd12f5d3603b03&mpshare=1&scene=1&srcid=0122jLwOyPRMhTCfGE0E0Iy1&sharer_sharetime=1611272288383&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [沉迷干饭？学一点数据分析技能不香吗？](https://mp.weixin.qq.com/s?__biz=MzA5NzQzOTgzMw==&mid=2650858449&idx=1&sn=68d83b55e66ab528007074fa5a68c125&chksm=8b549ae7bc2313f185732147785c231f0e01dcbc643bf6d17fa3f08b4516f6af91831d25d781&mpshare=1&scene=1&srcid=0123NtgxUY2PAVgoZ7Hhu4K8&sharer_sharetime=1611368241057&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* [每天一个 Linux 命令（108）：trap 命令](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666551192&idx=2&sn=4cbf3351d49eb723428c65ec064ccde7&chksm=80dc9333b7ab1a2505fd8b1d053656ed57a76276b73f895c62bfd68ef9aba0e0f6bc09574351&mpshare=1&scene=1&srcid=0127UfknuARZL0OHAYBhm80P&sharer_sharetime=1611721910742&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 
 
 
