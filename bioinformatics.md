@@ -12,6 +12,7 @@
 * [该如何自学入门生物信息学](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247508477&idx=2&sn=d20f40a451878a47e6200359265ec83e&chksm=ec0e6477db79ed61d4f7bca75fdfeb661e07801ad8bdf2b9e9cabdf756c9e8df1bf95f047d05&mpshare=1&scene=1&srcid=0116TyfHDzl8OU6sBYuH4rjH&sharer_sharetime=1610749012128&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [GENOME IN A BOTTLE](https://jimb.stanford.edu/giab/)
 * [EMBO Practical Course on Analysis of High-Throughput Sequencing Data](https://www.ebi.ac.uk/training/online/course/embo-practical-course-analysis-high-throughput-seq)
+* [为什么我跑的 salmon 会占用服务器几百个 G 的内存呢？](https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247499082&idx=1&sn=357154d752dc32737e5005ece70b84b9&chksm=9b4bbdf1ac3c34e71a428e477af55794e0a4dfd9d07c7cc9e6bd660beb3107cada41bb41327b&mpshare=1&scene=1&srcid=0209YivFIGPqYKMG9nEAjfMr&sharer_sharetime=1612842340694&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=cf160bd9b3f0f5e67098edd4938e02f9a6d38b6df87f13200856b9875062b0c7d411251d06c205182dea379a382ed332a69edbf0f479f49670f6a3a2ad1ccf6be38deb55080ec15668d8d00fe98253016eed8eb337e8be099a73168e3194af98b405b9f03b6dbdf374329417a17ae343e184c595e74008b5f42226eed8a92621&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AadnbyKI%2FOF4cGOQHBvF04I%3D&pass_ticket=z5nvjktVcXkquM4Rw0Hg2ePj%2BFscsEYHZcK8tWxrcrl6yQbgLdFs7ORsuYsWcKVq&wx_header=0)
 
 ## 其他
 
