@@ -214,6 +214,7 @@
 * [基于 Tmux 的多会话终端管理示例](https://linux.cn/article-13107-1.html)
 * [基础：如何在 Linux 中运行一个 Shell 脚本](https://linux.cn/article-13106-1.html)
 * [10 分钟教会你看懂 top](https://mp.weixin.qq.com/s?__biz=MzI1MDc4NjYyNQ==&mid=2247489680&idx=2&sn=89838cf71ab55c8f6c5ba52f0f29bbb6&chksm=e9fdbebede8a37a8069788a45dd61211a79ffdb48704b83e9f207bff184ddb3036b6631349f7&mpshare=1&scene=1&srcid=021689WGJpkBXPj5wSLpPaXq&sharer_sharetime=1613479568567&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=9635e972a6ebf4542065a3e875721a6e68fe3c1c83d97583a3ea957d7be1cfa6559b076ba8ca43007b8c54aa5e4fb65ee6f59c9c63384e043ed4e8fb0c653b7c554995762e352e595f55041674f5fda696e3dfbec8afdbd0979747d50be12081e1e2e4f8e464a914767ed5d7583f49d1c47fd4c30e837e7100ce3cdea11391af&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AW%2BE9MauGli5Tg7JGY%2BjmMs%3D&pass_ticket=LopQy6maM4zzR7uxf%2B75frUn4Af1Ur1yrAPlbVq4frMh0f%2FUHriR2c%2FZsny5aMdH&wx_header=0)
+* [如何在 Linux 中创建和管理归档文件](https://linux.cn/article-13126-1.html)
 
 
 
