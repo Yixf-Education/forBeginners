@@ -39,7 +39,13 @@
 * [R 可视乎 | 常用 30 + 图表汇总](https://mp.weixin.qq.com/s?__biz=MzI1NjUwMjQxMQ==&mid=2247490959&idx=2&sn=e846ae94bd657249d586290bdada00e8&chksm=ea24e26bdd536b7d46868a5b3f11db99435b3414d1cd6b1d4c18f844bf4c1ddae9dce87bae25&mpshare=1&scene=1&srcid=0219rvt0802vaSqPCIkkXLZG&sharer_sharetime=1613690805210&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=6f239cbca45393dd1fb2d06b9462e636ac8e25d6323cb43bb0c74a3f80c5309dcf684adffea999370b2ebf20f06d97ff2c8b0597fa733f7b63c6a8272f33f6f46c74f674433e59f94765fd2135702abe8634dade439f65f8812aa0e3df6338c4fcf3d236929d4edfae095668897177928fb292d3866974d720ba590191f5a482&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=Ae7rf9ac4dMntSasNSyYans%3D&pass_ticket=LopQy6maM4zzR7uxf%2B75frUn4Af1Ur1yrAPlbVq4frMh0f%2FUHriR2c%2FZsny5aMdH&wx_header=0)
 
 
+
+# Rmarkdown
+
+* [R 分享｜Rmarkdown 参考资料分享和自制视频教程预告](https://mp.weixin.qq.com/s?__biz=MzI1NjUwMjQxMQ==&mid=2247490959&idx=1&sn=2374d35aa12a64bd00caea0bf424bbd0&chksm=ea24e26bdd536b7d2263b6e779a00f072f2e42f29346ab13a9ed4252144dc6d7e964c7ef7d52&mpshare=1&scene=1&srcid=0219rlLLwkNAsa3BcVMOpbN4&sharer_sharetime=1613690796481&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=604423c5b673dab41759f2eeb6b64e286eef895513e3afad57f85c98d1f406eb6da9c9cf14edb0bfd375e45267e6b4732086cffad85ea452bd154c5cdee16cb82c72f9eda4799223a74da5b0025b846e9fd7f5b9932fec1447c0c22826ffc646599706a5bd3b7d637b2b93021bd0e57fe9872e5d4d1c73e0753af0c9b6763b31&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AT1cXPvcMUn05RhgOSqyJdg%3D&pass_ticket=LopQy6maM4zzR7uxf%2B75frUn4Af1Ur1yrAPlbVq4frMh0f%2FUHriR2c%2FZsny5aMdH&wx_header=0)
+
 # 生信相关
+
 * [R - 生存曲线三步走](https://mp.weixin.qq.com/s?__biz=MzAwODIzOTExNw==&mid=2247483660&idx=1&sn=4724ce073cfa23cdb7d49f10eaa8544c&chksm=9b70a06eac072978a26cf94fbbe2040932ad31cbc2201b3b2dcda583bff34f1437d8133eec10&mpshare=1&scene=1&srcid=1101Wmwd9eLeZUwIUnKvG6WT&sharer_sharetime=1604232987944&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 
 # R包
