@@ -50,6 +50,7 @@
 * [Linux新手要了解的十个知识点](http://www.oschina.net/news/73983/linux-knowledge-point)
 * [初识Linux文件权限](https://linux.cn/article-7460-1.html)
 * [Linux新手必知必会的10条Linux基本命令](https://linux.cn/article-7546-1.html)
+* [使用 Linux 软件包管理器的 5 个理由](https://linux.cn/article-13160-1.html)
 
 ## 杂烩
 * [2015年最弱的密码和最强的密码](https://linux.cn/article-6918-1.html)
