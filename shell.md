@@ -37,6 +37,7 @@
 * [通过编写互动游戏学习 Bash](https://linux.cn/article-12962-1.html)
 * [每天一个 Linux 命令（95）： test 命令](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666550879&idx=2&sn=ed643e4ed7d367c2c3260e23c81506d4&chksm=80dc92f4b7ab1be24cd44589769a974d4e21ae28e8613aaca05f66f06c8c5a41a7b3815c92d1&mpshare=1&scene=1&srcid=0116PBIWwfGZglbEpsqqBtmc&sharer_sharetime=1610770741899&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [如何入门 Bash 编程](https://linux.cn/article-13210-1.html)
+* [Bash 的基本语法](https://wangdoc.com/bash/grammar.html)
 
 ## shell编程
 * [Shell编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
