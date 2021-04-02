@@ -4,6 +4,8 @@
 * [Ideone](http://ideone.com/): 在线编译器（含Perl, Bash, Awk）
 * [Coding Ground](http://www.tutorialspoint.com/codingground.htm): 在线的IDE和终端，在线编译Awk、Shell、Perl等
 * [Best Online Linux Terminals and Online Bash Editors](https://itsfoss.com/online-linux-terminals/)
+* [ShellCheck](https://www.shellcheck.net/#)
+* [有了这个神器，再也不怕 shell 写得不对了](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666552986&idx=1&sn=00694fe61b189d0e2fe32bbb84d87b12&chksm=80dc9a31b7ab132798da824e43bb47104816995b7411c9a96da517d5afa9fbdd49a12434d58b&mpshare=1&scene=1&srcid=0402cS2BP17iN7JCFOUCCe4d&sharer_sharetime=1617335666650&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=439c3bdce1be78fbaa30e35d3e4c73f0fcb1c99e6714e2ef069d5bd835d530e4cc6f4371020c2863742d5f67c24af3a2523f7696d631c84edf554cf3e1d9f0bc2453198f60a70997991fe715547dc78023955923aaec7856bb6eba9f21363ceb0a9838f9aa731a9001e721a60d89ec51f70a446b4ff79f115321259a433ffcea&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=ASsaaGgjqnuWYCrHyOGQ%2FMY%3D&pass_ticket=jWa%2BgbLHluiTlersEim4kKdat03yGHrfxYrQ17pzn4uhvnji8fXKmkF%2Bv3IVRxmh&wx_header=0)
 
 ## shell基础
 * [在Linux命令行下令人惊叹的惊叹号（!）](https://linux.cn/article-5608-1.html)
