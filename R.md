@@ -61,6 +61,8 @@
 * [绘图不知道选什么颜色，来看看这些高级配色卡](https://mp.weixin.qq.com/s?__biz=MzI1MDc4NjYyNQ==&mid=2247490233&idx=2&sn=1d118a9ba18e82dae1449b6c59c3680a&chksm=e9fdbc97de8a3581426de5574264e26601a6d9b21394b23af475b4d2b430f23e0b8894e71815&mpshare=1&scene=1&srcid=0416Q12a2bwA4JBlLWZALTpE&sharer_sharetime=1618537606116&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=f857ab6aec5fa67173a361c1b20df1b70ac76975014f9d84f4ac819e1d3da3bc2066d8bdc48785f14539cf7e25c74c8545bde0be21ec47457041f3257e2460e15c200bda19e7c3ed5d34a36b2f8d98297de5ad30d18d679ba11e5b69c04fb27b67dffdb7a04611ba31eea3c4727903c9940984cf9afc7a7c1f6043ce35c7b7bc&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AVod%2B1gwYtVbyNNE1dt53r0%3D&pass_ticket=bVOFevgDxRjm8X92EmrWTZCwPr1uM%2BYnuALUdWMFMvr4XOIyFbzZU3g4W4Ltuv6S&wx_header=0)
 * [**A ggplot2 Tutorial for Beautiful Plotting in R** - Cédric Scherer](https://www.cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
 * [从一套表达和通路数据学习常见的绘图展示方式和报错处理](https://mp.weixin.qq.com/s/QozX3xJSAyzVUwFyBf16xQ)
+* [圣诞前送你们一朵使用ggplot画的玫瑰花](https://mp.weixin.qq.com/s?__biz=MzUzMjYyMDE2OQ==&mid=2247489473&idx=2&sn=f63ff0aa485e1bd9022b614e5b8cc1bc&scene=21#wechat_redirect)
+* [R可视乎|用R给心仪的对象表白吧](https://mp.weixin.qq.com/s/JJT9hK7eOi-PQmdGRv1gxg)
 
 
 
