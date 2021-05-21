@@ -46,4 +46,5 @@
 * [编程究竟是数学还是语言？](https://mp.weixin.qq.com/s?__biz=MzA5NDkzNjIwMg==&mid=2651715373&idx=2&sn=b97f59b3e227ef8e56215841e0732504&chksm=8bbe5ac8bcc9d3def0f5d93aa8a867b1e9c204d1711549094c46ecd081102ef489291f25f688&mpshare=1&scene=1&srcid=0418crBxFF585zRZsQgxjPuM&sharer_sharetime=1618739246346&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=054fa246941644a4ea459cae3ef5da1bfa28c7a5d02dbf209a8704f076b1350f7919d06c1820896386357ed9c914aeae9b5cf5e73c1299196bca28abfd352c3feea5f0474dcac8dbdc08fc589ffd5f13c2500af28ca6fd90c310155f20b54f24227e218565f61c7956818490858cc7312684f86db5924da2be1de15b2af965d3&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AdS1OyOgVoa7PWM3UCq8txk%3D&pass_ticket=7mEX%2BtdGxUcv3e9UnHjagL3GHqBQt8%2FFK%2BY18Gi2fw7hYHSMGrGW%2BJSe%2BEuCH7nq&wx_header=0)
 * [What can we tell from the evolution of Han Chinese names?](https://kontinentalist.com/stories/a-cultural-history-of-han-chinese-names-for-girls-and-boys-in-china)
 * [好的问题，其实就是答案的一半](https://mp.weixin.qq.com/s/2ih-eVGbgAZQtcpoafgpJw)
+* [一行代码没写，凭啥被尊为“第一位程序员”？](https://mp.weixin.qq.com/s/OixxE1HtpIrjohiEyVLRAg)
 
