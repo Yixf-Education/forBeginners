@@ -63,6 +63,7 @@
 * [从一套表达和通路数据学习常见的绘图展示方式和报错处理](https://mp.weixin.qq.com/s/QozX3xJSAyzVUwFyBf16xQ)
 * [圣诞前送你们一朵使用ggplot画的玫瑰花](https://mp.weixin.qq.com/s?__biz=MzUzMjYyMDE2OQ==&mid=2247489473&idx=2&sn=f63ff0aa485e1bd9022b614e5b8cc1bc&scene=21#wechat_redirect)
 * [R可视乎|用R给心仪的对象表白吧](https://mp.weixin.qq.com/s/JJT9hK7eOi-PQmdGRv1gxg)
+* [别找了，最全数据可视化配色指南在这](https://mp.weixin.qq.com/s/vJ-S6fUJJlydtfWNN6bsyQ)
 
 
 
