@@ -47,4 +47,5 @@
 * [What can we tell from the evolution of Han Chinese names?](https://kontinentalist.com/stories/a-cultural-history-of-han-chinese-names-for-girls-and-boys-in-china)
 * [好的问题，其实就是答案的一半](https://mp.weixin.qq.com/s/2ih-eVGbgAZQtcpoafgpJw)
 * [一行代码没写，凭啥被尊为“第一位程序员”？](https://mp.weixin.qq.com/s/OixxE1HtpIrjohiEyVLRAg)
+* [你为什么连不上服务器了？](https://mp.weixin.qq.com/s/bKOPiaMdjUSUc1L4d1Mchg)
 
