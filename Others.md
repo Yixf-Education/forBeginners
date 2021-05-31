@@ -48,4 +48,5 @@
 * [好的问题，其实就是答案的一半](https://mp.weixin.qq.com/s/2ih-eVGbgAZQtcpoafgpJw)
 * [一行代码没写，凭啥被尊为“第一位程序员”？](https://mp.weixin.qq.com/s/OixxE1HtpIrjohiEyVLRAg)
 * [你为什么连不上服务器了？](https://mp.weixin.qq.com/s/bKOPiaMdjUSUc1L4d1Mchg)
+* [祖传的双链DNA，反正闲着也是闲着，不如拿来装书、存电影？](https://mp.weixin.qq.com/s/vgev6_pMl15lNjJDhdut4A)
 
