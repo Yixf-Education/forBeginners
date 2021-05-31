@@ -67,6 +67,9 @@
 * [**Top 50 ggplot2 Visualizations - The Master List (With Full R Code)**](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 * [**ggplot2 - Essentials - Easy Guides - Wiki - STHDA**](http://www.sthda.com/english/wiki/ggplot2-essentials)
 * [**Graphs**](http://www.cookbook-r.com/Graphs/)
+* [**The R Graph Gallery – Help and inspiration for R charts**](https://www.r-graph-gallery.com/)
+* [**R CHARTS | A collection of charts and graphs made with the R programming language**](https://r-charts.com/)
+* [**R Gallery Book**](https://bookdown.org/content/b298e479-b1ab-49fa-b83d-a57c2b034d49/)
 
 
 
