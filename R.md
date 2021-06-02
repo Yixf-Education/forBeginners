@@ -17,6 +17,7 @@
 * [相信我，这是全网最详细的 R 包 dplyr 教程](https://zhuanlan.zhihu.com/p/358167377?utm_source=wechat_timeline&utm_medium=social&utm_oi=978052457037791232&utm_campaign=shareopn)
 * [R 语言中常见的 10 个错误，看到第 7 个会不会感觉很神奇？](https://mp.weixin.qq.com/s?__biz=MzU1MDQwMTU5OQ==&mid=2247494374&idx=1&sn=095450a3c8f34c98d8291de5856ee991&chksm=fba389b6ccd400a0173ed69ae593ffd64c6df2b64c87e53f7101b0928af9682a44eeada2001e&mpshare=1&scene=1&srcid=0409kcilR4SL4n2js74NoN55&sharer_sharetime=1617957033693&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=c4b23c3bf060713391e0c902f4d6ade7734dcfb59cf29e168a3ad57e81a3903afebd703c4099ece55a882bbcba06d811c4393c948978ca9a6079105b5526a4a8b820a5d11144d90d20255fe6803bcf63171d20292ae9107e48e94a47b7887a206f2fd41f8601ee16b36755749e6888d620102739cfa2eb9299c822234f9dd98c&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AXRoUkqtxf9nprH7r3Yyk%2BM%3D&pass_ticket=ImYROlKpE89PONWRsTgVS7DYqyOUm2qljbwpNZVrorxesYR471emvwoCKO3RPS2w&wx_header=0)
 * [R小贴士](https://mp.weixin.qq.com/s/dB4iHVxYGRF5lAX-Y8XR4w)
+* [Rookie R mistakes. Here’s some simple mistakes… | by David Hugh-Jones | May, 2021 | Medium](https://davidhughjones.medium.com/rookie-r-mistakes-ea00a0ef4d9)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
