@@ -71,6 +71,7 @@
 * [**The R Graph Gallery – Help and inspiration for R charts**](https://www.r-graph-gallery.com/)
 * [**R CHARTS | A collection of charts and graphs made with the R programming language**](https://r-charts.com/)
 * [**R Gallery Book**](https://bookdown.org/content/b298e479-b1ab-49fa-b83d-a57c2b034d49/)
+* [数据可视化基本套路总结](https://mp.weixin.qq.com/s/LsYD6HpikatIkfjols1U5w)
 
 
 
