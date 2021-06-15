@@ -91,6 +91,7 @@
 * [R 文档沟通｜Dashboards 入门（2）](https://mp.weixin.qq.com/s?__biz=MzI1NjUwMjQxMQ==&mid=2247494354&idx=1&sn=f2d9916c05c42e65b6cc75620deea8f3&chksm=ea271536dd509c20f2ef427b4dd547196a7d1338e678dda7b1484bdc832977bbfef98d04f81b&mpshare=1&scene=1&srcid=04285lHRB2QnnSfzU1exsQSy&sharer_sharetime=1619613184261&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=0a6de4d1a1f8986a4f505df2fa25640a5940e9d29aa55897353d39d25455f6c710572bfbb9c71f976f6d2d5a7d5d2ebae766010f2f96ee51df72c9189e8af22fa52da1dee85f4778623662661f90e57608a44b0f22d97e728c1ebb36e8fb2c639ad986702b7269845928ba315123f08de168e15019a452ac3f2aca99b92334cd&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AXdghg0w3es2aH%2BeqW9vd38%3D&pass_ticket=8NdntMfBwOOt25lEW1fa7H5piUY7E2WSWMvckxeY9%2FKt3uNQhgDyk3HOV%2FSALuJY&wx_header=0)
 * [R文档沟通｜Dashboards入门（3）](https://mp.weixin.qq.com/s/58VytWT4tGSvJ40QFJ_N7Q)
 * [R沟通｜提升xaringan幻灯片的b格](https://mp.weixin.qq.com/s/xoA02OgReC7_VYCzJmcCqg)
+* [28份R语言文档沟通推文汇总](https://mp.weixin.qq.com/s/PEOVqe9Kh8LlV2N7IazRng)
 
 # 生信相关
 
