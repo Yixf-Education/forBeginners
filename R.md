@@ -20,6 +20,7 @@
 * [Rookie R mistakes. Here’s some simple mistakes… | by David Hugh-Jones | May, 2021 | Medium](https://davidhughjones.medium.com/rookie-r-mistakes-ea00a0ef4d9)
 * [正确识别R语言的提示信息](https://mp.weixin.qq.com/s/AZPjMKbX1mxWavpY8tzclQ)
 * [重磅更新，使用tidyverse高效处理数据（代码整理）](https://mp.weixin.qq.com/s/EYTtlIVVpESN0nGgY-Ir0Q)
+* [forcats包，tidyverse 数据科学系列的核心R 包之一](https://mp.weixin.qq.com/s/qugHJ3imMIVgObD02sIuqA)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
