@@ -254,3 +254,4 @@
 * [分享 | 4 款值得一试的 Linux 终端多路复用器](https://linux.cn/article-13420-1.html)
 * [在 Linux 上重新映射你的大写锁定键 | Linux 中国](https://mp.weixin.qq.com/s/B2aEM19ujqeL_NdmOrzv7g)
 * [深度剖析 Linux 的 3 种“拷贝”命令](https://mp.weixin.qq.com/s/WzKHogp_eqvnYucIRsLrvA)
+* [一句话加速grep近30倍](https://mp.weixin.qq.com/s/b0fV2aRWJs632AKC5J0y_g)
