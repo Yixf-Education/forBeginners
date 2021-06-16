@@ -255,3 +255,4 @@
 * [在 Linux 上重新映射你的大写锁定键 | Linux 中国](https://mp.weixin.qq.com/s/B2aEM19ujqeL_NdmOrzv7g)
 * [深度剖析 Linux 的 3 种“拷贝”命令](https://mp.weixin.qq.com/s/WzKHogp_eqvnYucIRsLrvA)
 * [一句话加速grep近30倍](https://mp.weixin.qq.com/s/b0fV2aRWJs632AKC5J0y_g)
+* [技术 | RTFM！如何阅读（和理解）Linux 中神奇的手册页](https://linux.cn/article-13478-1.html)
