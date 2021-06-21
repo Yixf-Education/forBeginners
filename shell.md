@@ -49,6 +49,7 @@
 * [Shell十三问](http://wiki.jikexueyuan.com/project/13-questions-of-shell/)
 * [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 * [如何入门 Bash 编程](https://linux.cn/article-13210-1.html)
+* [Bash 编程](https://mp.weixin.qq.com/s/w67bOn2FRO0B4gB8wULHIw)
 
 ##  shell编程系列
 * [SHELL编程之语法基础](http://liwei.life/2016/05/16/69/)
