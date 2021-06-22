@@ -22,6 +22,7 @@
 * [重磅更新，使用tidyverse高效处理数据（代码整理）](https://mp.weixin.qq.com/s/EYTtlIVVpESN0nGgY-Ir0Q)
 * [forcats包，tidyverse 数据科学系列的核心R 包之一](https://mp.weixin.qq.com/s/qugHJ3imMIVgObD02sIuqA)
 * [Tidyr包：tidyverse 数据科学系列的核心R包之二](https://mp.weixin.qq.com/s/GNuB7fTU-tfpEEohkBwVqg)
+* [dplyr包：tidyverse 数据科学系列的核心R包之三](https://mp.weixin.qq.com/s/6BHxbcXJpOMm-rhMzpW_5g)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
