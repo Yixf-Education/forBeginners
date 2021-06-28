@@ -41,6 +41,8 @@
 * [生信编程 18. 把文件内容按照染色体分开写出](https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247501016&idx=2&sn=de0caec20ae4e606c46abf6802d13775&chksm=9b4b8463ac3c0d7504e85b915ff07ef927511ebc2cd326e7c72ea13024edd3a24bacaee73dc0&mpshare=1&scene=1&srcid=0405y3PJxvOTRsJxMTR2MlxE&sharer_sharetime=1617621215344&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=c4b23c3bf06071339b4fea89258a308a3bbd03790591e257a73051ed66ecac7a4221f23538fdda20ed29e9c02c08070e636b5028e13ed0ea8c8f394421dcfb31bc4e27cda6860225b65737534cd60c612772fb72af9d4da38f90ea19acdca1875856140bec03b1a7b671026be1833ae46d5cdc305c336d32255b3c75e2029ccc&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AWRa7POairhbwOMtu9yk01I%3D&pass_ticket=i1%2F2%2BbY5zuD4jIDVA%2Fx%2F26secuXAcCW%2BTynnyh3LyhcLLs6azx56%2BqjAnLqjKXcS&wx_header=0)
 * [看一遍就理解：动态规划详解](https://mp.weixin.qq.com/s/m0qBbCBMUbZaYyJP8BdJIg)
 * [一些常用处理序列的Linux命令行技巧](https://mp.weixin.qq.com/s/uURFzCTCdrbwN5H4ka7R0Q)
+* [如何快速从基因组中提取基因、转录本、蛋白、启动子、非编码序列？](https://mp.weixin.qq.com/s/S8GUTvoWMY7vP2eiGhTVoA)
+* [关于编程学习的一些思考 | 欢迎投稿](https://mp.weixin.qq.com/s/Wg7yGxEuNa6CPgSuMUbHvw)
 
 ## 其他
 
