@@ -24,6 +24,7 @@
 * [Tidyr包：tidyverse 数据科学系列的核心R包之二](https://mp.weixin.qq.com/s/GNuB7fTU-tfpEEohkBwVqg)
 * [dplyr包：tidyverse 数据科学系列的核心R包之三](https://mp.weixin.qq.com/s/6BHxbcXJpOMm-rhMzpW_5g)
 * [tibble包：tidyverse 数据科学系列的核心R包之四](https://mp.weixin.qq.com/s/VAza_BpGM5g4sicib1WE7w)
+* [11篇 tidyverse 数据处理教程汇总](https://mp.weixin.qq.com/s/-bNlDcA3OlG6AadXhGnHvA)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
