@@ -101,6 +101,7 @@
 * [R文档沟通｜Dashboards入门（4）](https://mp.weixin.qq.com/s/4cTe-OQUiPfs69y7-LIY6Q)
 * [R沟通｜提升xaringan幻灯片的b格](https://mp.weixin.qq.com/s/xoA02OgReC7_VYCzJmcCqg)
 * [28份R语言文档沟通推文汇总](https://mp.weixin.qq.com/s/PEOVqe9Kh8LlV2N7IazRng)
+* [1.5w字的Rmarkdown入门教程汇总](https://mp.weixin.qq.com/s/_EvxnfO-5G-bHsCFoJgKxw)
 
 # 生信相关
 
