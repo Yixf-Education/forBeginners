@@ -43,6 +43,7 @@
 * [一些常用处理序列的Linux命令行技巧](https://mp.weixin.qq.com/s/uURFzCTCdrbwN5H4ka7R0Q)
 * [如何快速从基因组中提取基因、转录本、蛋白、启动子、非编码序列？](https://mp.weixin.qq.com/s/S8GUTvoWMY7vP2eiGhTVoA)
 * [关于编程学习的一些思考 | 欢迎投稿](https://mp.weixin.qq.com/s/Wg7yGxEuNa6CPgSuMUbHvw)
+* [生物信息就该这么学（28）：永不掉线的任务](https://mp.weixin.qq.com/s/WigdGu4xNFEr5ivxBvaY1Q)
 
 ## 其他
 
