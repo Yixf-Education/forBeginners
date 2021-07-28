@@ -56,3 +56,4 @@
 * [统计学中数据分析方法汇总！](https://mp.weixin.qq.com/s/PQ6L6qKPfQaYag7t9WfP7g)
 * [临床常见统计学疑惑解答（一）](https://mp.weixin.qq.com/s?__biz=MzA5Mjc4NTc0MQ==&mid=2651452364&idx=1&sn=79ddd3376f0d8e5700262c552883b198&chksm=8b9a8eeebced07f89b12bc88fb2698e5a15acf754226704e51009acb88464e6df44efa9a8cd8&scene=21#wechat_redirect)
 * [临床常见统计学疑惑解答（二）](https://mp.weixin.qq.com/s/LXfoIW8Vn7idI4Y8eyQsZg)
+* [统计学入门 | 引言：从不确定性出发](https://mp.weixin.qq.com/s/prB614JjdxhkPymxX0oEjw)
