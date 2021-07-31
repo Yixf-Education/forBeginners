@@ -104,6 +104,7 @@
 * [28份R语言文档沟通推文汇总](https://mp.weixin.qq.com/s/PEOVqe9Kh8LlV2N7IazRng)
 * [1.5w字的Rmarkdown入门教程汇总](https://mp.weixin.qq.com/s/_EvxnfO-5G-bHsCFoJgKxw)
 * [R沟通｜使用 Blogdown 构建个人博客](https://mp.weixin.qq.com/s/uoecNdyHZVHGXEl1l3bM4Q)
+* [R沟通｜使用 blogdown 创建你的博客（2）](https://mp.weixin.qq.com/s/cOFezPJqSsMKHdWmzxybsA)
 
 # 生信相关
 
