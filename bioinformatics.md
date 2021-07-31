@@ -45,6 +45,7 @@
 * [关于编程学习的一些思考 | 欢迎投稿](https://mp.weixin.qq.com/s/Wg7yGxEuNa6CPgSuMUbHvw)
 * [生物信息就该这么学（28）：永不掉线的任务](https://mp.weixin.qq.com/s/WigdGu4xNFEr5ivxBvaY1Q)
 * [生物信息就该这么学（30）：教你好好运行任务](https://mp.weixin.qq.com/s/A5rbh1gNklE4dLeH2mp5nA)
+* [2021第二期_生信入门班_微信群答疑整理](https://mp.weixin.qq.com/s/6xbFwRp97UPtSKcBcpteng)
 
 ## 其他
 
