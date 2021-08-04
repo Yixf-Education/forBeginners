@@ -260,3 +260,4 @@
 * [技术 | RTFM！如何阅读（和理解）Linux 中神奇的手册页](https://linux.cn/article-13478-1.html)
 * [软件开发 | 如何解析 Bash 程序的配置文件](https://linux.cn/article-13561-1.html)
 * [生物信息就该这么学（29）：我的bashrc 大公开](https://mp.weixin.qq.com/s/c_Q-MKDfcrrEe1jSSh7JmQ)
+* [推荐 18 个终端命令行工具](https://mp.weixin.qq.com/s/4rsHlec6rRy3V3dOPH24rA)
