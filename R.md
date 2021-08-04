@@ -29,6 +29,7 @@
 * [23个常用的RStudio插件介绍](https://mp.weixin.qq.com/s/hllWGshcB2MWA_NyZ3CKBg)
 * [stringr包：tidyverse数据科学系列的核心R包之五](https://mp.weixin.qq.com/s/kFmCqvfnLya5kKYLA6fWTA)
 * [19份 R 数据科学学习笔记汇总](https://mp.weixin.qq.com/s/17iypA5zZeNHl9GuyRXy7A)
+* [R 爬虫｜手把手带你爬取 800 条文献信息](https://mp.weixin.qq.com/s/U-el7KkV5Ml-_zrOw0W7EQ)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
