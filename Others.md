@@ -58,3 +58,4 @@
 * [临床常见统计学疑惑解答（二）](https://mp.weixin.qq.com/s/LXfoIW8Vn7idI4Y8eyQsZg)
 * [统计学入门 | 引言：从不确定性出发](https://mp.weixin.qq.com/s/prB614JjdxhkPymxX0oEjw)
 * [学术写作中关于“标准差”和“标准误”的Tips](https://mp.weixin.qq.com/s/MRARgfMxlBbpoJ5bO3h9BQ)
+* [统计学入门 | 第1章：不确定性的数学表达：连续型数据](https://mp.weixin.qq.com/s/YBF27YIQBznLf42I4eEHCQ)
