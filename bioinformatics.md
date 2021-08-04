@@ -7,6 +7,7 @@
 * [seqkit：序列梳理神器 - 统计、格式转换、长度筛选、质量值转换、翻译、反向互补、抽样、去重、滑窗、拆分等 30 项全能](https://mp.weixin.qq.com/s?__biz=MzUzMjA4Njc1MA==&mid=2247498800&idx=1&sn=49742e1b0b3b6efd93d5ded87c8d588c&chksm=faba1681cdcd9f97eae0e7f57a798286bba73e4716bfef396df5b59eafd22a51218b78234840&mpshare=1&scene=1&srcid=0315V0bKfFKFHRLDNccv8VCw&sharer_sharetime=1615764670329&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=054fa246941644a48054de12b98ad1ee25e58b4c4aafedc4e2fda498b0f19c703f884b4189db7f0eb1ab599440b6553b1e587c95f7a9835bc640b308a8211a449cbd7020b650dc7e36b98c1006a957751b497f858e296e3f08715ea6381a6ee8bf727c7b3e33e94847f821b6f66836ef79ca1526ec1e2657fa1d652ddbfc041b&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AZH41%2BrAQTmT63iMK0UbXSg%3D&pass_ticket=m1ZMssFVaHb%2BrZqJ4KImayMyxT2VbipgjXhxBIJ%2F5sQqOz7k9R0EE8eiQG1vrIyL&wx_header=0)
 * [csvtk：表格处理神器-美化、统计、头表、合并、转置、筛选、取样、去冗余 、分列、分类汇总和简单绘图](https://mp.weixin.qq.com/s/BZruC-yW3yJ-mi6BMcZm8A)
 * [又发现一个好工具：datamash](https://mp.weixin.qq.com/s/Hgkqu3NfC9MgvG0lVCesoQ)
+* [生物信息百宝箱](https://mp.weixin.qq.com/s/qzupwdSAl83JQl_9LLnh5w)
 
 ## 生信问题与编程技能
 * [Rosalind is a platform for learning bioinformatics and programming through problem solving.](http://rosalind.info/problems/locations/)
