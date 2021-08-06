@@ -121,3 +121,4 @@
 * [为新手准备的现代化 R 包开发流程](https://swsoyee.vercel.app/2021/02/writing-r-packages-a-modern-workflow-for-beginners/#%E7%94%A8-styler-%E6%9D%A5%E7%BE%8E%E5%8C%96%E4%BB%A3%E7%A0%81)
 * [10分钟建构自己的R包，让你的R技能又更进一步](https://mp.weixin.qq.com/s/rHr-z3OafXCe3RoNl1hemg)
 * [记住一些常用的R包](https://mp.weixin.qq.com/s/Hp7joi-eBjyDH1tkE-czgA)
+* [或许是最好的Bioconductor包投递指南](https://mp.weixin.qq.com/s/ZiiwTsyvFhiRgyRF3Lf0jg)
