@@ -9,6 +9,7 @@
 * [又发现一个好工具：datamash](https://mp.weixin.qq.com/s/Hgkqu3NfC9MgvG0lVCesoQ)
 * [生物信息百宝箱](https://mp.weixin.qq.com/s/qzupwdSAl83JQl_9LLnh5w)
 * [这个处理不同基因组区域关系的工具集很不错！](https://mp.weixin.qq.com/s/y1BvGY18jnaii1qpi1vf1Q)
+* [bioconvert：各种各样的生物信息数据格式转换工具](https://mp.weixin.qq.com/s/sx2XMaUgGMWwPQIdg5CrLA)
 
 ## 生信问题与编程技能
 * [Rosalind is a platform for learning bioinformatics and programming through problem solving.](http://rosalind.info/problems/locations/)
