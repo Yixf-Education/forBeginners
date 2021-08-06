@@ -262,3 +262,4 @@
 * [生物信息就该这么学（29）：我的bashrc 大公开](https://mp.weixin.qq.com/s/c_Q-MKDfcrrEe1jSSh7JmQ)
 * [推荐 18 个终端命令行工具](https://mp.weixin.qq.com/s/4rsHlec6rRy3V3dOPH24rA)
 * [生物信息就该这么学（33）：Linux命令精髓全在这儿了](https://mp.weixin.qq.com/s/Gz9zmOL3iZ6OqbgC1P0_Tg)
+* [这些21个不太好搜索其含义的特殊符号你都知道吗？](https://mp.weixin.qq.com/s/_MEQbX0aFeSAkZVs1vh1pQ)
