@@ -59,3 +59,4 @@
 * [统计学入门 | 引言：从不确定性出发](https://mp.weixin.qq.com/s/prB614JjdxhkPymxX0oEjw)
 * [学术写作中关于“标准差”和“标准误”的Tips](https://mp.weixin.qq.com/s/MRARgfMxlBbpoJ5bO3h9BQ)
 * [统计学入门 | 第1章：不确定性的数学表达：连续型数据](https://mp.weixin.qq.com/s/YBF27YIQBznLf42I4eEHCQ)
+* [统计学入门 | 第1章：不确定性的数学表达：正态概率密度](https://mp.weixin.qq.com/s/fBExqAEshLX1bdNvwYridA)
