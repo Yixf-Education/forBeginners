@@ -53,6 +53,7 @@
 * [生物信息命令行炫技作品大赏（一）](https://mp.weixin.qq.com/s/i7wVFmICDBlQUCSmLz1HlA)
 * [生物信息命令行炫技作品大赏（二）](https://mp.weixin.qq.com/s/cgSu1H0cWdXroKVYsd-Lyg)
 * [面试了57位程序员，我发现混得好的人都有这个特质！](https://mp.weixin.qq.com/s/ZjUrWeMkiugf0JSaMZzAdQ)
+* [生物信息命令行炫技作品大赏（三）](https://mp.weixin.qq.com/s/0uiUF9gAkf0liq4mgGbCrA)
 
 ## 其他
 
