@@ -108,6 +108,7 @@
 * [R沟通｜使用 Blogdown 构建个人博客](https://mp.weixin.qq.com/s/uoecNdyHZVHGXEl1l3bM4Q)
 * [R沟通｜使用 blogdown 创建你的博客（2）](https://mp.weixin.qq.com/s/cOFezPJqSsMKHdWmzxybsA)
 * [R沟通｜Bookdown中文书稿写作手册（上）](https://mp.weixin.qq.com/s/TF5dBi_33MawmRt_295_9A)
+* [如何方便且免费地搭建一个属于自己的博客](https://mp.weixin.qq.com/s/qtI0e1mN0BmH0JvPJnPtPA)
 
 # 生信相关
 
