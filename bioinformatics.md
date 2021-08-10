@@ -51,6 +51,7 @@
 * [生物信息就该这么学（30）：教你好好运行任务](https://mp.weixin.qq.com/s/A5rbh1gNklE4dLeH2mp5nA)
 * [2021第二期_生信入门班_微信群答疑整理](https://mp.weixin.qq.com/s/6xbFwRp97UPtSKcBcpteng)
 * [生物信息命令行炫技作品大赏（一）](https://mp.weixin.qq.com/s/i7wVFmICDBlQUCSmLz1HlA)
+* [生物信息命令行炫技作品大赏（二）](https://mp.weixin.qq.com/s/cgSu1H0cWdXroKVYsd-Lyg)
 
 ## 其他
 
