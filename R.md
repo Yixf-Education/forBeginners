@@ -31,6 +31,7 @@
 * [19份 R 数据科学学习笔记汇总](https://mp.weixin.qq.com/s/17iypA5zZeNHl9GuyRXy7A)
 * [R 爬虫｜手把手带你爬取 800 条文献信息](https://mp.weixin.qq.com/s/U-el7KkV5Ml-_zrOw0W7EQ)
 * [R语言中这些你想知道含义又不知道怎么查的特殊符号](https://mp.weixin.qq.com/s/zjy9BbT-iu_TV9oqL0H8eg)
+* [R语言ggplot2绘图时如何在图形中使用数学表达式作为标注文本](https://mp.weixin.qq.com/s/5os3loIpWWJi03K0oUuw1g)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
