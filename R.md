@@ -32,6 +32,8 @@
 * [R 爬虫｜手把手带你爬取 800 条文献信息](https://mp.weixin.qq.com/s/U-el7KkV5Ml-_zrOw0W7EQ)
 * [R语言中这些你想知道含义又不知道怎么查的特殊符号](https://mp.weixin.qq.com/s/zjy9BbT-iu_TV9oqL0H8eg)
 * [R语言ggplot2绘图时如何在图形中使用数学表达式作为标注文本](https://mp.weixin.qq.com/s/5os3loIpWWJi03K0oUuw1g)
+* [RStudio常见问题汇总](https://mp.weixin.qq.com/s/9lWCKpqKqw8Ni8JQIf5HUw)
+* [Rstudio常用快捷键以及窗口操作有用技巧](https://mp.weixin.qq.com/s/mHf3mCXP8H_rYJ1CXOs1Bg)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
@@ -111,6 +113,7 @@
 * [R沟通｜使用 blogdown 创建你的博客（2）](https://mp.weixin.qq.com/s/cOFezPJqSsMKHdWmzxybsA)
 * [R沟通｜Bookdown中文书稿写作手册（上）](https://mp.weixin.qq.com/s/TF5dBi_33MawmRt_295_9A)
 * [如何方便且免费地搭建一个属于自己的博客](https://mp.weixin.qq.com/s/qtI0e1mN0BmH0JvPJnPtPA)
+* [R沟通｜Bookdown中文书稿写作手册（中）](https://mp.weixin.qq.com/s/Jpl9ZoyTag6icdsl58j85w)
 
 # 生信相关
 
