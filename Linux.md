@@ -264,3 +264,6 @@
 * [生物信息就该这么学（33）：Linux命令精髓全在这儿了](https://mp.weixin.qq.com/s/Gz9zmOL3iZ6OqbgC1P0_Tg)
 * [这些21个不太好搜索其含义的特殊符号你都知道吗？](https://mp.weixin.qq.com/s/_MEQbX0aFeSAkZVs1vh1pQ)
 * [分享 | 3 个提高生产力的必备 Linux 速查表](https://linux.cn/article-13662-1.html)
+* [生物信息就该这么学（35）：请记住这些特殊符号](https://mp.weixin.qq.com/s/Ao1WLLvCi9oKSxVqpim1Ew)
+* [生物信息就该这么学（34）：你为什么不爱用快捷键呢？](https://mp.weixin.qq.com/s/bR5EUbJ1SzHEFZGfeIkY2A)
+* [*18 个工具分析 Linux 系统占用网络带宽大的程序！](https://mp.weixin.qq.com/s/V4FZ8ornWFcnwweBCDPu7w)
