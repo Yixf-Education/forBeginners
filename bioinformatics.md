@@ -55,6 +55,7 @@
 * [面试了57位程序员，我发现混得好的人都有这个特质！](https://mp.weixin.qq.com/s/ZjUrWeMkiugf0JSaMZzAdQ)
 * [生物信息命令行炫技作品大赏（三）](https://mp.weixin.qq.com/s/0uiUF9gAkf0liq4mgGbCrA)
 * [生物信息命令行炫技作品大赏（四）](https://mp.weixin.qq.com/s/qgXYHijT475b90v8DNgIBw)
+* [生物信息命令行炫技作品大赏（五）](https://mp.weixin.qq.com/s/5-QUTRJ9Sm0Ot6Yf6mYAdA)
 
 ## 其他
 
