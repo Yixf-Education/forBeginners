@@ -37,6 +37,7 @@
 * [（万字长文）传统绘图系统plot()函数参数详解](https://mp.weixin.qq.com/s/lHgd8_b4WfuJqzWb2wUCOg)
 * [R语言数据处理入门的常用代码](https://mp.weixin.qq.com/s/0_AEw-VO5WK-capVIWxcbQ)
 * [数据处理技巧，解决数据集的去重问题](https://mp.weixin.qq.com/s/cydKr-jt03M7BojMPscqYg)
+* [从一维到六维，这篇数据可视化文章内容太干货了~](https://mp.weixin.qq.com/s/7Jv-H4RIWmlxu7K2wQpm7w)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
