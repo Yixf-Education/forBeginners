@@ -267,3 +267,4 @@
 * [生物信息就该这么学（35）：请记住这些特殊符号](https://mp.weixin.qq.com/s/Ao1WLLvCi9oKSxVqpim1Ew)
 * [生物信息就该这么学（34）：你为什么不爱用快捷键呢？](https://mp.weixin.qq.com/s/bR5EUbJ1SzHEFZGfeIkY2A)
 * [*18 个工具分析 Linux 系统占用网络带宽大的程序！](https://mp.weixin.qq.com/s/V4FZ8ornWFcnwweBCDPu7w)
+* [技术 | 在终端监控你的 Linux 系统](https://linux.cn/article-13713-1.html)
