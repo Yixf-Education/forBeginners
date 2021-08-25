@@ -34,6 +34,7 @@
 * [R语言ggplot2绘图时如何在图形中使用数学表达式作为标注文本](https://mp.weixin.qq.com/s/5os3loIpWWJi03K0oUuw1g)
 * [RStudio常见问题汇总](https://mp.weixin.qq.com/s/9lWCKpqKqw8Ni8JQIf5HUw)
 * [Rstudio常用快捷键以及窗口操作有用技巧](https://mp.weixin.qq.com/s/mHf3mCXP8H_rYJ1CXOs1Bg)
+* [（万字长文）传统绘图系统plot()函数参数详解](https://mp.weixin.qq.com/s/lHgd8_b4WfuJqzWb2wUCOg)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
