@@ -43,6 +43,7 @@
 * [超实用！18 个开箱即用的 Shell 脚本，拿好了~](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666554187&idx=2&sn=4241f2d193618102326bab17b9c0a1e3&chksm=80dca7e0b7ab2ef6fca0ef729afa0aef50dec413c5f22b52607cac693c2699881427a4398bae&mpshare=1&scene=1&srcid=0506ZtGNabuXlRauX57PGiRs&sharer_sharetime=1620278606712&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=cbc40d8b4b419b7b10d252216e422250ce73a201d6af9edba50ab7b742f68f2be2b17df8d5ce741be6459b4622429d156877b217ef8716f30ae06a4a8b6df7a5b5322353378a9b1c43bff33f6095bdd1bf4d496595e4afcddf527ffff8df0f1ab13b22830d77b3492467e4f5c94077c12f8d3b87291aa7a047d0b5eb3fd18409&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AZSTZtQyXmk%2BiolBPmLQgOA%3D&pass_ticket=HVabIE9ez%2BQ7zAmNlqeZKOjpx2iKhUkSi5hr88nxbJ6l1ljzmZJ0cdUcwA2mO4Fr&wx_header=0)
 * [Shell 脚本进阶、经典用法及其案例](https://mp.weixin.qq.com/s/Xq3VEBXjNCa3R7A0KWswiQ)
 * [经典的 Fork 炸弹解析 | 技术](https://mp.weixin.qq.com/s/8b_tD8glD4Bs88Dc2ERZHQ)
+* [技术 | 如何在 Bash shell 脚本中解析命令行选项](https://linux.cn/article-13730-1.html)
 
 ## shell编程
 * [Shell编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
