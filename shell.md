@@ -44,6 +44,7 @@
 * [Shell 脚本进阶、经典用法及其案例](https://mp.weixin.qq.com/s/Xq3VEBXjNCa3R7A0KWswiQ)
 * [经典的 Fork 炸弹解析 | 技术](https://mp.weixin.qq.com/s/8b_tD8glD4Bs88Dc2ERZHQ)
 * [技术 | 如何在 Bash shell 脚本中解析命令行选项](https://linux.cn/article-13730-1.html)
+* [软件开发 | 改进你的脚本程序的 5 个方法](https://linux.cn/article-13717-1.html)
 
 ## shell编程
 * [Shell编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
