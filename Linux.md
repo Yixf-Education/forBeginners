@@ -269,3 +269,4 @@
 * [*18 个工具分析 Linux 系统占用网络带宽大的程序！](https://mp.weixin.qq.com/s/V4FZ8ornWFcnwweBCDPu7w)
 * [技术 | 在终端监控你的 Linux 系统](https://linux.cn/article-13713-1.html)
 * [系统运维 | Linux 中 cron 系统的 4 种替代方案](https://linux.cn/article-13716-1.html)
+* [技术 | Linux 远程连接之 SSH 新手指南](https://linux.cn/article-13726-1.html)
