@@ -51,6 +51,7 @@
 * [祖传的双链DNA，反正闲着也是闲着，不如拿来装书、存电影？](https://mp.weixin.qq.com/s/vgev6_pMl15lNjJDhdut4A)
 * [10行Python代码自动清理电脑内重复文件](https://mp.weixin.qq.com/s/ut4AsC_WypVsXIKwfyv81Q)
 * [文件夹太乱？Python小程序瞬间帮你整理到位](https://mp.weixin.qq.com/s/wH0VRJfENLkNTnia0XW7eQ)
+* [不会搜索，建议放弃](https://mp.weixin.qq.com/s/uHvXX74VL1qAQL3aLK324Q)
 
 ## 统计
 
