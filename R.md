@@ -123,6 +123,7 @@
 * [如何方便且免费地搭建一个属于自己的博客](https://mp.weixin.qq.com/s/qtI0e1mN0BmH0JvPJnPtPA)
 * [R沟通｜Bookdown中文书稿写作手册（中）](https://mp.weixin.qq.com/s/Jpl9ZoyTag6icdsl58j85w)
 * [R沟通｜Bookdown中文书稿写作手册（下）](https://mp.weixin.qq.com/s/K7LtzKD5ibpMu3t8uxEu4Q)
+* [别人的电子书，你的电子书，都在bookdown](https://mp.weixin.qq.com/s/u6oGyqVrXDw7PKB4xmg8IQ)
 
 # 生信相关
 
