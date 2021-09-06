@@ -41,6 +41,7 @@
 * [R语言学习：行去重、时间处理、棒棒糖图、快捷键、模型可解释性](https://mp.weixin.qq.com/s/5x_1Q2GW-YMJ18ardYqWTg)
 * [生物信息就该这么学（38）：做生物信息要学习R语言吗？](https://mp.weixin.qq.com/s/ICFPy7xkj9q2_Dhw24PyaA)
 * [R语言学习：字符串替换、tidy系列包、Bland-Altman图、RODBC包、UMAP降维](https://mp.weixin.qq.com/s/R4btYyFl88uyjN361R3W1g)
+* [【万字长文】R语言入门学习路线与资源汇总](https://mp.weixin.qq.com/s/rNIBLOUNKsjbSNYe6CcZVA)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
