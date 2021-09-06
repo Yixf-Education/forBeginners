@@ -63,3 +63,4 @@
 * [统计学入门 | 第1章：不确定性的数学表达：连续型数据](https://mp.weixin.qq.com/s/YBF27YIQBznLf42I4eEHCQ)
 * [统计学入门 | 第1章：不确定性的数学表达：正态概率密度](https://mp.weixin.qq.com/s/fBExqAEshLX1bdNvwYridA)
 * [画说统计 | 多重比较：三组间比较逐对t检验不行么？](https://mp.weixin.qq.com/s/ojgPAhrjUKtxblWi2AQ4ug)
+* [丁鹏：多角度回顾因果推断的模型方法](https://mp.weixin.qq.com/s/Qt6odq3J42GSPrQ1aWtiHA)
