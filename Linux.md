@@ -273,3 +273,4 @@
 * [技术 | Linux 远程连接之 SSH 新手指南](https://linux.cn/article-13726-1.html)
 * [Time除了监控程序运行时间还能干这个？](https://mp.weixin.qq.com/s/e-x-nuJhAvjeJs1JxmJM_w)
 * [如何在 Linux 中实时监控日志文件 | Linux 中国](https://mp.weixin.qq.com/s/ImcHQfGmmchV6GRP5YLEBQ)
+* [SSH登录的几种方式](https://mp.weixin.qq.com/s/oCMjhQBHN6Wqxc-OxGtWUg)
