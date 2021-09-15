@@ -277,3 +277,4 @@
 * [在 Linux 上使用 stat 命令查看文件状态 | Linux 中国](https://mp.weixin.qq.com/s/IImtj6OKhXRFyHvJ88s73w)
 * [技术 | 用户必会的 20 个 Linux 基础命令](https://linux.cn/article-13759-1.html)
 * [几个花里胡哨的命令行操作](https://mp.weixin.qq.com/s/C0rCjcoT2fRnto7_KBtA4Q)
+* [如何在 Linux 终端中退出一个程序 | Linux 中国](https://mp.weixin.qq.com/s/etavSQrHDkwn1hLeGiF-cA)
