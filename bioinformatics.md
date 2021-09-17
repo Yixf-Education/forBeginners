@@ -57,6 +57,7 @@
 * [生物信息命令行炫技作品大赏（四）](https://mp.weixin.qq.com/s/qgXYHijT475b90v8DNgIBw)
 * [生物信息命令行炫技作品大赏（五）](https://mp.weixin.qq.com/s/5-QUTRJ9Sm0Ot6Yf6mYAdA)
 * [生物信息就该这么学（39）：存了100G资料，生信还没入门](https://mp.weixin.qq.com/s/r3IqTxELopQGsYTcndlY-w)
+* [生物信息就该这么学（41）：bioconda常见问题汇总](https://mp.weixin.qq.com/s/Oa3rdaro-ZCuxd9O4ixqBw)
 
 ## 其他
 
