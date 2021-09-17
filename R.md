@@ -140,3 +140,4 @@
 * [10分钟建构自己的R包，让你的R技能又更进一步](https://mp.weixin.qq.com/s/rHr-z3OafXCe3RoNl1hemg)
 * [记住一些常用的R包](https://mp.weixin.qq.com/s/Hp7joi-eBjyDH1tkE-czgA)
 * [或许是最好的Bioconductor包投递指南](https://mp.weixin.qq.com/s/ZiiwTsyvFhiRgyRF3Lf0jg)
+* [人人都能掌握的R包制作过程](https://mp.weixin.qq.com/s/J7t3_RnZ_See5HoayX_LVg)
