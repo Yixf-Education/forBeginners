@@ -41,6 +41,7 @@
 * [9 招让你的 GitHub 下载飞速提升到 2M/s 以上](https://mp.weixin.qq.com/s?__biz=MzAwNDc0MTUxMw==&mid=2649645224&idx=1&sn=80c240fd038e8c8aa751205343922acc&chksm=833d804eb44a0958f20bcc812c2237d2881f0ff22918cd0c7e41ce5a7ad08edce507edfb7c47&mpshare=1&scene=1&srcid=0807s6ytiB8YLXIMAIS8vSGy&sharer_sharetime=1596771652003&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [不要忽视 .gitignore](https://linux.cn/article-12524-1.html)
 * [改变我使用 Git 工作方式的七个技巧](https://linux.cn/article-12894-1.html)
+* [GitBook | 手把手教你搭建 免费博客 / 网络文档 / 多人协作编辑~](https://mp.weixin.qq.com/s/TaikXEWoUJC6kHn0Uu53sA)
 
 ## 技能树
 * [闯过这54关，点亮你的Git技能树](http://www.codingstyle.cn/topics/51)
