@@ -77,3 +77,8 @@
 * [一步一步教你用基因组浏览器（图文）](https://mp.weixin.qq.com/s/VY6jf0CDaE4burShqDixIw)
 * [生物老师：数学老师，你走开，这道题我来解](https://mp.weixin.qq.com/s/j9BGw_oCg7eyzg4w4j681w)
 * [如何用Biomart查询基因信息？](https://mp.weixin.qq.com/s/Oic9a9XeAsiuurY_OlKzJg)
+
+## 系统课程
+
+* [GitHub上很不错的4年生物信息学课程学习计划](https://mp.weixin.qq.com/s/NJhGnzRKE40K2bZjzAQu5A)
+* [ossu/bioinformatics: Path to a free self-taught education in Bioinformatics!](https://github.com/ossu/bioinformatics)
