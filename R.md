@@ -43,6 +43,7 @@
 * [R语言学习：字符串替换、tidy系列包、Bland-Altman图、RODBC包、UMAP降维](https://mp.weixin.qq.com/s/R4btYyFl88uyjN361R3W1g)
 * [【万字长文】R语言入门学习路线与资源汇总](https://mp.weixin.qq.com/s/rNIBLOUNKsjbSNYe6CcZVA)
 * [R语言学习：长宽数据转换、研究生学习R指南、特征重要性分析、文件合并](https://mp.weixin.qq.com/s/LMa73tCSJLC0H1TFX7CFRg)
+* [R 语言入门学习路线与资源汇总](https://mp.weixin.qq.com/s/qbt9Gmfv2XFJGH0suhAbEg)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
