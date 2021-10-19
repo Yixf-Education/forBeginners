@@ -142,3 +142,13 @@
 * [记住一些常用的R包](https://mp.weixin.qq.com/s/Hp7joi-eBjyDH1tkE-czgA)
 * [或许是最好的Bioconductor包投递指南](https://mp.weixin.qq.com/s/ZiiwTsyvFhiRgyRF3Lf0jg)
 * [人人都能掌握的R包制作过程](https://mp.weixin.qq.com/s/J7t3_RnZ_See5HoayX_LVg)
+
+# Shiny
+
+* [MasteringShiny 序言](https://mp.weixin.qq.com/s/MHXwu0iIzUPssD8OaOspVg)
+* [MasteringShiny1.1 初步开始 Getting Started](https://mp.weixin.qq.com/s/dDZC1vootQNjKRZluVAtiQ)
+* [MasteringShiny1.3 基础反应性Basic Reactivity](https://mp.weixin.qq.com/s/SzVbBvYrt-Rl5Pa-VAgDnA)
+* [MasteringShiny1.4 案例分析](https://mp.weixin.qq.com/s/8WtfEBvr207VTq3kcRW6yw)
+* [MasteringShiny2.1 工作流程](https://mp.weixin.qq.com/s/F6A3uwS4pOLel457ypefLw)
+* [MasteringShiny2.2 布局、主题和HTML](https://mp.weixin.qq.com/s/E-2F7tOmOQajZ9W4EHydeQ)
+
