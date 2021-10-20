@@ -100,6 +100,7 @@
 * [数据可视化基本套路总结](https://mp.weixin.qq.com/s/LsYD6HpikatIkfjols1U5w)
 * [R语言ggplot2科研数据作图配色的一些小技巧](https://mp.weixin.qq.com/s/68HaAW8D6qE2wH-z6vYBKA)
 * [推荐！ggplot2图形系统中图例legend的详细参数调整](https://mp.weixin.qq.com/s/kkNN7mmMu9tjkMQ7Nsggwg)
+* [**A complete guide on how to modify the ggplot2 theme**](https://ggplot2tor.com/theme/)
 
 
 
