@@ -152,4 +152,5 @@
 * [MasteringShiny1.4 案例分析](https://mp.weixin.qq.com/s/8WtfEBvr207VTq3kcRW6yw)
 * [MasteringShiny2.1 工作流程](https://mp.weixin.qq.com/s/F6A3uwS4pOLel457ypefLw)
 * [MasteringShiny2.2 布局、主题和HTML](https://mp.weixin.qq.com/s/E-2F7tOmOQajZ9W4EHydeQ)
+* [MasteringShiny2.4 用户反馈](https://mp.weixin.qq.com/s/xT7gKXLb2wcvRzMKJVGkEw)
 
