@@ -278,3 +278,4 @@
 * [技术 | 用户必会的 20 个 Linux 基础命令](https://linux.cn/article-13759-1.html)
 * [几个花里胡哨的命令行操作](https://mp.weixin.qq.com/s/C0rCjcoT2fRnto7_KBtA4Q)
 * [如何在 Linux 终端中退出一个程序 | Linux 中国](https://mp.weixin.qq.com/s/etavSQrHDkwn1hLeGiF-cA)
+* [这才叫程序员的命令行生产力工具！](https://mp.weixin.qq.com/s/Ga9S_OmFvQp41c2T6EWQQQ)
