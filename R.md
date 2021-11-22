@@ -44,6 +44,7 @@
 * [【万字长文】R语言入门学习路线与资源汇总](https://mp.weixin.qq.com/s/rNIBLOUNKsjbSNYe6CcZVA)
 * [R语言学习：长宽数据转换、研究生学习R指南、特征重要性分析、文件合并](https://mp.weixin.qq.com/s/LMa73tCSJLC0H1TFX7CFRg)
 * [R 语言入门学习路线与资源汇总](https://mp.weixin.qq.com/s/qbt9Gmfv2XFJGH0suhAbEg)
+* [超详细的 R 语言插补缺失值教程来啦~](https://mp.weixin.qq.com/s/ih6Lq1wfAJq8TpZcwHRI8A)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
