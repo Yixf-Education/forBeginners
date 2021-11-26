@@ -104,6 +104,9 @@
 * [**A complete guide on how to modify the ggplot2 theme**](https://ggplot2tor.com/theme/)
 * [ggplot2图形系统分面图形绘制详解](https://mp.weixin.qq.com/s/xJwNGYMElC602dUOtLNISA)
 * [You can replicate almost any plot with R · Simply Statistics](https://simplystatistics.org/2019/08/28/you-can-replicate-almost-any-plot-with-ggplot2/)
+* [图表类型不知道如何选择？！一文告诉你所有图表使用场景和意义~~](https://mp.weixin.qq.com/s/-yuKTpzxvpO4FEbkuyCpvw)
+* [Visual Vocabulary](https://ft-interactive.github.io/visual-vocabulary/)
+* [Multiple views on how to choose a visualization | by Steven Franconeri | Multiple Views: Visualization Research Explained | Medium](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc)
 
 
 
