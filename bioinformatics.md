@@ -10,6 +10,7 @@
 * [生物信息百宝箱](https://mp.weixin.qq.com/s/qzupwdSAl83JQl_9LLnh5w)
 * [这个处理不同基因组区域关系的工具集很不错！](https://mp.weixin.qq.com/s/y1BvGY18jnaii1qpi1vf1Q)
 * [bioconvert：各种各样的生物信息数据格式转换工具](https://mp.weixin.qq.com/s/sx2XMaUgGMWwPQIdg5CrLA)
+* [生物信息百宝箱](https://mp.weixin.qq.com/s/EZp7bnkArntXQOGbji4g1w)
 
 ## 生信问题与编程技能
 * [生物信息学研究的思考](https://mp.weixin.qq.com/s/p7RKD_kVfK3ny6s7j_f8zg)
