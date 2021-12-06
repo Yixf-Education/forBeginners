@@ -1,0 +1,90 @@
+{
+  "main": {
+    "id": "59f77a341b061236",
+    "type": "split",
+    "children": [
+      {
+        "id": "7381266f4d3bfafe",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7202faf76e5807a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4956e421dfbdfcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32575b23f34398e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe3ebb686889e210",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ae6d6fee1d422ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f2a6a389b71081d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff40269abcc54341",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7381266f4d3bfafe",
+  "lastOpenFiles": [
+    "Linux.md",
+    "AWK.md"
+  ]
+}
