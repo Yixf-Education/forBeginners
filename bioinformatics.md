@@ -80,6 +80,7 @@
 * [一步一步教你用基因组浏览器（图文）](https://mp.weixin.qq.com/s/VY6jf0CDaE4burShqDixIw)
 * [生物老师：数学老师，你走开，这道题我来解](https://mp.weixin.qq.com/s/j9BGw_oCg7eyzg4w4j681w)
 * [如何用Biomart查询基因信息？](https://mp.weixin.qq.com/s/Oic9a9XeAsiuurY_OlKzJg)
+* [多重检验校正的几种方法你分清了嘛？](https://mp.weixin.qq.com/s/Y1yUKvyYsK8eYMM41m-qEg)
 
 ## 系统课程
 
