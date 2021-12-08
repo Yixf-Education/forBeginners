@@ -280,3 +280,4 @@
 * [如何在 Linux 终端中退出一个程序 | Linux 中国](https://mp.weixin.qq.com/s/etavSQrHDkwn1hLeGiF-cA)
 * [这才叫程序员的命令行生产力工具！](https://mp.weixin.qq.com/s/Ga9S_OmFvQp41c2T6EWQQQ)
 * [分享 | 7 个好玩的 Linux 命令](https://linux.cn/article-13990-1.html)
+* [在deepin上使用开发利器-Tmux](https://mp.weixin.qq.com/s/zW1iKcE1dxRlhEEhAtfS6g)
