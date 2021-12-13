@@ -281,3 +281,4 @@
 * [这才叫程序员的命令行生产力工具！](https://mp.weixin.qq.com/s/Ga9S_OmFvQp41c2T6EWQQQ)
 * [分享 | 7 个好玩的 Linux 命令](https://linux.cn/article-13990-1.html)
 * [在deepin上使用开发利器-Tmux](https://mp.weixin.qq.com/s/zW1iKcE1dxRlhEEhAtfS6g)
+* [技术 | 关于 Ubnutu Linux 终端的必知必会的 19 件超简单的事情](https://linux.cn/article-14064-1.html)
