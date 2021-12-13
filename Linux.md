@@ -282,3 +282,4 @@
 * [分享 | 7 个好玩的 Linux 命令](https://linux.cn/article-13990-1.html)
 * [在deepin上使用开发利器-Tmux](https://mp.weixin.qq.com/s/zW1iKcE1dxRlhEEhAtfS6g)
 * [技术 | 关于 Ubnutu Linux 终端的必知必会的 19 件超简单的事情](https://linux.cn/article-14064-1.html)
+* [技术 | 使用 find 命令在 Linux 上查找文件和目录](https://linux.cn/article-14071-1.html)
