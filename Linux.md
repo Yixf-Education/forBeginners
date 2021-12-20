@@ -284,3 +284,4 @@
 * [技术 | 关于 Ubnutu Linux 终端的必知必会的 19 件超简单的事情](https://linux.cn/article-14064-1.html)
 * [技术 | 使用 find 命令在 Linux 上查找文件和目录](https://linux.cn/article-14071-1.html)
 * [技术 | Linux 黑话解释：什么是定时任务](https://linux.cn/article-14085-1.html)
+* [技术 | 在 Linux 终端使用 inxi 命令获取各种系统信息](https://linux.cn/article-14089-1.html)
