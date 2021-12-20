@@ -47,6 +47,7 @@
 * [超详细的 R 语言插补缺失值教程来啦~](https://mp.weixin.qq.com/s/ih6Lq1wfAJq8TpZcwHRI8A)
 * [推荐R语言入门学习参考资料](https://mp.weixin.qq.com/s/vV95ou8p3lbStP2x8LKpnw)
 * [Tidyverse 优雅编程：从向量化、泛函式到数据思维](https://mp.weixin.qq.com/s/ai85YkArxvpAY7dW-8p3pQ)
+* [R语言学习：数据整理](https://mp.weixin.qq.com/s/VBO9DUGy3CI1DWNGn9AEnw)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
