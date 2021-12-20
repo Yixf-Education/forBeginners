@@ -56,6 +56,7 @@
 * [Linux 30 岁啦，这些历史你知道多少呢？](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666552719&idx=1&sn=9b2edb162007368c47294b32e365bd75&chksm=80dc9924b7ab1032d7c9948b5e951e98e0559f969728eff1d584aab9803af57c33c8f2e5f01d&mpshare=1&scene=1&srcid=03238URfCcFOimtYBryKA3V1&sharer_sharetime=1616472108498&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=f857ab6aec5fa671939590e01d335a7c203b3e33c668a48ccf350686e96d44bb290a7a602b2007d81970c5284c3469e3630ace36b2db203d74f4418138ab47f494f7c7de311ad9774b6061a912dc61f18d5b0a54b707d38286fd87f4b8605bc6875863f170b1dda8774d9c7d090e3b7e8e11c5c43c458f04773124509d325b0b&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AaWcjbVAXWj1ehmUFOBLRcI%3D&pass_ticket=BbO3YA8G0ZnvtbmoxM4Fq%2BdDUNXHw7dcaDhTEix3Ei2hSkIS4k9KyL2axQtg7KZh&wx_header=0)
 * [他是世界上最杰出程序员之一，1 个月写了个操作系统，退休后去做飞行员！](https://mp.weixin.qq.com/s/EkgWNRr-BFfeiiozSJT1Uw)
 * [52 图初探 Linux 通用知识](https://mp.weixin.qq.com/s/fIjhBJ39Ro3lbcDuu8HZQQ)
+* [技术 | Linux 黑话解释：TTY 是什么？](https://linux.cn/article-14093-1.html)
 
 ## 杂烩
 * [2015年最弱的密码和最强的密码](https://linux.cn/article-6918-1.html)
