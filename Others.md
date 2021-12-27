@@ -58,9 +58,15 @@
 * [统计学中数据分析方法汇总！](https://mp.weixin.qq.com/s/PQ6L6qKPfQaYag7t9WfP7g)
 * [临床常见统计学疑惑解答（一）](https://mp.weixin.qq.com/s?__biz=MzA5Mjc4NTc0MQ==&mid=2651452364&idx=1&sn=79ddd3376f0d8e5700262c552883b198&chksm=8b9a8eeebced07f89b12bc88fb2698e5a15acf754226704e51009acb88464e6df44efa9a8cd8&scene=21#wechat_redirect)
 * [临床常见统计学疑惑解答（二）](https://mp.weixin.qq.com/s/LXfoIW8Vn7idI4Y8eyQsZg)
-* [统计学入门 | 引言：从不确定性出发](https://mp.weixin.qq.com/s/prB614JjdxhkPymxX0oEjw)
 * [学术写作中关于“标准差”和“标准误”的Tips](https://mp.weixin.qq.com/s/MRARgfMxlBbpoJ5bO3h9BQ)
-* [统计学入门 | 第1章：不确定性的数学表达：连续型数据](https://mp.weixin.qq.com/s/YBF27YIQBznLf42I4eEHCQ)
-* [统计学入门 | 第1章：不确定性的数学表达：正态概率密度](https://mp.weixin.qq.com/s/fBExqAEshLX1bdNvwYridA)
 * [画说统计 | 多重比较：三组间比较逐对t检验不行么？](https://mp.weixin.qq.com/s/ojgPAhrjUKtxblWi2AQ4ug)
 * [丁鹏：多角度回顾因果推断的模型方法](https://mp.weixin.qq.com/s/Qt6odq3J42GSPrQ1aWtiHA)
+
+## 统计学入门
+
+* [统计学入门 | 引言：从不确定性出发](https://mp.weixin.qq.com/s/prB614JjdxhkPymxX0oEjw)
+* [统计学入门 | 第1章：不确定性的数学表达：连续型数据](https://mp.weixin.qq.com/s/YBF27YIQBznLf42I4eEHCQ)
+* [统计学入门 | 第1章：不确定性的数学表达：正态概率密度](https://mp.weixin.qq.com/s/fBExqAEshLX1bdNvwYridA)
+* [统计学入门 | 第1章：不确定性的数学表达：t-分布](https://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650266399&idx=1&sn=7aa9ee7db023e22aeecf191a27bdb7c2&chksm=88728472bf050d645362e3a19d8ddbd8c36068d537b6ee3ca92b7cb3fe596c565cffceaa1397&scene=21#wechat_redirect)
+* [统计学入门 | 第1章：不确定性的数学表达：指数分布](https://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650266659&idx=1&sn=0010beb9f46f4dfe15d7988dac9e3a17&chksm=8872834ebf050a58a15f40598d0a6d813b42df21a883b76c543216fcc0995a0667e051207d57&token=630233230&lang=zh_CN&scene=21#wechat_redirect)
+* [统计学入门 | 第1章：不确定性的数学表达：0-1分布](https://mp.weixin.qq.com/s/XViZ1rdho3YUeQB39ZbVKw)
