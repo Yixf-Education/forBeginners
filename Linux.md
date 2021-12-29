@@ -286,3 +286,4 @@
 * [技术 | 使用 find 命令在 Linux 上查找文件和目录](https://linux.cn/article-14071-1.html)
 * [技术 | Linux 黑话解释：什么是定时任务](https://linux.cn/article-14085-1.html)
 * [技术 | 在 Linux 终端使用 inxi 命令获取各种系统信息](https://linux.cn/article-14089-1.html)
+* [10 款你不知道的 Linux 环境下的替代工具！](https://mp.weixin.qq.com/s/yY8rZa0y9oZGLVh0GFJHSQ)
