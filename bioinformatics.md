@@ -85,6 +85,7 @@
 * [多重检验校正的几种方法你分清了嘛？](https://mp.weixin.qq.com/s/Y1yUKvyYsK8eYMM41m-qEg)
 * [MEGA | 多序列比对及系统发育树的构建](https://mp.weixin.qq.com/s/HgLcHOhPd7Rm21N00tytRA)
 * [批量下载SCI论文全部附件神器bget~超好用~](https://mp.weixin.qq.com/s/EOwA5M-t7n2rghMUbx3LYQ)
+* [如何从NCBI下载参考基因组以及不同数据库参考基因组该如何选择](https://mp.weixin.qq.com/s/bkmrCAys_20v797fhNBX1Q)
 
 
 
