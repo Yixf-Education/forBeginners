@@ -70,6 +70,7 @@
 * [统计学入门 | 第1章：不确定性的数学表达：t-分布](https://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650266399&idx=1&sn=7aa9ee7db023e22aeecf191a27bdb7c2&chksm=88728472bf050d645362e3a19d8ddbd8c36068d537b6ee3ca92b7cb3fe596c565cffceaa1397&scene=21#wechat_redirect)
 * [统计学入门 | 第1章：不确定性的数学表达：指数分布](https://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650266659&idx=1&sn=0010beb9f46f4dfe15d7988dac9e3a17&chksm=8872834ebf050a58a15f40598d0a6d813b42df21a883b76c543216fcc0995a0667e051207d57&token=630233230&lang=zh_CN&scene=21#wechat_redirect)
 * [统计学入门 | 第1章：不确定性的数学表达：0-1分布](https://mp.weixin.qq.com/s/XViZ1rdho3YUeQB39ZbVKw)
+* [统计学入门 | 第1章：不确定性的数学表达：泊松分布](https://mp.weixin.qq.com/s/P2-7kXN_q_rzyIiVjEc0iQ)
 
 ## 科研
 
