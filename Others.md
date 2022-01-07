@@ -61,6 +61,7 @@
 * [学术写作中关于“标准差”和“标准误”的Tips](https://mp.weixin.qq.com/s/MRARgfMxlBbpoJ5bO3h9BQ)
 * [画说统计 | 多重比较：三组间比较逐对t检验不行么？](https://mp.weixin.qq.com/s/ojgPAhrjUKtxblWi2AQ4ug)
 * [丁鹏：多角度回顾因果推断的模型方法](https://mp.weixin.qq.com/s/Qt6odq3J42GSPrQ1aWtiHA)
+* [德国80%的统计学教授都会答错的6个与P值有关的问题！](https://mp.weixin.qq.com/s/0UaE7V907WIMBMi52tfSIQ)
 
 ## 统计学入门
 
