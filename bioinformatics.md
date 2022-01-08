@@ -86,6 +86,8 @@
 * [MEGA | 多序列比对及系统发育树的构建](https://mp.weixin.qq.com/s/HgLcHOhPd7Rm21N00tytRA)
 * [批量下载SCI论文全部附件神器bget~超好用~](https://mp.weixin.qq.com/s/EOwA5M-t7n2rghMUbx3LYQ)
 * [如何从NCBI下载参考基因组以及不同数据库参考基因组该如何选择](https://mp.weixin.qq.com/s/bkmrCAys_20v797fhNBX1Q)
+* [不同物种间基因名的相互转换方法](https://mp.weixin.qq.com/s/Kqwd7DyzvTp9bwdd3csdJQ)
+* [使用Ensembl数据库在线版的BioMart工具获取自定义的数据资源](https://mp.weixin.qq.com/s/86vXNstxVIVt0Nc8x5IyMw)
 
 
 
