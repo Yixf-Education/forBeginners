@@ -63,6 +63,7 @@
 * [生物信息就该这么学（39）：存了100G资料，生信还没入门](https://mp.weixin.qq.com/s/r3IqTxELopQGsYTcndlY-w)
 * [生物信息就该这么学（41）：bioconda常见问题汇总](https://mp.weixin.qq.com/s/Oa3rdaro-ZCuxd9O4ixqBw)
 * [遇到报错就该这么解决](https://mp.weixin.qq.com/s/QP9J6mncjY84b_TELG-qTQ)
+* [编程的精髓之循环](https://mp.weixin.qq.com/s/AdXSmkHDDcsDcnhOcmhTTg)
 
 ## 其他
 
