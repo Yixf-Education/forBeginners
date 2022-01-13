@@ -290,3 +290,4 @@
 * [10 款你不知道的 Linux 环境下的替代工具！](https://mp.weixin.qq.com/s/yY8rZa0y9oZGLVh0GFJHSQ)
 * [命令行的艺术](https://mp.weixin.qq.com/s/3K7S_FeY0cRg0fjWwWO2SA)
 * [如何在命令行模式下最快找到文件？](https://mp.weixin.qq.com/s/WEKq5mgGRTK6_AS_q794aQ)
+* [技术|一些经典 Linux 命令的现代替代品](https://linux.cn/article-14172-1.html)
