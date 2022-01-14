@@ -91,8 +91,8 @@
 * [使用Ensembl数据库在线版的BioMart工具获取自定义的数据资源](https://mp.weixin.qq.com/s/86vXNstxVIVt0Nc8x5IyMw)
 * [空间转录组五年回望：文献小结 | 空间转录组专题](https://mp.weixin.qq.com/s/tS2_IgiEO-DxWVNdRHgdVQ)
 * [在高分文章中单细胞测序聚类算法究竟用tSNE还是UMAP？](https://mp.weixin.qq.com/s/lSXHQkaXDTkb46A_TwZgiQ)
-
-
+* [图形解读系列 | 给你5个示例，你能看懂常用热图使用吗？](https://mp.weixin.qq.com/s/wX-3YkUoXVgt1ov3a6NKfA)
+* [Volcano plot | 别再问我这为什么是火山图](https://mp.weixin.qq.com/s/Cgn7Zb_wzpDjcCBUYigcSA)
 
 ## 系统课程
 
