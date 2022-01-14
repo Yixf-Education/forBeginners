@@ -50,6 +50,7 @@
 * [R语言学习：数据整理](https://mp.weixin.qq.com/s/VBO9DUGy3CI1DWNGn9AEnw)
 * [R语言学习：一份学用R语言路线图，推荐2本电子书](https://mp.weixin.qq.com/s/mkqR3-RVU2NL4gA6UBRIxw)
 * [三种方法搞定R语言绘图时的向量排序问题](https://mp.weixin.qq.com/s/HxBGaXK1vwnPkc7ftOMHrQ)
+* [绘图布局patchwork](https://mp.weixin.qq.com/s/1JF7ipd10AjEI8lb1Ec-4A)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
