@@ -93,6 +93,7 @@
 * [在高分文章中单细胞测序聚类算法究竟用tSNE还是UMAP？](https://mp.weixin.qq.com/s/lSXHQkaXDTkb46A_TwZgiQ)
 * [图形解读系列 | 给你5个示例，你能看懂常用热图使用吗？](https://mp.weixin.qq.com/s/wX-3YkUoXVgt1ov3a6NKfA)
 * [Volcano plot | 别再问我这为什么是火山图](https://mp.weixin.qq.com/s/Cgn7Zb_wzpDjcCBUYigcSA)
+* [bioconda常见问题汇总](https://mp.weixin.qq.com/s/V0ryhaAy-R4C-WeXrx5e2w)
 
 ## 系统课程
 
