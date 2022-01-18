@@ -94,6 +94,8 @@
 * [图形解读系列 | 给你5个示例，你能看懂常用热图使用吗？](https://mp.weixin.qq.com/s/wX-3YkUoXVgt1ov3a6NKfA)
 * [Volcano plot | 别再问我这为什么是火山图](https://mp.weixin.qq.com/s/Cgn7Zb_wzpDjcCBUYigcSA)
 * [bioconda常见问题汇总](https://mp.weixin.qq.com/s/V0ryhaAy-R4C-WeXrx5e2w)
+* [外显子和基因组基本概念(一)](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247519443&idx=1&sn=bfb12f4b5ed0fa1ea816bc8380426906&chksm=ec0e4959db79c04fdf8184e3cbf59893e322835bc734b6358aabd2d12c7843c41cf88206ab07&scene=21#wechat_redirect)
+* [外显子和基因组基本概念(二)](https://mp.weixin.qq.com/s/gWIC2tcXrM2hVvRPpVg0yQ)
 
 ## 系统课程
 
