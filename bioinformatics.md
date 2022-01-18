@@ -64,6 +64,9 @@
 * [生物信息就该这么学（41）：bioconda常见问题汇总](https://mp.weixin.qq.com/s/Oa3rdaro-ZCuxd9O4ixqBw)
 * [遇到报错就该这么解决](https://mp.weixin.qq.com/s/QP9J6mncjY84b_TELG-qTQ)
 * [编程的精髓之循环](https://mp.weixin.qq.com/s/AdXSmkHDDcsDcnhOcmhTTg)
+* [如何成为顶级生物信息学家](https://mp.weixin.qq.com/s/PaoY0Yc1UsjvfdQdbRPNpA)
+* [【NGS接龙】哈佛大学教授刘小乐：我与生物信息学的不解之缘](https://mp.weixin.qq.com/s/6-UGxUruvGhd0ETyeO96rQ)
+* [计算生物学家是否应该做实验？—Shirley](https://mp.weixin.qq.com/s/at1ou0z3OGv47MjaG9cljQ)
 
 ## 其他
 
