@@ -59,6 +59,7 @@
 * [52 图初探 Linux 通用知识](https://mp.weixin.qq.com/s/fIjhBJ39Ro3lbcDuu8HZQQ)
 * [技术 | Linux 黑话解释：TTY 是什么？](https://linux.cn/article-14093-1.html)
 * [技术 | 为什么在 Linux 中 “文件夹” 被称为 “目录”？](https://linux.cn/article-14137-1.html)
+* [观点 | Linux 黑话解释：什么是 POSIX？](https://linux.cn/article-14201-1.html)
 
 ## 杂烩
 * [2015年最弱的密码和最强的密码](https://linux.cn/article-6918-1.html)
