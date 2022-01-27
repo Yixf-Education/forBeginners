@@ -61,6 +61,7 @@
 * [技术 | 为什么在 Linux 中 “文件夹” 被称为 “目录”？](https://linux.cn/article-14137-1.html)
 * [观点 | Linux 黑话解释：什么是 POSIX？](https://linux.cn/article-14201-1.html)
 * [这篇 Linux 总结得很棒啊！](https://mp.weixin.qq.com/s/ys1QwY43fQC-r2bP4DG0nQ)
+* [Ubuntu 服务器版与桌面版有什么区别？](https://mp.weixin.qq.com/s/W5YPf9l6QVyCXkw6-PrPlg)
 
 ## 杂烩
 * [2015年最弱的密码和最强的密码](https://linux.cn/article-6918-1.html)
