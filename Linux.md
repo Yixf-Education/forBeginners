@@ -34,6 +34,7 @@
 * [Cinnamon vs MATE vs Xfce：你应该选择那一个 Linux Mint 口味？](https://linux.cn/article-13213-1.html)
 * [观点 | Debian 和 Ubuntu：有什么不同？应该选择哪一个？](https://linux.cn/article-13746-1.html)
 * [分享 | 给儿童、教师和学校的最佳 Linux 发行版](https://linux.cn/article-14174-1.html)
+* [新闻 | Zorin OS 16 教育版：一个让学习更容易的 Linux 发行版](https://linux.cn/article-14240-1.html)
 
 ## 基础知识
 * [Linux基础](http://linuxtools-rst.readthedocs.org/zh_CN/latest/base/index.html)
