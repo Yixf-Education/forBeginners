@@ -297,3 +297,6 @@
 * [如何在命令行模式下最快找到文件？](https://mp.weixin.qq.com/s/WEKq5mgGRTK6_AS_q794aQ)
 * [技术|一些经典 Linux 命令的现代替代品](https://linux.cn/article-14172-1.html)
 * [Linux硬盘分区 fdisk 和 parted命令详解](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666560823&idx=3&sn=098aefbc59a42a9dc009699885b90230&chksm=80dcb99cb7ab308a9e0c6b5dab361ac998f6bb18911f9c73e8ca2687ee4acc89f794381a173f&mpshare=1&scene=1&srcid=0122SNxTlv2Je97WFYU6LVEs&sharer_sharetime=1642835057529&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=3a233eaa99d76acf4d1138267469fe9ab1ecb6e2742ce885de0508f74c9f738e1e290a6f8a1a86cf7af3eef0a544e1e2e74378593f2b0813b94f4a255f669e18a3bc786fb7a54185fc6c097bd383c848a33c6d32fd5f6ed7c8e90c749dc69a4503eae34c57a15e399659791cfb94f435a0278343284e720579521b07906f6666&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=6209007b&lang=en&exportkey=AVfv%2Blsmha%2BRvT17Akej6xg%3D&acctmode=0&pass_ticket=RtHpF1hz6w94YEQ8h9TaFQkSCqLe%2B5c1ggBYmHujOHzgdHQN0yni4kiZQkXeOuFD&wx_header=0)
+* [颜值也是生产力，给命令行点颜色瞧瞧](https://mp.weixin.qq.com/s/mVi5r2W6_6R_MpWNaYdySQ)
+* [懒人福利，ssh/scp无密码登录](https://mp.weixin.qq.com/s/IiTJxMpd58sO4h-uGx_VVQ)
+* [技术 | 用 Linux 命令行解决 Wordle 问题](https://linux.cn/article-14253-1.html)
