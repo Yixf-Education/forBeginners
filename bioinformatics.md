@@ -69,6 +69,7 @@
 * [计算生物学家是否应该做实验？—Shirley](https://mp.weixin.qq.com/s/at1ou0z3OGv47MjaG9cljQ)
 * [如何编译生物软件](https://mp.weixin.qq.com/s/-jyTlS_AueDihpnjC9dsXw)
 * [边玩边学！15 个学编程的游戏网站！](https://mp.weixin.qq.com/s/1w4342NeeylUH-N5vIIpJg)
+* [NBT：你想成为计算生物学家？](https://mp.weixin.qq.com/s/RNFD1ApJZJQXWtQrrdGv0Q)
 
 ## 其他
 
