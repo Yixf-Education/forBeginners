@@ -63,6 +63,8 @@
 * [画说统计 | 多重比较：三组间比较逐对t检验不行么？](https://mp.weixin.qq.com/s/ojgPAhrjUKtxblWi2AQ4ug)
 * [丁鹏：多角度回顾因果推断的模型方法](https://mp.weixin.qq.com/s/Qt6odq3J42GSPrQ1aWtiHA)
 * [德国80%的统计学教授都会答错的6个与P值有关的问题！](https://mp.weixin.qq.com/s/0UaE7V907WIMBMi52tfSIQ)
+* [The 5 Basic Statistics Concepts Data Scientists Need to Know | by George Seif | Towards Data Science](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
+* [5 个基本概念，从统计学到机器学习](https://mp.weixin.qq.com/s/8PymPY_O6upXxdqydcCuwg)
 
 ## 统计学入门
 
@@ -75,6 +77,7 @@
 * [统计学入门 | 第1章：不确定性的数学表达：泊松分布](https://mp.weixin.qq.com/s/P2-7kXN_q_rzyIiVjEc0iQ)
 * [统计学入门 | 第2章 参数估计：矩估计](https://mp.weixin.qq.com/s/zYRNfpGhcw0UZfYQWqOpHg)
 * [统计学入门｜第 2 章 参数估计：极大似然估计](https://mp.weixin.qq.com/s/ZC51w0_P406zKsr_ltj-_A)
+* [统计学入门 | 第二章 参数估计：其他分布参数的区间估计](https://mp.weixin.qq.com/s/fCCuHliXhl78IhihxUjCTQ)
 * [6个简单实用的可视化小技巧](https://mp.weixin.qq.com/s/sllf32lb_s_1SD4lFBBhpw)
 
 ## 科研
