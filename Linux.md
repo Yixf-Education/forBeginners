@@ -302,3 +302,4 @@
 * [颜值也是生产力，给命令行点颜色瞧瞧](https://mp.weixin.qq.com/s/mVi5r2W6_6R_MpWNaYdySQ)
 * [懒人福利，ssh/scp无密码登录](https://mp.weixin.qq.com/s/IiTJxMpd58sO4h-uGx_VVQ)
 * [技术 | 用 Linux 命令行解决 Wordle 问题](https://linux.cn/article-14253-1.html)
+* [Linux 实时查看日志文件的 4 种方法，总有一款适合你](https://mp.weixin.qq.com/s/lOj-dsLYyEQrRu3S1kmxEw)
