@@ -53,6 +53,7 @@
 * [绘图布局patchwork](https://mp.weixin.qq.com/s/1JF7ipd10AjEI8lb1Ec-4A)
 * [R语言学习：Jupyter Lab构建R工作环境，处理类别型数据总结](https://mp.weixin.qq.com/s/aHmGJqlsEP_M1AeeB2AYDA)
 * [R 语言学习：日期和时间相关知识](https://mp.weixin.qq.com/s?__biz=MzA4NDgyMzkyMA==&mid=2650632739&idx=1&sn=bf20437822e6d02c0ff279b063eac197&chksm=87e8883cb09f012a0b26e17a828307b83a7d2dda9af25cf3abd904eb98bc08457431c81b7181&mpshare=1&scene=1&srcid=0124lNLyRB6mz79kY83o6hef&sharer_sharetime=1642986388164&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=95adb7c7eb8dad8a19c15e97bc71d27b4228756f20aa9910d3851ee97f085b1d0d0b8f6b31742fa4d9eb91028305574587953b479e09d6778a8960d7c9b217a688aa472c4416cc8a797d1b08d87039b31a8d5b9a530094eedb5e8840a39ec792c6f2b56ca8afc3276f1e6266e8f2c2ecc85aeb4e8f9471b5abadfccc7c67ab8c&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=6209007b&lang=en&exportkey=AUg4ugpQgBuZt5R5mPpAcS8%3D&acctmode=0&pass_ticket=RtHpF1hz6w94YEQ8h9TaFQkSCqLe%2B5c1ggBYmHujOHzgdHQN0yni4kiZQkXeOuFD&wx_header=0)
+* [ubuntu系统如何安装最新版R语言？](https://mp.weixin.qq.com/s/fUAFl9EBLAROPDFrnb5Ayg)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
