@@ -6,3 +6,4 @@
 * [LaTeX 列表 保姆级教程 一文横扫全知识点](https://mp.weixin.qq.com/s/61ou3uaiERSEJR2vq4Givw)
 * [LaTeX表格输入指南和应用实例（1）](https://mp.weixin.qq.com/s/oe7121XIwnurWPSXt71zxQ)
 * [LaTeX文档多图排版笔记](https://mp.weixin.qq.com/s/Vv4S-rLzhVeuLiv5Q8WxKA)
+* [enumitem 宏包中的长度设置](https://mp.weixin.qq.com/s/1x1Q_ucVSN9Ks9wRx1Bk8w)
