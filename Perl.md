@@ -22,6 +22,7 @@
 * [五步学会任何编程语言](https://linux.cn/article-12842-1.html)
 * [为了搞清楚主成分分析，我重学了《线性代数》。。。](https://mp.weixin.qq.com/s?__biz=MzA5NzQzOTgzMw==&mid=2650863590&idx=1&sn=787c72e4b1dd25e0ad14ca61069653a6&chksm=8b548ed0bc2307c6fde64295bcba06da634a77c313186d36bb100aad6f129a98bad8835945de&mpshare=1&scene=1&srcid=0225MFSd8rb46Rd81JzguX6Y&sharer_sharetime=1614248414829&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=6f239cbca45393dd6dff3b3bc4222eb775a7c439ef25f43768bf8d4536ab78d9c3cdbfabfc1b7e296b0a4d8fc3820ad135fec4988bd62560fb177b3d8d219737712ad3c426bf251153a07599b6bdfc6eeb4e063dbf485e952036f12ea28dfcf67360e3b0dd183f4ad675d172ae670bbd234154092862e1981afc8403012adfc7&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AUxjij%2B57xva7NyMFmhOdN8%3D&pass_ticket=R9jpaUXpCFjBDIouxDFPMCQLobV6t8Qz8Er3IVMMhmM7ejfJujHQ7tA1WBEpmau8&wx_header=0)
 * [如何用外行容易理解的语言解释Python中的概念？](https://mp.weixin.qq.com/s/fwmWunMRs88L36gAO2C8eQ)
+* [软件开发 | Perl 语言基础入门](https://linux.cn/article-14296-1.html)
 
 ## Perl系列
 
