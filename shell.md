@@ -75,3 +75,4 @@
 
 * [技术 | Bash Shell 脚本新手指南（一）](https://linux.cn/article-14131-1.html)
 * [技术 | Bash Shell 脚本新手指南（二）](https://linux.cn/article-14198-1.html)
+* [技术 | Bash Shell 脚本新手指南（三）](https://linux.cn/article-14313-1.html)
