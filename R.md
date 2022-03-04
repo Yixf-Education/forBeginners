@@ -147,6 +147,7 @@
 * [R沟通｜Bookdown中文书稿写作手册（中）](https://mp.weixin.qq.com/s/Jpl9ZoyTag6icdsl58j85w)
 * [R沟通｜Bookdown中文书稿写作手册（下）](https://mp.weixin.qq.com/s/K7LtzKD5ibpMu3t8uxEu4Q)
 * [别人的电子书，你的电子书，都在bookdown](https://mp.weixin.qq.com/s/u6oGyqVrXDw7PKB4xmg8IQ)
+* [32 份 R 语言文档沟通推文汇总](https://mp.weixin.qq.com/s/P2JuCfm0nDjptFbmd6Lpiw)
 
 # 生信相关
 
