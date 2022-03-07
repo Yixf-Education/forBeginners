@@ -105,6 +105,8 @@
 * [外显子和基因组基本概念(二)](https://mp.weixin.qq.com/s/gWIC2tcXrM2hVvRPpVg0yQ)
 * [43 个生物信息学 “事实”](https://mp.weixin.qq.com/s/k4Lj6pp2ThV-qxX2x-Mc-Q)
 * [深度解读：单细胞核转录组测序](https://mp.weixin.qq.com/s/Hdq5JHqkpMhN5MuPux2atA)
+* [看文献，详解Mutational signatures（突变指标/签名/特征）](https://mp.weixin.qq.com/s/ljfUTpHGUOtFLhCvdpXxNw)
+* [惊！量化肿瘤样品的基因组不稳定性靠的是突变数量？](https://mp.weixin.qq.com/s/keyIKhlHBfUHVeA41obshg)
 
 ## 系统课程
 
