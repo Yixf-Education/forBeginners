@@ -57,6 +57,8 @@
 * [基于 mlr 包的 K 最近邻算法介绍与实践（上）](https://mp.weixin.qq.com/s?src=11&timestamp=1645489484&ver=3635&signature=C4Bc8J9FTmOChV2rAnefVKVlGs7DZqoCAx*38EAzmxkRINyhRIkzAwPJ9-JcMUf-DVAqy2HAEayUbzjGksGAZE1H41wM9JpcjPFZYA9-*w4XAFYnu8XyL8b4FdV5kvp5&new=1)
 * [基于 mlr 包的 K 最近邻算法介绍与实践（下）](https://mp.weixin.qq.com/s/aWSQjclq1VdAg48ZVyyTpQ)
 * [R语言的24个高效操作](https://mp.weixin.qq.com/s/PhwAYug9u-M10Vo5W0PFXg)
+* [ROC分析与曲线图的绘制](https://mp.weixin.qq.com/s/EkwGuzDPdyheUYi87Y94ug)
+* [源于战争？如何理解ROC背后的原理？](https://mp.weixin.qq.com/s/GWcfqwJNEQt_cu-FcppinQ)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
