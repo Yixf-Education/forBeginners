@@ -104,6 +104,7 @@
 * [外显子和基因组基本概念(一)](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247519443&idx=1&sn=bfb12f4b5ed0fa1ea816bc8380426906&chksm=ec0e4959db79c04fdf8184e3cbf59893e322835bc734b6358aabd2d12c7843c41cf88206ab07&scene=21#wechat_redirect)
 * [外显子和基因组基本概念(二)](https://mp.weixin.qq.com/s/gWIC2tcXrM2hVvRPpVg0yQ)
 * [43 个生物信息学 “事实”](https://mp.weixin.qq.com/s/k4Lj6pp2ThV-qxX2x-Mc-Q)
+* [深度解读：单细胞核转录组测序](https://mp.weixin.qq.com/s/Hdq5JHqkpMhN5MuPux2atA)
 
 ## 系统课程
 
