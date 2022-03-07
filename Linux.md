@@ -64,6 +64,7 @@
 * [这篇 Linux 总结得很棒啊！](https://mp.weixin.qq.com/s/ys1QwY43fQC-r2bP4DG0nQ)
 * [Ubuntu 服务器版与桌面版有什么区别？](https://mp.weixin.qq.com/s/W5YPf9l6QVyCXkw6-PrPlg)
 * [还有人记得 Linux 之前，那个理想又骄傲的 BSD 吗？](https://mp.weixin.qq.com/s/ocCAJ1b7weJu40whhwFMgg)
+* [用了这么久 Linux ，才知道这些概念](https://mp.weixin.qq.com/s/FA6N9kPJRYnDHyh-2EujJQ)
 
 ## 杂烩
 * [2015年最弱的密码和最强的密码](https://linux.cn/article-6918-1.html)
