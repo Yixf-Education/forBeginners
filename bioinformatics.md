@@ -71,6 +71,7 @@
 * [边玩边学！15 个学编程的游戏网站！](https://mp.weixin.qq.com/s/1w4342NeeylUH-N5vIIpJg)
 * [NBT：你想成为计算生物学家？](https://mp.weixin.qq.com/s/RNFD1ApJZJQXWtQrrdGv0Q)
 * [讨论群问题：Linux 下的批量操作，第 2 种很赞](https://mp.weixin.qq.com/s/BnLcSU_EojwQpr8O7v3Z5Q)
+* [做生物信息需要学习编程吗？](https://mp.weixin.qq.com/s/7V-vj_pW8-JNViG8RoJr6A)
 
 ## 其他
 
