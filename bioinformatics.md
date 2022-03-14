@@ -12,6 +12,7 @@
 * [生物信息百宝箱](https://mp.weixin.qq.com/s/EZp7bnkArntXQOGbji4g1w)
 * [sandbox.bio](https://sandbox.bio/): Interactive bioinformatics tutorials
 * [生信分析必须了解的4种文件格式](https://mp.weixin.qq.com/s?__biz=MzI2MjA1MDQxMg==&mid=2649709106&idx=1&sn=dd90339cc91d84c859e02dee76fff6df&chksm=f24afd31c53d7427280edd21388f271526a87693685c087a1d847c3a96bf89650cdaab689a40&scene=21#wechat_redirect)
+* [直接下载打包好的参考基因组及注释文件快速搭建生信分析环境](https://mp.weixin.qq.com/s/FISw_-6m_qrJ-uRZWKH2Ew)
 
 ## 生信问题与编程技能
 * [生物信息学研究的思考](https://mp.weixin.qq.com/s/p7RKD_kVfK3ny6s7j_f8zg)
