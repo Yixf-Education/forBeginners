@@ -59,6 +59,7 @@
 * [R语言的24个高效操作](https://mp.weixin.qq.com/s/PhwAYug9u-M10Vo5W0PFXg)
 * [ROC分析与曲线图的绘制](https://mp.weixin.qq.com/s/EkwGuzDPdyheUYi87Y94ug)
 * [源于战争？如何理解ROC背后的原理？](https://mp.weixin.qq.com/s/GWcfqwJNEQt_cu-FcppinQ)
+* [基于 mlr 包的逻辑回归算法介绍与实践（上）](https://mp.weixin.qq.com/s/yZe1D7FYXHSx8Vmo-fboXg)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
