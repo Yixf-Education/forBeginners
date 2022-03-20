@@ -109,6 +109,7 @@
 * [深度解读：单细胞核转录组测序](https://mp.weixin.qq.com/s/Hdq5JHqkpMhN5MuPux2atA)
 * [看文献，详解Mutational signatures（突变指标/签名/特征）](https://mp.weixin.qq.com/s/ljfUTpHGUOtFLhCvdpXxNw)
 * [惊！量化肿瘤样品的基因组不稳定性靠的是突变数量？](https://mp.weixin.qq.com/s/keyIKhlHBfUHVeA41obshg)
+* [把我和生信的故事讲给你听](https://mp.weixin.qq.com/s/QVjUjfih7blCS0qRtjVWhQ)
 
 ## 系统课程
 
