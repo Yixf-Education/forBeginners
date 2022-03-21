@@ -60,6 +60,7 @@
 * [ROC分析与曲线图的绘制](https://mp.weixin.qq.com/s/EkwGuzDPdyheUYi87Y94ug)
 * [源于战争？如何理解ROC背后的原理？](https://mp.weixin.qq.com/s/GWcfqwJNEQt_cu-FcppinQ)
 * [基于 mlr 包的逻辑回归算法介绍与实践（上）](https://mp.weixin.qq.com/s/yZe1D7FYXHSx8Vmo-fboXg)
+* [老板！快看我的进化树！](https://mp.weixin.qq.com/s/_rCV2owGRWaNG4B-6-eOjQ)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
