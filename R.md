@@ -62,6 +62,7 @@
 * [基于 mlr 包的逻辑回归算法介绍与实践（上）](https://mp.weixin.qq.com/s/yZe1D7FYXHSx8Vmo-fboXg)
 * [老板！快看我的进化树！](https://mp.weixin.qq.com/s/_rCV2owGRWaNG4B-6-eOjQ)
 * [R 问题｜解决 PDF 导出字体无法显示的问题](https://mp.weixin.qq.com/s/QtOW4bsE4GwZBWOeefCsvA)
+* [Rstudio 常用快捷键以及窗口操作有用技巧](https://mp.weixin.qq.com/s/Qp0Bb1gm3ihEOHkNK0vhJw)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
