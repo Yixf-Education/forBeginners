@@ -43,6 +43,7 @@
 * [改变我使用 Git 工作方式的七个技巧](https://linux.cn/article-12894-1.html)
 * [GitBook | 手把手教你搭建 免费博客 / 网络文档 / 多人协作编辑~](https://mp.weixin.qq.com/s/TaikXEWoUJC6kHn0Uu53sA)
 * [Git Immersion](https://gitimmersion.com/index.html)
+* [45 个 Git 经典操作场景，专治不会合代码](https://mp.weixin.qq.com/s/oh7WqsyJJ9CPgbciYJNEXA)
 
 ## 技能树
 * [闯过这54关，点亮你的Git技能树](http://www.codingstyle.cn/topics/51)
