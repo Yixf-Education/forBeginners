@@ -53,6 +53,7 @@
 * [文件夹太乱？Python小程序瞬间帮你整理到位](https://mp.weixin.qq.com/s/wH0VRJfENLkNTnia0XW7eQ)
 * [不会搜索，建议放弃](https://mp.weixin.qq.com/s/uHvXX74VL1qAQL3aLK324Q)
 * [程序员怎么过情人节？](https://mp.weixin.qq.com/s/OayRPRu9_u5Fu61bKKsKrQ)
+* [好代码和坏代码](https://mp.weixin.qq.com/s/8X4T9dfPDdt2qrAWF8tEmw)
 
 ## 统计
 
