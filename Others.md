@@ -65,6 +65,7 @@
 * [德国80%的统计学教授都会答错的6个与P值有关的问题！](https://mp.weixin.qq.com/s/0UaE7V907WIMBMi52tfSIQ)
 * [The 5 Basic Statistics Concepts Data Scientists Need to Know | by George Seif | Towards Data Science](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
 * [5 个基本概念，从统计学到机器学习](https://mp.weixin.qq.com/s/8PymPY_O6upXxdqydcCuwg)
+* [总结系列 | 机器学习算法如何选择？Check List 送到家](https://mp.weixin.qq.com/s/tLJ57IRL0HGOaFXyrx3yng)
 
 ## 统计学入门
 
