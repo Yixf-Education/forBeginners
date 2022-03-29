@@ -61,6 +61,7 @@
 * [ROC分析与曲线图的绘制](https://mp.weixin.qq.com/s/EkwGuzDPdyheUYi87Y94ug)
 * [源于战争？如何理解ROC背后的原理？](https://mp.weixin.qq.com/s/GWcfqwJNEQt_cu-FcppinQ)
 * [基于 mlr 包的逻辑回归算法介绍与实践（上）](https://mp.weixin.qq.com/s/yZe1D7FYXHSx8Vmo-fboXg)
+* [基于 mlr 包的逻辑回归算法介绍与实践（下）](https://mp.weixin.qq.com/s/kThWVHkknZ4nMb3vBSWT2A)
 * [老板！快看我的进化树！](https://mp.weixin.qq.com/s/_rCV2owGRWaNG4B-6-eOjQ)
 * [R 问题｜解决 PDF 导出字体无法显示的问题](https://mp.weixin.qq.com/s/QtOW4bsE4GwZBWOeefCsvA)
 * [Rstudio 常用快捷键以及窗口操作有用技巧](https://mp.weixin.qq.com/s/Qp0Bb1gm3ihEOHkNK0vhJw)
