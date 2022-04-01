@@ -13,6 +13,9 @@
 * [regular expressions 101](https://regex101.com/): Online regex tester and debugger
 * [Debuggex](https://www.debuggex.com/): Online visual regex tester
 * [i Hate Regex - The Regex Cheat Sheet](https://ihateregex.io/)
+* [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com): Learn RegEx step by step, from zero to advanced.
+* [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis): 🎨 Regex visualizer & editor
+* [滚蛋吧，正则表达式！](https://mp.weixin.qq.com/s/MP2a-EXTpuyZ03PpedyA_A)
 
 ## 基础
 * [正则表达式教程](http://www.w3cschool.cc/regexp/regexp-tutorial.html)
