@@ -309,3 +309,4 @@
 * [命令行/终端下载指令大全（Win + Linux）](https://mp.weixin.qq.com/s/AqvFKKE6zTh9lWWRerotwQ)
 * [生信入门必须掌握的30个Linux命令](https://mp.weixin.qq.com/s/8KRaiE-ELX7BSjCxDll4MA)
 * [谁再说不熟悉 Linux 命令，就把这个给他扔过去！](https://mp.weixin.qq.com/s/S7GrSFAMTDS39gIm7LOBsg)
+* [命令行表格处理神器 seqtk](https://mp.weixin.qq.com/s/INHTQRL79nRyjZSPZjyaYA)
