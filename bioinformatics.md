@@ -113,6 +113,7 @@
 * [把我和生信的故事讲给你听](https://mp.weixin.qq.com/s/QVjUjfih7blCS0qRtjVWhQ)
 * [你知道是谁创立了 Illumina 吗？](https://mp.weixin.qq.com/s/vgfwz97kmlQj5x_yCUJG0A)
 * [生物信息学简史](https://mp.weixin.qq.com/s/h_Yf_SvuAkC03g04PuUJyg)
+* [我的单细胞学习之路](https://mp.weixin.qq.com/s/stecW4P-MzaTmnz169RkdQ)
 
 ## 系统课程
 
