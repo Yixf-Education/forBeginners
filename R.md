@@ -131,6 +131,7 @@
 * [Multiple views on how to choose a visualization | by Steven Franconeri | Multiple Views: Visualization Research Explained | Medium](https://medium.com/multiple-views-visualization-research-explained/multiple-views-on-how-to-choose-a-visualization-b3ffc99fcddc)
 * [超全！52个数据可视化图表鉴赏~~](https://mp.weixin.qq.com/s/h5IcSW1a7P6H0iu2VFdlAA)
 * [**https://exts.ggplot2.tidyverse.org/gallery/**](https://exts.ggplot2.tidyverse.org/gallery/)
+* [ggplot2 的全部主题修改函数都在这里了](https://mp.weixin.qq.com/s/Qj4IFt-9gYSjMOjkSUxUIA)
 
 
 
