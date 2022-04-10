@@ -8,3 +8,4 @@
 * [LaTeX文档多图排版笔记](https://mp.weixin.qq.com/s/Vv4S-rLzhVeuLiv5Q8WxKA)
 * [enumitem 宏包中的长度设置](https://mp.weixin.qq.com/s/1x1Q_ucVSN9Ks9wRx1Bk8w)
 * [xinychen/latex-cookbook: LaTeX论文写作教程 (中文版)](https://github.com/xinychen/latex-cookbook)
+* [Elegant 系列模板版本更新了（v4.3）](https://mp.weixin.qq.com/s/ciqxxiQ79hG1XSSqJdYTXw)
