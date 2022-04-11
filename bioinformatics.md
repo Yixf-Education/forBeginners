@@ -74,6 +74,7 @@
 * [NBT：你想成为计算生物学家？](https://mp.weixin.qq.com/s/RNFD1ApJZJQXWtQrrdGv0Q)
 * [讨论群问题：Linux 下的批量操作，第 2 种很赞](https://mp.weixin.qq.com/s/BnLcSU_EojwQpr8O7v3Z5Q)
 * [做生物信息需要学习编程吗？](https://mp.weixin.qq.com/s/7V-vj_pW8-JNViG8RoJr6A)
+* [一文掌握文件命名的原则](https://mp.weixin.qq.com/s/pGWuwShBptHbfCxzR0p6Bw)
 
 ## 其他
 
