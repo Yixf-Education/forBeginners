@@ -116,6 +116,7 @@
 * [生物信息学简史](https://mp.weixin.qq.com/s/h_Yf_SvuAkC03g04PuUJyg)
 * [我的单细胞学习之路](https://mp.weixin.qq.com/s/stecW4P-MzaTmnz169RkdQ)
 * [背景校正，芯片预处理的第一步！](https://mp.weixin.qq.com/s/nYY4saiShAP-KwM9BWr9VQ)
+* [ATACseq 测序数据上游分析流程](https://mp.weixin.qq.com/s/CrHVMZ5Y9LFezovsqfo8mQ)
 
 ## 系统课程
 
