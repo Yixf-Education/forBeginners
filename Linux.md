@@ -312,3 +312,4 @@
 * [命令行表格处理神器 seqtk](https://mp.weixin.qq.com/s/INHTQRL79nRyjZSPZjyaYA)
 * [忘了用 nohup 挂后台，如何重新将任务挂载到后台？](https://mp.weixin.qq.com/s/eVMg2-cacHyZlR1AVeA-Kw)
 * [Linux 的 10 个最危险命令](https://mp.weixin.qq.com/s/CBQMFPaVlNvvFUrxl0TePQ)
+* [我被跨系统的换行符折磨疯了～～～](https://mp.weixin.qq.com/s/b44iVrGRU0HqF9VaWKQfog)
