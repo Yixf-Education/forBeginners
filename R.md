@@ -179,6 +179,7 @@
 * [人人都能掌握的R包制作过程](https://mp.weixin.qq.com/s/J7t3_RnZ_See5HoayX_LVg)
 * [Bioconductor 中的 R 包安装教程(续一)](https://mp.weixin.qq.com/s/qojN2kYMLq4W_RC7jSyzrg)
 * [为新手准备的现代化 R 包开发流程](https://mp.weixin.qq.com/s/Uy2Dr71jR5qikbrdeKp9eQ)
+* [R 包开发流程速览](https://mp.weixin.qq.com/s/s5lkSujXpUIrK8u-iEHuQA)
 
 # Shiny
 
