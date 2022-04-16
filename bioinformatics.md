@@ -120,6 +120,7 @@
 * [ATACseq 测序数据上游分析流程](https://mp.weixin.qq.com/s/CrHVMZ5Y9LFezovsqfo8mQ)
 * [人群频率 | gnomAD 数据库简介 (一)](https://mp.weixin.qq.com/s/T187v7-_5fzllleIw7oTyA)
 * [人类遗传变异神库 | ClinVar 数据库详解](https://mp.weixin.qq.com/s/mfQfuVlpay6e1frnqaZMXA)
+* [经典工具 | 使用 SIFT 预测错义突变的有害性](https://mp.weixin.qq.com/s/gdsQxAauqmDopHRNeGDjOA)
 
 ## 系统课程
 
