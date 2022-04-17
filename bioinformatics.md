@@ -121,6 +121,7 @@
 * [人群频率 | gnomAD 数据库简介 (一)](https://mp.weixin.qq.com/s/T187v7-_5fzllleIw7oTyA)
 * [人类遗传变异神库 | ClinVar 数据库详解](https://mp.weixin.qq.com/s/mfQfuVlpay6e1frnqaZMXA)
 * [经典工具 | 使用 SIFT 预测错义突变的有害性](https://mp.weixin.qq.com/s/gdsQxAauqmDopHRNeGDjOA)
+* [发表文章时需要什么样的数据登录号？](https://mp.weixin.qq.com/s/cTFRmPNoPQCqfZlBvp65Bg)
 
 ## 系统课程
 
