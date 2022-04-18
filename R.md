@@ -68,6 +68,7 @@
 * [Rstudio 常用快捷键以及窗口操作有用技巧](https://mp.weixin.qq.com/s/Qp0Bb1gm3ihEOHkNK0vhJw)
 * [总结系列 | 一图搞清 R 语言机器学习 caret 包使用合集](https://mp.weixin.qq.com/s/Xm68vUmo3tY_lAAoFStmdQ)
 * [命令行表格处理神器 seqtk](https://mp.weixin.qq.com/s/INHTQRL79nRyjZSPZjyaYA)
+* [生信技能树 R 语言学习直播配套笔记](https://mp.weixin.qq.com/s/jSd_Mm8SMPeEgF43pf_PDA)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
