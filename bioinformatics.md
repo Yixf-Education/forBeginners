@@ -122,6 +122,9 @@
 * [人类遗传变异神库 | ClinVar 数据库详解](https://mp.weixin.qq.com/s/mfQfuVlpay6e1frnqaZMXA)
 * [经典工具 | 使用 SIFT 预测错义突变的有害性](https://mp.weixin.qq.com/s/gdsQxAauqmDopHRNeGDjOA)
 * [发表文章时需要什么样的数据登录号？](https://mp.weixin.qq.com/s/cTFRmPNoPQCqfZlBvp65Bg)
+* [Cytoscape 制作差异基因的蛋白质互作网络及富集分析](https://mp.weixin.qq.com/s/DfbGic87YO5aldAweD9TEg)
+* [人群频率 | gnomAD 数据库 (二) 后台数据的获取及质量评估](https://mp.weixin.qq.com/s/kWY4BXH3h5xeO-azKSvbQw)
+* [Jalview | 多序列比对图中显示序列标识](https://mp.weixin.qq.com/s/_6SWJ8upk1faI2qEUbPo0A)
 
 ## 系统课程
 
