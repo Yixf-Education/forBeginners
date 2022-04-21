@@ -125,6 +125,7 @@
 * [Cytoscape 制作差异基因的蛋白质互作网络及富集分析](https://mp.weixin.qq.com/s/DfbGic87YO5aldAweD9TEg)
 * [人群频率 | gnomAD 数据库 (二) 后台数据的获取及质量评估](https://mp.weixin.qq.com/s/kWY4BXH3h5xeO-azKSvbQw)
 * [Jalview | 多序列比对图中显示序列标识](https://mp.weixin.qq.com/s/_6SWJ8upk1faI2qEUbPo0A)
+* [batch effect 究竟是什么？](https://mp.weixin.qq.com/s/DcftIrqB8M3m55AzHb-m9Q)
 
 ## 系统课程
 
