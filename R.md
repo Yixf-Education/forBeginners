@@ -1,5 +1,6 @@
 # R
 * [**从 R 绘图入门看 R 语言学习方法论**](https://mp.weixin.qq.com/s/SENYp8TyqmOoqAM9Gcnt4g)
+* [**从 R 绘图入门看 R 语言学习方法论**](https://mp.weixin.qq.com/s/fb4X8amP-HLnJyYKHHB85Q)
 * [**R 语言学习：R 语言做数据科学工作流**](https://mp.weixin.qq.com/s/Hdg1rA2IL4Qw-3-2p_bXng)
 * [100 “must read” R-bloggers’ posts for 2015](http://www.r-bloggers.com/100-must-read-r-bloggers-posts-for-2015/)
 * [教你如何用R进行数据挖掘](http://shujuren.org/article/95.html)
