@@ -136,6 +136,7 @@
 * [**https://exts.ggplot2.tidyverse.org/gallery/**](https://exts.ggplot2.tidyverse.org/gallery/)
 * [ggplot2 的全部主题修改函数都在这里了](https://mp.weixin.qq.com/s/Qj4IFt-9gYSjMOjkSUxUIA)
 * [**The R Graph Gallery – Help and inspiration for R charts**](https://r-graph-gallery.com/index.html)
+* [R 语言学习：ggplot2 包画图](https://mp.weixin.qq.com/s/UlLLlh6Cz2nxVGAhZ5j9yQ)
 
 
 
