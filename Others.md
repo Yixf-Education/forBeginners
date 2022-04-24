@@ -54,6 +54,7 @@
 * [不会搜索，建议放弃](https://mp.weixin.qq.com/s/uHvXX74VL1qAQL3aLK324Q)
 * [程序员怎么过情人节？](https://mp.weixin.qq.com/s/OayRPRu9_u5Fu61bKKsKrQ)
 * [好代码和坏代码](https://mp.weixin.qq.com/s/8X4T9dfPDdt2qrAWF8tEmw)
+* [一个独特的简历生成器，开源了！](https://mp.weixin.qq.com/s/DdH46AsgKF0HUgvaAvWztQ)
 
 ## 统计
 
