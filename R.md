@@ -70,6 +70,7 @@
 * [总结系列 | 一图搞清 R 语言机器学习 caret 包使用合集](https://mp.weixin.qq.com/s/Xm68vUmo3tY_lAAoFStmdQ)
 * [命令行表格处理神器 seqtk](https://mp.weixin.qq.com/s/INHTQRL79nRyjZSPZjyaYA)
 * [生信技能树 R 语言学习直播配套笔记](https://mp.weixin.qq.com/s/jSd_Mm8SMPeEgF43pf_PDA)
+* [基于 R 语言的判别分析介绍与实践（1）](https://mp.weixin.qq.com/s/CCz1oBY280nuczGCnpEmAg)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
