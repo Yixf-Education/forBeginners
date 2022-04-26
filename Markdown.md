@@ -35,6 +35,8 @@
 * [学会优雅实用的Markdown写作，从这篇文章开始吧](http://www.ifanr.com/app/593507)
 * [为什么要学习 Markdown？究竟有什么用？](https://mp.weixin.qq.com/s?__biz=MzU1MDQwMTU5OQ==&mid=2247484840&idx=1&sn=7d1f3c28fb44ec6570d0c48f04743659&chksm=fba066f8ccd7efee610df9bcb3343eab16ccc993b4c38e5b67ea321e5d8fa016344bb1e54f51&mpshare=1&scene=1&srcid=&sharer_sharetime=1587377757956&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=7024fc3958d21a49b04403d6748a64f5a3674c77b6bedd16324aa1e6d8103447cb7af82e7b3184609dda13a95378b6822d01bdf0cc54ee2e3c7a8c65a9626fbc5a3d2aedbc12d9933e248720deb4b6d8&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+XP&version=62060841&lang=zh_CN&exportkey=AbLpPWK%2BHjg20rDjTJTyTmA%3D&pass_ticket=CkJMYo9D1EQrpGW50RV9HTNnMupyxHJymZEf2nnRH84oo40zR3l8gMwCHLqaUIU3)
 * [学习标记语言，从Markdonw开始](https://mp.weixin.qq.com/s/EDqF5Sh6B_hBgmcVORO2yg)
+* [Markdown 初学者指南 | Linux 中国](https://mp.weixin.qq.com/s/iwt2A6tgSAfkN-1hkg85zQ)
+* [Typora 保姆级教程](https://mp.weixin.qq.com/s/ACqQ5x3RVB_QNB41AKsXKw)
 
 ## 工具
 * [4 个 Linux 命令行下的 Markdown 工具](https://zhuanlan.zhihu.com/p/120132098)
