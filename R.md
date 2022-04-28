@@ -72,6 +72,7 @@
 * [生信技能树 R 语言学习直播配套笔记](https://mp.weixin.qq.com/s/jSd_Mm8SMPeEgF43pf_PDA)
 * [基于 R 语言的判别分析介绍与实践（1）](https://mp.weixin.qq.com/s/CCz1oBY280nuczGCnpEmAg)
 * [PCA 学习笔记](https://mp.weixin.qq.com/s/N3SI92gv8jLnxsAeUyZdfA)
+* [R 语言学习：dplyr 包数据操作](https://mp.weixin.qq.com/s/h2Zc_jJXBLn0xkjpQRV2VQ)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
