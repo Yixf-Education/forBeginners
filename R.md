@@ -140,6 +140,7 @@
 * [ggplot2 的全部主题修改函数都在这里了](https://mp.weixin.qq.com/s/Qj4IFt-9gYSjMOjkSUxUIA)
 * [**The R Graph Gallery – Help and inspiration for R charts**](https://r-graph-gallery.com/index.html)
 * [R 语言学习：ggplot2 包画图](https://mp.weixin.qq.com/s/UlLLlh6Cz2nxVGAhZ5j9yQ)
+* [学习数据可视化，看这些书就够了～～](https://mp.weixin.qq.com/s/LNr6-xG-KLrkP13iQ03eNg)
 
 
 
