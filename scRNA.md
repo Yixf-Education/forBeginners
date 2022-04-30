@@ -33,3 +33,7 @@
 * [哈佛大学单细胞课程 | 笔记汇总 （七）](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247503493&idx=1&sn=921144f4780d030614e7e9a1381781aa&chksm=ec0e0b0fdb79821937844aedaf37ff8c31ae67c36f5be41209ff9ee7f502a7126b0c8761e5dc&scene=21#wechat_redirect)
 * [哈佛大学单细胞课程 | 笔记汇总 （八）](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247503995&idx=1&sn=35abe614bc7c73dd48b1e738a85b6bcb&chksm=ec0e15f1db799ce7194c5ab19fde4d887e2cf41795f4a44e3b440bcff0fd32dc192dfffef2fd&scene=21#wechat_redirect)
 * [哈佛大学单细胞课程 | 笔记汇总 （九）](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247512068&idx=3&sn=307187d0ede40fb2c1e234fb7d0df6ff&chksm=ec0e758edb79fc98323b209cd82bba151d7106ab9697774b6c53b8b79aa1556fe656b13214d7&mpshare=1&scene=1&srcid=0302Yc21OQeKDVsMwi6m4TnE&sharer_sharetime=1614636478933&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=6f239cbca45393dd84b4b96c382f68f01f21bebd0d21bbdf08ce1a498ed96904d70cdc3db35474aba68f4d32362c9df9836512e6bcc651af4f8894522043a989f2a1ab18bb714ab2f36b1c68a6938c04adb14389b3842c2a04f40563c5d13e091e31bb040fcbbd31da92fcbbfc74aeb03d080e99a5d477cc8cdfaa8160c84daf&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AS212EK8%2F5CugvI7eTPqX90%3D&pass_ticket=tgNgdkqAWVrK%2FQ8INFr4PM9vhY3X1V52uPlsD3EwjRxaqktduVwCq2bucI20BBhW&wx_header=0)
+
+## 基本知识
+
+* [单细胞测序 Q&A 之数据预处理](https://mp.weixin.qq.com/s/kuUbMwL_mWYeEzif_vi1zg)
