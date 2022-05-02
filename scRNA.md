@@ -37,3 +37,4 @@
 ## 基本知识
 
 * [单细胞测序 Q&A 之数据预处理](https://mp.weixin.qq.com/s/kuUbMwL_mWYeEzif_vi1zg)
+* [单细胞笔记系列 | 1 - 单细胞测序简介](https://mp.weixin.qq.com/s/lh6rdV5BwHeYAhkBF2EOXw)
