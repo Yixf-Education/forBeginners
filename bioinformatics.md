@@ -127,6 +127,7 @@
 * [Jalview | 多序列比对图中显示序列标识](https://mp.weixin.qq.com/s/_6SWJ8upk1faI2qEUbPo0A)
 * [batch effect 究竟是什么？](https://mp.weixin.qq.com/s/DcftIrqB8M3m55AzHb-m9Q)
 * [使用 sva 包处理批次效应](https://mp.weixin.qq.com/s/DXZQqY_aKl9xSpoQRSKUoQ)
+* [如何组织课题的故事逻辑](https://mp.weixin.qq.com/s/0-TpDv6yyJAvkFwvoH7u1g)
 
 ## 系统课程
 
