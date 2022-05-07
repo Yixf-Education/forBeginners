@@ -76,6 +76,7 @@
 * [做生物信息需要学习编程吗？](https://mp.weixin.qq.com/s/7V-vj_pW8-JNViG8RoJr6A)
 * [一文掌握文件命名的原则](https://mp.weixin.qq.com/s/pGWuwShBptHbfCxzR0p6Bw)
 * [conda 镜像源配置及生信软件安装测试](https://mp.weixin.qq.com/s/WUeCDYdKTPYA35IDgW6BPA)
+* [R 包更新过程中 readr 和 cli 不匹配](https://mp.weixin.qq.com/s/27fht1Oa3BkGpCfo3wwSGA)
 
 ## 其他
 
