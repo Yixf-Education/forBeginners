@@ -316,3 +316,7 @@
 * [六款 Linux 常用远程连接工具介绍](https://mp.weixin.qq.com/s/mjrMJwWIY0fl0K8yI77mog)
 * [技术 | 新式 Linux 命令行工具大全](https://linux.cn/article-14488-1.html)
 * [ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.](https://github.com/ibraheemdev/modern-unix)
+
+## 运维
+
+* [运维常用的 34 个 Linux Shell 脚本，一定能帮到你！](https://mp.weixin.qq.com/s/J0bnwtJgcuqenenOzPQzYg)
