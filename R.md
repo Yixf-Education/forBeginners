@@ -75,6 +75,7 @@
 * [PCA 学习笔记](https://mp.weixin.qq.com/s/N3SI92gv8jLnxsAeUyZdfA)
 * [R 语言学习：dplyr 包数据操作](https://mp.weixin.qq.com/s/h2Zc_jJXBLn0xkjpQRV2VQ)
 * [R 语言学习：stringr 包字符串操作](https://mp.weixin.qq.com/s/0gg93Mr_v_RrCiWToz6iWg)
+* [机器学习系列 | R 语言中的非线性回归](https://mp.weixin.qq.com/s/LywGLhS9yDBpwW9lygrNIw)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
