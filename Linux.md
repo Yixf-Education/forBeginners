@@ -95,6 +95,7 @@
 * [获取 Linux 工作环境的全部方法](https://mp.weixin.qq.com/s/fN4KiaLvoqRSI4hgjElzaA)
 
 ## 命令行
+* [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
 * [20款优秀的Linux终端仿真器](https://linux.cn/article-5738-1.html)
 * [Linux中10个有用的命令行补全例子](https://linux.cn/article-6301-1.html)
 * [linux下十大命令行下载工具](https://linux.cn/article-7369-1.html)
@@ -315,7 +316,9 @@
 * [我被跨系统的换行符折磨疯了～～～](https://mp.weixin.qq.com/s/b44iVrGRU0HqF9VaWKQfog)
 * [六款 Linux 常用远程连接工具介绍](https://mp.weixin.qq.com/s/mjrMJwWIY0fl0K8yI77mog)
 * [技术 | 新式 Linux 命令行工具大全](https://linux.cn/article-14488-1.html)
-* [ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.](https://github.com/ibraheemdev/modern-unix)
+* [技术 | 如何使用 Bash history 命令](https://linux.cn/article-12344-1.html)
+* [分享 | 4 个 Linux 命令行下的 Markdown 工具](https://linux.cn/article-12048-1.html)
+* [5 modern alternatives to essential Linux command-line tools | Opensource.com](https://opensource.com/article/20/6/modern-linux-command-line-tools)
 
 ## 运维
 
