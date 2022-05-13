@@ -39,3 +39,4 @@
 * [单细胞测序 Q&A 之数据预处理](https://mp.weixin.qq.com/s/kuUbMwL_mWYeEzif_vi1zg)
 * [单细胞笔记系列 | 1 - 单细胞测序简介](https://mp.weixin.qq.com/s/lh6rdV5BwHeYAhkBF2EOXw)
 * [一文打通单细胞上游：从软件部署到上游分析](https://mp.weixin.qq.com/s/pQyUieRVXohY1enqjN4lLA)
+* [单细胞测序 Q&A 之细胞分群与鉴定](https://mp.weixin.qq.com/s/M63KrX0JA1RQP9PIaeU3cw)
