@@ -180,6 +180,7 @@
 * [主成分分析的可视化展示](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247515460&idx=1&sn=1c42aa2a9d96872afdf3d27d2a327c58&chksm=ec0e78cedb79f1d8bb6a976f11eb761e06e26fb87ce56b88f3f88ba69e1f5d8cf1f000f1fa83&mpshare=1&scene=1&srcid=04184voPYC2WdVyLtjWOFDYl&sharer_sharetime=1618703239457&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=8ad0ea50d7c77351348af2760cfe0ab995752b2fa68fa132730150f0b4a3b3456e0a8ee33e8217d841af7ef14dc87b6b8b5e4fcdbd16f1bcf2550ee071636e69d56e9d9512bdcfb99335d412b5cd56cce6d0812258264c3c6e1a5b2d3923fa3d2396ff81a4e5dd2d1d4882c689565c56438efec1b7e144a967315994b4fe0da7&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AfVZH2V4QoEnw8RnGIiz3mg%3D&pass_ticket=7mEX%2BtdGxUcv3e9UnHjagL3GHqBQt8%2FFK%2BY18Gi2fw7hYHSMGrGW%2BJSe%2BEuCH7nq&wx_header=0)
 * [算法系列|R中的PCA主成分分析实用指南](https://mp.weixin.qq.com/s/Vl0qRR9JNYzAl9mcNW2T2w)
 * [KEGG 富集分析及可视化，一把子拿捏！](https://mp.weixin.qq.com/s/6BCvexUj2IorKPALj7Allg)
+* [超详细的 R 语言热图之 complexheatmap 系列 1](https://mp.weixin.qq.com/s/P1EJ3KCWEdq1AvMpoDfA7g)
 
 # R包
 
