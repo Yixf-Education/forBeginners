@@ -77,6 +77,7 @@
 * [一文掌握文件命名的原则](https://mp.weixin.qq.com/s/pGWuwShBptHbfCxzR0p6Bw)
 * [conda 镜像源配置及生信软件安装测试](https://mp.weixin.qq.com/s/WUeCDYdKTPYA35IDgW6BPA)
 * [R 包更新过程中 readr 和 cli 不匹配](https://mp.weixin.qq.com/s/27fht1Oa3BkGpCfo3wwSGA)
+* [Counts FPKM RPKM TPM CPM 的转化](https://mp.weixin.qq.com/s/IUV9dSbRBK1nvetixKOCRw)
 
 ## 其他
 
