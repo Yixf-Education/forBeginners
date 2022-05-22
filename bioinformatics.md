@@ -78,6 +78,8 @@
 * [conda 镜像源配置及生信软件安装测试](https://mp.weixin.qq.com/s/WUeCDYdKTPYA35IDgW6BPA)
 * [R 包更新过程中 readr 和 cli 不匹配](https://mp.weixin.qq.com/s/27fht1Oa3BkGpCfo3wwSGA)
 * [Counts FPKM RPKM TPM CPM 的转化](https://mp.weixin.qq.com/s/IUV9dSbRBK1nvetixKOCRw)
+* [往前一步是优秀，退后一步是懵懂](https://mp.weixin.qq.com/s/oeNaYDelcs04MndMC7VDJg)
+* [抓出那些重复的基因](https://mp.weixin.qq.com/s/afafdPz4OhPgYc7i-BnhHQ)
 
 ## 其他
 
