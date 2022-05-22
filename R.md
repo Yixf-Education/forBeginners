@@ -77,6 +77,8 @@
 * [R 语言学习：stringr 包字符串操作](https://mp.weixin.qq.com/s/0gg93Mr_v_RrCiWToz6iWg)
 * [机器学习系列 | R 语言中的非线性回归](https://mp.weixin.qq.com/s/LywGLhS9yDBpwW9lygrNIw)
 * [TCGA 改版后转录组数据的下载以及整理](https://mp.weixin.qq.com/s/rdFnq6jCMIjmrWI8A8fS5g)
+* [机器学习系列 | R 语言实践机器学习案例分享 - caret 包数据预处理](https://mp.weixin.qq.com/s/giy-8GOgwi9pwB6LxMMNMw)
+* [机器学习系列 | R 语言实践机器学习案例分享 - Bootstrap 的 R 语言实现](https://mp.weixin.qq.com/s/12_IsC599stYeTWJ4yWY4w)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
