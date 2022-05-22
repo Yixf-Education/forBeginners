@@ -133,6 +133,7 @@
 * [使用 sva 包处理批次效应](https://mp.weixin.qq.com/s/DXZQqY_aKl9xSpoQRSKUoQ)
 * [如何组织课题的故事逻辑](https://mp.weixin.qq.com/s/0-TpDv6yyJAvkFwvoH7u1g)
 * [真香！被自己做的生存分析美丽住了！](https://mp.weixin.qq.com/s/e3u5VuN-2J5x_5EgktL2ww)
+* [ATAC-seq 应用场景解析，文末有惊喜！](https://mp.weixin.qq.com/s/ZxvmsjTys83Zqmkijy02XQ)
 
 ## 系统课程
 
