@@ -136,6 +136,7 @@
 * [ATAC-seq 应用场景解析，文末有惊喜！](https://mp.weixin.qq.com/s/ZxvmsjTys83Zqmkijy02XQ)
 * [从分子到性状，表观修饰组学怎么选？](https://mp.weixin.qq.com/s/IHgH_t5fNqWM_MXqZnIaIw)
 * [一文总览 CRISPR-Cas9 基因编辑技术](https://mp.weixin.qq.com/s/ub5mFDz2jqSN2T0zMGOwcA)
+* [实用干货系列 | 如何对 Hi-C 数据进行过滤获得有效分析数据](https://mp.weixin.qq.com/s/UbH7n0k0mzv_WyalqV0lbA)
 
 ## 系统课程
 
