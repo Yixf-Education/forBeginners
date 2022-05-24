@@ -320,6 +320,7 @@
 * [技术 | 如何使用 Bash history 命令](https://linux.cn/article-12344-1.html)
 * [分享 | 4 个 Linux 命令行下的 Markdown 工具](https://linux.cn/article-12048-1.html)
 * [5 modern alternatives to essential Linux command-line tools | Opensource.com](https://opensource.com/article/20/6/modern-linux-command-line-tools)
+* [Linux 表格处理大全](https://mp.weixin.qq.com/s/2Js5GEVB761PrdDOJAO2Bw)
 
 ## 运维
 
