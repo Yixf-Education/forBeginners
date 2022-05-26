@@ -59,6 +59,7 @@
 
 ## 统计
 
+* [**seeingtheory/Seeing-Theory: A visual introduction to probability and statistics.**](https://github.com/seeingtheory/Seeing-Theory): **可视化统计学**, 它将基础的统计学课程中的基本概念以可视化形式展现，帮助学生学习相关知识。Seeing Theory 还提供了 PDF 版本的下载，但 PDF 仅提供英语，且缺乏交互，更推荐通过网页进行浏览。
 * [统计学中数据分析方法汇总！](https://mp.weixin.qq.com/s/PQ6L6qKPfQaYag7t9WfP7g)
 * [临床常见统计学疑惑解答（一）](https://mp.weixin.qq.com/s?__biz=MzA5Mjc4NTc0MQ==&mid=2651452364&idx=1&sn=79ddd3376f0d8e5700262c552883b198&chksm=8b9a8eeebced07f89b12bc88fb2698e5a15acf754226704e51009acb88464e6df44efa9a8cd8&scene=21#wechat_redirect)
 * [临床常见统计学疑惑解答（二）](https://mp.weixin.qq.com/s/LXfoIW8Vn7idI4Y8eyQsZg)
