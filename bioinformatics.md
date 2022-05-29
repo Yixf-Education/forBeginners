@@ -138,6 +138,7 @@
 * [一文总览 CRISPR-Cas9 基因编辑技术](https://mp.weixin.qq.com/s/ub5mFDz2jqSN2T0zMGOwcA)
 * [实用干货系列 | 如何对 Hi-C 数据进行过滤获得有效分析数据](https://mp.weixin.qq.com/s/UbH7n0k0mzv_WyalqV0lbA)
 * [典型医学设计实验 GEO 数据分析 (step-by-step) - Limma 差异分析、火山图、功能富集](https://mp.weixin.qq.com/s/IXUviuQFCc3jvkszciI6Vw)
+* [单细胞数据科学四大过程组两大知识领域与三重境界](https://mp.weixin.qq.com/s/xv35n4PGV0m5IP3o28UoLA)
 
 ## 系统课程
 
