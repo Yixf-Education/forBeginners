@@ -139,6 +139,8 @@
 * [实用干货系列 | 如何对 Hi-C 数据进行过滤获得有效分析数据](https://mp.weixin.qq.com/s/UbH7n0k0mzv_WyalqV0lbA)
 * [典型医学设计实验 GEO 数据分析 (step-by-step) - Limma 差异分析、火山图、功能富集](https://mp.weixin.qq.com/s/IXUviuQFCc3jvkszciI6Vw)
 * [单细胞数据科学四大过程组两大知识领域与三重境界](https://mp.weixin.qq.com/s/xv35n4PGV0m5IP3o28UoLA)
+* [临床研究专题 | 一文读懂 4 种机器学习算法教你如何筛选 Biomarker](https://mp.weixin.qq.com/s/WluFdQA0WNpAmLfwigJQ_g)
+* [生信分析过程中这些常见文件的格式以及查看方式你都知道吗？](https://mp.weixin.qq.com/s/r0R0oY7StKjX91QaEtjzaA)
 
 ## 系统课程
 
