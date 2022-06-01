@@ -71,6 +71,7 @@
 * [5 个基本概念，从统计学到机器学习](https://mp.weixin.qq.com/s/8PymPY_O6upXxdqydcCuwg)
 * [总结系列 | 机器学习算法如何选择？Check List 送到家](https://mp.weixin.qq.com/s/tLJ57IRL0HGOaFXyrx3yng)
 * [几种常见的数学分布 - 简书](https://www.jianshu.com/p/c675e3f67843?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin_timeline)
+* [总被审稿人提起的多重假设检验校正是什么？](https://mp.weixin.qq.com/s/2IgaiAvh46J_Mjv1Od3OuA)
 
 ## 统计学入门
 
