@@ -142,6 +142,7 @@
 * [单细胞数据科学四大过程组两大知识领域与三重境界](https://mp.weixin.qq.com/s/xv35n4PGV0m5IP3o28UoLA)
 * [临床研究专题 | 一文读懂 4 种机器学习算法教你如何筛选 Biomarker](https://mp.weixin.qq.com/s/WluFdQA0WNpAmLfwigJQ_g)
 * [生信分析过程中这些常见文件的格式以及查看方式你都知道吗？](https://mp.weixin.qq.com/s/r0R0oY7StKjX91QaEtjzaA)
+* [分享一些小编常用的科研网站](https://mp.weixin.qq.com/s/-QVGsP87ap4tR6qsUts0IA)
 
 ## 系统课程
 
