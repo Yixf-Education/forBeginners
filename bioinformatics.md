@@ -80,6 +80,7 @@
 * [Counts FPKM RPKM TPM CPM 的转化](https://mp.weixin.qq.com/s/IUV9dSbRBK1nvetixKOCRw)
 * [往前一步是优秀，退后一步是懵懂](https://mp.weixin.qq.com/s/oeNaYDelcs04MndMC7VDJg)
 * [抓出那些重复的基因](https://mp.weixin.qq.com/s/afafdPz4OhPgYc7i-BnhHQ)
+* [Snakemake+RMarkdown 定制你的分析流程和报告](https://mp.weixin.qq.com/s/dZCrSnhMW4Z9P9kdxx-rhg)
 
 ## 其他
 
