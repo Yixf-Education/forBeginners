@@ -93,3 +93,4 @@
 
 * [如何起一个好的学术期刊论文题目？](https://mp.weixin.qq.com/s/RaGAzmqLY7QtRPlp7zHymA)
 * [Nature：如何在学术报告中讲述一个引人入胜的故事！](https://mp.weixin.qq.com/s/tSAqMJOeo0MDOsgloOgY6A)
+* [选题精致法则：可行、有趣、新颖、合规和相关](https://mp.weixin.qq.com/s/waxiM8ZzjWDKkQ5XDxvwtw)
