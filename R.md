@@ -81,6 +81,7 @@
 * [机器学习系列 | R 语言实践机器学习案例分享 - Bootstrap 的 R 语言实现](https://mp.weixin.qq.com/s/12_IsC599stYeTWJ4yWY4w)
 * [基于 R 语言的判别分析介绍与实践（2）](https://mp.weixin.qq.com/s/BOnrTKGVHMr2PlH_z6nUxQ)
 * [R 语言的 24 个高效操作](https://mp.weixin.qq.com/s/tTGzhfPmf-6uq6dSWokgVg)
+* [使用 R 和整洁模型创建机器学习模型 - Learn | Microsoft Docs](https://docs.microsoft.com/zh-cn/learn/paths/machine-learning-with-r/)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
