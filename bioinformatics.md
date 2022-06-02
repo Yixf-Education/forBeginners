@@ -81,6 +81,7 @@
 * [往前一步是优秀，退后一步是懵懂](https://mp.weixin.qq.com/s/oeNaYDelcs04MndMC7VDJg)
 * [抓出那些重复的基因](https://mp.weixin.qq.com/s/afafdPz4OhPgYc7i-BnhHQ)
 * [Snakemake+RMarkdown 定制你的分析流程和报告](https://mp.weixin.qq.com/s/dZCrSnhMW4Z9P9kdxx-rhg)
+* [获取 Linux 工作环境的全部方法](https://mp.weixin.qq.com/s/fPW3cRuBrftRgO1B1V1nFA)
 
 ## 其他
 
