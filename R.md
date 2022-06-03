@@ -150,6 +150,7 @@
 * [**The R Graph Gallery – Help and inspiration for R charts**](https://r-graph-gallery.com/index.html)
 * [R 语言学习：ggplot2 包画图](https://mp.weixin.qq.com/s/UlLLlh6Cz2nxVGAhZ5j9yQ)
 * [学习数据可视化，看这些书就够了～～](https://mp.weixin.qq.com/s/LNr6-xG-KLrkP13iQ03eNg)
+* [DAY11: 第一章 使用 ggplot2 进行数据可视化 & 第二章 工作流](https://mp.weixin.qq.com/s/fqvpyCqbz-LySF7KLWXxjA)
 
 
 
