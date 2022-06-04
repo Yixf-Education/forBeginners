@@ -94,6 +94,9 @@
 * [Linux 能替代 Windows 吗？](https://mp.weixin.qq.com/s/NboqPUKgawB9PXGJTyqDwg)
 * [干货～iptables 详解](https://mp.weixin.qq.com/s/C0iJXJbAH5uNvA_11-3keQ)
 * [获取 Linux 工作环境的全部方法](https://mp.weixin.qq.com/s/fN4KiaLvoqRSI4hgjElzaA)
+* [免费 Linux 系统和生信宝典原创学习教程](https://mp.weixin.qq.com/s/XexhSRYnJT1-DG7c9It4TQ)
+* [Welcome to linuxzoo](https://linuxzoo.net/): Learn Linux from the safety of your chair using a remote private linux machine with root access
+* [CodeReady Workspaces Overview | Red Hat Developer](https://developers.redhat.com/products/codeready-workspaces/overview)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
