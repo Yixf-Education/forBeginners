@@ -96,3 +96,5 @@
 * [选题精致法则：可行、有趣、新颖、合规和相关](https://mp.weixin.qq.com/s/waxiM8ZzjWDKkQ5XDxvwtw)
 * [收藏！论文标准结构及写法规范最全整理！](https://mp.weixin.qq.com/s/53I3QK3wfXPGIfkdeHsezQ)
 * [如何阅读文献](https://mp.weixin.qq.com/s/BvDOraGDTPA31k52pmeDIw)
+* [文献综述写作指南，看这一篇就够了！](https://mp.weixin.qq.com/s/4NVdF-l2KzXFUFl6w1eMGw)
+* [结论与摘要的区别](https://mp.weixin.qq.com/s/flBYrUnTtKBJ8pgL8qzziA)
