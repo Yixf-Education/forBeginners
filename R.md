@@ -188,6 +188,7 @@
 * [算法系列|R中的PCA主成分分析实用指南](https://mp.weixin.qq.com/s/Vl0qRR9JNYzAl9mcNW2T2w)
 * [KEGG 富集分析及可视化，一把子拿捏！](https://mp.weixin.qq.com/s/6BCvexUj2IorKPALj7Allg)
 * [超详细的 R 语言热图之 complexheatmap 系列 1](https://mp.weixin.qq.com/s/P1EJ3KCWEdq1AvMpoDfA7g)
+* [快速拿捏 KEGG/GO/Reactome/Do/MSigDB 的 GSEA 富集分析！](https://mp.weixin.qq.com/s/pvFDWAMnXFEqlcdj-8IKzQ)
 
 # R包
 
