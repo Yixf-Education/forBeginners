@@ -3,6 +3,7 @@
 * [**从 R 绘图入门看 R 语言学习方法论**](https://mp.weixin.qq.com/s/fb4X8amP-HLnJyYKHHB85Q)
 * [**R 语言学习：R 语言做数据科学工作流**](https://mp.weixin.qq.com/s/Hdg1rA2IL4Qw-3-2p_bXng)
 * [**18 本 R 语言相关在线电子书～总有一款适合你**](https://mp.weixin.qq.com/s/MLS-M9Miuyae-PxB_Qaz1w)
+* [R 分享｜100 个统计学和 R 语言学习资源网站](https://mp.weixin.qq.com/s/hLU-pFZ7xf0Fl0OrK-sYPw)
 * [100 “must read” R-bloggers’ posts for 2015](http://www.r-bloggers.com/100-must-read-r-bloggers-posts-for-2015/)
 * [教你如何用R进行数据挖掘](http://shujuren.org/article/95.html)
 * [对照着 Excel 入门 R 语言表格数据处理](https://mp.weixin.qq.com/s?__biz=MzA5NzQzOTgzMw==&mid=2650841350&idx=1&sn=53ca8f74da960ef471ef1848d31dd29b&chksm=8b54d830bc235126ef812c1619147507f2cce6a5ad3507f4b2a14fa0e2655bcd2dba6379c7c2&scene=21#wechat_redirect)
