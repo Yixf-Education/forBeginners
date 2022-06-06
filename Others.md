@@ -98,3 +98,4 @@
 * [如何阅读文献](https://mp.weixin.qq.com/s/BvDOraGDTPA31k52pmeDIw)
 * [文献综述写作指南，看这一篇就够了！](https://mp.weixin.qq.com/s/4NVdF-l2KzXFUFl6w1eMGw)
 * [结论与摘要的区别](https://mp.weixin.qq.com/s/flBYrUnTtKBJ8pgL8qzziA)
+* [文献综述写作指南，看这一篇就够了！](https://mp.weixin.qq.com/s/4NVdF-l2KzXFUFl6w1eMGw)
