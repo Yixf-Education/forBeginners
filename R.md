@@ -190,6 +190,7 @@
 * [KEGG 富集分析及可视化，一把子拿捏！](https://mp.weixin.qq.com/s/6BCvexUj2IorKPALj7Allg)
 * [超详细的 R 语言热图之 complexheatmap 系列 1](https://mp.weixin.qq.com/s/P1EJ3KCWEdq1AvMpoDfA7g)
 * [快速拿捏 KEGG/GO/Reactome/Do/MSigDB 的 GSEA 富集分析！](https://mp.weixin.qq.com/s/pvFDWAMnXFEqlcdj-8IKzQ)
+* [WGCNA 分析，简单全面的最新教程（可以在线做了）](https://mp.weixin.qq.com/s/An8qA39qT86UIh3XidGC0A)
 
 # R包
 
