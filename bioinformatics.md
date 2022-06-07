@@ -84,6 +84,7 @@
 * [获取 Linux 工作环境的全部方法](https://mp.weixin.qq.com/s/fPW3cRuBrftRgO1B1V1nFA)
 * [基于 GATK4 标准找变异方法的自动化工作流程 oVarFlow 的使用](https://mp.weixin.qq.com/s/x292dtxh6MU82RmioY1n-Q)
 * [RNA-seq 入门实战（零）：RNA-seq 流程前的准备 ——Linux 与 R 的环境创建](https://mp.weixin.qq.com/s/TPpyEl04CuDhyShsX_exEQ)
+* [生物信息报错合集（一）](https://mp.weixin.qq.com/s/gUp0jfh2XN2K1e6p-U02Pg)
 
 ## 其他
 
