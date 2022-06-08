@@ -181,6 +181,7 @@
 * [别人的电子书，你的电子书，都在bookdown](https://mp.weixin.qq.com/s/u6oGyqVrXDw7PKB4xmg8IQ)
 * [32 份 R 语言文档沟通推文汇总](https://mp.weixin.qq.com/s/P2JuCfm0nDjptFbmd6Lpiw)
 * [R Markdown Tips and Tricks #3: Time-savers & Trouble-shooters - RStudio](https://www.rstudio.com/blog/r-markdown-tips-and-tricks-3-time-savers/)
+* [Rmarkdown 轻松录入数学公式](https://mp.weixin.qq.com/s/FQjXvaI8-XbB_tJ7KszoDA)
 
 # 生信相关
 
