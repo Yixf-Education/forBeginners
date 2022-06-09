@@ -100,3 +100,7 @@
 * [结论与摘要的区别](https://mp.weixin.qq.com/s/flBYrUnTtKBJ8pgL8qzziA)
 * [文献综述写作指南，看这一篇就够了！](https://mp.weixin.qq.com/s/4NVdF-l2KzXFUFl6w1eMGw)
 * [论文有哪些种类？](https://mp.weixin.qq.com/s/ZfZaGUJaTIiVjoDUWzKIYA)
+* [雷戈尼尔 | 如何讨论结果？](https://mp.weixin.qq.com/s/pSdLWLKnMdS96pt0Ha6wkw)
+
+
+
