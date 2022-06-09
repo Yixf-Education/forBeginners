@@ -86,6 +86,7 @@
 * [RNA-seq 入门实战（零）：RNA-seq 流程前的准备 ——Linux 与 R 的环境创建](https://mp.weixin.qq.com/s/TPpyEl04CuDhyShsX_exEQ)
 * [生物信息报错合集（一）](https://mp.weixin.qq.com/s/gUp0jfh2XN2K1e6p-U02Pg)
 * [生物信息报错合集（二）](https://mp.weixin.qq.com/s/pwY5WgAEU7tPo3TsrOFcdg)
+* [生物信息报错合集（三）：当 yum 不好使了怎么办？](https://mp.weixin.qq.com/s/ropNHai65SCnpwrQWDQsfA)
 
 ## 其他
 
