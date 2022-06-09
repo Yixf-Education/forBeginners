@@ -149,6 +149,7 @@
 * [临床研究专题 | 一文读懂 4 种机器学习算法教你如何筛选 Biomarker](https://mp.weixin.qq.com/s/WluFdQA0WNpAmLfwigJQ_g)
 * [生信分析过程中这些常见文件的格式以及查看方式你都知道吗？](https://mp.weixin.qq.com/s/r0R0oY7StKjX91QaEtjzaA)
 * [分享一些小编常用的科研网站](https://mp.weixin.qq.com/s/-QVGsP87ap4tR6qsUts0IA)
+* [单细胞空间联合分析方法论](https://mp.weixin.qq.com/s/iRXEFViLIBUfNp68nzjMbw)
 
 ## 系统课程
 
