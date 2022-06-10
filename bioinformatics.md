@@ -168,3 +168,8 @@
 * [肿瘤生物学：（4）生长因子、受体与癌症](https://mp.weixin.qq.com/s/hgYjZ2Wa2VW7PHMf_TAcSg)
 * [肿瘤生物学：（5）癌症中的细胞信号网络](https://mp.weixin.qq.com/s/uDra_XQV8DtVs-sODKFIrg)
 * [肿瘤生物学：（6）抑癌基因](https://mp.weixin.qq.com/s/xfGocDfaxDL9hPPzvSRkjg)
+* [肿瘤生物学：（7）肿瘤与细胞周期控制时钟](https://mp.weixin.qq.com/s/p2_LVyr4z3isYf1MxN22oQ)
+* [肿瘤生物学：（8）p53 与凋亡：守护神兼刽子手](https://mp.weixin.qq.com/s/7JjAM33Kpato4-W0riLH0w)
+* [肿瘤生物学：（9）细胞永生化与肿瘤形成](https://mp.weixin.qq.com/s/8q8d-EaDnxXKoXn4agH59Q)
+* [肿瘤生物学：（10）肿瘤是多阶段发生发展的](https://mp.weixin.qq.com/s/wJl3_KmT3UYi4aNDyYp2BA)
+* [肿瘤生物学：（11）肿瘤发生与基因组的完整性](https://mp.weixin.qq.com/s/A8TRcpb6hxckpzI31BAhwA)
