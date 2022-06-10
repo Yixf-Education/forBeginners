@@ -162,3 +162,7 @@
 * [Practical Computing and Bioinformatics for Conservation and Evolutionary Genomics](https://eriqande.github.io/eca-bioinf-handbook/)
 * [肿瘤生物学：（1）癌症的本质](https://mp.weixin.qq.com/s/1EtIzhDVwUVVPo_dm-Z85Q)
 * [肿瘤生物学：（2）肿瘤病毒](https://mp.weixin.qq.com/s/ywkwjTCzJtZIoKT1Bca0cA)
+* [肿瘤生物学：（3）细胞癌基因](https://mp.weixin.qq.com/s/lLzCRS-oRfTd61clbLOXeQ)
+* [肿瘤生物学：（4）生长因子、受体与癌症](https://mp.weixin.qq.com/s/hgYjZ2Wa2VW7PHMf_TAcSg)
+* [肿瘤生物学：（5）癌症中的细胞信号网络](https://mp.weixin.qq.com/s/uDra_XQV8DtVs-sODKFIrg)
+* [肿瘤生物学：（6）抑癌基因](https://mp.weixin.qq.com/s/xfGocDfaxDL9hPPzvSRkjg)
