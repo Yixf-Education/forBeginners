@@ -193,6 +193,7 @@
 * [快速拿捏 KEGG/GO/Reactome/Do/MSigDB 的 GSEA 富集分析！](https://mp.weixin.qq.com/s/pvFDWAMnXFEqlcdj-8IKzQ)
 * [WGCNA 分析，简单全面的最新教程（可以在线做了）](https://mp.weixin.qq.com/s/An8qA39qT86UIh3XidGC0A)
 * [关于基因 ID 转换，一文就够了](https://mp.weixin.qq.com/s/uigu1BzOgFPP2BKhE36O7Q)
+* [单细胞集大成者的 seurat 包的可视化本质上是 ggplot2 语法](https://mp.weixin.qq.com/s/Q4Dn_dqW1JVMmWxSsqIHEQ)
 
 # R包
 
