@@ -103,5 +103,7 @@
 * [雷戈尼尔 | 如何讨论结果？](https://mp.weixin.qq.com/s/pSdLWLKnMdS96pt0Ha6wkw)
 * [如何写出了不起的摘要](https://mp.weixin.qq.com/s/FADaG1gDfQKR4IlTAs5dNg)
 
+## 数据集
 
+* [这 10 个很棒的免费数据源，让你告别找数据的焦虑～～](https://mp.weixin.qq.com/s/yUbzF83ur1dY2pqTSjhOSQ)
 
