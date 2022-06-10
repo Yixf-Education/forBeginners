@@ -87,6 +87,10 @@
 * [生物信息报错合集（一）](https://mp.weixin.qq.com/s/gUp0jfh2XN2K1e6p-U02Pg)
 * [生物信息报错合集（二）](https://mp.weixin.qq.com/s/pwY5WgAEU7tPo3TsrOFcdg)
 * [生物信息报错合集（三）：当 yum 不好使了怎么办？](https://mp.weixin.qq.com/s/ropNHai65SCnpwrQWDQsfA)
+* [RNA-seq 入门实战（四）：差异分析前的准备 —— 数据检查](https://mp.weixin.qq.com/s/KTz0-sujHYZDXsCVPUmR3g)
+* [RNA-seq 入门实战（五）：差异分析 ——DESeq2 edgeR limma 的使用与比较](https://mp.weixin.qq.com/s/G7LQHvybW32Kn-jPYR7k6A)
+* [RNA-seq 入门实战（六）：GO、KEGG 富集分析与 enrichplot 超全可视化攻略](https://mp.weixin.qq.com/s/U0iTbLs5zSrXnxo09iuUgA)
+* [RNA-seq 入门实战（七）：GSEA—— 基因集富集分析](https://mp.weixin.qq.com/s/3bLCMwxAQPN9g8-01OLWRg)
 
 ## 其他
 
