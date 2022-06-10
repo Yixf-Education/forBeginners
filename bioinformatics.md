@@ -91,6 +91,8 @@
 * [RNA-seq 入门实战（五）：差异分析 ——DESeq2 edgeR limma 的使用与比较](https://mp.weixin.qq.com/s/G7LQHvybW32Kn-jPYR7k6A)
 * [RNA-seq 入门实战（六）：GO、KEGG 富集分析与 enrichplot 超全可视化攻略](https://mp.weixin.qq.com/s/U0iTbLs5zSrXnxo09iuUgA)
 * [RNA-seq 入门实战（七）：GSEA—— 基因集富集分析](https://mp.weixin.qq.com/s/3bLCMwxAQPN9g8-01OLWRg)
+* [RNA-seq 入门实战（八）：GSVA—— 基因集变异分析](https://mp.weixin.qq.com/s/4gVTgTGHnNms5x-1pvRslg)
+* [RNA-seq 入门实战（九）：PPI 蛋白互作网络构建（上）——STRING 数据库的使用](https://mp.weixin.qq.com/s/I4Pdc5xFiVLx5exMmkXgKQ)
 
 ## 其他
 
