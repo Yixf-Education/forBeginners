@@ -93,6 +93,8 @@
 * [RNA-seq 入门实战（七）：GSEA—— 基因集富集分析](https://mp.weixin.qq.com/s/3bLCMwxAQPN9g8-01OLWRg)
 * [RNA-seq 入门实战（八）：GSVA—— 基因集变异分析](https://mp.weixin.qq.com/s/4gVTgTGHnNms5x-1pvRslg)
 * [RNA-seq 入门实战（九）：PPI 蛋白互作网络构建（上）——STRING 数据库的使用](https://mp.weixin.qq.com/s/I4Pdc5xFiVLx5exMmkXgKQ)
+* [RNA-seq 入门实战（十）：PPI 蛋白互作网络构建（下）——Cytoscape 软件的使用](https://mp.weixin.qq.com/s/7O9_M7lQk_ghcMOSDZEwzg)
+* [RNA-seq 入门实战（十一）：WGCNA 加权基因共表达网络分析 —— 关联基因模块与表型](https://mp.weixin.qq.com/s/3w2e6LwRowMsm2ZzyMAvdA)
 
 ## 其他
 
