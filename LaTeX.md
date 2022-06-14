@@ -10,3 +10,4 @@
 * [xinychen/latex-cookbook: LaTeX论文写作教程 (中文版)](https://github.com/xinychen/latex-cookbook)
 * [Elegant 系列模板版本更新了（v4.3）](https://mp.weixin.qq.com/s/ciqxxiQ79hG1XSSqJdYTXw)
 * [深度好文：表格合并单元格指定宽度技巧](https://mp.weixin.qq.com/s/jJilqRYZWeZXLRhfELeLPQ)
+* [LaTeX 攻略之脚注常用技巧](https://mp.weixin.qq.com/s/0j6oXghEocJGAHYV88WPjw)
