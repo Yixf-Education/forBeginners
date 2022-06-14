@@ -103,6 +103,7 @@
 * [论文有哪些种类？](https://mp.weixin.qq.com/s/ZfZaGUJaTIiVjoDUWzKIYA)
 * [雷戈尼尔 | 如何讨论结果？](https://mp.weixin.qq.com/s/pSdLWLKnMdS96pt0Ha6wkw)
 * [如何写出了不起的摘要](https://mp.weixin.qq.com/s/FADaG1gDfQKR4IlTAs5dNg)
+* [如何撰写学术文章的引言](https://mp.weixin.qq.com/s/S-zTyTi7GbGXjbCUgb06zw)
 
 ## 数据集
 
