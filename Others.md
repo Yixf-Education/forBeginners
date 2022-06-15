@@ -104,6 +104,7 @@
 * [雷戈尼尔 | 如何讨论结果？](https://mp.weixin.qq.com/s/pSdLWLKnMdS96pt0Ha6wkw)
 * [如何写出了不起的摘要](https://mp.weixin.qq.com/s/FADaG1gDfQKR4IlTAs5dNg)
 * [如何撰写学术文章的引言](https://mp.weixin.qq.com/s/S-zTyTi7GbGXjbCUgb06zw)
+* [好文分享 | 如何写研究论文结论](https://mp.weixin.qq.com/s/bgoaafUu6JbqHZgPfHF-NQ)
 
 ## 数据集
 
