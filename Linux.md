@@ -98,6 +98,7 @@
 * [Welcome to linuxzoo](https://linuxzoo.net/): Learn Linux from the safety of your chair using a remote private linux machine with root access
 * [CodeReady Workspaces Overview | Red Hat Developer](https://developers.redhat.com/products/codeready-workspaces/overview)
 * [全方位阐述 Linux 替代 Windows 的优势](https://mp.weixin.qq.com/s/AdDsnJdAeo6fPevmcMkmRg)
+* [给 Linux 初学者的 7 条建议 | Linux 中国](https://mp.weixin.qq.com/s/YKwIQHYAEtIxypjbUW-SPg)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
