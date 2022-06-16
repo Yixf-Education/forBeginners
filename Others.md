@@ -105,6 +105,7 @@
 * [如何写出了不起的摘要](https://mp.weixin.qq.com/s/FADaG1gDfQKR4IlTAs5dNg)
 * [如何撰写学术文章的引言](https://mp.weixin.qq.com/s/S-zTyTi7GbGXjbCUgb06zw)
 * [好文分享 | 如何写研究论文结论](https://mp.weixin.qq.com/s/bgoaafUu6JbqHZgPfHF-NQ)
+* [晕不晕？文献里的 “e.g.”、“i.e.”、“et al.” 和 “etc.”](https://mp.weixin.qq.com/s/tSeX33aPqoNRM0EtAHZUAA)
 
 ## 数据集
 
