@@ -160,6 +160,7 @@
 * [分享一些小编常用的科研网站](https://mp.weixin.qq.com/s/-QVGsP87ap4tR6qsUts0IA)
 * [单细胞空间联合分析方法论](https://mp.weixin.qq.com/s/iRXEFViLIBUfNp68nzjMbw)
 * [Mutect2案例 / 有或没有正常样本配对的肿瘤体细胞变异检测结果对比](https://mp.weixin.qq.com/s/-v_tAPh1nCxmzbTv_6H2EQ)
+* [GATK / 体细胞短变异检测工具 Mutect2 的使用](https://mp.weixin.qq.com/s/SaMt819RQ7aoPuBGw6650w)
 
 ## 系统课程
 
