@@ -106,6 +106,7 @@
 * [如何撰写学术文章的引言](https://mp.weixin.qq.com/s/S-zTyTi7GbGXjbCUgb06zw)
 * [好文分享 | 如何写研究论文结论](https://mp.weixin.qq.com/s/bgoaafUu6JbqHZgPfHF-NQ)
 * [晕不晕？文献里的 “e.g.”、“i.e.”、“et al.” 和 “etc.”](https://mp.weixin.qq.com/s/tSeX33aPqoNRM0EtAHZUAA)
+* [论文存在这 7 种情况，在投稿时会被认定学术不端！](https://mp.weixin.qq.com/s/ReFA55gzu7h13a_c3GoCTA)
 
 ## 数据集
 
