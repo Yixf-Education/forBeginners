@@ -85,6 +85,7 @@
 * [R 语言的 24 个高效操作](https://mp.weixin.qq.com/s/tTGzhfPmf-6uq6dSWokgVg)
 * [使用 R 和整洁模型创建机器学习模型 - Learn | Microsoft Docs](https://docs.microsoft.com/zh-cn/learn/paths/machine-learning-with-r/)
 * [R 分享｜CRAN 中竟然有这么一个网站](https://mp.weixin.qq.com/s/xTmjDnRkvAytN9MXYqkMdg)
+* [R 问题｜如何查看函数的源代码](https://mp.weixin.qq.com/s/gMV1irk9BN9vflBgXxroFg)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
