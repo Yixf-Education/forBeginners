@@ -163,6 +163,7 @@
 * [GATK / 体细胞短变异检测工具 Mutect2 的使用](https://mp.weixin.qq.com/s/SaMt819RQ7aoPuBGw6650w)
 * [空间转录组分析工具篇 1：Seurat](https://mp.weixin.qq.com/s/A7-hfLyYV6fZIB42ovujpg)
 * [空间转录组分析工具篇 2：Giotto](https://mp.weixin.qq.com/s/_tnQr-nBGEljNlwGpWw6RA)
+* [超越图谱 | 谈谈细胞生态学雏形](https://mp.weixin.qq.com/s/Mh-glpkbkoPHqAyrAHCJiw)
 
 ## 系统课程
 
