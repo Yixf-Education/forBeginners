@@ -96,6 +96,10 @@
 * [RNA-seq 入门实战（十）：PPI 蛋白互作网络构建（下）——Cytoscape 软件的使用](https://mp.weixin.qq.com/s/7O9_M7lQk_ghcMOSDZEwzg)
 * [RNA-seq 入门实战（十一）：WGCNA 加权基因共表达网络分析 —— 关联基因模块与表型](https://mp.weixin.qq.com/s/3w2e6LwRowMsm2ZzyMAvdA)
 * [为什么新手在编程社区提问经常得不到回答，甚至还会被嘲讽？](https://mp.weixin.qq.com/s/YJRsoz-x3_M3uK6IpvWZdA)
+* [workflow02 - 可视化展示 snakemake 流程](https://mp.weixin.qq.com/s/uTVHAA74-Hl1hlfkTUgDPg)
+* [workflow03 - 用 snakemake 制作比对及变异查找流程](https://mp.weixin.qq.com/s/xUssfJiXhg4PncgtNPwrZw)
+* [workflow04 - 用 snakemake 处理复杂命名](https://mp.weixin.qq.com/s/2Rl2IN39YwPJwGQw3v0M_Q)
+* [workflow05-snakemake 的进阶操作一](https://mp.weixin.qq.com/s/O0LyNU_sPLl_GoL4fjz-DQ)
 
 ## 其他
 
