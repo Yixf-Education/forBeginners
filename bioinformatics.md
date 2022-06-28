@@ -177,6 +177,7 @@
 * [盘点 | 全球单细胞测序中游企业（上）](https://mp.weixin.qq.com/s/7tZVJLw0u1ISnbu2LsjmUw)
 * [盘点 | 全球单细胞测序中游企业（下）](https://mp.weixin.qq.com/s/mOUGcmm32qGcCSPxZYQDsA)
 * [盘点 | 全球单细胞测序下游企业](https://mp.weixin.qq.com/s/5kH1m97CtyDlG_8FJivpbw)
+* [一文看全！基因编辑原理、全球顶尖科学家和科研机构](https://mp.weixin.qq.com/s/XZuiuTuXWWD-7Fq5_AFM1Q)
 
 ## 系统课程
 
