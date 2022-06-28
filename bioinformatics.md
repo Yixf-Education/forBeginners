@@ -171,6 +171,12 @@
 * [VCF vs Maf | 变异注释及整理为 Maf 格式](https://mp.weixin.qq.com/s/chRnXj8SQvFnos6AnUO2sQ)
 * [GATK 教程 / 变异检测前的数据预处理](https://mp.weixin.qq.com/s/laml_9XtHSWofpdWNief4g)
 * [GATK 教程 / 体细胞短变异检测 (SNV+InDel) 流程概览](https://mp.weixin.qq.com/s/Qono33E4NBaKF7kgmsp1hQ)
+* [空间转录组数据分析策略之定性分析](https://mp.weixin.qq.com/s/euu_SRLvARfoRLiv3OmDPA)
+* [盘点 | 全球单细胞测序上游企业（上）](https://mp.weixin.qq.com/s/zUs6HH1h7kDRa1GADjRmdg)
+* [盘点 | 全球单细胞测序上游企业（下）](https://mp.weixin.qq.com/s/S8cC4CzGvEXXTjD5UcoV5Q)
+* [盘点 | 全球单细胞测序中游企业（上）](https://mp.weixin.qq.com/s/7tZVJLw0u1ISnbu2LsjmUw)
+* [盘点 | 全球单细胞测序中游企业（下）](https://mp.weixin.qq.com/s/mOUGcmm32qGcCSPxZYQDsA)
+* [盘点 | 全球单细胞测序下游企业](https://mp.weixin.qq.com/s/5kH1m97CtyDlG_8FJivpbw)
 
 ## 系统课程
 
