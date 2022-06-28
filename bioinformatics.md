@@ -165,6 +165,7 @@
 * [空间转录组分析工具篇 2：Giotto](https://mp.weixin.qq.com/s/_tnQr-nBGEljNlwGpWw6RA)
 * [超越图谱 | 谈谈细胞生态学雏形](https://mp.weixin.qq.com/s/Mh-glpkbkoPHqAyrAHCJiw)
 * [VCF vs Maf | 变异注释及整理为 Maf 格式](https://mp.weixin.qq.com/s/chRnXj8SQvFnos6AnUO2sQ)
+* [GATK 教程 / 变异检测前的数据预处理](https://mp.weixin.qq.com/s/laml_9XtHSWofpdWNief4g)
 
 ## 系统课程
 
