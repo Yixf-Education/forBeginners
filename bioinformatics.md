@@ -162,6 +162,7 @@
 * [Mutect2案例 / 有或没有正常样本配对的肿瘤体细胞变异检测结果对比](https://mp.weixin.qq.com/s/-v_tAPh1nCxmzbTv_6H2EQ)
 * [GATK / 体细胞短变异检测工具 Mutect2 的使用](https://mp.weixin.qq.com/s/SaMt819RQ7aoPuBGw6650w)
 * [空间转录组分析工具篇 1：Seurat](https://mp.weixin.qq.com/s/A7-hfLyYV6fZIB42ovujpg)
+* [空间转录组分析工具篇 2：Giotto](https://mp.weixin.qq.com/s/_tnQr-nBGEljNlwGpWw6RA)
 
 ## 系统课程
 
