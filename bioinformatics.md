@@ -170,6 +170,7 @@
 * [超越图谱 | 谈谈细胞生态学雏形](https://mp.weixin.qq.com/s/Mh-glpkbkoPHqAyrAHCJiw)
 * [VCF vs Maf | 变异注释及整理为 Maf 格式](https://mp.weixin.qq.com/s/chRnXj8SQvFnos6AnUO2sQ)
 * [GATK 教程 / 变异检测前的数据预处理](https://mp.weixin.qq.com/s/laml_9XtHSWofpdWNief4g)
+* [GATK 教程 / 体细胞短变异检测 (SNV+InDel) 流程概览](https://mp.weixin.qq.com/s/Qono33E4NBaKF7kgmsp1hQ)
 
 ## 系统课程
 
