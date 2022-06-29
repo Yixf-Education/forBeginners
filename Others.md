@@ -109,6 +109,8 @@
 * [晕不晕？文献里的 “e.g.”、“i.e.”、“et al.” 和 “etc.”](https://mp.weixin.qq.com/s/tSeX33aPqoNRM0EtAHZUAA)
 * [论文存在这 7 种情况，在投稿时会被认定学术不端！](https://mp.weixin.qq.com/s/ReFA55gzu7h13a_c3GoCTA)
 * [染色体不稳定性，凭什么 2022 年还能用 TCGA 数据发 Nature？](https://mp.weixin.qq.com/s/aPKOMBTbTbcTilQ5maadPw)
+* [论文如何署名？排序还是排名？](https://mp.weixin.qq.com/s/YhNWOxNg1o6vvlwrs_8e4A)
+* [状态 Under Review 一定是送审了吗？未必啦！](https://mp.weixin.qq.com/s/3QPXx8oqM2QsmMjH7kYhwA)
 
 ## 数据集
 
