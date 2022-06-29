@@ -111,6 +111,8 @@
 * [染色体不稳定性，凭什么 2022 年还能用 TCGA 数据发 Nature？](https://mp.weixin.qq.com/s/aPKOMBTbTbcTilQ5maadPw)
 * [论文如何署名？排序还是排名？](https://mp.weixin.qq.com/s/YhNWOxNg1o6vvlwrs_8e4A)
 * [状态 Under Review 一定是送审了吗？未必啦！](https://mp.weixin.qq.com/s/3QPXx8oqM2QsmMjH7kYhwA)
+* [论文投稿前可开展的 5 项自评工作](https://mp.weixin.qq.com/s/e__Uc6hiq3dzpexPE_nMfA)
+* [投稿时如何选择推荐审稿人？](https://mp.weixin.qq.com/s/YLFYZpWTLzREQavEzPwX5Q)
 
 ## 数据集
 
