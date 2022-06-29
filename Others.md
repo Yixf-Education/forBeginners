@@ -74,7 +74,7 @@
 * [几种常见的数学分布 - 简书](https://www.jianshu.com/p/c675e3f67843?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin_timeline)
 * [总被审稿人提起的多重假设检验校正是什么？](https://mp.weixin.qq.com/s/2IgaiAvh46J_Mjv1Od3OuA)
 * [当 宝 宝 遇 上 统 计 学](https://mp.weixin.qq.com/s/Lcllm6U3D17eXDlFAl8v4Q)
-* [得到课程](https://www.dedao.cn/share/course/article?id=aYB83z6N9dqxVyP3NQK7ZMvy0GQDO5)
+* [罗胖精选｜怎样用数据解决难题？](https://www.dedao.cn/share/course/article?id=aYB83z6N9dqxVyP3NQK7ZMvy0GQDO5)
 
 ## 统计学入门
 

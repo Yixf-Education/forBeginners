@@ -179,6 +179,7 @@
 * [盘点 | 全球单细胞测序下游企业](https://mp.weixin.qq.com/s/5kH1m97CtyDlG_8FJivpbw)
 * [一文看全！基因编辑原理、全球顶尖科学家和科研机构](https://mp.weixin.qq.com/s/XZuiuTuXWWD-7Fq5_AFM1Q)
 * [遗传疾病全外显子组检测 —— 单基因遗传病一网打尽](https://mp.weixin.qq.com/s/BQQHqhqvDbbbEm82-sABeQ)
+* [复杂疾病研究常见解决方案总结 (一)](https://mp.weixin.qq.com/s/8lkQnbo5rXnf2Dcd2bPZEA)
 
 ## 系统课程
 
