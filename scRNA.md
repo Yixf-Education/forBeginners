@@ -46,6 +46,7 @@
 
 * [空间转录组这么火，何不一起入个门](https://mp.weixin.qq.com/s/WhyjLu5YJ-nHSyZ1bB7jEw)
 * [Nature Methods | 空间转录组与单细胞转录组整合分析工具性能测试 - 知乎](https://zhuanlan.zhihu.com/p/521011013)
+* [空间转录组分析工具篇 4：stLearn（上）](https://mp.weixin.qq.com/s/ziRCUYWHAN_isoZryYMyIg)
 
 ## 其他
 
