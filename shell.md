@@ -57,6 +57,7 @@
 * [Bash 编程](https://mp.weixin.qq.com/s/w67bOn2FRO0B4gB8wULHIw)
 * [有了这篇 Shell 脚本实践指南，同事对我“刮目相看”！](https://mp.weixin.qq.com/s/YWLFoOEWyenFR6LQfqxA_g)
 * [一文学完 Linux Shell 编程（强烈建议收藏）](https://mp.weixin.qq.com/s/bgqn_6fpohaDlUFk1kxcog)
+* [开箱即用：100 个 Linux Shell 脚本经典案例解析](https://mp.weixin.qq.com/s/HgWtoaeT3EviTwVvq-xbCg)
 
 ##  shell编程系列
 * [SHELL编程之语法基础](http://liwei.life/2016/05/16/69/)
