@@ -166,6 +166,7 @@
 * [DAY14: 第七章 使用 tibble 实现简单数据框 & 第八章 使用 readr 进行数据导入](https://mp.weixin.qq.com/s/gNKNNli1XS2pOgGeRUzCfw)
 * [DAY15: 第九章 使用 dplyr 处理关系数据 & 第十章 使用 stringr 处理字符串](https://mp.weixin.qq.com/s/O9PPh1FV2LZThWPC1CDxnQ)
 * [DAY16 第十一章 使用 forcats 处理因子 & 第十二章 使用 lubridate 处理日期和时间](https://mp.weixin.qq.com/s/Z0vzonr8CefkeETUAwzSgQ)
+* [Quick and easy ways to deal with long labels in ggplot2 | Andrew Heiss](https://www.andrewheiss.com/blog/2022/06/23/long-labels-ggplot/)
 
 
 
