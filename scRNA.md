@@ -42,6 +42,10 @@
 * [单细胞测序 Q&A 之细胞分群与鉴定](https://mp.weixin.qq.com/s/M63KrX0JA1RQP9PIaeU3cw)
 * [张泽民老师系列文章解读 - 综述篇](https://mp.weixin.qq.com/s/HPtbnnkYE4jcye5u4EXBNg)
 
+## 空间转录组
+
+* [空间转录组这么火，何不一起入个门](https://mp.weixin.qq.com/s/WhyjLu5YJ-nHSyZ1bB7jEw)
+
 ## 其他
 
 * [代码来袭！在 R 和 Seurat 中导入 BD Rhapsody 单细胞多组学数据](https://mp.weixin.qq.com/s/mxagt0U0G54ptCOQBW_vJA)
