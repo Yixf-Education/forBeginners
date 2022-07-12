@@ -201,6 +201,7 @@
 * [肿瘤生物学：（13）肿瘤的侵袭和转移](https://mp.weixin.qq.com/s/kLTkcI05QZP3lbtn0s7ujw)
 * [肿瘤生物学：（14）肿瘤免疫和免疫治疗](https://mp.weixin.qq.com/s/bQGplOEAP9JEHUnzC6vx5A)
 * [基础知识概述：肿瘤与免疫](https://mp.weixin.qq.com/s/33BM8I4USwFlhoafGTg31A)
+* [学习生信的系列书籍](https://mp.weixin.qq.com/s/sLuuSfeT0CiqMVI0gMI-Rw)
 
 ## Galaxy
 
