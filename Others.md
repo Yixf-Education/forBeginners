@@ -78,6 +78,7 @@
 * [关公战秦琼，怎么比高下？](https://www.dedao.cn/share/course/article?id=DAgOBQ46R1rnXRQzL3JdLzGqEZ3aY7)
 * [给打算做预测建模的人提几点建议](https://mp.weixin.qq.com/s/_sfp7DmDR2rnZvu8qSaeOw)
 * [统计学和机器学习到底有什么区别？](https://mp.weixin.qq.com/s/oiEGhtUth37FdoiUD3vFxw)
+* [超酷！那些惊艳百年的数据可视化 “神图” 推荐～～](https://mp.weixin.qq.com/s/olvlv0nP67f_5T1hqJcmxw)
 
 ## 统计学入门
 
