@@ -49,6 +49,8 @@
 * [空间转录组分析工具篇 4：stLearn（上）](https://mp.weixin.qq.com/s/ziRCUYWHAN_isoZryYMyIg)
 * [三维和空间基因组学时代（下篇）](https://mp.weixin.qq.com/s/kxFhI_Sy27Xfw_eUSjuzGg)
 * [时空通讯分析导论](https://mp.weixin.qq.com/s/2C00iAe6GFdt9JVDoVi7pQ)
+* [空间转录组分析工具篇 3：Scanpy](https://mp.weixin.qq.com/s/oCtl8mewK8xBM4wRBvzPxQ)
+* [空间转录组的绝对干货！还不来收藏？](https://mp.weixin.qq.com/s/G71JsjXozR8C_0ZGl7lvMw)
 
 ## 其他
 
