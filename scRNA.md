@@ -47,6 +47,8 @@
 * [空间转录组这么火，何不一起入个门](https://mp.weixin.qq.com/s/WhyjLu5YJ-nHSyZ1bB7jEw)
 * [Nature Methods | 空间转录组与单细胞转录组整合分析工具性能测试 - 知乎](https://zhuanlan.zhihu.com/p/521011013)
 * [空间转录组分析工具篇 4：stLearn（上）](https://mp.weixin.qq.com/s/ziRCUYWHAN_isoZryYMyIg)
+* [三维和空间基因组学时代（下篇）](https://mp.weixin.qq.com/s/kxFhI_Sy27Xfw_eUSjuzGg)
+* [时空通讯分析导论](https://mp.weixin.qq.com/s/2C00iAe6GFdt9JVDoVi7pQ)
 
 ## 其他
 
