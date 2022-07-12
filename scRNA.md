@@ -41,6 +41,7 @@
 * [一文打通单细胞上游：从软件部署到上游分析](https://mp.weixin.qq.com/s/pQyUieRVXohY1enqjN4lLA)
 * [单细胞测序 Q&A 之细胞分群与鉴定](https://mp.weixin.qq.com/s/M63KrX0JA1RQP9PIaeU3cw)
 * [张泽民老师系列文章解读 - 综述篇](https://mp.weixin.qq.com/s/HPtbnnkYE4jcye5u4EXBNg)
+* [注释单细胞数据集的小妙招！](https://mp.weixin.qq.com/s/72utg47W8xXaVYaEIE62VQ)
 
 ## 空间转录组
 
