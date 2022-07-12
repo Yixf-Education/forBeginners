@@ -76,6 +76,7 @@
 * [当 宝 宝 遇 上 统 计 学](https://mp.weixin.qq.com/s/Lcllm6U3D17eXDlFAl8v4Q)
 * [罗胖精选｜怎样用数据解决难题？](https://www.dedao.cn/share/course/article?id=aYB83z6N9dqxVyP3NQK7ZMvy0GQDO5)
 * [关公战秦琼，怎么比高下？](https://www.dedao.cn/share/course/article?id=DAgOBQ46R1rnXRQzL3JdLzGqEZ3aY7)
+* [给打算做预测建模的人提几点建议](https://mp.weixin.qq.com/s/_sfp7DmDR2rnZvu8qSaeOw)
 
 ## 统计学入门
 
