@@ -113,6 +113,8 @@
 * [状态 Under Review 一定是送审了吗？未必啦！](https://mp.weixin.qq.com/s/3QPXx8oqM2QsmMjH7kYhwA)
 * [论文投稿前可开展的 5 项自评工作](https://mp.weixin.qq.com/s/e__Uc6hiq3dzpexPE_nMfA)
 * [投稿时如何选择推荐审稿人？](https://mp.weixin.qq.com/s/YLFYZpWTLzREQavEzPwX5Q)
+* [推荐 3 个英语论文写作辅助神器](https://mp.weixin.qq.com/s/-IKX-opthHcSlZNHilLL1A)
+* [综述论文写作指南](https://mp.weixin.qq.com/s/LumHI1_H-R9hq_nrut8MHw)
 
 ## 数据集
 
