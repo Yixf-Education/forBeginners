@@ -77,6 +77,7 @@
 * [罗胖精选｜怎样用数据解决难题？](https://www.dedao.cn/share/course/article?id=aYB83z6N9dqxVyP3NQK7ZMvy0GQDO5)
 * [关公战秦琼，怎么比高下？](https://www.dedao.cn/share/course/article?id=DAgOBQ46R1rnXRQzL3JdLzGqEZ3aY7)
 * [给打算做预测建模的人提几点建议](https://mp.weixin.qq.com/s/_sfp7DmDR2rnZvu8qSaeOw)
+* [统计学和机器学习到底有什么区别？](https://mp.weixin.qq.com/s/oiEGhtUth37FdoiUD3vFxw)
 
 ## 统计学入门
 
