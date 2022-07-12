@@ -220,6 +220,7 @@
 * [Bioconductor 中的 R 包安装教程(续一)](https://mp.weixin.qq.com/s/qojN2kYMLq4W_RC7jSyzrg)
 * [为新手准备的现代化 R 包开发流程](https://mp.weixin.qq.com/s/Uy2Dr71jR5qikbrdeKp9eQ)
 * [R 包开发流程速览](https://mp.weixin.qq.com/s/s5lkSujXpUIrK8u-iEHuQA)
+* [R 语言中如何查看安装过的 R 包](https://mp.weixin.qq.com/s/NPeioG9zUYy7avx_h4M34A)
 
 # Shiny
 
