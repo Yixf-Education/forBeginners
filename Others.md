@@ -121,6 +121,7 @@
 * [如何规范的回复审稿人 —— 标准的 Response to reviewer](https://mp.weixin.qq.com/s/fXJiU2fHA3NWPSDBKcOXqQ)
 * [期刊编辑总结的 14 个拒稿原因！太真实了！](https://mp.weixin.qq.com/s/TepcqNxDgQ-YwylaUf4-XA)
 * [文献综述存在的 6 大通病，你写论文犯过这些错吗？](https://mp.weixin.qq.com/s/tKB5Ps2y2VE1i8xDyW_YGQ)
+* [结论与摘要的区别](https://mp.weixin.qq.com/s/LXeLapZ5UjeMTSmYU_y1ZA)
 
 ## 数据集
 
