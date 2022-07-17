@@ -227,6 +227,7 @@
 * [为新手准备的现代化 R 包开发流程](https://mp.weixin.qq.com/s/Uy2Dr71jR5qikbrdeKp9eQ)
 * [R 包开发流程速览](https://mp.weixin.qq.com/s/s5lkSujXpUIrK8u-iEHuQA)
 * [R 语言中如何查看安装过的 R 包](https://mp.weixin.qq.com/s/NPeioG9zUYy7avx_h4M34A)
+* [基于 R 语言的深度学习 —— 配置环境](https://mp.weixin.qq.com/s/Idl_IG71g3vwppZKO4yIMQ)
 
 # Shiny
 
