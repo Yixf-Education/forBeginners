@@ -181,6 +181,7 @@
 * [遗传疾病全外显子组检测 —— 单基因遗传病一网打尽](https://mp.weixin.qq.com/s/BQQHqhqvDbbbEm82-sABeQ)
 * [复杂疾病研究常见解决方案总结 (一)](https://mp.weixin.qq.com/s/8lkQnbo5rXnf2Dcd2bPZEA)
 * [NGS 应用于新生儿疾病筛查，未来可期](https://mp.weixin.qq.com/s/mFMkk9Y0bDvQLipxlU1eSQ)
+* [如何查找感兴趣基因的信息？](https://mp.weixin.qq.com/s/7sPbzfto8_SeewVemerNhw)
 
 ## 系统课程
 
