@@ -89,6 +89,7 @@
 * [R 变量索引 - 什么时候使用 @或 $](https://mp.weixin.qq.com/s/tpWEllrXI5o2Q3IQ9O06eA)
 * [基于 R 语言的科研论文绘图技巧汇总](https://mp.weixin.qq.com/s/VBOs4_wo-WBD8vjzhWEhXg)
 * [基于 R 语言的深度学习 —— 简介及资料分享](https://mp.weixin.qq.com/s/45lDl-Xr8wODjfniC5w2pQ)
+* [R 语言绘制数据：图表篇 | Linux 中国](https://mp.weixin.qq.com/s/MYH7bUgBcexozHd5ApUt9A)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
