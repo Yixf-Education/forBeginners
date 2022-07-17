@@ -182,6 +182,7 @@
 * [复杂疾病研究常见解决方案总结 (一)](https://mp.weixin.qq.com/s/8lkQnbo5rXnf2Dcd2bPZEA)
 * [NGS 应用于新生儿疾病筛查，未来可期](https://mp.weixin.qq.com/s/mFMkk9Y0bDvQLipxlU1eSQ)
 * [如何查找感兴趣基因的信息？](https://mp.weixin.qq.com/s/7sPbzfto8_SeewVemerNhw)
+* [不会代码？宝藏在线工具 GEPIA2 轻松挖数据！](https://mp.weixin.qq.com/s/QK2XkOd044iiRB3cHHULaw)
 
 ## 系统课程
 
