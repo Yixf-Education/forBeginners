@@ -24,6 +24,7 @@
 * [如何用外行容易理解的语言解释Python中的概念？](https://mp.weixin.qq.com/s/fwmWunMRs88L36gAO2C8eQ)
 * [软件开发 | Perl 语言基础入门](https://linux.cn/article-14296-1.html)
 * [不同编程语言是如何完成同一件事 | Linux 中国](https://mp.weixin.qq.com/s/JzTQFbSrqQq73lYv8wNmzg)
+* [编程初学者如何使用搜索引擎](https://mp.weixin.qq.com/s/22PsgEBbzLtOebXBhlEyKA)
 
 ## Perl系列
 
