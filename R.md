@@ -168,6 +168,7 @@
 * [DAY15: 第九章 使用 dplyr 处理关系数据 & 第十章 使用 stringr 处理字符串](https://mp.weixin.qq.com/s/O9PPh1FV2LZThWPC1CDxnQ)
 * [DAY16 第十一章 使用 forcats 处理因子 & 第十二章 使用 lubridate 处理日期和时间](https://mp.weixin.qq.com/s/Z0vzonr8CefkeETUAwzSgQ)
 * [Quick and easy ways to deal with long labels in ggplot2 | Andrew Heiss](https://www.andrewheiss.com/blog/2022/06/23/long-labels-ggplot/)
+* [60 种可视化图表制作工具和使用场景](https://mp.weixin.qq.com/s/NETp9l0xs33I7E232DFi2w)
 
 
 
