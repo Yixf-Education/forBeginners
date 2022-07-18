@@ -126,6 +126,7 @@
 * [结论与摘要的区别](https://mp.weixin.qq.com/s/LXeLapZ5UjeMTSmYU_y1ZA)
 * [引言的正式写法：三篇谈如何写 “引言” 的正式论文](https://mp.weixin.qq.com/s/ombDerpEgPgJrNdi18rTVw)
 * [如何设计撰写课题研究方案？](https://mp.weixin.qq.com/s/WQeD0JeQS2BjLCoG5BpBkw)
+* [斯坦福教授：如何查找与阅读科学论文](https://mp.weixin.qq.com/s/XfTK5x0GgrT9C4FJvbagbQ)
 
 ## 数据集
 
