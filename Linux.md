@@ -100,6 +100,7 @@
 * [全方位阐述 Linux 替代 Windows 的优势](https://mp.weixin.qq.com/s/AdDsnJdAeo6fPevmcMkmRg)
 * [给 Linux 初学者的 7 条建议 | Linux 中国](https://mp.weixin.qq.com/s/YKwIQHYAEtIxypjbUW-SPg)
 * [他是世界上最杰出的程序员，一个月写了个操作系统，退休后去做飞行员！](https://mp.weixin.qq.com/s/GgpbBiaO_1IXT7s5ERyDvA)
+* [获取 Linux 工作环境的全部方法](https://mp.weixin.qq.com/s/hB9jTsz2ZNtZ6nd1enENfw)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
