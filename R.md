@@ -171,6 +171,8 @@
 * [60 种可视化图表制作工具和使用场景](https://mp.weixin.qq.com/s/NETp9l0xs33I7E232DFi2w)
 * [12 个 ggplot2 扩展包帮你实现更强大的可视化](https://mp.weixin.qq.com/s/EYKnTC-JQ6JK4RRZlRx9qg)
 * [R 语言绘制数据：图表篇 | Linux 中国](https://mp.weixin.qq.com/s/Td5oSwHymeymR0NC98o4Ng)
+* [论文图形配色杂乱？ 一键帮你轻松解决！](https://mp.weixin.qq.com/s/tCLeLb6cv9njB1eAZhj1_g)
+* [**ColorSpace - Color Palettes Generator and Color Gradient Tool**](https://mycolor.space/)
 
 
 
