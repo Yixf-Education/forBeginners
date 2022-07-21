@@ -57,6 +57,7 @@
 * [好代码和坏代码](https://mp.weixin.qq.com/s/8X4T9dfPDdt2qrAWF8tEmw)
 * [一个独特的简历生成器，开源了！](https://mp.weixin.qq.com/s/DdH46AsgKF0HUgvaAvWztQ)
 * [学术写作两套英文句型库](https://mp.weixin.qq.com/s/QfHntDSxyd7U8CB99tAaMQ)
+* [5 个骚气满满的项目，诞生了！](https://mp.weixin.qq.com/s/oUmNQK74M0Q0LtEf7GAycg)
 
 ## 统计
 
