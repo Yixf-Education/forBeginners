@@ -129,6 +129,9 @@
 * [如何设计撰写课题研究方案？](https://mp.weixin.qq.com/s/WQeD0JeQS2BjLCoG5BpBkw)
 * [斯坦福教授：如何查找与阅读科学论文](https://mp.weixin.qq.com/s/XfTK5x0GgrT9C4FJvbagbQ)
 * [十问审稿人，80 条回复排作者之忧！](https://mp.weixin.qq.com/s/ecgaXEzr5SJnkEm07HR0BA)
+* [大师课堂 | 如何写出完美的段落](https://mp.weixin.qq.com/s/M-cSlz-ZhjA6qrnCyUBbAw)
+* [写好文献综述的十个重要提醒](https://mp.weixin.qq.com/s/d9ItqMvM1Sp7NHnry3Ljcg)
+* [e.g. 还是 i.e.？in situ 还是 operando？辨一辨学术论文中的拉丁文](https://mp.weixin.qq.com/s/t0e7WilK8H1ot2Sq-QXbBQ)
 
 ## 数据集
 
