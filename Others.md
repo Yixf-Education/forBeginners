@@ -132,6 +132,8 @@
 * [大师课堂 | 如何写出完美的段落](https://mp.weixin.qq.com/s/M-cSlz-ZhjA6qrnCyUBbAw)
 * [写好文献综述的十个重要提醒](https://mp.weixin.qq.com/s/d9ItqMvM1Sp7NHnry3Ljcg)
 * [e.g. 还是 i.e.？in situ 还是 operando？辨一辨学术论文中的拉丁文](https://mp.weixin.qq.com/s/t0e7WilK8H1ot2Sq-QXbBQ)
+* [斯坦福教授：如何查找与阅读科学论文](https://mp.weixin.qq.com/s/Udm5nukRRmirhwTdnYLYiQ)
+* [https://web.stanford.edu/~siegelr/readingsci.htm](https://web.stanford.edu/~siegelr/readingsci.htm)
 
 ## 数据集
 
