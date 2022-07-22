@@ -328,6 +328,8 @@
 * [分享 | 4 个 Linux 命令行下的 Markdown 工具](https://linux.cn/article-12048-1.html)
 * [5 modern alternatives to essential Linux command-line tools | Opensource.com](https://opensource.com/article/20/6/modern-linux-command-line-tools)
 * [Linux 表格处理大全](https://mp.weixin.qq.com/s/2Js5GEVB761PrdDOJAO2Bw)
+* [find 命令的 7 种用法](https://mp.weixin.qq.com/s/XS2KOhBeGeviusIqIBnxKg)
+* [一句话加速 grep 近 30 倍](https://mp.weixin.qq.com/s/3QHqrjupUVYccqJYv68jvw)
 
 ## 运维
 
