@@ -184,6 +184,7 @@
 * [NGS 应用于新生儿疾病筛查，未来可期](https://mp.weixin.qq.com/s/mFMkk9Y0bDvQLipxlU1eSQ)
 * [如何查找感兴趣基因的信息？](https://mp.weixin.qq.com/s/7sPbzfto8_SeewVemerNhw)
 * [不会代码？宝藏在线工具 GEPIA2 轻松挖数据！](https://mp.weixin.qq.com/s/QK2XkOd044iiRB3cHHULaw)
+* [孟德尔诞辰 200 周年：一个超越时代的天才，和他留下的科学遗产](https://mp.weixin.qq.com/s/Em9X2lIJuQ_YHnxd8gL3_A)
 
 ## 系统课程
 
