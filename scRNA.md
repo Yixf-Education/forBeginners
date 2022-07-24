@@ -53,6 +53,7 @@
 * [空间转录组分析工具篇 3：Scanpy](https://mp.weixin.qq.com/s/oCtl8mewK8xBM4wRBvzPxQ)
 * [空间转录组的绝对干货！还不来收藏？](https://mp.weixin.qq.com/s/G71JsjXozR8C_0ZGl7lvMw)
 * [空间转录组差异及富集分析应用思路](https://mp.weixin.qq.com/s/YV3FjqnnbV2mLj19mizr6w)
+* [空间转录组分析工具篇 4：stLearn（下）](https://mp.weixin.qq.com/s/Q3y0ZSwEBVJEQrjSvHGD7g)
 
 ## 其他
 
