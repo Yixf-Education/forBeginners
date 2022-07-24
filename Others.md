@@ -135,6 +135,7 @@
 * [斯坦福教授：如何查找与阅读科学论文](https://mp.weixin.qq.com/s/Udm5nukRRmirhwTdnYLYiQ)
 * [https://web.stanford.edu/~siegelr/readingsci.htm](https://web.stanford.edu/~siegelr/readingsci.htm)
 * [引用文献的六个主要目的](https://mp.weixin.qq.com/s/r8UZc8Ckvg9k2Jp9Hs4WNw)
+* [决定文章生死的 figure 怎么画？看这篇就够了！](https://mp.weixin.qq.com/s/pJ1r_7tovMURlJ8hVol-zg)
 
 ## 数据集
 
