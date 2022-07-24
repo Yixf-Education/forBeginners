@@ -218,6 +218,7 @@
 * [关于基因 ID 转换，一文就够了](https://mp.weixin.qq.com/s/uigu1BzOgFPP2BKhE36O7Q)
 * [单细胞集大成者的 seurat 包的可视化本质上是 ggplot2 语法](https://mp.weixin.qq.com/s/Q4Dn_dqW1JVMmWxSsqIHEQ)
 * [如何将基因数据映射到 KEGG 通路图上？](https://mp.weixin.qq.com/s/nOQtXMy0M6pqa4AP0WeYUg)
+* [主成分分析 (PCA) 怎样可视化展示？！超简单的方法推荐给你～～](https://mp.weixin.qq.com/s/EK5yTkyF7QyZboAg6G00Vw)
 
 # R包
 
