@@ -101,6 +101,7 @@
 * [workflow04 - 用 snakemake 处理复杂命名](https://mp.weixin.qq.com/s/2Rl2IN39YwPJwGQw3v0M_Q)
 * [workflow05-snakemake 的进阶操作一](https://mp.weixin.qq.com/s/O0LyNU_sPLl_GoL4fjz-DQ)
 * [转录调控 | 基因集富集分析（GSEA）介绍](https://mp.weixin.qq.com/s/6Dyyo8ui3jHYztHK2lpQWg)
+* [如何查找目标基因的详细信息？](https://mp.weixin.qq.com/s/k1ab9TgHIPgbM7SlSwSY9Q)
 
 ## 其他
 
