@@ -136,6 +136,9 @@
 * [https://web.stanford.edu/~siegelr/readingsci.htm](https://web.stanford.edu/~siegelr/readingsci.htm)
 * [引用文献的六个主要目的](https://mp.weixin.qq.com/s/r8UZc8Ckvg9k2Jp9Hs4WNw)
 * [决定文章生死的 figure 怎么画？看这篇就够了！](https://mp.weixin.qq.com/s/pJ1r_7tovMURlJ8hVol-zg)
+* [论文研究背景怎么写？与引言有何不同？](https://mp.weixin.qq.com/s/Nu3_E3ZTSDrfMNsuwvBFPQ)
+* [如何让论文之言能言之有物、言之有据、言之有序，言之有趣和言之有度](https://mp.weixin.qq.com/s/lhidz1QWmwQjbCBLfbGJkA)
+* [学术主页 | 科研人的无代码建站工具](https://mp.weixin.qq.com/s/ST1VQqV7y_lUMYC4YtedSw)
 
 ## 数据集
 
