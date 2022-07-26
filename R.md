@@ -174,6 +174,8 @@
 * [R 语言绘制数据：图表篇 | Linux 中国](https://mp.weixin.qq.com/s/Td5oSwHymeymR0NC98o4Ng)
 * [论文图形配色杂乱？ 一键帮你轻松解决！](https://mp.weixin.qq.com/s/tCLeLb6cv9njB1eAZhj1_g)
 * [**ColorSpace - Color Palettes Generator and Color Gradient Tool**](https://mycolor.space/)
+* [**Chart.Guide, how to choose, build and design your Chart**](https://chart.guide/)
+* [**Data Viz Project | Collection of data visualizations to get inspired and finding the right type.**](https://datavizproject.com/)
 
 
 
