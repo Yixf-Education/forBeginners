@@ -96,6 +96,7 @@
 * [统计学入门 | 第二章 参数估计：其他分布参数的区间估计](https://mp.weixin.qq.com/s/fCCuHliXhl78IhihxUjCTQ)
 * [统计学入门｜第二章 参数估计：样本量计算](https://mp.weixin.qq.com/s/i39YVNfFwfmycHbXHeRxaA)
 * [6个简单实用的可视化小技巧](https://mp.weixin.qq.com/s/sllf32lb_s_1SD4lFBBhpw)
+* [统计学入门 | 第四章 决策树](https://mp.weixin.qq.com/s/lcYsZ5UnVzEB1kgyQ6A6fA)
 
 ## 科研
 
