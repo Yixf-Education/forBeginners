@@ -190,6 +190,7 @@
 * [孟德尔诞辰 200 周年：一个超越时代的天才，和他留下的科学遗产](https://mp.weixin.qq.com/s/Em9X2lIJuQ_YHnxd8gL3_A)
 * [转录组结果解读常见问题（一）](https://mp.weixin.qq.com/s/80aRwx4Y3f5RTj0Y7DhORw)
 * [机器学习与生物信息 --XGBoost](https://mp.weixin.qq.com/s/UIUit0PP4jHLFS_xBp20Vw)
+* [如何查找感兴趣的通路图？](https://mp.weixin.qq.com/s/I2p_o06u4PpCY-R1Gk2jDw)
 
 ## 系统课程
 
