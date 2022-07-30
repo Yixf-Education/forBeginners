@@ -143,6 +143,7 @@
 * [使用指路牌，让读者不迷路](https://mp.weixin.qq.com/s/IRrgelBcl1HkyKSf01-nsw)
 * [科普写作与专业写作的区别](https://mp.weixin.qq.com/s/oriFdfB33HuCGqTvLxH27g)
 * [Author resources: Community Review](https://www.cell.com/community-review/authors)
+* [文献综述的二十八个要点](https://mp.weixin.qq.com/s/wkxQrs7eAn2YHyGy2T5f8g)
 
 ## 数据集
 
