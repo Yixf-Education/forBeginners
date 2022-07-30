@@ -224,6 +224,7 @@
 * [如何将基因数据映射到 KEGG 通路图上？](https://mp.weixin.qq.com/s/nOQtXMy0M6pqa4AP0WeYUg)
 * [主成分分析 (PCA) 怎样可视化展示？！超简单的方法推荐给你～～](https://mp.weixin.qq.com/s/EK5yTkyF7QyZboAg6G00Vw)
 * [机器学习算法 - 随机森林之理论概述](https://mp.weixin.qq.com/s/T7M1kZRdXnfRHh22w3MHqg)
+* [机器学习算法 - 随机森林之决策树初探（1）](https://mp.weixin.qq.com/s/QFljLtb4mNOrTgtgIc3FrQ)
 
 # R包
 
