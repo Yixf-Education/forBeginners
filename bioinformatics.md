@@ -189,6 +189,7 @@
 * [不会代码？宝藏在线工具 GEPIA2 轻松挖数据！](https://mp.weixin.qq.com/s/QK2XkOd044iiRB3cHHULaw)
 * [孟德尔诞辰 200 周年：一个超越时代的天才，和他留下的科学遗产](https://mp.weixin.qq.com/s/Em9X2lIJuQ_YHnxd8gL3_A)
 * [转录组结果解读常见问题（一）](https://mp.weixin.qq.com/s/80aRwx4Y3f5RTj0Y7DhORw)
+* [机器学习与生物信息 --XGBoost](https://mp.weixin.qq.com/s/UIUit0PP4jHLFS_xBp20Vw)
 
 ## 系统课程
 
