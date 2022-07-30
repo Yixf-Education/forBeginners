@@ -215,3 +215,7 @@
 ## Galaxy
 
 * [Galaxy Training!](https://training.galaxyproject.org/training-material/)
+
+## Books
+
+* [总有一本适合你～分享 9 本和生物信息学相关的 python 电子书](https://mp.weixin.qq.com/s/riZRx8YXFXCXc_YW0tpvdQ)
