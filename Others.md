@@ -81,6 +81,7 @@
 * [统计学和机器学习到底有什么区别？](https://mp.weixin.qq.com/s/oiEGhtUth37FdoiUD3vFxw)
 * [超酷！那些惊艳百年的数据可视化 “神图” 推荐～～](https://mp.weixin.qq.com/s/olvlv0nP67f_5T1hqJcmxw)
 * [机器学习的常用算法](https://mp.weixin.qq.com/s/njYKugzn57K6lI4gVPKXzQ)
+* [数据统计分析的 16 个基础概念](https://mp.weixin.qq.com/s/54LowxLiuTiJDwwOiJF2KA)
 
 ## 统计学入门
 
