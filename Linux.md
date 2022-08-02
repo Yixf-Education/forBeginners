@@ -333,6 +333,7 @@
 * [find 命令的 7 种用法](https://mp.weixin.qq.com/s/XS2KOhBeGeviusIqIBnxKg)
 * [一句话加速 grep 近 30 倍](https://mp.weixin.qq.com/s/3QHqrjupUVYccqJYv68jvw)
 * [在 Ubuntu 中使用 apt 命令列出可升级的软件包 | Linux 中国](https://mp.weixin.qq.com/s/x8I5oZWN4sOpBA7iTaUDZQ)
+* [每一个程序员需要了解的 10 个 Linux 命令](https://mp.weixin.qq.com/s/emdBudvgPZ3DVSRxPS92tQ)
 
 ## 运维
 
