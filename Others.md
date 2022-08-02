@@ -144,6 +144,8 @@
 * [科普写作与专业写作的区别](https://mp.weixin.qq.com/s/oriFdfB33HuCGqTvLxH27g)
 * [Author resources: Community Review](https://www.cell.com/community-review/authors)
 * [文献综述的二十八个要点](https://mp.weixin.qq.com/s/wkxQrs7eAn2YHyGy2T5f8g)
+* [文章被拒：什么原因？怎么办？](https://mp.weixin.qq.com/s/WeVupntfK-ObpzUi8yBJfQ)
+* [摘要、引言和结论的六项区别](https://mp.weixin.qq.com/s/6ikB3mO38gWbVk27cQoH7w)
 
 ## 数据集
 
