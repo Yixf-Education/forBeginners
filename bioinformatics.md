@@ -15,6 +15,7 @@
 * [直接下载打包好的参考基因组及注释文件快速搭建生信分析环境](https://mp.weixin.qq.com/s/FISw_-6m_qrJ-uRZWKH2Ew)
 * [Introduction - GDC Docs](https://docs.gdc.cancer.gov/Data/Introduction/)
 * [又发现一个好玩儿的工具 Binder](https://mp.weixin.qq.com/s/G7kN6zdeimGAtYe-7EZO4w)
+* [Nextflow：一种生物信息流程搭建的框架语言（专门开发）](https://mp.weixin.qq.com/s/PZdwYeRYQ-ZemtmLpWhUrQ)
 
 ## 生信问题与编程技能
 * [生物信息学研究的思考](https://mp.weixin.qq.com/s/p7RKD_kVfK3ny6s7j_f8zg)
