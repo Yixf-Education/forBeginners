@@ -92,6 +92,7 @@
 * [R 语言绘制数据：图表篇 | Linux 中国](https://mp.weixin.qq.com/s/MYH7bUgBcexozHd5ApUt9A)
 * [地区分布图及其应用](https://mp.weixin.qq.com/s/OKuRLJ7jjvdIKSqqItJr5Q)
 * [【精心整理】2022 年各专业领域全网最新最顶级的 R 语言新书](https://mp.weixin.qq.com/s/BoIWAa70kmWNumu0BgiNsw)
+* [R 语言制作地区分布图及其动画](https://mp.weixin.qq.com/s/Z-LNRfONFhpgkZrcdfEsbA)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
