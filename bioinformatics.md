@@ -192,6 +192,7 @@
 * [转录组结果解读常见问题（一）](https://mp.weixin.qq.com/s/80aRwx4Y3f5RTj0Y7DhORw)
 * [机器学习与生物信息 --XGBoost](https://mp.weixin.qq.com/s/UIUit0PP4jHLFS_xBp20Vw)
 * [如何查找感兴趣的通路图？](https://mp.weixin.qq.com/s/I2p_o06u4PpCY-R1Gk2jDw)
+* [干货 | 一文快速 get GSEA 富集分析是什么，怎么用？](https://mp.weixin.qq.com/s/dwhznWPTgr9SHsWj5oMKBA)
 
 ## 系统课程
 
