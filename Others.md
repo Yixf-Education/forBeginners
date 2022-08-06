@@ -149,6 +149,7 @@
 * [文献综述的二十八个要点](https://mp.weixin.qq.com/s/wkxQrs7eAn2YHyGy2T5f8g)
 * [文章被拒：什么原因？怎么办？](https://mp.weixin.qq.com/s/WeVupntfK-ObpzUi8yBJfQ)
 * [摘要、引言和结论的六项区别](https://mp.weixin.qq.com/s/6ikB3mO38gWbVk27cQoH7w)
+* [推特最多的写作指导 | 写好结构化论文的 10 条规则](https://mp.weixin.qq.com/s/WqsqO76WHzaUuhMTT9T3lQ)
 
 ## 数据集
 
