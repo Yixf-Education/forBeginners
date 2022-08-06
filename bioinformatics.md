@@ -194,6 +194,7 @@
 * [如何查找感兴趣的通路图？](https://mp.weixin.qq.com/s/I2p_o06u4PpCY-R1Gk2jDw)
 * [干货 | 一文快速 get GSEA 富集分析是什么，怎么用？](https://mp.weixin.qq.com/s/dwhznWPTgr9SHsWj5oMKBA)
 * [转录调控专题 | WGCNA - 加权基因共表达网络分析](https://mp.weixin.qq.com/s/AB3qG9z9q2delz49SAMhIQ)
+* [外显子和基因组基本概念 (一)](https://mp.weixin.qq.com/s/4VGPlz7hKaNd5zBpgTbWGQ)
 
 ## 系统课程
 
