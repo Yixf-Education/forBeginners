@@ -195,6 +195,7 @@
 * [干货 | 一文快速 get GSEA 富集分析是什么，怎么用？](https://mp.weixin.qq.com/s/dwhznWPTgr9SHsWj5oMKBA)
 * [转录调控专题 | WGCNA - 加权基因共表达网络分析](https://mp.weixin.qq.com/s/AB3qG9z9q2delz49SAMhIQ)
 * [外显子和基因组基本概念 (一)](https://mp.weixin.qq.com/s/4VGPlz7hKaNd5zBpgTbWGQ)
+* [统计遗传学：第三章，群体遗传](https://mp.weixin.qq.com/s/iLN4Cu2navQbrb1kg3yiyw)
 
 ## 系统课程
 
