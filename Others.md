@@ -98,6 +98,7 @@
 * [统计学入门｜第二章 参数估计：样本量计算](https://mp.weixin.qq.com/s/i39YVNfFwfmycHbXHeRxaA)
 * [6个简单实用的可视化小技巧](https://mp.weixin.qq.com/s/sllf32lb_s_1SD4lFBBhpw)
 * [统计学入门 | 第四章 决策树](https://mp.weixin.qq.com/s/lcYsZ5UnVzEB1kgyQ6A6fA)
+* [统计学入门 | 第四章 神经网络模型](https://mp.weixin.qq.com/s/h-limLJ3gKdnfbtr4db6tw)
 
 ## 科研
 
