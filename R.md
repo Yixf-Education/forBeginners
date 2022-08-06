@@ -227,6 +227,7 @@
 * [主成分分析 (PCA) 怎样可视化展示？！超简单的方法推荐给你～～](https://mp.weixin.qq.com/s/EK5yTkyF7QyZboAg6G00Vw)
 * [机器学习算法 - 随机森林之理论概述](https://mp.weixin.qq.com/s/T7M1kZRdXnfRHh22w3MHqg)
 * [机器学习算法 - 随机森林之决策树初探（1）](https://mp.weixin.qq.com/s/QFljLtb4mNOrTgtgIc3FrQ)
+* [基于 R 语言的深度学习 —— 简单回归案例](https://mp.weixin.qq.com/s/wZSu94BjTtlJ7RPR-qLmBA)
 
 # R包
 
