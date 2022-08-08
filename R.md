@@ -94,6 +94,7 @@
 * [【精心整理】2022 年各专业领域全网最新最顶级的 R 语言新书](https://mp.weixin.qq.com/s/BoIWAa70kmWNumu0BgiNsw)
 * [R 语言制作地区分布图及其动画](https://mp.weixin.qq.com/s/Z-LNRfONFhpgkZrcdfEsbA)
 * [R 语言的 24 个高效操作](https://mp.weixin.qq.com/s/qtHMhU0-W_DVoDcYEqxAsQ)
+* [给初学者准备的 R 语言深度学习教程](https://mp.weixin.qq.com/s/Ms89sMFB1LEkks-Pc2y8ug)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
