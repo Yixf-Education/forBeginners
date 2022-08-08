@@ -337,6 +337,8 @@
 * [11 个让你吃惊的 Linux 终端命令](https://mp.weixin.qq.com/s/PKK9Fr8oWcLrpqhF--xT7w)
 * [一个 print 函数，挺会玩啊？](https://mp.weixin.qq.com/s/qlKtereQCJFerefk-Y_sgg)
 * [Mamba-- 快速且跨平台的软件包管理器（conda 的替代品）](https://mp.weixin.qq.com/s/8GXV_xiW5XVOtFaFqgfWbg)
+* [颜值也是生产力，给命令行点颜色瞧瞧](https://mp.weixin.qq.com/s/biXXLe9DjJ4qPtGNMqHNNQ)
+* [如何优雅的给 cp 和 mv 命令添加一个高颜值的进度条](https://mp.weixin.qq.com/s/6kEnuTVSHBgILeYvmHqIuw)
 
 ## 运维
 
