@@ -85,6 +85,7 @@
 * [机器学习的常用算法](https://mp.weixin.qq.com/s/njYKugzn57K6lI4gVPKXzQ)
 * [数据统计分析的 16 个基础概念](https://mp.weixin.qq.com/s/54LowxLiuTiJDwwOiJF2KA)
 * [概率论的起源、发展与应用](https://mp.weixin.qq.com/s/wT8TuAcR26NlJxngdgqEcA)
+* [数据统计分析的16个基础概念](https://mp.weixin.qq.com/s/bZMOYzanTCYULctwbGRGYQ)
 
 ## 统计学入门
 
