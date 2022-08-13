@@ -44,6 +44,7 @@
 * [注释单细胞数据集的小妙招！](https://mp.weixin.qq.com/s/72utg47W8xXaVYaEIE62VQ)
 * [单细胞转录组做代谢分析的方法汇总](https://mp.weixin.qq.com/s/azfPRBIu5owbsvOF7L3W9w)
 * [别再纠结捕获多少细胞做多少重复了！答案在这里 | 单细胞专题](https://mp.weixin.qq.com/s/UP-KnOv3RF4yZ87M5CJofA)
+* [scanpy官方教程2022|02-细胞发育/分化轨迹推断](https://mp.weixin.qq.com/s/s767smp2V18A-O1qEuzlMw)
 
 ## 空间转录组
 
