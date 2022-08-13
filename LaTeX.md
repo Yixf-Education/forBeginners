@@ -12,3 +12,5 @@
 * [深度好文：表格合并单元格指定宽度技巧](https://mp.weixin.qq.com/s/jJilqRYZWeZXLRhfELeLPQ)
 * [LaTeX 攻略之脚注常用技巧](https://mp.weixin.qq.com/s/0j6oXghEocJGAHYV88WPjw)
 * [耿老师教你 LaTeX 为啥要多次编译](https://mp.weixin.qq.com/s/S5mDjzRwGKIakOwyrZ8CVQ)
+* [exam-zh: 高考试卷 LaTeX 模板](https://gitee.com/zepinglee/exam-zh)
+* [中国试卷 LaTeX 模板 - 集大成者](https://mp.weixin.qq.com/s/o5zvayR8-N0XZsGCS-waRQ)
