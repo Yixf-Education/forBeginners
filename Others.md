@@ -84,6 +84,7 @@
 * [超酷！那些惊艳百年的数据可视化 “神图” 推荐～～](https://mp.weixin.qq.com/s/olvlv0nP67f_5T1hqJcmxw)
 * [机器学习的常用算法](https://mp.weixin.qq.com/s/njYKugzn57K6lI4gVPKXzQ)
 * [数据统计分析的 16 个基础概念](https://mp.weixin.qq.com/s/54LowxLiuTiJDwwOiJF2KA)
+* [概率论的起源、发展与应用](https://mp.weixin.qq.com/s/wT8TuAcR26NlJxngdgqEcA)
 
 ## 统计学入门
 
