@@ -108,6 +108,7 @@
 * [如何查找目标基因的详细信息？](https://mp.weixin.qq.com/s/k1ab9TgHIPgbM7SlSwSY9Q)
 * [引用 2 万次！多维度基因组学综合探索：cBioPortal 数据库使用指南](https://mp.weixin.qq.com/s/DaqFxYYSEw-QpScb8QwEFg)
 * [如何将通路图导入到 Cytoscape 中？](https://mp.weixin.qq.com/s/8y08mG-DHt1LJaEMZYe8FQ)
+* [算法玄学](https://mp.weixin.qq.com/s/iomtBHXGGaDxoJAGwfMLbQ)
 
 ## 其他
 
