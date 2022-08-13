@@ -158,6 +158,7 @@
 * [怎样体面地讲道理？](https://mp.weixin.qq.com/s/kznqOvdU4oUb3dq8lagSCw)
 * [如何像资深专家那样引用文献](https://mp.weixin.qq.com/s/TsPMSjEiW5tKusW9lbICaw)
 * [写好结构化论文的 10 条规则](https://mp.weixin.qq.com/s/ZdvN90qDPu7pMi7fm6sHWw)
+* [我被拒稿了](https://mp.weixin.qq.com/s/6uftNzmLS8rEWhy6DRUNxA)
 
 ## 数据集
 
