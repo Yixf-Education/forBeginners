@@ -157,6 +157,7 @@
 * [如何通过模仿写出自己的论文](https://mp.weixin.qq.com/s/s_HyziiHagFhbpY1KxJnGQ)
 * [怎样体面地讲道理？](https://mp.weixin.qq.com/s/kznqOvdU4oUb3dq8lagSCw)
 * [如何像资深专家那样引用文献](https://mp.weixin.qq.com/s/TsPMSjEiW5tKusW9lbICaw)
+* [写好结构化论文的 10 条规则](https://mp.weixin.qq.com/s/ZdvN90qDPu7pMi7fm6sHWw)
 
 ## 数据集
 
