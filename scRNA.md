@@ -43,6 +43,7 @@
 * [张泽民老师系列文章解读 - 综述篇](https://mp.weixin.qq.com/s/HPtbnnkYE4jcye5u4EXBNg)
 * [注释单细胞数据集的小妙招！](https://mp.weixin.qq.com/s/72utg47W8xXaVYaEIE62VQ)
 * [单细胞转录组做代谢分析的方法汇总](https://mp.weixin.qq.com/s/azfPRBIu5owbsvOF7L3W9w)
+* [别再纠结捕获多少细胞做多少重复了！答案在这里 | 单细胞专题](https://mp.weixin.qq.com/s/UP-KnOv3RF4yZ87M5CJofA)
 
 ## 空间转录组
 
@@ -56,6 +57,7 @@
 * [空间转录组差异及富集分析应用思路](https://mp.weixin.qq.com/s/YV3FjqnnbV2mLj19mizr6w)
 * [空间转录组分析工具篇 4：stLearn（下）](https://mp.weixin.qq.com/s/Q3y0ZSwEBVJEQrjSvHGD7g)
 * [空间转录组分析工具篇 5：DR.SC](https://mp.weixin.qq.com/s/ADalar-AZ6JY9_vVT35YLA)
+* [空间转录组定量分析及应用 — 基因调控网络](https://mp.weixin.qq.com/s/53rRrVsJBCvhFI4FuOqtfQ)
 
 ## 其他
 
