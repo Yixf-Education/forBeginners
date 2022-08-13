@@ -109,6 +109,7 @@
 * [引用 2 万次！多维度基因组学综合探索：cBioPortal 数据库使用指南](https://mp.weixin.qq.com/s/DaqFxYYSEw-QpScb8QwEFg)
 * [如何将通路图导入到 Cytoscape 中？](https://mp.weixin.qq.com/s/8y08mG-DHt1LJaEMZYe8FQ)
 * [算法玄学](https://mp.weixin.qq.com/s/iomtBHXGGaDxoJAGwfMLbQ)
+* [基因功能注释包下载、制作与富集分析](https://mp.weixin.qq.com/s/GS1Mx10vUoV0TZvHBeB78w)
 
 ## 其他
 
