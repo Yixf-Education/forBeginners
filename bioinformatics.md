@@ -232,3 +232,4 @@
 ## Books
 
 * [总有一本适合你～分享 9 本和生物信息学相关的 python 电子书](https://mp.weixin.qq.com/s/riZRx8YXFXCXc_YW0tpvdQ)
+* [生物信息入门优秀书籍推荐](https://mp.weixin.qq.com/s/fB9gut_nfN10Yt-x8PZV5g)
