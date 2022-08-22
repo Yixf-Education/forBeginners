@@ -106,6 +106,7 @@
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
+* [**Command Challenge!**](https://cmdchallenge.com/#/create_symlink)
 * [20款优秀的Linux终端仿真器](https://linux.cn/article-5738-1.html)
 * [Linux中10个有用的命令行补全例子](https://linux.cn/article-6301-1.html)
 * [linux下十大命令行下载工具](https://linux.cn/article-7369-1.html)
