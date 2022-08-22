@@ -167,6 +167,7 @@
 * [如何进行文献阅读？](https://mp.weixin.qq.com/s/tnUQZHiWUYCL7JVPeLvDRg)
 * [学术论文写作宏观指南](https://mp.weixin.qq.com/s/IPfDUJwMBvPOukVEV_akMw)
 * [新生必备技能 —— 学术礼仪](https://mp.weixin.qq.com/s/-j5MydivVKKTQveEXzM3zA)
+* [论文写作规范，这篇文章说的最详细！](https://mp.weixin.qq.com/s/o9sd_2LH2xi-X7iK3Y-j6Q)
 
 ## 数据集
 
