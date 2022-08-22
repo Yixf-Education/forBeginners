@@ -45,6 +45,9 @@
 * [单细胞转录组做代谢分析的方法汇总](https://mp.weixin.qq.com/s/azfPRBIu5owbsvOF7L3W9w)
 * [别再纠结捕获多少细胞做多少重复了！答案在这里 | 单细胞专题](https://mp.weixin.qq.com/s/UP-KnOv3RF4yZ87M5CJofA)
 * [scanpy官方教程2022|02-细胞发育/分化轨迹推断](https://mp.weixin.qq.com/s/s767smp2V18A-O1qEuzlMw)
+* [盘点：也适用于单细胞的降维和聚类方法，值得收藏](https://mp.weixin.qq.com/s/k4IgZJdaJQCLhKy0gX5atQ)
+* [单细胞分析如何确定合适的 resolution](https://mp.weixin.qq.com/s/sQgMIoXN15N1zL84uC7y2A)
+* [单细胞测序专题 | monocle2 拟时序分析前后结果不一致？带您认识一款新的分析软件 PAGA](https://mp.weixin.qq.com/s/w7yxer95DosM9IWz2BcBqw)
 
 ## 空间转录组
 
