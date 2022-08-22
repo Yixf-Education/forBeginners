@@ -114,6 +114,7 @@
 * [群体遗传 | 一步快速解决 VCF 的 PCA 分析](https://mp.weixin.qq.com/s/ZyF1SHggn5WDUzmLZXrLkw)
 * [机器学习与生物信息 --XGBoost](https://mp.weixin.qq.com/s/37QkMtH6_HrvZHuP5icdJw)
 * [10 种聚类算法的完整 Python 操作示例](https://mp.weixin.qq.com/s/5yZVPyZwHTOdBAKZg5CGAQ)
+* [基因芯片教程【2】 如何基于 illumina SNP 芯片分型结果进行 CNV 分析](https://mp.weixin.qq.com/s/HZmkjg5t14HqwiMB3NXkQg)
 
 ## 其他
 
