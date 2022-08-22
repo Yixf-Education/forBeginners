@@ -110,6 +110,8 @@
 * [如何将通路图导入到 Cytoscape 中？](https://mp.weixin.qq.com/s/8y08mG-DHt1LJaEMZYe8FQ)
 * [算法玄学](https://mp.weixin.qq.com/s/iomtBHXGGaDxoJAGwfMLbQ)
 * [基因功能注释包下载、制作与富集分析](https://mp.weixin.qq.com/s/GS1Mx10vUoV0TZvHBeB78w)
+* [实操 | 合并 VCF 文件的几种方法及注意事项](https://mp.weixin.qq.com/s/1wNq6qvNqtMjBgkNqpVeZw)
+* [群体遗传 | 一步快速解决 VCF 的 PCA 分析](https://mp.weixin.qq.com/s/ZyF1SHggn5WDUzmLZXrLkw)
 
 ## 其他
 
