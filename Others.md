@@ -159,6 +159,8 @@
 * [如何像资深专家那样引用文献](https://mp.weixin.qq.com/s/TsPMSjEiW5tKusW9lbICaw)
 * [写好结构化论文的 10 条规则](https://mp.weixin.qq.com/s/ZdvN90qDPu7pMi7fm6sHWw)
 * [我被拒稿了](https://mp.weixin.qq.com/s/6uftNzmLS8rEWhy6DRUNxA)
+* [看了施一公的写作六法则，终于明白他为什么这么牛 - 知乎](https://zhuanlan.zhihu.com/p/521804034?utm_medium=social&utm_oi=865590057178918912&utm_psn=1542277874496761856&utm_source=wechat_session&s_r=0)
+* [冠词 a/an 和 the 使用通用指南](https://mp.weixin.qq.com/s/q8PpKIoGnb6tGrlT_b_Rww)
 
 ## 数据集
 
