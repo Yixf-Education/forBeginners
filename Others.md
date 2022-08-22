@@ -165,6 +165,7 @@
 * [丢失单复数的中文，如何补回](https://mp.weixin.qq.com/s/Kev2_juoA7Y9jaysofzQkg)
 * [如何进行文献阅读？](https://mp.weixin.qq.com/s/tnUQZHiWUYCL7JVPeLvDRg)
 * [学术论文写作宏观指南](https://mp.weixin.qq.com/s/IPfDUJwMBvPOukVEV_akMw)
+* [新生必备技能 —— 学术礼仪](https://mp.weixin.qq.com/s/-j5MydivVKKTQveEXzM3zA)
 
 ## 数据集
 
