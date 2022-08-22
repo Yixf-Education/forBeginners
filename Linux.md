@@ -339,6 +339,7 @@
 * [Mamba-- 快速且跨平台的软件包管理器（conda 的替代品）](https://mp.weixin.qq.com/s/8GXV_xiW5XVOtFaFqgfWbg)
 * [颜值也是生产力，给命令行点颜色瞧瞧](https://mp.weixin.qq.com/s/biXXLe9DjJ4qPtGNMqHNNQ)
 * [如何优雅的给 cp 和 mv 命令添加一个高颜值的进度条](https://mp.weixin.qq.com/s/6kEnuTVSHBgILeYvmHqIuw)
+* [Linux 下查看内存使用情况方法总结](https://mp.weixin.qq.com/s/VO3TY7qbJ35bio8zDGjj5A)
 
 ## 运维
 
