@@ -341,6 +341,7 @@
 * [颜值也是生产力，给命令行点颜色瞧瞧](https://mp.weixin.qq.com/s/biXXLe9DjJ4qPtGNMqHNNQ)
 * [如何优雅的给 cp 和 mv 命令添加一个高颜值的进度条](https://mp.weixin.qq.com/s/6kEnuTVSHBgILeYvmHqIuw)
 * [Linux 下查看内存使用情况方法总结](https://mp.weixin.qq.com/s/VO3TY7qbJ35bio8zDGjj5A)
+* [使用 cron 定时任务的小技巧 | Linux 中国](https://mp.weixin.qq.com/s/rfbHR7y0iGUSW2mkR35OVw)
 
 ## 运维
 
