@@ -112,6 +112,8 @@
 * [基因功能注释包下载、制作与富集分析](https://mp.weixin.qq.com/s/GS1Mx10vUoV0TZvHBeB78w)
 * [实操 | 合并 VCF 文件的几种方法及注意事项](https://mp.weixin.qq.com/s/1wNq6qvNqtMjBgkNqpVeZw)
 * [群体遗传 | 一步快速解决 VCF 的 PCA 分析](https://mp.weixin.qq.com/s/ZyF1SHggn5WDUzmLZXrLkw)
+* [机器学习与生物信息 --XGBoost](https://mp.weixin.qq.com/s/37QkMtH6_HrvZHuP5icdJw)
+* [10 种聚类算法的完整 Python 操作示例](https://mp.weixin.qq.com/s/5yZVPyZwHTOdBAKZg5CGAQ)
 
 ## 其他
 
