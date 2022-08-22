@@ -345,3 +345,4 @@
 ## 运维
 
 * [运维常用的 34 个 Linux Shell 脚本，一定能帮到你！](https://mp.weixin.qq.com/s/J0bnwtJgcuqenenOzPQzYg)
+* [Linux 性能测试之性能测试指标详解](https://mp.weixin.qq.com/s/7yc4hZ4DcR8UCXIzgYhUdg)
