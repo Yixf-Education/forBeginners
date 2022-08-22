@@ -14,3 +14,4 @@
 * [耿老师教你 LaTeX 为啥要多次编译](https://mp.weixin.qq.com/s/S5mDjzRwGKIakOwyrZ8CVQ)
 * [exam-zh: 高考试卷 LaTeX 模板](https://gitee.com/zepinglee/exam-zh)
 * [中国试卷 LaTeX 模板 - 集大成者](https://mp.weixin.qq.com/s/o5zvayR8-N0XZsGCS-waRQ)
+* [R Markdown 制作 beamer 幻灯片](https://mp.weixin.qq.com/s/vnDD1Ovx1TaW4TdBnf56vQ)
