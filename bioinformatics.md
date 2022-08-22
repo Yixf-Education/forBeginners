@@ -115,6 +115,9 @@
 * [机器学习与生物信息 --XGBoost](https://mp.weixin.qq.com/s/37QkMtH6_HrvZHuP5icdJw)
 * [10 种聚类算法的完整 Python 操作示例](https://mp.weixin.qq.com/s/5yZVPyZwHTOdBAKZg5CGAQ)
 * [基因芯片教程【2】 如何基于 illumina SNP 芯片分型结果进行 CNV 分析](https://mp.weixin.qq.com/s/HZmkjg5t14HqwiMB3NXkQg)
+* [CBNplot：揭示富集分析中各通路的调控关系](https://mp.weixin.qq.com/s/BZvcKYahgIyKuj0u3HToew)
+* [CBNplot：可视化富集通路中基因的调控关系](https://mp.weixin.qq.com/s/yo1p1HCkoA-dK8OMuaYHHg)
+* [CBNplot：将富集分析结果和临床特征相关联](https://mp.weixin.qq.com/s/FdapCh0RE24E4_Daagmh_w)
 
 ## 其他
 
