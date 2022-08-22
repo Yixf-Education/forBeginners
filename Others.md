@@ -163,6 +163,7 @@
 * [冠词 a/an 和 the 使用通用指南](https://mp.weixin.qq.com/s/q8PpKIoGnb6tGrlT_b_Rww)
 * [作者服务 | 5 项学术论文写作技巧 不容错过！](https://mp.weixin.qq.com/s/hqwiBBNLlkukYHmo4hIS9w)
 * [丢失单复数的中文，如何补回](https://mp.weixin.qq.com/s/Kev2_juoA7Y9jaysofzQkg)
+* [如何进行文献阅读？](https://mp.weixin.qq.com/s/tnUQZHiWUYCL7JVPeLvDRg)
 
 ## 数据集
 
