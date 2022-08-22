@@ -60,6 +60,7 @@
 * [学术写作两套英文句型库](https://mp.weixin.qq.com/s/QfHntDSxyd7U8CB99tAaMQ)
 * [5 个骚气满满的项目，诞生了！](https://mp.weixin.qq.com/s/oUmNQK74M0Q0LtEf7GAycg)
 * [最新整理！绝对不能错过的 130 个学术网站和 26 个科研工具](https://mp.weixin.qq.com/s/jcF1FAfwf9MUjfK6Ld0JDA)
+* [我给新手程序员的实用建议 | Linux 中国](https://mp.weixin.qq.com/s/i_kiND15yPNsSTSPBD1KVg)
 
 ## 统计
 
