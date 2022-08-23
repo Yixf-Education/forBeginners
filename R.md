@@ -95,6 +95,7 @@
 * [R 语言制作地区分布图及其动画](https://mp.weixin.qq.com/s/Z-LNRfONFhpgkZrcdfEsbA)
 * [R 语言的 24 个高效操作](https://mp.weixin.qq.com/s/qtHMhU0-W_DVoDcYEqxAsQ)
 * [给初学者准备的 R 语言深度学习教程](https://mp.weixin.qq.com/s/Ms89sMFB1LEkks-Pc2y8ug)
+* [使用 tidyverse 高效处理数据（数据处理代码整理）](https://mp.weixin.qq.com/s/oPsZY_hv8Eorff5l3Q9GWQ)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
