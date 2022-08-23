@@ -231,6 +231,7 @@
 * [机器学习算法 - 随机森林之决策树初探（1）](https://mp.weixin.qq.com/s/QFljLtb4mNOrTgtgIc3FrQ)
 * [基于 R 语言的深度学习 —— 简单回归案例](https://mp.weixin.qq.com/s/wZSu94BjTtlJ7RPR-qLmBA)
 * [跟着 Nature Plants 学数据分析：R 语言 WGCNA 分析完整示例](https://mp.weixin.qq.com/s/7M_B3IItShZWFQNJRqTqPA)
+* [一文学会 R 包 maftools 简介使用](https://mp.weixin.qq.com/s/zttX7tKl9uVPLtHrXqmRYg)
 
 # R包
 
