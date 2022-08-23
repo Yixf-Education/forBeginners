@@ -118,6 +118,7 @@
 * [CBNplot：揭示富集分析中各通路的调控关系](https://mp.weixin.qq.com/s/BZvcKYahgIyKuj0u3HToew)
 * [CBNplot：可视化富集通路中基因的调控关系](https://mp.weixin.qq.com/s/yo1p1HCkoA-dK8OMuaYHHg)
 * [CBNplot：将富集分析结果和临床特征相关联](https://mp.weixin.qq.com/s/FdapCh0RE24E4_Daagmh_w)
+* [基因芯片教程【3】Plink 文件格式及常用命令介绍](https://mp.weixin.qq.com/s/AK_WlaUMBsmCmiC80nbMCg)
 
 ## 其他
 
