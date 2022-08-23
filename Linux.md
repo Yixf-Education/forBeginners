@@ -66,6 +66,7 @@
 * [Ubuntu 服务器版与桌面版有什么区别？](https://mp.weixin.qq.com/s/W5YPf9l6QVyCXkw6-PrPlg)
 * [还有人记得 Linux 之前，那个理想又骄傲的 BSD 吗？](https://mp.weixin.qq.com/s/ocCAJ1b7weJu40whhwFMgg)
 * [用了这么久 Linux ，才知道这些概念](https://mp.weixin.qq.com/s/FA6N9kPJRYnDHyh-2EujJQ)
+* [生物信息任务运行状态详解](https://mp.weixin.qq.com/s/Vxh9-LMLeD4G_J5J1WGixA)
 
 ## 杂烩
 * [2015年最弱的密码和最强的密码](https://linux.cn/article-6918-1.html)
