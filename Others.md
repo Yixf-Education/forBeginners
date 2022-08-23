@@ -168,6 +168,7 @@
 * [学术论文写作宏观指南](https://mp.weixin.qq.com/s/IPfDUJwMBvPOukVEV_akMw)
 * [新生必备技能 —— 学术礼仪](https://mp.weixin.qq.com/s/-j5MydivVKKTQveEXzM3zA)
 * [论文写作规范，这篇文章说的最详细！](https://mp.weixin.qq.com/s/o9sd_2LH2xi-X7iK3Y-j6Q)
+* [放下工具，回归效率：社科博士如何用 Mac 构建数字工作流程](https://mp.weixin.qq.com/s/REqji1QO1De0DimzxZmS1A)
 
 ## 数据集
 
