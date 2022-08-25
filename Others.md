@@ -170,6 +170,7 @@
 * [论文写作规范，这篇文章说的最详细！](https://mp.weixin.qq.com/s/o9sd_2LH2xi-X7iK3Y-j6Q)
 * [放下工具，回归效率：社科博士如何用 Mac 构建数字工作流程](https://mp.weixin.qq.com/s/REqji1QO1De0DimzxZmS1A)
 * [高校新生老生通用知识：学位与学位证信息](https://mp.weixin.qq.com/s/-FV5dYkS9qH3AGG9G2UbXA)
+* [摘要与结论：五个要素与六大要点的区别与联系](https://mp.weixin.qq.com/s/pX9LqT2gIy33jXw9-HE6fA)
 
 ## 数据集
 
