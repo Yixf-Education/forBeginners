@@ -65,6 +65,7 @@
 * [空间转录组定量分析及应用 — 基因调控网络](https://mp.weixin.qq.com/s/53rRrVsJBCvhFI4FuOqtfQ)
 * [空间转录组学的分析技术都有哪些？ - 知乎](https://zhuanlan.zhihu.com/p/346127717?utm_campaign=shareopn&utm_medium=social&utm_oi=986381160892649472&utm_psn=1545009357829681153&utm_source=wechat_session&s_r=0)
 * [空间转录组分析工具篇 6：SPOTLight](https://mp.weixin.qq.com/s/wlTp0yQGriOfumem3NO35A)
+* [空间转录组数据分析策略之定位分析](https://mp.weixin.qq.com/s/c9mrmHtL91jv9IJ9CPSEjg)
 
 ## 其他
 
