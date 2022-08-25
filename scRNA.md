@@ -48,6 +48,7 @@
 * [盘点：也适用于单细胞的降维和聚类方法，值得收藏](https://mp.weixin.qq.com/s/k4IgZJdaJQCLhKy0gX5atQ)
 * [单细胞分析如何确定合适的 resolution](https://mp.weixin.qq.com/s/sQgMIoXN15N1zL84uC7y2A)
 * [单细胞测序专题 | monocle2 拟时序分析前后结果不一致？带您认识一款新的分析软件 PAGA](https://mp.weixin.qq.com/s/w7yxer95DosM9IWz2BcBqw)
+* [单细胞教程【1】单细胞转录组 -- 基础篇（更新）](https://mp.weixin.qq.com/s/0PEq3FKn0d1TNYFKA7BWOw)
 
 ## 空间转录组
 
