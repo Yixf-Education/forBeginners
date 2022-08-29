@@ -88,6 +88,7 @@
 * [概率论的起源、发展与应用](https://mp.weixin.qq.com/s/wT8TuAcR26NlJxngdgqEcA)
 * [数据统计分析的16个基础概念](https://mp.weixin.qq.com/s/bZMOYzanTCYULctwbGRGYQ)
 * [深度学习必须掌握的 13 种概率分布](https://mp.weixin.qq.com/s/gi_-jxZkFNUw0ukDVTeiAw)
+* [机器学习 模型评估指标 - ROC 曲线和 AUC 值](https://mp.weixin.qq.com/s/P8SIDfs5ht1W_AVzESRx_Q)
 
 ## 统计学入门
 
