@@ -255,6 +255,7 @@
 * [基于 R 语言的深度学习 —— 配置环境](https://mp.weixin.qq.com/s/Idl_IG71g3vwppZKO4yIMQ)
 * [推荐！超赞的 3D 可视化图表绘制工具大汇总～～](https://mp.weixin.qq.com/s/NDMhtJgzQZnGsN4snk1EvA)
 * [森林图 (forest plot)- 全套路与珍藏级美图](https://mp.weixin.qq.com/s/O16p1d_M_8z7Exy9V2gZJA)
+* [森林图（forest plot）与 Nomogram（诺莫图）区别与联系](https://mp.weixin.qq.com/s/QneygKzHgIL1Nz1mv0vIDA)
 
 # Shiny
 
