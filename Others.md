@@ -175,6 +175,7 @@
 * [摘要与结论：五个要素与六大要点的区别与联系](https://mp.weixin.qq.com/s/pX9LqT2gIy33jXw9-HE6fA)
 * [从本科跨越到研究生的必经之路](https://mp.weixin.qq.com/s/DXzKjy6pvztdBpvn_xmkZQ)
 * [文献阅读（二十三）、展示一篇优秀的粉丝文献阅读笔记](https://mp.weixin.qq.com/s/5IepdA25iCr_gzkqqWWNoQ)
+* [论文中的言之有度：如何让主张谨慎地与证据程度匹配](https://mp.weixin.qq.com/s/2oQwxrhu2OQSAAu8V62GIw)
 
 ## 数据集
 
