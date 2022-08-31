@@ -236,6 +236,7 @@
 * [一文学会 R 包 maftools 简介使用](https://mp.weixin.qq.com/s/zttX7tKl9uVPLtHrXqmRYg)
 * [超详细的 ROC 曲线绘制教程（5000 余字），真正的保姆级教程](https://mp.weixin.qq.com/s/wNkp8tBeDrO3oRY9bow5dQ)
 * [基于 R 语言的深度学习 —— 简单回归案例](https://mp.weixin.qq.com/s/yJssFmpBDrroPFVCukT8CA)
+* [基于 R 语言的朴素贝叶斯介绍与实践](https://mp.weixin.qq.com/s/6ytpdKC8RT8YAQEJWi8HSg)
 
 # R包
 
