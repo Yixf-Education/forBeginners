@@ -121,6 +121,7 @@
 * [基因芯片教程【3】Plink 文件格式及常用命令介绍](https://mp.weixin.qq.com/s/AK_WlaUMBsmCmiC80nbMCg)
 * [无法联网如何使用 bioconda](https://mp.weixin.qq.com/s/Z_TbmCLne_ZbJzS8QYavAA)
 * [IGV 说明书](https://mp.weixin.qq.com/s/HmBvF0Sq_6vvTKYlzVgwnQ)
+* [生物信息学习的方法论](https://mp.weixin.qq.com/s/d12RKGFvVwwQvFOzWXtw7g)
 
 ## 其他
 
