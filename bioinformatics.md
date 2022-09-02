@@ -122,6 +122,7 @@
 * [无法联网如何使用 bioconda](https://mp.weixin.qq.com/s/Z_TbmCLne_ZbJzS8QYavAA)
 * [IGV 说明书](https://mp.weixin.qq.com/s/HmBvF0Sq_6vvTKYlzVgwnQ)
 * [生物信息学习的方法论](https://mp.weixin.qq.com/s/d12RKGFvVwwQvFOzWXtw7g)
+* [包教包会：带你读懂 GSEA 分析报告](https://mp.weixin.qq.com/s/E6cXDyqY5mEyuia_gweCRg)
 
 ## 其他
 
