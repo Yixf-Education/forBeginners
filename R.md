@@ -97,6 +97,7 @@
 * [R 语言的 24 个高效操作](https://mp.weixin.qq.com/s/qtHMhU0-W_DVoDcYEqxAsQ)
 * [给初学者准备的 R 语言深度学习教程](https://mp.weixin.qq.com/s/Ms89sMFB1LEkks-Pc2y8ug)
 * [使用 tidyverse 高效处理数据（数据处理代码整理）](https://mp.weixin.qq.com/s/oPsZY_hv8Eorff5l3Q9GWQ)
+* [Mathematical Annotation in R | University of Virginia Library Research Data Services + Sciences](https://data.library.virginia.edu/mathematical-annotation-in-r/)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
@@ -183,6 +184,7 @@
 * [**ColorSpace - Color Palettes Generator and Color Gradient Tool**](https://mycolor.space/)
 * [**Chart.Guide, how to choose, build and design your Chart**](https://chart.guide/)
 * [**Data Viz Project | Collection of data visualizations to get inspired and finding the right type.**](https://datavizproject.com/)
+* [Albert Rapp - Alternative ways to visualize correlations](https://albert-rapp.de/posts/ggplot2-tips/13_alternative_corrplots/13_alternative_corrplots.html)
 
 
 
