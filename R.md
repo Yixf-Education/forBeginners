@@ -259,6 +259,7 @@
 * [推荐！超赞的 3D 可视化图表绘制工具大汇总～～](https://mp.weixin.qq.com/s/NDMhtJgzQZnGsN4snk1EvA)
 * [森林图 (forest plot)- 全套路与珍藏级美图](https://mp.weixin.qq.com/s/O16p1d_M_8z7Exy9V2gZJA)
 * [森林图（forest plot）与 Nomogram（诺莫图）区别与联系](https://mp.weixin.qq.com/s/QneygKzHgIL1Nz1mv0vIDA)
+* [如何批量安装几千个 Python 模块呢](https://mp.weixin.qq.com/s/7KopeTRFvxb_ijxk1V1Tuw)
 
 # Shiny
 
