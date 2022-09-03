@@ -124,6 +124,7 @@
 * [生物信息学习的方法论](https://mp.weixin.qq.com/s/d12RKGFvVwwQvFOzWXtw7g)
 * [包教包会：带你读懂 GSEA 分析报告](https://mp.weixin.qq.com/s/E6cXDyqY5mEyuia_gweCRg)
 * [基因表达量预测药物反应的 R 包 pRRophetic 近期报错解决方案](https://mp.weixin.qq.com/s/SwnmKCjzURNV4B848nCvsw)
+* [转录组专题 ——WGCNA 分析一问一答](https://mp.weixin.qq.com/s/enmKm-ErfEKLnEzaLoXnaw)
 
 ## 其他
 
