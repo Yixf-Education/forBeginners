@@ -125,6 +125,7 @@
 * [包教包会：带你读懂 GSEA 分析报告](https://mp.weixin.qq.com/s/E6cXDyqY5mEyuia_gweCRg)
 * [基因表达量预测药物反应的 R 包 pRRophetic 近期报错解决方案](https://mp.weixin.qq.com/s/SwnmKCjzURNV4B848nCvsw)
 * [转录组专题 ——WGCNA 分析一问一答](https://mp.weixin.qq.com/s/enmKm-ErfEKLnEzaLoXnaw)
+* [ChIP-seq 数据质量好不好，一看便知晓](https://mp.weixin.qq.com/s/OtblbOtnzjiBjDz5lgVVrA)
 
 ## 其他
 
