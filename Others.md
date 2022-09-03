@@ -179,6 +179,7 @@
 * [论文中的言之有度：如何让主张谨慎地与证据程度匹配](https://mp.weixin.qq.com/s/2oQwxrhu2OQSAAu8V62GIw)
 * [如何做学术报告](https://mp.weixin.qq.com/s/tsphxEjgvFZpuS0ps2TFGg)
 * [《科学》采访稿 | 12 位学者谈如何严肃地阅读论文](https://mp.weixin.qq.com/s/xoQzYsP0GiD-lZrXXXBjQQ)
+* [学术交流中的网络礼仪](https://mp.weixin.qq.com/s/QLEONKSOMjVXCABM3xBakA)
 
 ## 数据集
 
