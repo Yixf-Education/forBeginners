@@ -67,6 +67,7 @@
 * [还有人记得 Linux 之前，那个理想又骄傲的 BSD 吗？](https://mp.weixin.qq.com/s/ocCAJ1b7weJu40whhwFMgg)
 * [用了这么久 Linux ，才知道这些概念](https://mp.weixin.qq.com/s/FA6N9kPJRYnDHyh-2EujJQ)
 * [生物信息任务运行状态详解](https://mp.weixin.qq.com/s/Vxh9-LMLeD4G_J5J1WGixA)
+* [apt 的 update 和 upgrade 命令的区别是什么？ | Linux 中国](https://mp.weixin.qq.com/s/avUU_HWjP3vmt5lReIK3xg)
 
 ## 杂烩
 * [2015年最弱的密码和最强的密码](https://linux.cn/article-6918-1.html)
