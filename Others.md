@@ -182,6 +182,7 @@
 * [《科学》采访稿 | 12 位学者谈如何严肃地阅读论文](https://mp.weixin.qq.com/s/xoQzYsP0GiD-lZrXXXBjQQ)
 * [学术交流中的网络礼仪](https://mp.weixin.qq.com/s/QLEONKSOMjVXCABM3xBakA)
 * [不讲道理的六种情形](https://mp.weixin.qq.com/s/gbq33XTnLzNp4mMWNiI4kA)
+* [通讯作者的定义与职责](https://mp.weixin.qq.com/s/lRQ_Y61XBuoeQSbMNvBPNw)
 
 ## 数据集
 
