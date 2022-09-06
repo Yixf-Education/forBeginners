@@ -185,6 +185,7 @@
 * [**Chart.Guide, how to choose, build and design your Chart**](https://chart.guide/)
 * [**Data Viz Project | Collection of data visualizations to get inspired and finding the right type.**](https://datavizproject.com/)
 * [Albert Rapp - Alternative ways to visualize correlations](https://albert-rapp.de/posts/ggplot2-tips/13_alternative_corrplots/13_alternative_corrplots.html)
+* [常用 7 大类型图形可视化 —— 排序关系图形](https://mp.weixin.qq.com/s/BvhJ1B3nDP76jI88HIS0PA)
 
 
 
