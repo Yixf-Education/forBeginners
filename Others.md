@@ -91,6 +91,7 @@
 * [深度学习必须掌握的 13 种概率分布](https://mp.weixin.qq.com/s/gi_-jxZkFNUw0ukDVTeiAw)
 * [机器学习 模型评估指标 - ROC 曲线和 AUC 值](https://mp.weixin.qq.com/s/P8SIDfs5ht1W_AVzESRx_Q)
 * [机器学习 - 训练集、验证集、测试集](https://mp.weixin.qq.com/s/QKGscIoWpcUouf2axuTwtQ)
+* [大数据时代的统计学](https://mp.weixin.qq.com/s/4lx1gEwNUr4saWpx0pSj-A)
 
 ## 统计学入门
 
