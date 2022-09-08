@@ -184,6 +184,7 @@
 * [学术交流中的网络礼仪](https://mp.weixin.qq.com/s/QLEONKSOMjVXCABM3xBakA)
 * [不讲道理的六种情形](https://mp.weixin.qq.com/s/gbq33XTnLzNp4mMWNiI4kA)
 * [通讯作者的定义与职责](https://mp.weixin.qq.com/s/lRQ_Y61XBuoeQSbMNvBPNw)
+* [论文结论与摘要的区别](https://mp.weixin.qq.com/s/XD0IaLD8GaLLWL2iHw-D8A)
 
 ## 数据集
 
