@@ -185,6 +185,9 @@
 * [不讲道理的六种情形](https://mp.weixin.qq.com/s/gbq33XTnLzNp4mMWNiI4kA)
 * [通讯作者的定义与职责](https://mp.weixin.qq.com/s/lRQ_Y61XBuoeQSbMNvBPNw)
 * [论文结论与摘要的区别](https://mp.weixin.qq.com/s/XD0IaLD8GaLLWL2iHw-D8A)
+* [研究生与导师——生信技能树](https://mp.weixin.qq.com/s/HKq8f18553_eTd0PvG3wjg)
+* [如何写选题（开题）报告](https://mp.weixin.qq.com/s/-GwUuGx90ZcxJCa_g4QkmQ)
+* [关于研究生与本科生的几点区别](https://mp.weixin.qq.com/s/KNPztzDZW5kaxIQKzoSNhw)
 
 ## 数据集
 
