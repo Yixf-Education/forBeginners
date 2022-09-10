@@ -47,6 +47,7 @@
 * [软件开发 | 改进你的脚本程序的 5 个方法](https://linux.cn/article-13717-1.html)
 * [速查表 | Bash cheat sheet!](https://mp.weixin.qq.com/s/sDZQHp-XWdInf177oGo7Lg)
 * [经典的 Shell 十三问](https://mp.weixin.qq.com/s/lpSyaYYuPuemjeKHE2MWeQ)
+* [一些 Shell 脚本的基本概念 | Linux 中国](https://mp.weixin.qq.com/s/qZDUujNWXzkMZuKAIp36VQ)
 
 ## shell编程
 * [Shell编程基础](http://wiki.ubuntu.org.cn/Shell%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
