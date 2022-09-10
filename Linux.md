@@ -105,6 +105,7 @@
 * [获取 Linux 工作环境的全部方法](https://mp.weixin.qq.com/s/hB9jTsz2ZNtZ6nd1enENfw)
 * [怎样远程控制其他电脑、手机？这 7 个远程桌面控制软件值得一试](https://mp.weixin.qq.com/s/O4B1rdVI-QIl5V01VQB-_g)
 * [两行命令在 Linux 系统上安装 Windows、macOS、Linux, 被视为 VirtualBox 的替代品](https://mp.weixin.qq.com/s/RlBQwBuBIQFjyFjkM7JRqg)
+* [macOS 和 Linux 有什么区别？ | Linux 中国](https://mp.weixin.qq.com/s/hJeGo-B3Y7e1abvpy2E0Hg)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
