@@ -98,6 +98,7 @@
 * [给初学者准备的 R 语言深度学习教程](https://mp.weixin.qq.com/s/Ms89sMFB1LEkks-Pc2y8ug)
 * [使用 tidyverse 高效处理数据（数据处理代码整理）](https://mp.weixin.qq.com/s/oPsZY_hv8Eorff5l3Q9GWQ)
 * [Mathematical Annotation in R | University of Virginia Library Research Data Services + Sciences](https://data.library.virginia.edu/mathematical-annotation-in-r/)
+* [R 语言学习：Base-R 和 Tidyverse 对比学习](https://mp.weixin.qq.com/s/bImZg4AuwqtcWDvUc7lHEQ)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
