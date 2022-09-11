@@ -17,3 +17,5 @@
 * [R Markdown 制作 beamer 幻灯片](https://mp.weixin.qq.com/s/vnDD1Ovx1TaW4TdBnf56vQ)
 * [LaTeX 常用数学符号汇总](https://mp.weixin.qq.com/s/_21gvqDVZSxq9iao57ieEQ)
 * [使用 LaTeX 创建优美的 PDF 文件 | Linux 中国](https://mp.weixin.qq.com/s/JbwB98zKK2poTGqjvo9Hfg)
+* [使用 floatrow 宏包处理浮动体](https://mp.weixin.qq.com/s/EArQ3cl__2-mQaHyNUwCIg)
+
