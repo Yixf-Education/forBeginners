@@ -110,6 +110,7 @@
 * [统计学入门 | 第四章 决策树](https://mp.weixin.qq.com/s/lcYsZ5UnVzEB1kgyQ6A6fA)
 * [统计学入门 | 第四章 神经网络模型](https://mp.weixin.qq.com/s/h-limLJ3gKdnfbtr4db6tw)
 * [彩票中的概率统计](https://mp.weixin.qq.com/s/_AHhpT-xMciJZnlDnD7TUw)
+* [统计检验中的ｐ值](https://mp.weixin.qq.com/s/Z76uaSqx8uSnuT61cpgHag)
 
 ## 科研
 
