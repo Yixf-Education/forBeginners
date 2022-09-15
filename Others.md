@@ -188,6 +188,8 @@
 * [研究生与导师——生信技能树](https://mp.weixin.qq.com/s/HKq8f18553_eTd0PvG3wjg)
 * [如何写选题（开题）报告](https://mp.weixin.qq.com/s/-GwUuGx90ZcxJCa_g4QkmQ)
 * [关于研究生与本科生的几点区别](https://mp.weixin.qq.com/s/KNPztzDZW5kaxIQKzoSNhw)
+* [十问审稿人，80 条回复排作者之忧！](https://mp.weixin.qq.com/s/dhjp49n53nXfQPuFoh1YgA)
+* [九个等级的高校教师](https://mp.weixin.qq.com/s/yMWs8ys0XOcCUWktBxc0dQ)
 
 ## 数据集
 
