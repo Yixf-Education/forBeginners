@@ -18,4 +18,5 @@
 * [LaTeX 常用数学符号汇总](https://mp.weixin.qq.com/s/_21gvqDVZSxq9iao57ieEQ)
 * [使用 LaTeX 创建优美的 PDF 文件 | Linux 中国](https://mp.weixin.qq.com/s/JbwB98zKK2poTGqjvo9Hfg)
 * [使用 floatrow 宏包处理浮动体](https://mp.weixin.qq.com/s/EArQ3cl__2-mQaHyNUwCIg)
+* [两个中国风的 beamer 精品主题](https://mp.weixin.qq.com/s/0aO85eamiKV61hnpaFNzXg)
 
