@@ -17,6 +17,7 @@
 * [又发现一个好玩儿的工具 Binder](https://mp.weixin.qq.com/s/G7kN6zdeimGAtYe-7EZO4w)
 * [Nextflow：一种生物信息流程搭建的框架语言（专门开发）](https://mp.weixin.qq.com/s/PZdwYeRYQ-ZemtmLpWhUrQ)
 * [EasyScholar—— 超级实用且方便的学术插件推荐！](https://mp.weixin.qq.com/s/q3dWgpTlvspveqewP0V9iQ)
+* [生信分析平台 Hiplot 和 BioSciTools](https://mp.weixin.qq.com/s/yYuKVPfiuN7sVvx-dESJjg)
 
 ## 生信问题与编程技能
 * [生物信息学研究的思考](https://mp.weixin.qq.com/s/p7RKD_kVfK3ny6s7j_f8zg)
