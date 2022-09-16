@@ -69,6 +69,7 @@
 * [生物信息任务运行状态详解](https://mp.weixin.qq.com/s/Vxh9-LMLeD4G_J5J1WGixA)
 * [apt 的 update 和 upgrade 命令的区别是什么？ | Linux 中国](https://mp.weixin.qq.com/s/avUU_HWjP3vmt5lReIK3xg)
 * [再强调一遍：Unix 不是 Linux！](https://mp.weixin.qq.com/s/H8FazyoC22I73KwIRKX_6w)
+* [Unix 历史：一个伟大作品的诞生 | Linux 中国](https://mp.weixin.qq.com/s/gQCpDarNu6Cttg9V9svsfg)
 
 ## 杂烩
 * [2015年最弱的密码和最强的密码](https://linux.cn/article-6918-1.html)
