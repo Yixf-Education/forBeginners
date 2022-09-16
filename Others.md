@@ -192,6 +192,7 @@
 * [关于研究生与本科生的几点区别](https://mp.weixin.qq.com/s/KNPztzDZW5kaxIQKzoSNhw)
 * [十问审稿人，80 条回复排作者之忧！](https://mp.weixin.qq.com/s/dhjp49n53nXfQPuFoh1YgA)
 * [九个等级的高校教师](https://mp.weixin.qq.com/s/yMWs8ys0XOcCUWktBxc0dQ)
+* [康奈尔大学对博士生的要求](https://mp.weixin.qq.com/s/9Me8ZO3Z2xU7TRoARBNHyQ)
 
 ## 数据集
 
