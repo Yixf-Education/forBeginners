@@ -68,6 +68,7 @@
 * [空间转录组分析工具篇 6：SPOTLight](https://mp.weixin.qq.com/s/wlTp0yQGriOfumem3NO35A)
 * [空间转录组数据分析策略之定位分析](https://mp.weixin.qq.com/s/c9mrmHtL91jv9IJ9CPSEjg)
 * [空间转录组聚类分析与生态位](https://mp.weixin.qq.com/s/LsjH4ZZ77OD_KB1plt0SPg)
+* [Cancer Cell 专家论坛 | 肿瘤空间转录组学](https://mp.weixin.qq.com/s/uTxeN5-2yxjWUjiSHrqI0A)
 
 ## 其他
 
