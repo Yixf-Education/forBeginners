@@ -352,6 +352,7 @@
 * [超实用的 Linux 高级命令，程序员一定要懂！](https://mp.weixin.qq.com/s/AWxoDN1i-cDIkcK0mUu8sw)
 * [你应该知道的 22 个基本的 Linux 网络命令 | Linux 中国](https://mp.weixin.qq.com/s/QpTraIGshP8vPpeFafsucQ)
 * [10 大可以摧毁你的 Linux 的命令 | Linux 中国](https://mp.weixin.qq.com/s/dwYMxY99WgM_fI1HNpFfXA)
+* [为什么这个脚本换个电脑就用不了了？](https://mp.weixin.qq.com/s/I8PSt6rr645ztjq9K3iAKg)
 
 ## 运维
 
