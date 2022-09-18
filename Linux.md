@@ -351,6 +351,7 @@
 * [“作弊”：只需要知道这一个 Linux 命令就够了 | Linux 中国](https://mp.weixin.qq.com/s/eukGzZU1UuAP9EFiX0LbLg)
 * [超实用的 Linux 高级命令，程序员一定要懂！](https://mp.weixin.qq.com/s/AWxoDN1i-cDIkcK0mUu8sw)
 * [你应该知道的 22 个基本的 Linux 网络命令 | Linux 中国](https://mp.weixin.qq.com/s/QpTraIGshP8vPpeFafsucQ)
+* [10 大可以摧毁你的 Linux 的命令 | Linux 中国](https://mp.weixin.qq.com/s/dwYMxY99WgM_fI1HNpFfXA)
 
 ## 运维
 
