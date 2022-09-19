@@ -206,3 +206,7 @@
 ## 进化
 
 * [无用之美：你所不知道的协同演化秘密](https://mp.weixin.qq.com/s/Zn0IvJ6an8B3iRhTVUmQGg)
+
+## MOOC
+
+* [5 款可以吸引学生的有用的 Moodle 插件 | Linux 中国](https://mp.weixin.qq.com/s/ptmC_t5PQOkx56rHxXW4Jw)
