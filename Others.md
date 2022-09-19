@@ -92,6 +92,8 @@
 * [机器学习 模型评估指标 - ROC 曲线和 AUC 值](https://mp.weixin.qq.com/s/P8SIDfs5ht1W_AVzESRx_Q)
 * [机器学习 - 训练集、验证集、测试集](https://mp.weixin.qq.com/s/QKGscIoWpcUouf2axuTwtQ)
 * [大数据时代的统计学](https://mp.weixin.qq.com/s/4lx1gEwNUr4saWpx0pSj-A)
+* [揭秘生存曲线背后的生物统计学](https://mp.weixin.qq.com/s/QWqnEM3poxx4g71yr0eVUQ)
+* [严谨的生存分析](https://mp.weixin.qq.com/s/ODLHe0qK5-5-6Xup2TwQcQ)
 
 ## 统计学入门
 
