@@ -199,6 +199,7 @@
 ## 数据集
 
 * [这 10 个很棒的免费数据源，让你告别找数据的焦虑～～](https://mp.weixin.qq.com/s/yUbzF83ur1dY2pqTSjhOSQ)
+* [大家都是在哪些网站找数据？](https://mp.weixin.qq.com/s/sJNDS7F_BRDCG2pgOflObA)
 
 
 
