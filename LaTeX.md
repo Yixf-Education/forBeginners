@@ -20,4 +20,5 @@
 * [使用 floatrow 宏包处理浮动体](https://mp.weixin.qq.com/s/EArQ3cl__2-mQaHyNUwCIg)
 * [两个中国风的 beamer 精品主题](https://mp.weixin.qq.com/s/0aO85eamiKV61hnpaFNzXg)
 * [可灵活配置的实用 beamer 主题](https://mp.weixin.qq.com/s/q5vJ_U2XN2Q-oiYkBkB9SA)
+* [Word 和 latex 文档相互转换](https://mp.weixin.qq.com/s/mkgJOaU8BsLRZsocEnn06Q)
 
