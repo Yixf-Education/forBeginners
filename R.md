@@ -188,6 +188,7 @@
 * [Albert Rapp - Alternative ways to visualize correlations](https://albert-rapp.de/posts/ggplot2-tips/13_alternative_corrplots/13_alternative_corrplots.html)
 * [常用 7 大类型图形可视化 —— 排序关系图形](https://mp.weixin.qq.com/s/BvhJ1B3nDP76jI88HIS0PA)
 * [常用 7 大类型图形可视化 —— 分布](https://mp.weixin.qq.com/s/T_xUcLrcOkmgSC-fENhTMQ)
+* [discrete.knit](https://emilhvitfeldt.github.io/r-color-palettes/discrete.html): Palette picker
 
 
 
