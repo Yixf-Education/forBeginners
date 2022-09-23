@@ -21,4 +21,5 @@
 * [两个中国风的 beamer 精品主题](https://mp.weixin.qq.com/s/0aO85eamiKV61hnpaFNzXg)
 * [可灵活配置的实用 beamer 主题](https://mp.weixin.qq.com/s/q5vJ_U2XN2Q-oiYkBkB9SA)
 * [Word 和 latex 文档相互转换](https://mp.weixin.qq.com/s/mkgJOaU8BsLRZsocEnn06Q)
+* [LaTeX 简明速查手册 (8 页)](https://mp.weixin.qq.com/s/Cv4Tz5jZSsc6QN4_K7GsIA)
 
