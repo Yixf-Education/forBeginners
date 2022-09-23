@@ -247,6 +247,7 @@
 * [基于 R 语言的朴素贝叶斯介绍与实践](https://mp.weixin.qq.com/s/6ytpdKC8RT8YAQEJWi8HSg)
 * [5.7 + 生信文章复现（一）：TCGA 表达矩阵 + 临床信息清洗](https://mp.weixin.qq.com/s/W2E3HqjEp6xZkxLr43ZSOA)
 * [生存分析入门和R分析 - 简书](https://www.jianshu.com/p/1f542458b5af)
+* [从单因素到多因素的自动化筛选及图表构建](https://mp.weixin.qq.com/s/XfS3Z4FXeqs6oF1YJE_zKw)
 
 # R包
 
