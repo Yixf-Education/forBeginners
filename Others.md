@@ -195,6 +195,7 @@
 * [十问审稿人，80 条回复排作者之忧！](https://mp.weixin.qq.com/s/dhjp49n53nXfQPuFoh1YgA)
 * [九个等级的高校教师](https://mp.weixin.qq.com/s/yMWs8ys0XOcCUWktBxc0dQ)
 * [康奈尔大学对博士生的要求](https://mp.weixin.qq.com/s/9Me8ZO3Z2xU7TRoARBNHyQ)
+* [原创、创造与创新](https://mp.weixin.qq.com/s/qqE15RnVxNjy6CtnkVcBBg)
 
 ## 数据集
 
