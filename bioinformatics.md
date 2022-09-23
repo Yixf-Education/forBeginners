@@ -242,6 +242,7 @@
 * [肿瘤生物学：（14）肿瘤免疫和免疫治疗](https://mp.weixin.qq.com/s/bQGplOEAP9JEHUnzC6vx5A)
 * [基础知识概述：肿瘤与免疫](https://mp.weixin.qq.com/s/33BM8I4USwFlhoafGTg31A)
 * [学习生信的系列书籍](https://mp.weixin.qq.com/s/sLuuSfeT0CiqMVI0gMI-Rw)
+* [蛋白质组学的前世今生](https://mp.weixin.qq.com/s/gN7vYEnZ27gwAIKylEPNqQ)
 
 ## Galaxy
 
