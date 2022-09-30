@@ -199,6 +199,7 @@
 * [康奈尔大学对博士生的要求](https://mp.weixin.qq.com/s/9Me8ZO3Z2xU7TRoARBNHyQ)
 * [原创、创造与创新](https://mp.weixin.qq.com/s/qqE15RnVxNjy6CtnkVcBBg)
 * [规范结构的论文](https://mp.weixin.qq.com/s/vkYuhiE4l0S8G6kLBAbk_g)
+* [Notion、Zotero…… 这 4 个 app 帮我「高效」度过读研时光](https://mp.weixin.qq.com/s/abAVW0irU9plngU_Pipqeg)
 
 ## 数据集
 
