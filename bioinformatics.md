@@ -221,6 +221,7 @@
 * [外显子和基因组基本概念 (一)](https://mp.weixin.qq.com/s/4VGPlz7hKaNd5zBpgTbWGQ)
 * [统计遗传学：第三章，群体遗传](https://mp.weixin.qq.com/s/iLN4Cu2navQbrb1kg3yiyw)
 * [外显子和基因组基本概念 (二)](https://mp.weixin.qq.com/s/CDAnOUYPjQVcmTQuDUp2MA)
+* [KDD 2022 | 编程指南：生命科学中的图神经网络](https://mp.weixin.qq.com/s/zypEbpW-VvSpujYDHDk0xQ)
 
 ## 系统课程
 
