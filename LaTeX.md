@@ -23,4 +23,5 @@
 * [Word 和 latex 文档相互转换](https://mp.weixin.qq.com/s/mkgJOaU8BsLRZsocEnn06Q)
 * [LaTeX 简明速查手册 (8 页)](https://mp.weixin.qq.com/s/Cv4Tz5jZSsc6QN4_K7GsIA)
 * [xelatext 和 lualatex 的字体选择 - 精品](https://mp.weixin.qq.com/s/FQNLVK4vOJ-YNPuY0-TQRA)
+* [LaTeX 中传统流程图的绘制方法](https://mp.weixin.qq.com/s/sVunfJ9MIzTz6gIPrZp2kA)
 
