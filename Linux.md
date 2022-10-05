@@ -14,6 +14,7 @@
 * [tutorialspoint](https://www.tutorialspoint.com/)
 
 ## 发行版
+* [**15 个在线运行 Linux 资源，强的离谱！**](https://mp.weixin.qq.com/s/rfzs9AYYhBfk-mV4sG2T2A)
 * [Linux下载](https://linux.cn/article-4130-1.html)
 * [哪款Linux发行版是你的最佳选择呢？](https://linux.cn/article-6021-1.html)
 * [新手指南：手把手教你安装Ubuntu和Fedora](https://linux.cn/article-5893-1.html)
