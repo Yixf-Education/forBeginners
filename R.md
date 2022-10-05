@@ -249,6 +249,7 @@
 * [生存分析入门和R分析 - 简书](https://www.jianshu.com/p/1f542458b5af)
 * [从单因素到多因素的自动化筛选及图表构建](https://mp.weixin.qq.com/s/XfS3Z4FXeqs6oF1YJE_zKw)
 * [P-value, qvalue, FDR 什么区别？总被审稿人提起的多重假设检验校正是什么？](https://mp.weixin.qq.com/s/ZryaSQl91A4zfjvQDQ7R-g)
+* [在 GSEA 中标注候选基因原来如此简单！](https://mp.weixin.qq.com/s/Fd89gPhHe6SHc4Mx6THpkQ)
 
 # R包
 
