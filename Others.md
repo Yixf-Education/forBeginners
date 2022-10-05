@@ -202,6 +202,7 @@
 * [Notion、Zotero…… 这 4 个 app 帮我「高效」度过读研时光](https://mp.weixin.qq.com/s/abAVW0irU9plngU_Pipqeg)
 * [写作指南 | 写好结构化论文的 10 条规则](https://mp.weixin.qq.com/s/GSDvXuJjHHRkO3e8MgSDww)
 * [如何做学术报告？](https://mp.weixin.qq.com/s/WYdGav1iJnxGuAXyxmhXyQ)
+* [如何在线获取学术论文](https://mp.weixin.qq.com/s/mMu9dfq0gCaTRlXCuF5dbQ)
 
 ## 数据集
 
