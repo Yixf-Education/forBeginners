@@ -361,3 +361,5 @@
 
 * [运维常用的 34 个 Linux Shell 脚本，一定能帮到你！](https://mp.weixin.qq.com/s/J0bnwtJgcuqenenOzPQzYg)
 * [Linux 性能测试之性能测试指标详解](https://mp.weixin.qq.com/s/7yc4hZ4DcR8UCXIzgYhUdg)
+* [23 个非常实用的 Shell 拿来就用脚本实例](https://mp.weixin.qq.com/s/TnB1kKcOCukziGaencg0RA)
+* [Linux 下查看内存使用情况方法总结](https://mp.weixin.qq.com/s/4HJZgsPxFvkkJclbnIM-fg)
