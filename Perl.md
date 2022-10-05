@@ -27,6 +27,7 @@
 * [编程初学者如何使用搜索引擎](https://mp.weixin.qq.com/s/22PsgEBbzLtOebXBhlEyKA)
 * [简易学生信息管理系统（Python 版）](https://mp.weixin.qq.com/s/iq6e9H6b_YC8qei72I6Jbg)
 * [读再小骆驼《Perl 语言入门》](https://mp.weixin.qq.com/s/4N5NcLfoEOeb8-_p26hJaQ)
+* [10 行 Python 代码写 1 个 USB 病毒](https://mp.weixin.qq.com/s/4wn5FpFFdovHcCYK_uun3A)
 
 ## Perl系列
 
