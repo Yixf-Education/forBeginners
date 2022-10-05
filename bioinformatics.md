@@ -246,6 +246,7 @@
 * [基础知识概述：肿瘤与免疫](https://mp.weixin.qq.com/s/33BM8I4USwFlhoafGTg31A)
 * [学习生信的系列书籍](https://mp.weixin.qq.com/s/sLuuSfeT0CiqMVI0gMI-Rw)
 * [蛋白质组学的前世今生](https://mp.weixin.qq.com/s/gN7vYEnZ27gwAIKylEPNqQ)
+* [熊说肿瘤｜跨越 70 年的癌症靶向治疗里程碑](https://mp.weixin.qq.com/s/hqUK5s24WLlMDSP2mUKcpQ)
 
 ## Galaxy
 
