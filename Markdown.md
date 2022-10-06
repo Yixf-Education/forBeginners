@@ -40,4 +40,7 @@
 
 ## 工具
 * [4 个 Linux 命令行下的 Markdown 工具](https://zhuanlan.zhihu.com/p/120132098)
+* [marp-team/marp: The entrance repository of Markdown presentation ecosystem](https://github.com/marp-team/marp)
+* [deckgo/deckdeckgo: The web open source editor for presentations](https://github.com/deckgo/deckdeckgo)
+* [Quarto](https://quarto.org/)
 
