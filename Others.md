@@ -205,6 +205,7 @@
 * [如何在线获取学术论文](https://mp.weixin.qq.com/s/mMu9dfq0gCaTRlXCuF5dbQ)
 * [How to Email a Professor: Writing Tips and 4 Email Samples](https://sparkmailapp.com/how-to-email-professor-template)
 * [给任课老师发邮件的 9 条提示](https://mp.weixin.qq.com/s/pm4ejDJcynXPAcI-bqSsEw)
+* [Nature：给研究生的四条金玉良言；颜宁：写的真好，相见恨晚](https://mp.weixin.qq.com/s/Dyb4HpHmGgzXaGZzNOQFRw)
 
 ## 数据集
 
