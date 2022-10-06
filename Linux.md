@@ -359,6 +359,7 @@
 * [为什么这个脚本换个电脑就用不了了？](https://mp.weixin.qq.com/s/I8PSt6rr645ztjq9K3iAKg)
 * [一个空格引发的惨案](https://mp.weixin.qq.com/s/3BAag3WqLjLqUOlNsBVdTA)
 * [为什么这个脚本换个电脑就用不了了？](https://mp.weixin.qq.com/s/vNwExPVs4JbrbT2kiOMoGQ)
+* [服务器之间如何传输数据：sftp](https://mp.weixin.qq.com/s/omwiPNTQkHOfh4FfjwLjhQ)
 
 ## 运维
 
