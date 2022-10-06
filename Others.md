@@ -203,6 +203,8 @@
 * [写作指南 | 写好结构化论文的 10 条规则](https://mp.weixin.qq.com/s/GSDvXuJjHHRkO3e8MgSDww)
 * [如何做学术报告？](https://mp.weixin.qq.com/s/WYdGav1iJnxGuAXyxmhXyQ)
 * [如何在线获取学术论文](https://mp.weixin.qq.com/s/mMu9dfq0gCaTRlXCuF5dbQ)
+* [How to Email a Professor: Writing Tips and 4 Email Samples](https://sparkmailapp.com/how-to-email-professor-template)
+* [给任课老师发邮件的 9 条提示](https://mp.weixin.qq.com/s/pm4ejDJcynXPAcI-bqSsEw)
 
 ## 数据集
 
