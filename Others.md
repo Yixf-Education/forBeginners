@@ -207,6 +207,7 @@
 * [How to Email a Professor: Writing Tips and 4 Email Samples](https://sparkmailapp.com/how-to-email-professor-template)
 * [给任课老师发邮件的 9 条提示](https://mp.weixin.qq.com/s/pm4ejDJcynXPAcI-bqSsEw)
 * [Nature：给研究生的四条金玉良言；颜宁：写的真好，相见恨晚](https://mp.weixin.qq.com/s/Dyb4HpHmGgzXaGZzNOQFRw)
+* [写作指南 | 写好结构化论文的 10 条规则](https://mp.weixin.qq.com/s/jMILwn0WmE5lkpMco9KlCQ)
 
 ## 数据集
 
