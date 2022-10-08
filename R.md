@@ -252,6 +252,7 @@
 * [P-value, qvalue, FDR 什么区别？总被审稿人提起的多重假设检验校正是什么？](https://mp.weixin.qq.com/s/ZryaSQl91A4zfjvQDQ7R-g)
 * [在 GSEA 中标注候选基因原来如此简单！](https://mp.weixin.qq.com/s/Fd89gPhHe6SHc4Mx6THpkQ)
 * [一文掌握单细胞 wgcna 分析](https://mp.weixin.qq.com/s/OBvS0I7IUuwcChGoaJVgtQ)
+* [小熊的 2022 新版 TCGA 教程](https://mp.weixin.qq.com/s/rPeU_zpAkasW5i72A63NcQ)
 
 # R包
 
