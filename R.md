@@ -190,6 +190,7 @@
 * [常用 7 大类型图形可视化 —— 分布](https://mp.weixin.qq.com/s/T_xUcLrcOkmgSC-fENhTMQ)
 * [discrete.knit](https://emilhvitfeldt.github.io/r-color-palettes/discrete.html): Palette picker
 * [常用 7 大类型图形可视化 —— 组成成分图形](https://mp.weixin.qq.com/s/GeHYQp1rBJ-Gksel3GkIuw)
+* [常用 7 大类型图形可视化 —— 变化趋势图形](https://mp.weixin.qq.com/s/djRdS5Y3kBzJ1u32tHfhqQ)
 
 
 
