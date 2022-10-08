@@ -129,6 +129,8 @@
 * [ChIP-seq 数据质量好不好，一看便知晓](https://mp.weixin.qq.com/s/OtblbOtnzjiBjDz5lgVVrA)
 * [ChIP-seq peak，我想 call 就 call](https://mp.weixin.qq.com/s/Fx0oNFhiW9rwt5JP2UQnjA)
 * [ChIP-seq 让我们瞅瞅 peak 都富集了哪些 motif](https://mp.weixin.qq.com/s/Iq_MEt1J7gLHULyajfPHYQ)
+* [大数据肿瘤研究的光荣与梦想](https://mp.weixin.qq.com/s/gk5ibz4wHGum9w-a6iaVvA)
+* 
 
 ## 其他
 
