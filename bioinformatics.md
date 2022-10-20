@@ -225,6 +225,7 @@
 * [外显子和基因组基本概念 (二)](https://mp.weixin.qq.com/s/CDAnOUYPjQVcmTQuDUp2MA)
 * [KDD 2022 | 编程指南：生命科学中的图神经网络](https://mp.weixin.qq.com/s/zypEbpW-VvSpujYDHDk0xQ)
 * [肿瘤进化研究方法](https://mp.weixin.qq.com/s/x8mop-HI0UQKPUl9_7W5wQ)
+* [转录因子列表哪家全](https://mp.weixin.qq.com/s/kDWkD5G3MHWpvnaCxrK7vQ)
 
 ## 系统课程
 
