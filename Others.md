@@ -209,6 +209,7 @@
 * [Nature：给研究生的四条金玉良言；颜宁：写的真好，相见恨晚](https://mp.weixin.qq.com/s/Dyb4HpHmGgzXaGZzNOQFRw)
 * [写作指南 | 写好结构化论文的 10 条规则](https://mp.weixin.qq.com/s/jMILwn0WmE5lkpMco9KlCQ)
 * [如何写 cover letter（投稿附言）](https://mp.weixin.qq.com/s/I-bcpnmsJZRsekNmnpO1sg)
+* [一份超详细的学术论文写作流程与写作技巧](https://mp.weixin.qq.com/s/TLxg7l6bnaKxCVzPAQKFaA)
 
 ## 数据集
 
