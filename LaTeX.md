@@ -24,4 +24,5 @@
 * [LaTeX 简明速查手册 (8 页)](https://mp.weixin.qq.com/s/Cv4Tz5jZSsc6QN4_K7GsIA)
 * [xelatext 和 lualatex 的字体选择 - 精品](https://mp.weixin.qq.com/s/FQNLVK4vOJ-YNPuY0-TQRA)
 * [LaTeX 中传统流程图的绘制方法](https://mp.weixin.qq.com/s/sVunfJ9MIzTz6gIPrZp2kA)
+* [脚注的问题，这宏包都给你解决了](https://mp.weixin.qq.com/s/_DyzDzzhHjol9Gslr_i2Gg)
 
