@@ -230,6 +230,7 @@
 * [「PCR 之父」凯利・穆利斯，其 PCR 发现的传奇故事（附资料下载）](https://mp.weixin.qq.com/s/4P1FbkQiWFbWb6tdJOb5aQ)
 * [干货分享 | Windows 系统下载 SRA 数据方法 —— 生信小白亲测可行](https://mp.weixin.qq.com/s/nQ2Ys9dhkSH-qgk6SSPbVQ)
 * [Nature 综述：基于深度学习研究遗传学的可解释性](https://mp.weixin.qq.com/s/v4sRjmpXOkW0sxlEntu7Kg)
+* [了解学习高通量测序技术（NGS）神器 SequencEnG：66 种高通量测序技术全介绍](https://mp.weixin.qq.com/s/HiDrfzSK7kglbQjJLrjakQ)
 
 ## 系统课程
 
