@@ -5,6 +5,7 @@
 * [**18 本 R 语言相关在线电子书～总有一款适合你**](https://mp.weixin.qq.com/s/MLS-M9Miuyae-PxB_Qaz1w)
 * [**学习 R 语言有哪些较好的论坛和网站？**](https://mp.weixin.qq.com/s/qIXMztuIgWUhqkXecMsong)
 * [sib-swiss/first-steps-with-R-training: repository of the 2-day course "First steps with R in Life Sciences" from SIB-training](https://github.com/sib-swiss/first-steps-with-R-training)
+* [10 simple rules for teaching R for Data Science](https://ttimbers.github.io/10-simple-rules-for-teaching-R-for-Data-Science/10-simple-rules-for-teaching-r-for-data-science.html#1)
 * [R 语言资源整理，很实用](https://mp.weixin.qq.com/s/DRTVNma8SbM3Ktun4CnrYQ)
 * [R 分享｜100 个统计学和 R 语言学习资源网站](https://mp.weixin.qq.com/s/hLU-pFZ7xf0Fl0OrK-sYPw)
 * [100 “must read” R-bloggers’ posts for 2015](http://www.r-bloggers.com/100-must-read-r-bloggers-posts-for-2015/)
