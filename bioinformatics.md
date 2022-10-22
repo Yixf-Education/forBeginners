@@ -135,6 +135,7 @@
 * [三种转录组差异分析方法及区别你会了吗？](https://mp.weixin.qq.com/s/H_kQ-ihlD0XYVMddFWwoaQ)
 * [下载生物数据下载六种方法](https://mp.weixin.qq.com/s/w0tiWJnONJdNtzLL0RYvhg)
 * [如何解决 bioconda 更改命令行问题](https://mp.weixin.qq.com/s/dyBRKbPLHp9ouDL0UwDsxA)
+* [生信分析过程中这些常见文件的格式以及查看方式你都知道吗？](https://mp.weixin.qq.com/s/SlcVsJ-iDtecUJpSMDyeGA)
 
 ## 其他
 
