@@ -50,6 +50,7 @@
 * [单细胞测序专题 | monocle2 拟时序分析前后结果不一致？带您认识一款新的分析软件 PAGA](https://mp.weixin.qq.com/s/w7yxer95DosM9IWz2BcBqw)
 * [单细胞教程【1】单细胞转录组 -- 基础篇（更新）](https://mp.weixin.qq.com/s/0PEq3FKn0d1TNYFKA7BWOw)
 * [单细胞教程【2】单细胞转录组系列 - CellRanger](https://mp.weixin.qq.com/s/tkAcBiEt2nK2oBfgZswM1w)
+* [单细胞层面的表达量差异分析到底如何做](https://mp.weixin.qq.com/s/AM5Yj-GXnlhQOHJkg-So3g)
 
 ## 空间转录组
 
