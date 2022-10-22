@@ -28,4 +28,6 @@
 * [LaTeX 列表秒入门](https://mp.weixin.qq.com/s/quXcBcXnujKO14_OHN0cwg)
 * [适合求职的漂亮 LaTeX 简历模板](https://mp.weixin.qq.com/s/3r_bgEzXQUVjz2R1547qRg)
 * [LaTeX 制作好看的配色模板](https://mp.weixin.qq.com/s/uc8frdMxJzOy13a8_l5N8w)
+* [beamer 主题合集 - 52 个免费一键获取](https://mp.weixin.qq.com/s/M6tzK-ljgiF6Y4G_WTr7OA)
+* [UweZiegenhagen/LaTeX-Beamer-Theme-Overview: An overview of Beamer themes](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview)
 
