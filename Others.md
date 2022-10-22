@@ -210,6 +210,8 @@
 * [写作指南 | 写好结构化论文的 10 条规则](https://mp.weixin.qq.com/s/jMILwn0WmE5lkpMco9KlCQ)
 * [如何写 cover letter（投稿附言）](https://mp.weixin.qq.com/s/I-bcpnmsJZRsekNmnpO1sg)
 * [一份超详细的学术论文写作流程与写作技巧](https://mp.weixin.qq.com/s/TLxg7l6bnaKxCVzPAQKFaA)
+* [隐性知识对研究生的重要性](https://mp.weixin.qq.com/s/PJ9ObWPd7JehbT4taSpWZg)
+* [论文发表，你得要选对期刊！](https://mp.weixin.qq.com/s/-2vpDK8Oe6q0zpyAFjrnZw)
 
 ## 数据集
 
