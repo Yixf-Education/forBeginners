@@ -222,7 +222,7 @@
 * [康奈尔大学对研究型硕士生的要求](https://mp.weixin.qq.com/s/if9LuPeMKqCV2aUYC2MUbw)
 * [如何避免把文献综述写成 “综抄”？](https://mp.weixin.qq.com/s/IMwiWBzFpaCUrbAmEyNU7Q)
 * [摘录 | 如何写出引人入胜的引言](https://mp.weixin.qq.com/s/SLBwT-amSXD47fipSzmHcQ)
-* 
+* [研究论文的关键词](https://mp.weixin.qq.com/s/tb_Z-zffD24ZVYx3qAevRA)
 
 ## 数据集
 
