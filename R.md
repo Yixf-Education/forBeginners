@@ -102,6 +102,7 @@
 * [R 语言学习：Base-R 和 Tidyverse 对比学习](https://mp.weixin.qq.com/s/bImZg4AuwqtcWDvUc7lHEQ)
 * [R 中 6 种读入表格数据的方式哪个最快？结果出人意料！](https://mp.weixin.qq.com/s/w8S58t0mrizWgLHj8qJt4Q)
 * [数据科学中 R 语言教学的 10 个简单准则](https://mp.weixin.qq.com/s/d4ZZRZLmEthgEQSeED-VYg)
+* [R 优雅的制作组会汇报 PPT](https://mp.weixin.qq.com/s/TVRgILriEqj8ZgT-jOoVBA)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
