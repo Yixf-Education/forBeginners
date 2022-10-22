@@ -369,3 +369,4 @@
 * [23 个非常实用的 Shell 拿来就用脚本实例](https://mp.weixin.qq.com/s/TnB1kKcOCukziGaencg0RA)
 * [Linux 下查看内存使用情况方法总结](https://mp.weixin.qq.com/s/4HJZgsPxFvkkJclbnIM-fg)
 * [8 台服务器如何同时安装软件](https://mp.weixin.qq.com/s/yKC3mTiojFzSXnMN9_6Uww)
+* [Linux 性能分析工具汇总](https://mp.weixin.qq.com/s/QFbVwYWsIB0Ayw_-kJICYQ)
