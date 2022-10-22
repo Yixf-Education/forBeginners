@@ -224,6 +224,7 @@
 * [如何避免把文献综述写成 “综抄”？](https://mp.weixin.qq.com/s/IMwiWBzFpaCUrbAmEyNU7Q)
 * [摘录 | 如何写出引人入胜的引言](https://mp.weixin.qq.com/s/SLBwT-amSXD47fipSzmHcQ)
 * [研究论文的关键词](https://mp.weixin.qq.com/s/tb_Z-zffD24ZVYx3qAevRA)
+* [如何写摘要](https://mp.weixin.qq.com/s/mMKyGmPg4NfpbxnqL-UE3A)
 
 ## 数据集
 
