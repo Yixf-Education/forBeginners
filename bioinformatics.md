@@ -133,6 +133,7 @@
 * [ChIP-seq 让我们瞅瞅 peak 都富集了哪些 motif](https://mp.weixin.qq.com/s/Iq_MEt1J7gLHULyajfPHYQ)
 * [大数据肿瘤研究的光荣与梦想](https://mp.weixin.qq.com/s/gk5ibz4wHGum9w-a6iaVvA)
 * [三种转录组差异分析方法及区别你会了吗？](https://mp.weixin.qq.com/s/H_kQ-ihlD0XYVMddFWwoaQ)
+* [下载生物数据下载六种方法](https://mp.weixin.qq.com/s/w0tiWJnONJdNtzLL0RYvhg)
 
 ## 其他
 
