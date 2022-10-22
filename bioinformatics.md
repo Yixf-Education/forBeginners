@@ -226,6 +226,10 @@
 * [KDD 2022 | 编程指南：生命科学中的图神经网络](https://mp.weixin.qq.com/s/zypEbpW-VvSpujYDHDk0xQ)
 * [肿瘤进化研究方法](https://mp.weixin.qq.com/s/x8mop-HI0UQKPUl9_7W5wQ)
 * [转录因子列表哪家全](https://mp.weixin.qq.com/s/kDWkD5G3MHWpvnaCxrK7vQ)
+* [你真的了解肿瘤代谢吗？](https://mp.weixin.qq.com/s/n3Ho_NqWyqeLDJOTuNlYFQ)
+* [「PCR 之父」凯利・穆利斯，其 PCR 发现的传奇故事（附资料下载）](https://mp.weixin.qq.com/s/4P1FbkQiWFbWb6tdJOb5aQ)
+* [干货分享 | Windows 系统下载 SRA 数据方法 —— 生信小白亲测可行](https://mp.weixin.qq.com/s/nQ2Ys9dhkSH-qgk6SSPbVQ)
+* [Nature 综述：基于深度学习研究遗传学的可解释性](https://mp.weixin.qq.com/s/v4sRjmpXOkW0sxlEntu7Kg)
 
 ## 系统课程
 
