@@ -225,6 +225,7 @@
 * [摘录 | 如何写出引人入胜的引言](https://mp.weixin.qq.com/s/SLBwT-amSXD47fipSzmHcQ)
 * [研究论文的关键词](https://mp.weixin.qq.com/s/tb_Z-zffD24ZVYx3qAevRA)
 * [如何写摘要](https://mp.weixin.qq.com/s/mMKyGmPg4NfpbxnqL-UE3A)
+* [我是如何从头开始写一篇顶级论文的 - 知乎](https://zhuanlan.zhihu.com/p/538681254)
 
 ## 数据集
 
