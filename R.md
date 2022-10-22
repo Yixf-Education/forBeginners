@@ -191,6 +191,8 @@
 * [discrete.knit](https://emilhvitfeldt.github.io/r-color-palettes/discrete.html): Palette picker
 * [常用 7 大类型图形可视化 —— 组成成分图形](https://mp.weixin.qq.com/s/GeHYQp1rBJ-Gksel3GkIuw)
 * [常用 7 大类型图形可视化 —— 变化趋势图形](https://mp.weixin.qq.com/s/djRdS5Y3kBzJ1u32tHfhqQ)
+* [浅谈 ggplot2 拼图必知的一些小细节](https://mp.weixin.qq.com/s/qycXFTSt0VtHmm7z3NQcpg)
+* [常用 7 大类型图形可视化 —— 群体关系图形](https://mp.weixin.qq.com/s/yee48f59eUNQX7aHaGe56g)
 
 
 
