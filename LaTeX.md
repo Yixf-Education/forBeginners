@@ -25,4 +25,5 @@
 * [xelatext 和 lualatex 的字体选择 - 精品](https://mp.weixin.qq.com/s/FQNLVK4vOJ-YNPuY0-TQRA)
 * [LaTeX 中传统流程图的绘制方法](https://mp.weixin.qq.com/s/sVunfJ9MIzTz6gIPrZp2kA)
 * [脚注的问题，这宏包都给你解决了](https://mp.weixin.qq.com/s/_DyzDzzhHjol9Gslr_i2Gg)
+* [LaTeX 列表秒入门](https://mp.weixin.qq.com/s/quXcBcXnujKO14_OHN0cwg)
 
