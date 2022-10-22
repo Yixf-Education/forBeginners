@@ -97,6 +97,7 @@
 * [数据统计分析的 16 个基础概念！](https://mp.weixin.qq.com/s/VGFF_YCfH20Y61i0Tr1hPQ)
 * [卡方分布与卡方检验](https://mp.weixin.qq.com/s/cvgZLhqU9J3qMrfz2PHoZQ)
 * [无所不在的方差分析](https://mp.weixin.qq.com/s/KeZ7ysfaSsOYvCF98Pw6Bg)
+* [小概率与大时代](https://mp.weixin.qq.com/s/lbjGICHqmtpV7xrfPFporw)
 
 ## 统计学入门
 
