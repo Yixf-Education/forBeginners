@@ -215,6 +215,7 @@
 * [论文发表，你得要选对期刊！](https://mp.weixin.qq.com/s/-2vpDK8Oe6q0zpyAFjrnZw)
 * [两份综述论文写作指南](https://mp.weixin.qq.com/s/IVFjGmTttd25e3y9HaE9lg)
 * [如何写好一篇文献综述](https://mp.weixin.qq.com/s/agTTh3JPDA1y22Rn2NEO8g)
+* [学者如何表达一句话](https://mp.weixin.qq.com/s/zhDcJRVCCm5TWwGXPHg9Rg)
 
 ## 数据集
 
