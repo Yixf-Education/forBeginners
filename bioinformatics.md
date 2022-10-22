@@ -233,6 +233,7 @@
 * [Nature 综述：基于深度学习研究遗传学的可解释性](https://mp.weixin.qq.com/s/v4sRjmpXOkW0sxlEntu7Kg)
 * [了解学习高通量测序技术（NGS）神器 SequencEnG：66 种高通量测序技术全介绍](https://mp.weixin.qq.com/s/HiDrfzSK7kglbQjJLrjakQ)'
 * [机器学习必知必会 10 大算法！](https://mp.weixin.qq.com/s/gQioiUjiu8aQjw9Oj7iO7g)
+* [数据上传 | GEO 数据上传操作指南](https://mp.weixin.qq.com/s/W927TkSZJLNJ2zbXvWNDQw)
 
 ## 系统课程
 
