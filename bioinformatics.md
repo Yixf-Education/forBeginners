@@ -134,6 +134,7 @@
 * [大数据肿瘤研究的光荣与梦想](https://mp.weixin.qq.com/s/gk5ibz4wHGum9w-a6iaVvA)
 * [三种转录组差异分析方法及区别你会了吗？](https://mp.weixin.qq.com/s/H_kQ-ihlD0XYVMddFWwoaQ)
 * [下载生物数据下载六种方法](https://mp.weixin.qq.com/s/w0tiWJnONJdNtzLL0RYvhg)
+* [如何解决 bioconda 更改命令行问题](https://mp.weixin.qq.com/s/dyBRKbPLHp9ouDL0UwDsxA)
 
 ## 其他
 
