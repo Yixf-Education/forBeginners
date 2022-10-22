@@ -242,6 +242,7 @@
 * [CellChat 细胞通讯分析，单分组的实战代码和图表解读](https://mp.weixin.qq.com/s/9Q4rxGKFo_jD8vBkuOzTbQ)
 * [数据上传 | SRA 数据上传操作指南](https://mp.weixin.qq.com/s/NZijkkDRCiLO_AXFWxkwuw)
 * [蛋白质组学研究概述](https://mp.weixin.qq.com/s/OskYRPKFRgVyfyc05ciVvA)
+* [服务器选购浅析及分析环境配置](https://mp.weixin.qq.com/s/V4wIoSeiPogAVh0n0C6jcQ)
 
 ## 系统课程
 
