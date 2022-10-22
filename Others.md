@@ -212,6 +212,7 @@
 * [一份超详细的学术论文写作流程与写作技巧](https://mp.weixin.qq.com/s/TLxg7l6bnaKxCVzPAQKFaA)
 * [隐性知识对研究生的重要性](https://mp.weixin.qq.com/s/PJ9ObWPd7JehbT4taSpWZg)
 * [论文发表，你得要选对期刊！](https://mp.weixin.qq.com/s/-2vpDK8Oe6q0zpyAFjrnZw)
+* [两份综述论文写作指南](https://mp.weixin.qq.com/s/IVFjGmTttd25e3y9HaE9lg)
 
 ## 数据集
 
