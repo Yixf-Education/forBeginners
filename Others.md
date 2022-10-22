@@ -216,6 +216,7 @@
 * [两份综述论文写作指南](https://mp.weixin.qq.com/s/IVFjGmTttd25e3y9HaE9lg)
 * [如何写好一篇文献综述](https://mp.weixin.qq.com/s/agTTh3JPDA1y22Rn2NEO8g)
 * [学者如何表达一句话](https://mp.weixin.qq.com/s/zhDcJRVCCm5TWwGXPHg9Rg)
+* [如何构建标准段落，含高阅读量文章举例](https://mp.weixin.qq.com/s/2yyT7t9GmSD7yPwSFDGVjA)
 
 ## 数据集
 
