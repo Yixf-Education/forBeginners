@@ -19,6 +19,7 @@
 * [EasyScholar—— 超级实用且方便的学术插件推荐！](https://mp.weixin.qq.com/s/q3dWgpTlvspveqewP0V9iQ)
 * [生信分析平台 Hiplot 和 BioSciTools](https://mp.weixin.qq.com/s/yYuKVPfiuN7sVvx-dESJjg)
 * [生信小工具 | samtools 的多种使用方法，你会几种？](https://mp.weixin.qq.com/s/pCeMGixD8kksJyyslSZx-g)
+* [docker 镜像之 alphafold 运用](https://mp.weixin.qq.com/s/Is-UZr0NoUQC83j3irGm6w)
 
 ## 生信问题与编程技能
 * [生物信息学研究的思考](https://mp.weixin.qq.com/s/p7RKD_kVfK3ny6s7j_f8zg)
