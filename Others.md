@@ -221,6 +221,8 @@
 * [SCI 返修，无论大修小修，修改回复一定要做好](https://mp.weixin.qq.com/s/JuBW3YYeZFrIKnF29xxppg)
 * [康奈尔大学对研究型硕士生的要求](https://mp.weixin.qq.com/s/if9LuPeMKqCV2aUYC2MUbw)
 * [如何避免把文献综述写成 “综抄”？](https://mp.weixin.qq.com/s/IMwiWBzFpaCUrbAmEyNU7Q)
+* [摘录 | 如何写出引人入胜的引言](https://mp.weixin.qq.com/s/SLBwT-amSXD47fipSzmHcQ)
+* 
 
 ## 数据集
 
