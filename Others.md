@@ -219,6 +219,7 @@
 * [如何构建标准段落，含高阅读量文章举例](https://mp.weixin.qq.com/s/2yyT7t9GmSD7yPwSFDGVjA)
 * [批判性思维与写作](https://mp.weixin.qq.com/s/7Sc9JV8KG76b6Q1Y0aikvw)
 * [SCI 返修，无论大修小修，修改回复一定要做好](https://mp.weixin.qq.com/s/JuBW3YYeZFrIKnF29xxppg)
+* [康奈尔大学对研究型硕士生的要求](https://mp.weixin.qq.com/s/if9LuPeMKqCV2aUYC2MUbw)
 
 ## 数据集
 
