@@ -197,6 +197,7 @@
 * [常用 7 大类型图形可视化 —— 群体关系图形](https://mp.weixin.qq.com/s/yee48f59eUNQX7aHaGe56g)
 * [基于 R 语言的绘图技巧汇总](https://mp.weixin.qq.com/s/4kBUfnXXEl3Mq69rOtOQkA)
 * [使用 ggplot2 绘制单个和多个省份地图](https://mp.weixin.qq.com/s/9Y7z0XVHv-sMRSiwY6PnBw)
+* [R 语言绘制十段线地图，给特定省份填色](https://mp.weixin.qq.com/s/ZjUuFtRT1j3ksaGD-hHnLg)
 
 
 
