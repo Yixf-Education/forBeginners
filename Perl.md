@@ -29,6 +29,7 @@
 * [读再小骆驼《Perl 语言入门》](https://mp.weixin.qq.com/s/4N5NcLfoEOeb8-_p26hJaQ)
 * [10 行 Python 代码写 1 个 USB 病毒](https://mp.weixin.qq.com/s/4wn5FpFFdovHcCYK_uun3A)
 * [Python 的一些日常高频写法](https://mp.weixin.qq.com/s/SVo4vVZfM989yfnS6tAkFA)
+* [用 Python 写了一个上课点名系统（附源码）](https://mp.weixin.qq.com/s/ZoCEWO9WsnfAcDlzhr3geg)
 
 ## Perl系列
 
