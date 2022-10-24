@@ -270,6 +270,7 @@
 * [R 语言做 GWAS (全基因组关联分析) 很棒的学习资料推荐](https://mp.weixin.qq.com/s/3hogkatmLXgPBP8bz2AQ8A)
 * [真的！森林图 (Forest Plot) 全部绘制技巧都在这了～～](https://mp.weixin.qq.com/s/L7DE4DIZw0J1qDVfPukQzg)
 * [高分必备 —— 配对检验连线图拿捏了！](https://mp.weixin.qq.com/s/8ZMJ2feD-d8LFOIQBDXW0Q)
+* [smartEDA 包，探索性数据分析的双面手](https://mp.weixin.qq.com/s/IFmb9OLjBXmKta_kx8BR5A)
 
 # R包
 
