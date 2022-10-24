@@ -137,6 +137,7 @@
 * [如何解决 bioconda 更改命令行问题](https://mp.weixin.qq.com/s/dyBRKbPLHp9ouDL0UwDsxA)
 * [生信分析过程中这些常见文件的格式以及查看方式你都知道吗？](https://mp.weixin.qq.com/s/SlcVsJ-iDtecUJpSMDyeGA)
 * [生信小工具 | 手把手教你从序列查找开始，绘制漂亮的进化树](https://mp.weixin.qq.com/s/E94hzSJByrAEDfEClzsz9g)
+* [在全新服务器配置转录组测序数据处理环境](https://mp.weixin.qq.com/s/O9KZdU9XvqW0_ZWtJM-rnA)
 
 ## 其他
 
