@@ -269,6 +269,7 @@
 * [小熊的 2022 新版 TCGA 教程](https://mp.weixin.qq.com/s/rPeU_zpAkasW5i72A63NcQ)
 * [R 语言做 GWAS (全基因组关联分析) 很棒的学习资料推荐](https://mp.weixin.qq.com/s/3hogkatmLXgPBP8bz2AQ8A)
 * [真的！森林图 (Forest Plot) 全部绘制技巧都在这了～～](https://mp.weixin.qq.com/s/L7DE4DIZw0J1qDVfPukQzg)
+* [高分必备 —— 配对检验连线图拿捏了！](https://mp.weixin.qq.com/s/8ZMJ2feD-d8LFOIQBDXW0Q)
 
 # R包
 
