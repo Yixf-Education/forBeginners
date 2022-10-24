@@ -32,4 +32,6 @@
 * [UweZiegenhagen/LaTeX-Beamer-Theme-Overview: An overview of Beamer themes](https://github.com/UweZiegenhagen/LaTeX-Beamer-Theme-Overview)
 * [让你瞬间升值的简历模板们](https://mp.weixin.qq.com/s/MxjmsEK9kb16TRixZYTVYQ)
 * [参考文献轻松入门](https://mp.weixin.qq.com/s/Yvgz-2g14zqCYCaH-PioZg)
+* [学术写作注意事项 —— 格式问题](https://mp.weixin.qq.com/s/1eGN7jRRMIih_sDljN8Bpw)
+* [liangliangzhuang/Research_writing_tips: 科研写作技巧笔记](https://github.com/liangliangzhuang/Research_writing_tips)
 
