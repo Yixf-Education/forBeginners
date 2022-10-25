@@ -71,6 +71,7 @@
 * [空间转录组聚类分析与生态位](https://mp.weixin.qq.com/s/LsjH4ZZ77OD_KB1plt0SPg)
 * [Cancer Cell 专家论坛 | 肿瘤空间转录组学](https://mp.weixin.qq.com/s/uTxeN5-2yxjWUjiSHrqI0A)
 * [单细胞及空间转录组整合分析方法](https://mp.weixin.qq.com/s/-jdfRphp93bueLm1SKcdOQ)
+* [空间转录组应用解析 —— 微环境解析](https://mp.weixin.qq.com/s/rYQY-iLtCeusxd9hWFbp_g)
 
 ## 其他
 
