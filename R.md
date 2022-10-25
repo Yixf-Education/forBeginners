@@ -108,6 +108,7 @@
 * [在 R 中优雅的处理压缩文件](https://mp.weixin.qq.com/s/iZistRlnjZw4S5F8xjqlxg)
 * [R 语言学习：purrr 包 map 函数理解和应用](https://mp.weixin.qq.com/s/lU17XzlakQSRl5fpoeJRyg)
 * [R 可视乎｜表格制作技巧汇总](https://mp.weixin.qq.com/s/NQDXkcQQSepiX0cjc8-ycw)
+* [R 语言 ggplot2 作图好看的配色备选～北京冬奥会相关的配色](https://mp.weixin.qq.com/s/LOjepQZZ7KDAv34YDZQCcw)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
