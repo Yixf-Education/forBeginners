@@ -34,4 +34,5 @@
 * [参考文献轻松入门](https://mp.weixin.qq.com/s/Yvgz-2g14zqCYCaH-PioZg)
 * [学术写作注意事项 —— 格式问题](https://mp.weixin.qq.com/s/1eGN7jRRMIih_sDljN8Bpw)
 * [liangliangzhuang/Research_writing_tips: 科研写作技巧笔记](https://github.com/liangliangzhuang/Research_writing_tips)
+* [使用 tabularray 宏包时，如何以合并单元格为基准设定填充色](https://mp.weixin.qq.com/s/O59XqrIwJ6tbJPl-kPqO2g)
 
