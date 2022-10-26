@@ -206,6 +206,7 @@
 * [基于 R 语言的绘图技巧汇总](https://mp.weixin.qq.com/s/4kBUfnXXEl3Mq69rOtOQkA)
 * [使用 ggplot2 绘制单个和多个省份地图](https://mp.weixin.qq.com/s/9Y7z0XVHv-sMRSiwY6PnBw)
 * [R 语言绘制十段线地图，给特定省份填色](https://mp.weixin.qq.com/s/ZjUuFtRT1j3ksaGD-hHnLg)
+* [R-ggplot2 标准中国地图制作](https://mp.weixin.qq.com/s/blQC5ZSjZTkKYuIOApYGEQ)
 
 
 
