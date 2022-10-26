@@ -227,6 +227,7 @@
 * [如何写摘要](https://mp.weixin.qq.com/s/mMKyGmPg4NfpbxnqL-UE3A)
 * [我是如何从头开始写一篇顶级论文的 - 知乎](https://zhuanlan.zhihu.com/p/538681254)
 * [论文写作导读：从标题到附录的各个部分](https://mp.weixin.qq.com/s/vQwISUpIj65X4YqDE-J1jQ)
+* [如何写结论 ——Indeed 编辑团队推荐的规范格式](https://mp.weixin.qq.com/s/EzOcWmrqLNcQja2EwSqF2A)
 
 ## 数据集
 
