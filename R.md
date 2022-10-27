@@ -296,6 +296,7 @@
 * [如何批量安装几千个 Python 模块呢](https://mp.weixin.qq.com/s/7KopeTRFvxb_ijxk1V1Tuw)
 * [基于 Caret 和 RandomForest 包进行随机森林分析的一般步骤 （1）](https://mp.weixin.qq.com/s/N8PcjIRR4UYpUxkLX2L8Ng)
 * [别人运行的好好的 R 代码，到我这怎么就冲突了？你应该这么做！！！](https://mp.weixin.qq.com/s/gSHafg3uEHeAg3d3kNv_Lw)
+* [《R 语言高级编程指南》— 面向对象编程](https://mp.weixin.qq.com/s/DXjksAfzBy3R9Pw0oxDQQg)
 
 # Shiny
 
