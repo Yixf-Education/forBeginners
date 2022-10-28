@@ -229,6 +229,7 @@
 * [论文写作导读：从标题到附录的各个部分](https://mp.weixin.qq.com/s/vQwISUpIj65X4YqDE-J1jQ)
 * [如何写结论 ——Indeed 编辑团队推荐的规范格式](https://mp.weixin.qq.com/s/EzOcWmrqLNcQja2EwSqF2A)
 * [绘制图文摘要的 “九要” 与 “六不要”](https://mp.weixin.qq.com/s/Hoi8axf3-_BbsEZeaMNwMQ)
+* [资深专家会如何引用文献](https://mp.weixin.qq.com/s/As-y_LCuDoMEPaOJ99jPkg)
 
 ## 数据集
 
