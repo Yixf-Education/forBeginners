@@ -272,6 +272,7 @@
 * [蛋白质组学的前世今生](https://mp.weixin.qq.com/s/gN7vYEnZ27gwAIKylEPNqQ)
 * [熊说肿瘤｜跨越 70 年的癌症靶向治疗里程碑](https://mp.weixin.qq.com/s/hqUK5s24WLlMDSP2mUKcpQ)
 * [Training program description: | Bioinformatics Training at the Harvard Chan Bioinformatics Core](https://hbctraining.github.io/main/)
+* [学习生物信息学的 10 份参考资料](https://mp.weixin.qq.com/s/yIDmV-mWTIPoq3PLLgvAHQ)
 
 ## Galaxy
 
