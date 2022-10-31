@@ -248,6 +248,7 @@
 * [服务器选购浅析及分析环境配置](https://mp.weixin.qq.com/s/V4wIoSeiPogAVh0n0C6jcQ)
 * [关于癌症的 Warburg 效应的这 3 点，你知道吗？](https://mp.weixin.qq.com/s/1AxWZsuK5WRTWBHqE_1ekw)
 * [细胞竞争（Cell competition）](https://mp.weixin.qq.com/s/faIjvfOIyN3FqDMTFf7X6A)
+* [生信宝库推荐 | RM2Target:RNA 修饰相关调控蛋白靶基因的综合数据库资源](https://mp.weixin.qq.com/s/RKRRk98hlXMlHdxe2QUeyg)
 
 ## 系统课程
 
