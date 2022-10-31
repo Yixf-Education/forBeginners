@@ -51,6 +51,7 @@
 * [单细胞教程【1】单细胞转录组 -- 基础篇（更新）](https://mp.weixin.qq.com/s/0PEq3FKn0d1TNYFKA7BWOw)
 * [单细胞教程【2】单细胞转录组系列 - CellRanger](https://mp.weixin.qq.com/s/tkAcBiEt2nK2oBfgZswM1w)
 * [单细胞层面的表达量差异分析到底如何做](https://mp.weixin.qq.com/s/AM5Yj-GXnlhQOHJkg-So3g)
+* [SingCellaR 代码实操（一）：PBMCs 的标准流程](https://mp.weixin.qq.com/s/zMs5TlA2388NkFQDsVDNsQ)
 
 ## 空间转录组
 
