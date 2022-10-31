@@ -230,6 +230,9 @@
 * [如何写结论 ——Indeed 编辑团队推荐的规范格式](https://mp.weixin.qq.com/s/EzOcWmrqLNcQja2EwSqF2A)
 * [绘制图文摘要的 “九要” 与 “六不要”](https://mp.weixin.qq.com/s/Hoi8axf3-_BbsEZeaMNwMQ)
 * [资深专家会如何引用文献](https://mp.weixin.qq.com/s/As-y_LCuDoMEPaOJ99jPkg)
+* [哈佛大学天文学家给初出茅庐学者的建言](https://mp.weixin.qq.com/s/vDIlljHi_zdLjp1oFpXvNQ)
+* [假如你能回到博后的第一天，你会给自己什么建议？](https://mp.weixin.qq.com/s/4wi2y511tWcaDYx4vtrm2w)
+* [如何写 cover letter？附完整教程及模板](https://mp.weixin.qq.com/s/LjhJ2ZALFyz4mUnPC6t0gw)
 
 ## 数据集
 
