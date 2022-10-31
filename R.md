@@ -207,6 +207,7 @@
 * [使用 ggplot2 绘制单个和多个省份地图](https://mp.weixin.qq.com/s/9Y7z0XVHv-sMRSiwY6PnBw)
 * [R 语言绘制十段线地图，给特定省份填色](https://mp.weixin.qq.com/s/ZjUuFtRT1j3ksaGD-hHnLg)
 * [R-ggplot2 标准中国地图制作](https://mp.weixin.qq.com/s/blQC5ZSjZTkKYuIOApYGEQ)
+* [[GBD 数据库挖掘] 10. ggplot2 绘制组合版地图](https://mp.weixin.qq.com/s/MJG6bKU505agLntn3gWBdw)
 
 
 
@@ -273,6 +274,9 @@
 * [真的！森林图 (Forest Plot) 全部绘制技巧都在这了～～](https://mp.weixin.qq.com/s/L7DE4DIZw0J1qDVfPukQzg)
 * [高分必备 —— 配对检验连线图拿捏了！](https://mp.weixin.qq.com/s/8ZMJ2feD-d8LFOIQBDXW0Q)
 * [smartEDA 包，探索性数据分析的双面手](https://mp.weixin.qq.com/s/IFmb9OLjBXmKta_kx8BR5A)
+* [GSEA 确实搭配热图后更直观易懂](https://mp.weixin.qq.com/s/2AD7FzTfoQFzYx8gAT5Fqw)
+* [多维度数据展示！双边热图了解一下？](https://mp.weixin.qq.com/s/omy2OdiS8tGa9j9vmokZ5Q)
+* [基因集合的数据框，列表和对象形式](https://mp.weixin.qq.com/s/9WZNRtortMiuijdd4cASYg)
 
 # R包
 
