@@ -110,6 +110,7 @@
 * [R 可视乎｜表格制作技巧汇总](https://mp.weixin.qq.com/s/NQDXkcQQSepiX0cjc8-ycw)
 * [R 语言 ggplot2 作图好看的配色备选～北京冬奥会相关的配色](https://mp.weixin.qq.com/s/LOjepQZZ7KDAv34YDZQCcw)
 * [【万字长文】R 语言入门学习路线与资源汇总](https://mp.weixin.qq.com/s/-n6eGvBIYf8l4ApPw2k7nw)
+* [R 学习者可能都会遇到的报错 could not find function "paste←"](https://mp.weixin.qq.com/s/IfLZ7mDaFZxKKSVm_BjVoQ)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
