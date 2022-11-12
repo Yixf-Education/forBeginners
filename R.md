@@ -282,6 +282,7 @@
 * [多维度数据展示！双边热图了解一下？](https://mp.weixin.qq.com/s/omy2OdiS8tGa9j9vmokZ5Q)
 * [基因集合的数据框，列表和对象形式](https://mp.weixin.qq.com/s/9WZNRtortMiuijdd4cASYg)
 * [一个完美的单细胞亚群随机森林分离器是如何炼成的](https://mp.weixin.qq.com/s/i1-AWsvLV5IaHoDdto7RKg)
+* [玩转 cgdsr 之循环批量生存曲线](https://mp.weixin.qq.com/s/Lb1P4SoLs4MmnFDSt7o3Cw)
 
 # R包
 
