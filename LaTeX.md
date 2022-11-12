@@ -35,4 +35,5 @@
 * [学术写作注意事项 —— 格式问题](https://mp.weixin.qq.com/s/1eGN7jRRMIih_sDljN8Bpw)
 * [liangliangzhuang/Research_writing_tips: 科研写作技巧笔记](https://github.com/liangliangzhuang/Research_writing_tips)
 * [使用 tabularray 宏包时，如何以合并单元格为基准设定填充色](https://mp.weixin.qq.com/s/O59XqrIwJ6tbJPl-kPqO2g)
+* [tocloft 中译 - 定制目录格式万用包](https://mp.weixin.qq.com/s/fSdqdFkcZqEQZ4DhEcFH7w)
 
