@@ -112,6 +112,7 @@
 * [macOS 和 Linux 有什么区别？ | Linux 中国](https://mp.weixin.qq.com/s/hJeGo-B3Y7e1abvpy2E0Hg)
 * [U 盘启动盘创建工具 Rufus 在 Linux 上不能使用？这里有 6 个替代品 | Linux 中国](https://mp.weixin.qq.com/s/_wSNlzkOmNVs_KxxKQVlmQ)
 * [获取 Linux 工作环境的全部方法](https://mp.weixin.qq.com/s/NuTZtf7OEfqD1TjEUVVvOg)
+* [使用 Pip 升级 Python 软件包 | Linux 中国](https://mp.weixin.qq.com/s/dvQR9M0QBrA5CYi9w2GtWg)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
