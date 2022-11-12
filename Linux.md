@@ -361,6 +361,7 @@
 * [为什么这个脚本换个电脑就用不了了？](https://mp.weixin.qq.com/s/vNwExPVs4JbrbT2kiOMoGQ)
 * [服务器之间如何传输数据：sftp](https://mp.weixin.qq.com/s/omwiPNTQkHOfh4FfjwLjhQ)
 * [使用 Topgrade 一次升级 Linux 中的各种软件包 | Linux 中国](https://mp.weixin.qq.com/s/m3F_9V1ovhMu79fudzLmEg)
+* [12 个对新手最重要的 Linux 命令 | Linux 中国](https://mp.weixin.qq.com/s/3oY1IsMKoV2z9dtU7luHxA)
 
 ## 运维
 
