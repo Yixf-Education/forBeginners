@@ -245,6 +245,8 @@
 * [Reproducibility and Replicability in Science - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK547537/?report=reader)
 * [Reproducibility Guide](https://ropensci-archive.github.io/reproducibility-guide/)
 * [利兹大学 | 阅读论文的笔记模板](https://mp.weixin.qq.com/s/TT8qx5PV-9xVGMmcpZNYoQ)
+* [开题报告中的文献综述怎样写好？（附案例）](https://mp.weixin.qq.com/s/edW1oyFXhoTrIymzqnMhtw)
+* [咋整！又被拒稿了，这四个提升过稿率的小诀窍一定要收好](https://mp.weixin.qq.com/s/GGbc9QfhgcCtLrUhJ89qZw)
 
 ## 数据集
 
