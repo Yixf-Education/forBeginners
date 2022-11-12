@@ -233,6 +233,7 @@
 * [哈佛大学天文学家给初出茅庐学者的建言](https://mp.weixin.qq.com/s/vDIlljHi_zdLjp1oFpXvNQ)
 * [假如你能回到博后的第一天，你会给自己什么建议？](https://mp.weixin.qq.com/s/4wi2y511tWcaDYx4vtrm2w)
 * [如何写 cover letter？附完整教程及模板](https://mp.weixin.qq.com/s/LjhJ2ZALFyz4mUnPC6t0gw)
+* [PPT 演讲稿与论文全稿的区别](https://mp.weixin.qq.com/s/9t030LdqIummNlMkbyugmA)
 
 ## 数据集
 
