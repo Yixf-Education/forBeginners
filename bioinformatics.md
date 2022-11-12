@@ -253,6 +253,7 @@
 * [关于癌症的 Warburg 效应的这 3 点，你知道吗？](https://mp.weixin.qq.com/s/1AxWZsuK5WRTWBHqE_1ekw)
 * [细胞竞争（Cell competition）](https://mp.weixin.qq.com/s/faIjvfOIyN3FqDMTFf7X6A)
 * [生信宝库推荐 | RM2Target:RNA 修饰相关调控蛋白靶基因的综合数据库资源](https://mp.weixin.qq.com/s/RKRRk98hlXMlHdxe2QUeyg)
+* [蛋白质组数据前处理及重要数据挖掘策略（上）](https://mp.weixin.qq.com/s/Mzyg0sa_Ih38GAXzzThZVw)
 
 ## 系统课程
 
