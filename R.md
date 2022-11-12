@@ -210,6 +210,8 @@
 * [R 语言绘制十段线地图，给特定省份填色](https://mp.weixin.qq.com/s/ZjUuFtRT1j3ksaGD-hHnLg)
 * [R-ggplot2 标准中国地图制作](https://mp.weixin.qq.com/s/blQC5ZSjZTkKYuIOApYGEQ)
 * [[GBD 数据库挖掘] 10. ggplot2 绘制组合版地图](https://mp.weixin.qq.com/s/MJG6bKU505agLntn3gWBdw)
+* [推荐收藏，ggplot2 统计图形大汇总](https://mp.weixin.qq.com/s/klwsaQUnUCJCapk_VGH_Ng)
+* [Home - Datanovia](https://www.datanovia.com/en/)
 
 
 
