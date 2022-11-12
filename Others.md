@@ -236,6 +236,7 @@
 * [PPT 演讲稿与论文全稿的区别](https://mp.weixin.qq.com/s/9t030LdqIummNlMkbyugmA)
 * [如何在一周内写出论文全稿](https://mp.weixin.qq.com/s/kjLxcHAmyY0_ogTCMfzLCA)
 * [围观：一篇不足 700 字的论文，咋就发了 Science？](https://mp.weixin.qq.com/s/5HJydQh5MTM1Bw_g-xrGzA)
+* [研究生如何为国际期刊准备稿件](https://mp.weixin.qq.com/s/5qyUWqsQq1ckVVXBe3-cxQ)
 
 ## 数据集
 
