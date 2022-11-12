@@ -287,6 +287,7 @@
 * [一个完美的单细胞亚群随机森林分离器是如何炼成的](https://mp.weixin.qq.com/s/i1-AWsvLV5IaHoDdto7RKg)
 * [玩转 cgdsr 之循环批量生存曲线](https://mp.weixin.qq.com/s/Lb1P4SoLs4MmnFDSt7o3Cw)
 * [LASSO 回归也可以用来做单细胞分类](https://mp.weixin.qq.com/s/6i7Io5en13XXlPt6R1uf1A)
+* [单细胞数据科学中的项目管理 PMP](https://mp.weixin.qq.com/s/GPj51Rpxmtxeqh7NdFnulw)
 
 # R包
 
