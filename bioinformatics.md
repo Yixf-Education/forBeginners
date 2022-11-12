@@ -144,6 +144,7 @@
 * [一文读懂什么是孟德尔随机化](https://mp.weixin.qq.com/s/YdGgCi-hSLpBP3ngA_SvpQ)
 * [生物数据下载最佳途径](https://mp.weixin.qq.com/s/FnHGrMeEBf_dV3Jj4b2zLw)
 * [富集分析，看完这篇就够](https://mp.weixin.qq.com/s/bAicYcgrdFDTuDvL9n-FKw)
+* [更快更稳定的测序数据下载方法](https://mp.weixin.qq.com/s/6DDvFFxSuj9LOfm2XOFDoA)
 
 ## 其他
 
