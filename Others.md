@@ -235,6 +235,7 @@
 * [如何写 cover letter？附完整教程及模板](https://mp.weixin.qq.com/s/LjhJ2ZALFyz4mUnPC6t0gw)
 * [PPT 演讲稿与论文全稿的区别](https://mp.weixin.qq.com/s/9t030LdqIummNlMkbyugmA)
 * [如何在一周内写出论文全稿](https://mp.weixin.qq.com/s/kjLxcHAmyY0_ogTCMfzLCA)
+* [围观：一篇不足 700 字的论文，咋就发了 Science？](https://mp.weixin.qq.com/s/5HJydQh5MTM1Bw_g-xrGzA)
 
 ## 数据集
 
