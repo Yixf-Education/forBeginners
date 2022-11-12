@@ -281,6 +281,7 @@
 * [GSEA 确实搭配热图后更直观易懂](https://mp.weixin.qq.com/s/2AD7FzTfoQFzYx8gAT5Fqw)
 * [多维度数据展示！双边热图了解一下？](https://mp.weixin.qq.com/s/omy2OdiS8tGa9j9vmokZ5Q)
 * [基因集合的数据框，列表和对象形式](https://mp.weixin.qq.com/s/9WZNRtortMiuijdd4cASYg)
+* [一个完美的单细胞亚群随机森林分离器是如何炼成的](https://mp.weixin.qq.com/s/i1-AWsvLV5IaHoDdto7RKg)
 
 # R包
 
