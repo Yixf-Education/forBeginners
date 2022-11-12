@@ -143,6 +143,7 @@
 * [怎么计算 “蝙蝠侠” 的面积？室友唱的玛卡巴卡之歌，给了我灵感…](https://mp.weixin.qq.com/s/7y9nowrRK58WvAkKsl-UPg)
 * [一文读懂什么是孟德尔随机化](https://mp.weixin.qq.com/s/YdGgCi-hSLpBP3ngA_SvpQ)
 * [生物数据下载最佳途径](https://mp.weixin.qq.com/s/FnHGrMeEBf_dV3Jj4b2zLw)
+* [富集分析，看完这篇就够](https://mp.weixin.qq.com/s/bAicYcgrdFDTuDvL9n-FKw)
 
 ## 其他
 
