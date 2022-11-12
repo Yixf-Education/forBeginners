@@ -234,6 +234,7 @@
 * [假如你能回到博后的第一天，你会给自己什么建议？](https://mp.weixin.qq.com/s/4wi2y511tWcaDYx4vtrm2w)
 * [如何写 cover letter？附完整教程及模板](https://mp.weixin.qq.com/s/LjhJ2ZALFyz4mUnPC6t0gw)
 * [PPT 演讲稿与论文全稿的区别](https://mp.weixin.qq.com/s/9t030LdqIummNlMkbyugmA)
+* [如何在一周内写出论文全稿](https://mp.weixin.qq.com/s/kjLxcHAmyY0_ogTCMfzLCA)
 
 ## 数据集
 
