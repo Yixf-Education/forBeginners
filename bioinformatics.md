@@ -142,6 +142,7 @@
 * [生物信息学习的方法论](https://mp.weixin.qq.com/s/wS9CA52-cPh6lpRTcsAmvQ)
 * [怎么计算 “蝙蝠侠” 的面积？室友唱的玛卡巴卡之歌，给了我灵感…](https://mp.weixin.qq.com/s/7y9nowrRK58WvAkKsl-UPg)
 * [一文读懂什么是孟德尔随机化](https://mp.weixin.qq.com/s/YdGgCi-hSLpBP3ngA_SvpQ)
+* [生物数据下载最佳途径](https://mp.weixin.qq.com/s/FnHGrMeEBf_dV3Jj4b2zLw)
 
 ## 其他
 
