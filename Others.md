@@ -239,6 +239,7 @@
 * [研究生如何为国际期刊准备稿件](https://mp.weixin.qq.com/s/5qyUWqsQq1ckVVXBe3-cxQ)
 * [写文献综述，应做到 “八个有”](https://mp.weixin.qq.com/s/078TE0fXbFH_EX4UQ-fzgA)
 * [期刊论文如何写致谢](https://mp.weixin.qq.com/s/N1QNdipyd5AzKSfcEkTxDg)
+* [副主编访谈：论文怎么写？有好的科学问题，要解决好这个科学问题](https://mp.weixin.qq.com/s/C0fmrkB9T9onfYyN1zVCag)
 
 ## 数据集
 
