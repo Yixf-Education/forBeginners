@@ -243,6 +243,7 @@
 * [俺是如何在 3 个月内写出博士论文的？](https://mp.weixin.qq.com/s/xLa394DObNs-NDe-cGnErA)
 * [Reproducibility and Replicability in Science - NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK547537/?report=reader)
 * [Reproducibility Guide](https://ropensci-archive.github.io/reproducibility-guide/)
+* [利兹大学 | 阅读论文的笔记模板](https://mp.weixin.qq.com/s/TT8qx5PV-9xVGMmcpZNYoQ)
 
 ## 数据集
 
