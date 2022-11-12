@@ -238,6 +238,7 @@
 * [围观：一篇不足 700 字的论文，咋就发了 Science？](https://mp.weixin.qq.com/s/5HJydQh5MTM1Bw_g-xrGzA)
 * [研究生如何为国际期刊准备稿件](https://mp.weixin.qq.com/s/5qyUWqsQq1ckVVXBe3-cxQ)
 * [写文献综述，应做到 “八个有”](https://mp.weixin.qq.com/s/078TE0fXbFH_EX4UQ-fzgA)
+* [期刊论文如何写致谢](https://mp.weixin.qq.com/s/N1QNdipyd5AzKSfcEkTxDg)
 
 ## 数据集
 
