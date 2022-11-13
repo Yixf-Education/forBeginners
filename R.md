@@ -291,6 +291,7 @@
 * [LASSO 回归也可以用来做单细胞分类](https://mp.weixin.qq.com/s/6i7Io5en13XXlPt6R1uf1A)
 * [单细胞数据科学中的项目管理 PMP](https://mp.weixin.qq.com/s/GPj51Rpxmtxeqh7NdFnulw)
 * [比原文献的还好看！绘制添加基因标签的火山图](https://mp.weixin.qq.com/s/7FpiV2pAZL8VHsIqvrdnbg)
+* [超详细的相关性矩阵的详细教程来了！推荐收藏～～](https://mp.weixin.qq.com/s/Y_axycTKffTrdiXSNN6dHA)
 
 # R包
 
