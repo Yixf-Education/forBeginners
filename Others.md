@@ -247,6 +247,7 @@
 * [利兹大学 | 阅读论文的笔记模板](https://mp.weixin.qq.com/s/TT8qx5PV-9xVGMmcpZNYoQ)
 * [开题报告中的文献综述怎样写好？（附案例）](https://mp.weixin.qq.com/s/edW1oyFXhoTrIymzqnMhtw)
 * [咋整！又被拒稿了，这四个提升过稿率的小诀窍一定要收好](https://mp.weixin.qq.com/s/GGbc9QfhgcCtLrUhJ89qZw)
+* [SCI 给了大修，还会拒稿吗？来看这篇！](https://mp.weixin.qq.com/s/MGpLqa8FFLQY5DU5Dt7h8A)
 
 ## 数据集
 
