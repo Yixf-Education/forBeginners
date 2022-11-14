@@ -72,6 +72,7 @@
 * [再强调一遍：Unix 不是 Linux！](https://mp.weixin.qq.com/s/H8FazyoC22I73KwIRKX_6w)
 * [Unix 历史：一个伟大作品的诞生 | Linux 中国](https://mp.weixin.qq.com/s/gQCpDarNu6Cttg9V9svsfg)
 * [你应该停止相信的关于 Linux 的 7 个神话](https://mp.weixin.qq.com/s/pIhd1ZsJ25YKi4wRhHoJ-w)
+* [Linux 环境变量总结](https://mp.weixin.qq.com/s/2hOw6ZuqahyC3iaSvuyfJA)
 
 ## 杂烩
 * [2015年最弱的密码和最强的密码](https://linux.cn/article-6918-1.html)
