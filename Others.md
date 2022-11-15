@@ -248,6 +248,7 @@
 * [开题报告中的文献综述怎样写好？（附案例）](https://mp.weixin.qq.com/s/edW1oyFXhoTrIymzqnMhtw)
 * [咋整！又被拒稿了，这四个提升过稿率的小诀窍一定要收好](https://mp.weixin.qq.com/s/GGbc9QfhgcCtLrUhJ89qZw)
 * [SCI 给了大修，还会拒稿吗？来看这篇！](https://mp.weixin.qq.com/s/MGpLqa8FFLQY5DU5Dt7h8A)
+* [莫纳什大学 | 如何报道和讨论您的研究发现](https://mp.weixin.qq.com/s/fUbxL3GOFWhbxqKw3xl4ow)
 
 ## 数据集
 
