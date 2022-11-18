@@ -286,6 +286,7 @@
 * [Training program description: | Bioinformatics Training at the Harvard Chan Bioinformatics Core](https://hbctraining.github.io/main/)
 * [学习生物信息学的 10 份参考资料](https://mp.weixin.qq.com/s/yIDmV-mWTIPoq3PLLgvAHQ)
 * [DIY.transcriptomics – RNAseq course.](https://diytranscriptomics.com/)
+* [Bioinformatics Training](https://rockefelleruniversity.github.io/)
 
 ## Galaxy
 
