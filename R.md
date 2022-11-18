@@ -220,6 +220,7 @@
 * [配色神器 R-grafify](https://mp.weixin.qq.com/s/-U5tbtlftZKQ0-QP4m-meA)
 * [R 初学者必知图形添加显著性标记小细节](https://mp.weixin.qq.com/s/WefuIjKjzW3cguFcv_AH-Q)
 * [一键搞定全部统计绘图！这个可视化工具太赞了！！](https://mp.weixin.qq.com/s/FA0GSWxxUnvNVIgHgHsRWQ)
+* [生信小工具 | R 语言实操三：pheatmap 包参数详解和进阶教程](https://mp.weixin.qq.com/s/f5TmI4U3SNxT6TsyguJ8oA)
 
 
 
