@@ -146,6 +146,7 @@
 * [富集分析，看完这篇就够](https://mp.weixin.qq.com/s/bAicYcgrdFDTuDvL9n-FKw)
 * [更快更稳定的测序数据下载方法](https://mp.weixin.qq.com/s/6DDvFFxSuj9LOfm2XOFDoA)
 * [从 aws 下载生物数据嘎嘎快](https://mp.weixin.qq.com/s/iM1W1dPvFsWBBOL9xnG8UQ)
+* [网络药理学 | 靶点 GO/KEGG 注释和富集分析](https://mp.weixin.qq.com/s/ugALAL3b56Hsc2gnjOyHrQ)
 
 ## 其他
 
