@@ -366,6 +366,7 @@
 * [使用 Topgrade 一次升级 Linux 中的各种软件包 | Linux 中国](https://mp.weixin.qq.com/s/m3F_9V1ovhMu79fudzLmEg)
 * [12 个对新手最重要的 Linux 命令 | Linux 中国](https://mp.weixin.qq.com/s/3oY1IsMKoV2z9dtU7luHxA)
 * [Linux 操作必备 150 个命令，速度收藏～](https://mp.weixin.qq.com/s/O--mSz2Q66GikBEpwEAyNQ)
+* [通过 SSH 在远程 Linux 系统上执行命令 | Linux 中国](https://mp.weixin.qq.com/s/JPpqulWUDW2QY6h-qYhSSQ)
 
 ## 运维
 
