@@ -250,6 +250,7 @@
 * [SCI 给了大修，还会拒稿吗？来看这篇！](https://mp.weixin.qq.com/s/MGpLqa8FFLQY5DU5Dt7h8A)
 * [莫纳什大学 | 如何报道和讨论您的研究发现](https://mp.weixin.qq.com/s/fUbxL3GOFWhbxqKw3xl4ow)
 * [布局论文的三级结构](https://mp.weixin.qq.com/s/89uuu-tkdGbFGEiNb3zpkA)
+* [中英文文献综述笔记模板](https://mp.weixin.qq.com/s/QqRGIKsqv1R0Ha27l2xTKw)
 
 ## 数据集
 
