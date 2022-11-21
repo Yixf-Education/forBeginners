@@ -298,6 +298,7 @@
 * [超详细的相关性矩阵的详细教程来了！推荐收藏～～](https://mp.weixin.qq.com/s/Y_axycTKffTrdiXSNN6dHA)
 * [绘制 Kaplan-Meier 生存曲线的详细教程](https://mp.weixin.qq.com/s/N6J6TifLq4SGfLJ9lqOykg)
 * [跟着 iMeta 学做图｜微生物组共现网络（Co-occurrence Network）绘制](https://mp.weixin.qq.com/s/AAfrCaVobIfgbRtrM7E5dg)
+* [不输于 LASSO 的 SVM 单细胞分类器](https://mp.weixin.qq.com/s/5-to0kpx3AxE1vRONKT-Bw)
 
 # R包
 
