@@ -252,6 +252,7 @@
 * [布局论文的三级结构](https://mp.weixin.qq.com/s/89uuu-tkdGbFGEiNb3zpkA)
 * [中英文文献综述笔记模板](https://mp.weixin.qq.com/s/QqRGIKsqv1R0Ha27l2xTKw)
 * [如何写好一篇文献综述？](https://mp.weixin.qq.com/s/fXYRHKncUJqzuRStAJ33-w)
+* [写好引言的诀窍](https://mp.weixin.qq.com/s/s0V8lnWnav_k7lVxDS2LEw)
 
 ## 数据集
 
