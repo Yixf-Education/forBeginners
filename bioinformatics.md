@@ -261,6 +261,7 @@
 * [专题讨论 | 三维基因组与细胞命运转换](https://mp.weixin.qq.com/s/uwYi3_0FYh-97n17XI3I0w)
 * [CellChat 学习笔记【一】—— 通讯网络构建](https://mp.weixin.qq.com/s/wjt46LrzRJFHhBexEdKvaA)
 * [R 语言之双细胞检测工具 DoubletFinder](https://mp.weixin.qq.com/s/yNcGPhUm1YE5v_yhIbd3GQ)
+* [单细胞免疫组库基础介绍](https://mp.weixin.qq.com/s/zjwpNUOr_7OoTGn7nhH-7g)
 
 ## 系统课程
 
