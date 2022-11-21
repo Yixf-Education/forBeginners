@@ -297,6 +297,7 @@
 * [比原文献的还好看！绘制添加基因标签的火山图](https://mp.weixin.qq.com/s/7FpiV2pAZL8VHsIqvrdnbg)
 * [超详细的相关性矩阵的详细教程来了！推荐收藏～～](https://mp.weixin.qq.com/s/Y_axycTKffTrdiXSNN6dHA)
 * [绘制 Kaplan-Meier 生存曲线的详细教程](https://mp.weixin.qq.com/s/N6J6TifLq4SGfLJ9lqOykg)
+* [跟着 iMeta 学做图｜微生物组共现网络（Co-occurrence Network）绘制](https://mp.weixin.qq.com/s/AAfrCaVobIfgbRtrM7E5dg)
 
 # R包
 
