@@ -115,6 +115,7 @@
 * [获取 Linux 工作环境的全部方法](https://mp.weixin.qq.com/s/NuTZtf7OEfqD1TjEUVVvOg)
 * [使用 Pip 升级 Python 软件包 | Linux 中国](https://mp.weixin.qq.com/s/dvQR9M0QBrA5CYi9w2GtWg)
 * [Ubuntu 所有版本的吉祥物 | Linux 中国](https://mp.weixin.qq.com/s/cwAJdCzoiuGEsJdEJoQVDA)
+* [电视剧里的代码真能运行吗？](https://mp.weixin.qq.com/s/rDBp_CX-jCfGjZyKcRc8yQ)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
