@@ -260,6 +260,7 @@
 * [蛋白质组数据前处理及重要数据挖掘策略（上）](https://mp.weixin.qq.com/s/Mzyg0sa_Ih38GAXzzThZVw)
 * [专题讨论 | 三维基因组与细胞命运转换](https://mp.weixin.qq.com/s/uwYi3_0FYh-97n17XI3I0w)
 * [CellChat 学习笔记【一】—— 通讯网络构建](https://mp.weixin.qq.com/s/wjt46LrzRJFHhBexEdKvaA)
+* [R 语言之双细胞检测工具 DoubletFinder](https://mp.weixin.qq.com/s/yNcGPhUm1YE5v_yhIbd3GQ)
 
 ## 系统课程
 
