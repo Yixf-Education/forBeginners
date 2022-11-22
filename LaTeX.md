@@ -39,4 +39,5 @@
 * [截至目前 LaTeX 入门最好资料](https://mp.weixin.qq.com/s/Hfo_H4PeRDoULfYOVbJC-g)
 * [高德纳同款 LaTeX 编辑器 emacs](https://mp.weixin.qq.com/s/S6XEXpLBRQeNAklOVRysfg)
 * [一篇老文 - 为什么要用 LaTeX？](https://mp.weixin.qq.com/s/KaG_VBDZcgczE4iPH_LYDw)
+* [Create LaTeX tables online – TablesGenerator.com](https://www.tablesgenerator.com/)
 
