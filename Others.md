@@ -255,6 +255,7 @@
 * [写好引言的诀窍](https://mp.weixin.qq.com/s/s0V8lnWnav_k7lVxDS2LEw)
 * [博士生延毕的原因分析](https://mp.weixin.qq.com/s/CTXUH51oCa5xutrGfGjB9Q)
 * [学位有可能被撤销！这 7 个文献引用禁忌千万别犯！](https://mp.weixin.qq.com/s/uDhBVjL4y4kz6YO-PExZDg)
+* [论文作者](https://mp.weixin.qq.com/s/nApm3_nmzX7ri1fYRsHVlg)
 
 ## 数据集
 
