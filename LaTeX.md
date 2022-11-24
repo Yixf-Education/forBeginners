@@ -40,4 +40,5 @@
 * [高德纳同款 LaTeX 编辑器 emacs](https://mp.weixin.qq.com/s/S6XEXpLBRQeNAklOVRysfg)
 * [一篇老文 - 为什么要用 LaTeX？](https://mp.weixin.qq.com/s/KaG_VBDZcgczE4iPH_LYDw)
 * [Create LaTeX tables online – TablesGenerator.com](https://www.tablesgenerator.com/)
+* [简短小文告诉你 LaTeX 到底是什么？](https://mp.weixin.qq.com/s/4gJ1_w9Wh83_LP0xUvu-2g)
 
