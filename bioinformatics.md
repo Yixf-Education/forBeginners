@@ -262,6 +262,7 @@
 * [CellChat 学习笔记【一】—— 通讯网络构建](https://mp.weixin.qq.com/s/wjt46LrzRJFHhBexEdKvaA)
 * [R 语言之双细胞检测工具 DoubletFinder](https://mp.weixin.qq.com/s/yNcGPhUm1YE5v_yhIbd3GQ)
 * [单细胞免疫组库基础介绍](https://mp.weixin.qq.com/s/zjwpNUOr_7OoTGn7nhH-7g)
+* [多图示例：如何呈现论文结果中的各种图表](https://mp.weixin.qq.com/s/_exaFUxB-ZO5lnMfGKmifg)
 
 ## 系统课程
 
