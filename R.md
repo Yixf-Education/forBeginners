@@ -115,6 +115,7 @@
 * [R-ggpattern（绘图花式大赏 - 1）](https://mp.weixin.qq.com/s/Hea9qS1XqVy5WesSJKtW8w)
 * [R-ggpattern (绘图花式大赏 - 2)](https://mp.weixin.qq.com/s/pSD2i_P65WpnbCDS7jjubg)
 * [Rstudio 常用快捷键以及窗口操作有用技巧](https://mp.weixin.qq.com/s/j8FJcdzqqKyQi0nwKTGlTA)
+* [32 份 R 语言文档沟通推文汇总](https://mp.weixin.qq.com/s/sYd_DFO5fD-qULjKoo_V_Q)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
