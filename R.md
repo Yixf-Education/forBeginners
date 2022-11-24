@@ -255,6 +255,7 @@
 * [R 沟通｜用 bookdown 制作图书 (1)](https://mp.weixin.qq.com/s?__biz=MzI1NjUwMjQxMQ==&mid=2247492971&idx=1&sn=b342777e1f1bf1d4a85cff0f20735491&chksm=ea271a8fdd50939996772ee0a8e3bf1cb1f35b2361ef6c160011074464dc957a421e44cba1fe&scene=21#wechat_redirect)
 * [R 沟通｜部署 bookdown 文件到 GitHub 上](https://mp.weixin.qq.com/s/rTcgxhF49aSLAO2rpk5t5Q)
 * [手把手教你使用 Quarto 构建文档 (1)](https://mp.weixin.qq.com/s/mLauhZ2xjLXRuSbXIXl81w)
+* [超超超级好用的 RMarkdown 插件](https://mp.weixin.qq.com/s/P1tKVlaR0Oseq-JklWoLOQ)
 
 # 生信相关
 
