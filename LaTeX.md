@@ -45,4 +45,5 @@
 * [TeX 系统的演变 - 转载](https://mp.weixin.qq.com/s/4Cwy0g5rbClmxEeA7S_I2g)
 * [Texlive 2022 + Winedt11 安装及配置](https://mp.weixin.qq.com/s/MzQXwTnHReBO0NQlejRW0A)
 * [可可爱爱绘制企鹅的宏包](https://mp.weixin.qq.com/s/0ARvPGhWd0zofPKEQvjmag)
+* [插图问题秘诀与图文绕排方案合集](https://mp.weixin.qq.com/s/SBxVHRsyonQGnU5F7gkbgA)
 
