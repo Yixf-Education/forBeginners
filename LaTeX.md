@@ -41,4 +41,8 @@
 * [一篇老文 - 为什么要用 LaTeX？](https://mp.weixin.qq.com/s/KaG_VBDZcgczE4iPH_LYDw)
 * [Create LaTeX tables online – TablesGenerator.com](https://www.tablesgenerator.com/)
 * [简短小文告诉你 LaTeX 到底是什么？](https://mp.weixin.qq.com/s/4gJ1_w9Wh83_LP0xUvu-2g)
+* [适合撰写课程论文的 LaTeX 模板](https://mp.weixin.qq.com/s/4dM55x8Vt_4zUIk61rWJgg)
+* [TeX 系统的演变 - 转载](https://mp.weixin.qq.com/s/4Cwy0g5rbClmxEeA7S_I2g)
+* [Texlive 2022 + Winedt11 安装及配置](https://mp.weixin.qq.com/s/MzQXwTnHReBO0NQlejRW0A)
+* [可可爱爱绘制企鹅的宏包](https://mp.weixin.qq.com/s/0ARvPGhWd0zofPKEQvjmag)
 
