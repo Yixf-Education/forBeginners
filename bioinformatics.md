@@ -148,6 +148,10 @@
 * [从 aws 下载生物数据嘎嘎快](https://mp.weixin.qq.com/s/iM1W1dPvFsWBBOL9xnG8UQ)
 * [网络药理学 | 靶点 GO/KEGG 注释和富集分析](https://mp.weixin.qq.com/s/ugALAL3b56Hsc2gnjOyHrQ)
 * [转录小白日志丨关于参考基因组的那些事儿](https://mp.weixin.qq.com/s/bvDLUiRxbJ3xRiHNFF1RPw)
+* [蛋白质组学专题 | 蛋白质组学样品前处理之蛋白提取](https://mp.weixin.qq.com/s/DfVbc4RJ-NW4Hqc-z4Kq9Q)
+* [从数据整理到软件使用，GSEA 实操分享](https://mp.weixin.qq.com/s/xGhR48YfJ1xm1jwEakKacA)
+* [不同策略对罕见物种进行 GSEA 富集分析](https://mp.weixin.qq.com/s/y96MSqQsgZ-MWk6m-4P_Ag)
+* [3 种方法为你的稀有物种建立生物学知识数据库](https://mp.weixin.qq.com/s/d8my3huPx0JWgUmGCX7lzQ)
 
 ## 其他
 
