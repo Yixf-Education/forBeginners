@@ -256,6 +256,7 @@
 * [博士生延毕的原因分析](https://mp.weixin.qq.com/s/CTXUH51oCa5xutrGfGjB9Q)
 * [学位有可能被撤销！这 7 个文献引用禁忌千万别犯！](https://mp.weixin.qq.com/s/uDhBVjL4y4kz6YO-PExZDg)
 * [论文作者](https://mp.weixin.qq.com/s/nApm3_nmzX7ri1fYRsHVlg)
+* [文章 accepted 后就圆满了？别松懈！这些事一定不能出错…](https://mp.weixin.qq.com/s/cikLjzx4atcN3mpJ07pxTQ)
 
 ## 数据集
 
