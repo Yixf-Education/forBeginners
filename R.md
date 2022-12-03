@@ -117,6 +117,7 @@
 * [Rstudio 常用快捷键以及窗口操作有用技巧](https://mp.weixin.qq.com/s/j8FJcdzqqKyQi0nwKTGlTA)
 * [32 份 R 语言文档沟通推文汇总](https://mp.weixin.qq.com/s/sYd_DFO5fD-qULjKoo_V_Q)
 * [机器学习系列 | R 语言实践机器学习案例分享 - 连续性变量离散化处理](https://mp.weixin.qq.com/s/H9fzLc_9bzXNx8y5yk2wqg)
+* [实用技巧，怎么快速查找自己需要的 R 包？](https://mp.weixin.qq.com/s/M9mHghKduWC14_S3bw6Z7A)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
@@ -223,6 +224,8 @@
 * [R 初学者必知图形添加显著性标记小细节](https://mp.weixin.qq.com/s/WefuIjKjzW3cguFcv_AH-Q)
 * [一键搞定全部统计绘图！这个可视化工具太赞了！！](https://mp.weixin.qq.com/s/FA0GSWxxUnvNVIgHgHsRWQ)
 * [生信小工具 | R 语言实操三：pheatmap 包参数详解和进阶教程](https://mp.weixin.qq.com/s/f5TmI4U3SNxT6TsyguJ8oA)
+* [拿捏 2 种富集条形图绘制方法！](https://mp.weixin.qq.com/s/FeBbIroiMg5sAciPQImn5w)
+* 
 
 
 
@@ -327,6 +330,8 @@
 * [别人运行的好好的 R 代码，到我这怎么就冲突了？你应该这么做！！！](https://mp.weixin.qq.com/s/gSHafg3uEHeAg3d3kNv_Lw)
 * [《R 语言高级编程指南》— 面向对象编程](https://mp.weixin.qq.com/s/DXjksAfzBy3R9Pw0oxDQQg)
 * [最常用的 R 包整理](https://mp.weixin.qq.com/s/RcLsAyUsxeLgFC31wNqT0A)
+* [缺失值分析：多重插补后应该用哪一次的插补结果进行最终的数据分析？](https://mp.weixin.qq.com/s/dqDaU6Bt8w5z48XA0PFEVA)
+* [机器学习系列 | R 语言实践机器学习案例分享 - ggtrendline 包添加回归拟合线及其方程式](https://mp.weixin.qq.com/s/8EvT31r4nf9KE3BMj7XcwQ)
 
 # Shiny
 
