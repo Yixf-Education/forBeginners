@@ -267,6 +267,7 @@
 * [R 语言之双细胞检测工具 DoubletFinder](https://mp.weixin.qq.com/s/yNcGPhUm1YE5v_yhIbd3GQ)
 * [单细胞免疫组库基础介绍](https://mp.weixin.qq.com/s/zjwpNUOr_7OoTGn7nhH-7g)
 * [多图示例：如何呈现论文结果中的各种图表](https://mp.weixin.qq.com/s/_exaFUxB-ZO5lnMfGKmifg)
+* [最快清除癌症的方法，可能就藏在我们的血液中](https://mp.weixin.qq.com/s/4VKg9wu7EGcPc4ZPGg_Zhw)
 
 ## 系统课程
 
