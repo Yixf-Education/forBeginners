@@ -154,6 +154,8 @@
 * [3 种方法为你的稀有物种建立生物学知识数据库](https://mp.weixin.qq.com/s/d8my3huPx0JWgUmGCX7lzQ)
 * [如何通俗易懂的描述机器学习的流程？](https://mp.weixin.qq.com/s/wsBcX06hn7woNvD57ZW60Q)
 * [万字教程，机器学习的通俗讲解！](https://mp.weixin.qq.com/s/oJicVcQpn-EVxpLkVohGOA)
+* [EGA 数据申请与下载](https://mp.weixin.qq.com/s/FhzUjGF-Xcj-GcObXlO51A)
+* [shell 学习记录（7）EGA 数据自动化下载与处理](https://mp.weixin.qq.com/s/_WNwM9Mj7U6M6oi8scRu7w)
 
 ## 其他
 
