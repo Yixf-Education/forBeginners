@@ -259,6 +259,8 @@
 * [论文作者](https://mp.weixin.qq.com/s/nApm3_nmzX7ri1fYRsHVlg)
 * [文章 accepted 后就圆满了？别松懈！这些事一定不能出错…](https://mp.weixin.qq.com/s/cikLjzx4atcN3mpJ07pxTQ)
 * [如何写选题（开题）报告](https://mp.weixin.qq.com/s/Nm290G0buJq0VlroG9oQLA)
+* [开题报告怎么写？这篇文章说全了！](https://mp.weixin.qq.com/s/SKH9lZBpxAMMd67f6j0l6g)
+* [细谈如何写摘要](https://mp.weixin.qq.com/s/oyhnUrxo88SJN1GKmwjt2w)
 
 ## 数据集
 
