@@ -46,4 +46,8 @@
 * [Texlive 2022 + Winedt11 安装及配置](https://mp.weixin.qq.com/s/MzQXwTnHReBO0NQlejRW0A)
 * [可可爱爱绘制企鹅的宏包](https://mp.weixin.qq.com/s/0ARvPGhWd0zofPKEQvjmag)
 * [插图问题秘诀与图文绕排方案合集](https://mp.weixin.qq.com/s/SBxVHRsyonQGnU5F7gkbgA)
+* [美美的文本框这儿都有](https://mp.weixin.qq.com/s/tNCEHKD4qhvpOHVUltfY2w)
+* [专为 beamer 定制 tcolorbox 包](https://mp.weixin.qq.com/s/NTDN7lgHouLziRlBAhNY7A)
+* [韦恩图绘制就用这个 - 绝了](https://mp.weixin.qq.com/s/PanZqMEoYDy4WyS_BAQXvw)
+* [tcolorbox 的几个文本框样式备忘](https://mp.weixin.qq.com/s/9CVyK9DxA3gQa2tnc-h5Kw)
 
