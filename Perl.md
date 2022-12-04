@@ -30,6 +30,7 @@
 * [10 行 Python 代码写 1 个 USB 病毒](https://mp.weixin.qq.com/s/4wn5FpFFdovHcCYK_uun3A)
 * [Python 的一些日常高频写法](https://mp.weixin.qq.com/s/SVo4vVZfM989yfnS6tAkFA)
 * [用 Python 写了一个上课点名系统（附源码）](https://mp.weixin.qq.com/s/ZoCEWO9WsnfAcDlzhr3geg)
+* [20 个解决日常问题的 Python 代码片段！](https://mp.weixin.qq.com/s/5IpVG4WbBrYnmHBFObm1Pg)
 
 ## Perl系列
 
