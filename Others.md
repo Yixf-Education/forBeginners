@@ -261,6 +261,7 @@
 * [如何写选题（开题）报告](https://mp.weixin.qq.com/s/Nm290G0buJq0VlroG9oQLA)
 * [开题报告怎么写？这篇文章说全了！](https://mp.weixin.qq.com/s/SKH9lZBpxAMMd67f6j0l6g)
 * [细谈如何写摘要](https://mp.weixin.qq.com/s/oyhnUrxo88SJN1GKmwjt2w)
+* [编辑和审稿人对论文的要求](https://mp.weixin.qq.com/s/07gzVza9fL6lGCGljiQvfw)
 
 ## 数据集
 
