@@ -156,6 +156,7 @@
 * [万字教程，机器学习的通俗讲解！](https://mp.weixin.qq.com/s/oJicVcQpn-EVxpLkVohGOA)
 * [EGA 数据申请与下载](https://mp.weixin.qq.com/s/FhzUjGF-Xcj-GcObXlO51A)
 * [shell 学习记录（7）EGA 数据自动化下载与处理](https://mp.weixin.qq.com/s/_WNwM9Mj7U6M6oi8scRu7w)
+* [Refgenie | 管理参考基因组注释文件及索引文件的利器](https://mp.weixin.qq.com/s/r6VuSfMsMkgvFfoDwqgwag)
 
 ## 其他
 
