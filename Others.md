@@ -100,6 +100,7 @@
 * [无所不在的方差分析](https://mp.weixin.qq.com/s/KeZ7ysfaSsOYvCF98Pw6Bg)
 * [小概率与大时代](https://mp.weixin.qq.com/s/lbjGICHqmtpV7xrfPFporw)
 * [如何解释无统计学显著性的结果？可以考虑用置信区间（CI）](https://mp.weixin.qq.com/s/nGqlJ9PEvG6yeX-EpbZBWw)
+* [画说统计 | 卡方检验到底干了什么？有时候还得用 Fishier 确切概率法？](https://mp.weixin.qq.com/s/fgiJYhpnHEKvywg4p3UKOg)
 
 ## 统计学入门
 
