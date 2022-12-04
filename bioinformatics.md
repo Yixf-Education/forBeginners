@@ -269,6 +269,7 @@
 * [多图示例：如何呈现论文结果中的各种图表](https://mp.weixin.qq.com/s/_exaFUxB-ZO5lnMfGKmifg)
 * [最快清除癌症的方法，可能就藏在我们的血液中](https://mp.weixin.qq.com/s/4VKg9wu7EGcPc4ZPGg_Zhw)
 * [难倒梅西的人工智能如何适用于免疫治疗预测](https://mp.weixin.qq.com/s/AIyuGKXGUQB4GVu3f6-4bw)
+* [香浓熵值判断你的单细胞亚群是否有样品特异性](https://mp.weixin.qq.com/s/W_u3XhgJsSfl4K4sEuxCLA)
 
 ## 系统课程
 
