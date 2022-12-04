@@ -152,6 +152,8 @@
 * [从数据整理到软件使用，GSEA 实操分享](https://mp.weixin.qq.com/s/xGhR48YfJ1xm1jwEakKacA)
 * [不同策略对罕见物种进行 GSEA 富集分析](https://mp.weixin.qq.com/s/y96MSqQsgZ-MWk6m-4P_Ag)
 * [3 种方法为你的稀有物种建立生物学知识数据库](https://mp.weixin.qq.com/s/d8my3huPx0JWgUmGCX7lzQ)
+* [如何通俗易懂的描述机器学习的流程？](https://mp.weixin.qq.com/s/wsBcX06hn7woNvD57ZW60Q)
+* [万字教程，机器学习的通俗讲解！](https://mp.weixin.qq.com/s/oJicVcQpn-EVxpLkVohGOA)
 
 ## 其他
 
