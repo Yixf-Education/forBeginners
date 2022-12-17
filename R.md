@@ -305,6 +305,8 @@
 * [绘制 Kaplan-Meier 生存曲线的详细教程](https://mp.weixin.qq.com/s/N6J6TifLq4SGfLJ9lqOykg)
 * [跟着 iMeta 学做图｜微生物组共现网络（Co-occurrence Network）绘制](https://mp.weixin.qq.com/s/AAfrCaVobIfgbRtrM7E5dg)
 * [不输于 LASSO 的 SVM 单细胞分类器](https://mp.weixin.qq.com/s/5-to0kpx3AxE1vRONKT-Bw)
+* [机器学习分类问题：9 个常用的评估指标总结](https://mp.weixin.qq.com/s/Q0vCaiarfDgim0E_WMTFuw)
+* [基于 R 语言的多指标联合预测 ROC 曲线分析](https://mp.weixin.qq.com/s/-l6-akuzWyp01_egLAPbtQ)
 
 # R包
 
