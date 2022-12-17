@@ -276,6 +276,12 @@
 * [难倒梅西的人工智能如何适用于免疫治疗预测](https://mp.weixin.qq.com/s/AIyuGKXGUQB4GVu3f6-4bw)
 * [香浓熵值判断你的单细胞亚群是否有样品特异性](https://mp.weixin.qq.com/s/W_u3XhgJsSfl4K4sEuxCLA)
 * [Hi-C：三维表观基因组学揭示 DNA-DNA 相互作用](https://mp.weixin.qq.com/s/7_PCfUeduBVqBKmShlgd6A)
+* [提问的智慧](https://mp.weixin.qq.com/s/YAnoeyxeUIBWJ2RqFyPblg)
+* [免费的在线 Rstudio 与 Python 环境](https://mp.weixin.qq.com/s/ux9R6yrf7XlsRPt7cNijWw)
+* [长相遗传中，哪些 “丑基因” 更强大？](https://mp.weixin.qq.com/s/LXp4orDS4hjNJ-o9pkZ1Xw)
+* [内含子](https://mp.weixin.qq.com/s/SDphYJa_fYp9UCT30WGOiw)
+* [单细胞转录组 tSNE 和 UMAP 可视化有什么区别？别再问啦，这就告诉你！](https://mp.weixin.qq.com/s/kRccOs9M7P_scAoPMeUJkQ)
+* [GSAman | 我「玩着游戏」就把「科研做了」](https://mp.weixin.qq.com/s/DoC1MFc9m7okVklFnqV4xA)
 
 ## 系统课程
 
