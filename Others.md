@@ -263,6 +263,11 @@
 * [开题报告怎么写？这篇文章说全了！](https://mp.weixin.qq.com/s/SKH9lZBpxAMMd67f6j0l6g)
 * [细谈如何写摘要](https://mp.weixin.qq.com/s/oyhnUrxo88SJN1GKmwjt2w)
 * [编辑和审稿人对论文的要求](https://mp.weixin.qq.com/s/07gzVza9fL6lGCGljiQvfw)
+* [干货分享丨如何写出了不起的摘要](https://mp.weixin.qq.com/s/WPb7lb7nQGiJETFODZOfIg)
+* [史诗级别的论文绪论引言习作模板、框架和技巧，超级好用到哭！](https://mp.weixin.qq.com/s/g_ow7MRYAsd8zW64j8VeRQ)
+* [如何书写综述论文](https://mp.weixin.qq.com/s/BUyeJLe-HLqQ0L3KfdRDHA)
+* [提问的智慧](https://mp.weixin.qq.com/s/YAnoeyxeUIBWJ2RqFyPblg)
+* [颜宁：讲讲如何记实验记录](https://mp.weixin.qq.com/s/H1tn5xAA3rXXpiVI5uyiPA)
 
 ## 数据集
 
