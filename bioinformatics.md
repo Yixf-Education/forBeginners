@@ -157,6 +157,7 @@
 * [EGA 数据申请与下载](https://mp.weixin.qq.com/s/FhzUjGF-Xcj-GcObXlO51A)
 * [shell 学习记录（7）EGA 数据自动化下载与处理](https://mp.weixin.qq.com/s/_WNwM9Mj7U6M6oi8scRu7w)
 * [Refgenie | 管理参考基因组注释文件及索引文件的利器](https://mp.weixin.qq.com/s/r6VuSfMsMkgvFfoDwqgwag)
+* [R 语言统计分析 | 批量单变量 Cox 回归分析](https://mp.weixin.qq.com/s/KhaCKcG38PvKSjMIAXnZDA)
 
 ## 其他
 
