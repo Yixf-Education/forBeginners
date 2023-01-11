@@ -307,6 +307,8 @@
 * [不输于 LASSO 的 SVM 单细胞分类器](https://mp.weixin.qq.com/s/5-to0kpx3AxE1vRONKT-Bw)
 * [机器学习分类问题：9 个常用的评估指标总结](https://mp.weixin.qq.com/s/Q0vCaiarfDgim0E_WMTFuw)
 * [基于 R 语言的多指标联合预测 ROC 曲线分析](https://mp.weixin.qq.com/s/-l6-akuzWyp01_egLAPbtQ)
+* [t-SNE：如何理解与高效使用](https://mp.weixin.qq.com/s/IKU7uwI-IIUPFoZ6ZP3FYw)
+* [机器学习算法：UMAP 深入理解](https://mp.weixin.qq.com/s/FLvWKDFpulucqkt5ib4rQA)
 
 # R包
 
