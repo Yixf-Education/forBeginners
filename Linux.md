@@ -117,6 +117,7 @@
 * [Ubuntu 所有版本的吉祥物 | Linux 中国](https://mp.weixin.qq.com/s/cwAJdCzoiuGEsJdEJoQVDA)
 * [电视剧里的代码真能运行吗？](https://mp.weixin.qq.com/s/rDBp_CX-jCfGjZyKcRc8yQ)
 * [最佳 Linux 远程桌面客户端 | Linux 中国](https://mp.weixin.qq.com/s/VGOWov0ofmpzcQUH8iHGLA)
+* [Oh My Zsh 和 Powerlevel10k：天作之合 | Linux 中国](https://mp.weixin.qq.com/s/3RToqfcXs18-6rS5cUtflg)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
@@ -371,6 +372,8 @@
 * [通过 SSH 在远程 Linux 系统上执行命令 | Linux 中国](https://mp.weixin.qq.com/s/JPpqulWUDW2QY6h-qYhSSQ)
 * [5 个 htop 替代：增强你的 Linux 系统监控体验 | Linux 中国](https://mp.weixin.qq.com/s/lyMtYPmevR6u7r31UoMWOA)
 * [每个 Linux 用户都应该知道的 31 条命令 | Linux 中国](https://mp.weixin.qq.com/s/J6iEkeC7mIHsusFaKUuwHg)
+* [一些常用处理序列的 Linux 命令行技巧](https://mp.weixin.qq.com/s/FuGGhaiMwFAZNKx3X1Ar7Q)
+* 
 
 ## 运维
 
