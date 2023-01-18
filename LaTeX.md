@@ -53,5 +53,6 @@
 * [LaTeX 排版图表总是乱跑怎么办？](https://mp.weixin.qq.com/s/2wwl8EImiPU4NkqIlF_Xbw)
 * [LaTeX 写科研日志的模板](https://mp.weixin.qq.com/s/XfnNcNBCE5yqacZXNCdZyA)
 * [TeX 传统版式写作的曲折道路](https://mp.weixin.qq.com/s/b8lgPjU1YgmJ4FbnSeu1JA)
-* 
+* [LaTeX 排版艺术：常见错误，精致排版的建议，漂亮的证明环境](https://mp.weixin.qq.com/s/ythcVxiRfaVxQFlQDuXYLA)
+* [用 LaTeX 实现批注修订的功能](https://mp.weixin.qq.com/s/iRkDtU8yKVLytyEm_EBkiw)
 
