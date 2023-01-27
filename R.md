@@ -309,6 +309,7 @@
 * [基于 R 语言的多指标联合预测 ROC 曲线分析](https://mp.weixin.qq.com/s/-l6-akuzWyp01_egLAPbtQ)
 * [t-SNE：如何理解与高效使用](https://mp.weixin.qq.com/s/IKU7uwI-IIUPFoZ6ZP3FYw)
 * [机器学习算法：UMAP 深入理解](https://mp.weixin.qq.com/s/FLvWKDFpulucqkt5ib4rQA)
+* [单细胞多组学 ATAC-Signac 包 - 概述](https://mp.weixin.qq.com/s/7eFRZNhBntBeiKwhDLDqAQ)
 
 # R包
 
