@@ -56,4 +56,5 @@
 * [LaTeX 排版艺术：常见错误，精致排版的建议，漂亮的证明环境](https://mp.weixin.qq.com/s/ythcVxiRfaVxQFlQDuXYLA)
 * [用 LaTeX 实现批注修订的功能](https://mp.weixin.qq.com/s/iRkDtU8yKVLytyEm_EBkiw)
 * [目录样式设计的九个例子](https://mp.weixin.qq.com/s/lqN6q6G1s1aT2z3S-i1NOQ)
+* [pbalance — 双栏平衡宏包译介](https://mp.weixin.qq.com/s/2ResCrhKBAqjfuVIaqrfDQ)
 
