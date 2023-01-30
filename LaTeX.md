@@ -57,4 +57,5 @@
 * [用 LaTeX 实现批注修订的功能](https://mp.weixin.qq.com/s/iRkDtU8yKVLytyEm_EBkiw)
 * [目录样式设计的九个例子](https://mp.weixin.qq.com/s/lqN6q6G1s1aT2z3S-i1NOQ)
 * [pbalance — 双栏平衡宏包译介](https://mp.weixin.qq.com/s/2ResCrhKBAqjfuVIaqrfDQ)
+* [页面任意位置排布内容宏包 - abspos](https://mp.weixin.qq.com/s/GORUxvZ_rzmPOLcAWEX30g)
 
