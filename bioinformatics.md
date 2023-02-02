@@ -284,6 +284,7 @@
 * [内含子](https://mp.weixin.qq.com/s/SDphYJa_fYp9UCT30WGOiw)
 * [单细胞转录组 tSNE 和 UMAP 可视化有什么区别？别再问啦，这就告诉你！](https://mp.weixin.qq.com/s/kRccOs9M7P_scAoPMeUJkQ)
 * [GSAman | 我「玩着游戏」就把「科研做了」](https://mp.weixin.qq.com/s/DoC1MFc9m7okVklFnqV4xA)
+* [这 35 个公众号值得关注吗？](https://mp.weixin.qq.com/s/rq52Q0ywm3kkBr-AnYSBfg)
 
 ## 系统课程
 
