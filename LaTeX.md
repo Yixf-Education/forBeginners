@@ -58,4 +58,5 @@
 * [目录样式设计的九个例子](https://mp.weixin.qq.com/s/lqN6q6G1s1aT2z3S-i1NOQ)
 * [pbalance — 双栏平衡宏包译介](https://mp.weixin.qq.com/s/2ResCrhKBAqjfuVIaqrfDQ)
 * [页面任意位置排布内容宏包 - abspos](https://mp.weixin.qq.com/s/GORUxvZ_rzmPOLcAWEX30g)
+* [一文学会 BibTeX ，学不会私信我](https://mp.weixin.qq.com/s/j0CY0gNOP34ntXC3YVwVoQ)
 
