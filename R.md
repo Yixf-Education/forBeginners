@@ -226,6 +226,7 @@
 * [生信小工具 | R 语言实操三：pheatmap 包参数详解和进阶教程](https://mp.weixin.qq.com/s/f5TmI4U3SNxT6TsyguJ8oA)
 * [拿捏 2 种富集条形图绘制方法！](https://mp.weixin.qq.com/s/FeBbIroiMg5sAciPQImn5w)
 * [科研论文绘图有啥技巧？这 6 幅作品一次性告诉你 20+ Tips ~~](https://mp.weixin.qq.com/s/sFEhmOuz41P7-UPR7RnMDQ)
+* [科研绘图篇 | R 语言 ggplot2 绘制分组误差棒点图](https://mp.weixin.qq.com/s/Fe-F6oGNRAowaOpGQc3Kyg)
 
 
 
