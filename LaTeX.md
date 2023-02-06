@@ -61,4 +61,5 @@
 * [一文学会 BibTeX ，学不会私信我](https://mp.weixin.qq.com/s/j0CY0gNOP34ntXC3YVwVoQ)
 * [美国数学建模写作排版工具推荐](https://mp.weixin.qq.com/s/oAfJonesgf70EehZwrZlsA)
 * [Beamer 演讲神器 - 演讲者模式工具](https://mp.weixin.qq.com/s/HzA7j0FB6ADkWCAsMopVHw)
+* [从零开始用 LaTeX 制作简历](https://mp.weixin.qq.com/s/wH96CWZ1iDKVMtg85t2qew)
 
