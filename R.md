@@ -311,6 +311,7 @@
 * [t-SNE：如何理解与高效使用](https://mp.weixin.qq.com/s/IKU7uwI-IIUPFoZ6ZP3FYw)
 * [机器学习算法：UMAP 深入理解](https://mp.weixin.qq.com/s/FLvWKDFpulucqkt5ib4rQA)
 * [单细胞多组学 ATAC-Signac 包 - 概述](https://mp.weixin.qq.com/s/7eFRZNhBntBeiKwhDLDqAQ)
+* [如何绘制好看的曼哈顿图和 QQ 图？](https://mp.weixin.qq.com/s/-PtmvOzGNpbC4EatUFCDEA)
 
 # R包
 
