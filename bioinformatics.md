@@ -314,6 +314,8 @@
 * [学习生物信息学的 10 份参考资料](https://mp.weixin.qq.com/s/yIDmV-mWTIPoq3PLLgvAHQ)
 * [DIY.transcriptomics – RNAseq course.](https://diytranscriptomics.com/)
 * [Bioinformatics Training](https://rockefelleruniversity.github.io/)
+* [harvardx](http://rafalab.dfci.harvard.edu/pages/harvardx.html#series_1): HarvardX Biomedical Data Science Open Online Training
+* [UCLA QCBio Collaboratory - YouTube](https://www.youtube.com/@uclaqcbiocollaboratory3691/videos)
 
 ## Galaxy
 
