@@ -325,3 +325,8 @@
 
 * [总有一本适合你～分享 9 本和生物信息学相关的 python 电子书](https://mp.weixin.qq.com/s/riZRx8YXFXCXc_YW0tpvdQ)
 * [生物信息入门优秀书籍推荐](https://mp.weixin.qq.com/s/fB9gut_nfN10Yt-x8PZV5g)
+
+## 孟德尔随机化
+
+* [孟德尔随机化联合共定位分析的简介](https://mp.weixin.qq.com/s/X4UR8JZREJvBdP-IPj2dtQ)
+* [药物开发和蛋白靶点的效应 “虚拟试验” 大热 — MR+QTL 共定位点亮生信分析黑科技](https://mp.weixin.qq.com/s/jTn9tSaMbwf4_8Xx1rQ9DA)
