@@ -321,6 +321,8 @@
 * [如何绘制好看的曼哈顿图和 QQ 图？](https://mp.weixin.qq.com/s/-PtmvOzGNpbC4EatUFCDEA)
 * [科研绘图篇 | 一行代码搞定火山图绘制，推荐使用～～](https://mp.weixin.qq.com/s/k1UpqpjL0dQiTmNJwXnl0Q)
 * [finalfit 包，简单快速输出单因素和多因素结果，并可视化模型结果](https://mp.weixin.qq.com/s/NgTr1cHBk7hvRIrsVll1NQ)
+* [高分文章都在炫的双曲线火山图怎么画？新型火山图拿捏！](https://mp.weixin.qq.com/s/JpA7egexar9oN0QFjVt2EQ)
+* [shinyPredict 包，绘制动态列线图的优秀 R 包](https://mp.weixin.qq.com/s/SOKevKWYRSQvz2uqJzkaJA)
 
 # R包
 
