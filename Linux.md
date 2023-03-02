@@ -373,7 +373,7 @@
 * [5 个 htop 替代：增强你的 Linux 系统监控体验 | Linux 中国](https://mp.weixin.qq.com/s/lyMtYPmevR6u7r31UoMWOA)
 * [每个 Linux 用户都应该知道的 31 条命令 | Linux 中国](https://mp.weixin.qq.com/s/J6iEkeC7mIHsusFaKUuwHg)
 * [一些常用处理序列的 Linux 命令行技巧](https://mp.weixin.qq.com/s/FuGGhaiMwFAZNKx3X1Ar7Q)
-* 
+* [wget 小细节（geo 数据 ，figshare 数据）](https://mp.weixin.qq.com/s/xehzFpcqvG860RZv-2Hndw)
 
 ## 运维
 
