@@ -230,6 +230,7 @@
 * [科研绘图篇 | R 语言 ggplot2 绘制分组误差棒点图](https://mp.weixin.qq.com/s/Fe-F6oGNRAowaOpGQc3Kyg)
 * [cowplot 包，ggplot2 图形排版 R 包](https://mp.weixin.qq.com/s/xlZ0jrvcCaJhrJxEkeMGDA)
 * [ComplexHeatmap 自定义绘制相关性热图](https://mp.weixin.qq.com/s/mu43FX1jDEVfoJcZEiO-XA)
+* [ggplot2 绘图系统配色入门](https://mp.weixin.qq.com/s/gVq3Bysfqffic93Auewkrg)
 
 
 
