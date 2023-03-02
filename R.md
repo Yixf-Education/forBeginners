@@ -229,6 +229,7 @@
 * [科研论文绘图有啥技巧？这 6 幅作品一次性告诉你 20+ Tips ~~](https://mp.weixin.qq.com/s/sFEhmOuz41P7-UPR7RnMDQ)
 * [科研绘图篇 | R 语言 ggplot2 绘制分组误差棒点图](https://mp.weixin.qq.com/s/Fe-F6oGNRAowaOpGQc3Kyg)
 * [cowplot 包，ggplot2 图形排版 R 包](https://mp.weixin.qq.com/s/xlZ0jrvcCaJhrJxEkeMGDA)
+* [ComplexHeatmap 自定义绘制相关性热图](https://mp.weixin.qq.com/s/mu43FX1jDEVfoJcZEiO-XA)
 
 
 
