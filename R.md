@@ -232,6 +232,7 @@
 * [cowplot 包，ggplot2 图形排版 R 包](https://mp.weixin.qq.com/s/xlZ0jrvcCaJhrJxEkeMGDA)
 * [ComplexHeatmap 自定义绘制相关性热图](https://mp.weixin.qq.com/s/mu43FX1jDEVfoJcZEiO-XA)
 * [ggplot2 绘图系统配色入门](https://mp.weixin.qq.com/s/gVq3Bysfqffic93Auewkrg)
+* [跟着 Nature Metabolism 学作图：R 语言 ggplot2 一次性展示很多个饼图](https://mp.weixin.qq.com/s/izBO_S3IomHPA7u6CySD2A)
 
 
 
@@ -318,6 +319,7 @@
 * [单细胞多组学 ATAC-Signac 包 - 概述](https://mp.weixin.qq.com/s/7eFRZNhBntBeiKwhDLDqAQ)
 * [如何绘制好看的曼哈顿图和 QQ 图？](https://mp.weixin.qq.com/s/-PtmvOzGNpbC4EatUFCDEA)
 * [科研绘图篇 | 一行代码搞定火山图绘制，推荐使用～～](https://mp.weixin.qq.com/s/k1UpqpjL0dQiTmNJwXnl0Q)
+* [finalfit 包，简单快速输出单因素和多因素结果，并可视化模型结果](https://mp.weixin.qq.com/s/NgTr1cHBk7hvRIrsVll1NQ)
 
 # R包
 
