@@ -119,6 +119,7 @@
 * [32 份 R 语言文档沟通推文汇总](https://mp.weixin.qq.com/s/sYd_DFO5fD-qULjKoo_V_Q)
 * [机器学习系列 | R 语言实践机器学习案例分享 - 连续性变量离散化处理](https://mp.weixin.qq.com/s/H9fzLc_9bzXNx8y5yk2wqg)
 * [实用技巧，怎么快速查找自己需要的 R 包？](https://mp.weixin.qq.com/s/M9mHghKduWC14_S3bw6Z7A)
+* [计算代码运行时间的 5 种方法](https://mp.weixin.qq.com/s/cqI4z53-OjmMg3UfHE_Zqg)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
