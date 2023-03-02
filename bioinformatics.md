@@ -331,3 +331,9 @@
 
 * [孟德尔随机化联合共定位分析的简介](https://mp.weixin.qq.com/s/X4UR8JZREJvBdP-IPj2dtQ)
 * [药物开发和蛋白靶点的效应 “虚拟试验” 大热 — MR+QTL 共定位点亮生信分析黑科技](https://mp.weixin.qq.com/s/jTn9tSaMbwf4_8Xx1rQ9DA)
+
+## 单细胞
+
+* [整合单细胞数据和 Bulk 数据的多种方法（一）：R 包 scAB](https://mp.weixin.qq.com/s/6UQIonf3V-7A0Qv3kH4KfQ)
+* [整合单细胞数据和 Bulk 数据的多种方法（二）：R 包 Scissor](https://mp.weixin.qq.com/s/jC6QTQCfcl_i4tTbFQAq7A)
+* [Bioconductor community blog - Introducing CuratedAtlasQueryR package](https://bioconductor.github.io/biocblog/posts/2023-02-23-CuratedAtlasQueryR/)
