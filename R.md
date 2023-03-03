@@ -123,6 +123,7 @@
 * [学会这三个包，搞定 R 中的正则](https://mp.weixin.qq.com/s/aBPgVJcJV24Kf1CrwZS43w)
 * [答读者问：R 语言批量做一元线性回归的简单小例子](https://mp.weixin.qq.com/s/iUpxLHiG1gVv_RuwBIC-Fw)
 * [基于 R 语言的多指标联合预测 ROC 曲线分析](https://mp.weixin.qq.com/s/GGhZpPxqUjkwLYjaLiyrAA)
+* [常见列线图的绘制及自定义美化详细教程](https://mp.weixin.qq.com/s/iI_EuO1fLCUIWDW_zRwQEA)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
