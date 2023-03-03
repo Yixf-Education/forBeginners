@@ -160,6 +160,7 @@
 * [R 语言统计分析 | 批量单变量 Cox 回归分析](https://mp.weixin.qq.com/s/KhaCKcG38PvKSjMIAXnZDA)
 * [一些常用处理序列的 Linux 命令行技巧](https://mp.weixin.qq.com/s/FuGGhaiMwFAZNKx3X1Ar7Q)
 * [davetang/learning_vcf_file: Learning the Variant Call Format](https://github.com/davetang/learning_vcf_file)
+* [单细胞还能拉上转录因子？？？](https://mp.weixin.qq.com/s/GwpjUZ6yTJkG6wIzW6w6fg)
 
 ## 其他
 
