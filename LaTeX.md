@@ -64,4 +64,5 @@
 * [从零开始用 LaTeX 制作简历](https://mp.weixin.qq.com/s/wH96CWZ1iDKVMtg85t2qew)
 * [SUEPaper/latex-talk: 上海电力大学数学系 LaTeX 讲座](https://github.com/SUEPaper/latex-talk)
 * [如何让浮动体听话？](https://mp.weixin.qq.com/s/u6riRs9Z5t7kzooKUarw-A)
+* [你想要的文本框这个宏包都有了](https://mp.weixin.qq.com/s/Al2MHV0V6soj3og_iqDevg)
 
