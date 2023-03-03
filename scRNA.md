@@ -80,3 +80,4 @@
 * [代码来袭！在 R 和 Seurat 中导入 BD Rhapsody 单细胞多组学数据](https://mp.weixin.qq.com/s/mxagt0U0G54ptCOQBW_vJA)
 * [【好物分享】Seurat 在线细胞注释工具：Azimuth](https://mp.weixin.qq.com/s/cI377ytT7T7vnfdqWKZXoA)
 * [Cell 在用的单细胞代谢预测工具：Compass](https://mp.weixin.qq.com/s/p6V7TRFILxA6VsG7Xo7UNg)
+* [单细胞研究肿瘤专题 ———— 细胞图谱绘制研究肿瘤异质性](https://mp.weixin.qq.com/s/Jp2UsBlQCcVCHV9xYKIyrw)
