@@ -65,4 +65,5 @@
 * [SUEPaper/latex-talk: 上海电力大学数学系 LaTeX 讲座](https://github.com/SUEPaper/latex-talk)
 * [如何让浮动体听话？](https://mp.weixin.qq.com/s/u6riRs9Z5t7kzooKUarw-A)
 * [你想要的文本框这个宏包都有了](https://mp.weixin.qq.com/s/Al2MHV0V6soj3og_iqDevg)
+* [Excel 表格怎么秒变 LaTeX 格式？](https://mp.weixin.qq.com/s/MtunsjhumOb1EIkRvG5zCQ)
 
