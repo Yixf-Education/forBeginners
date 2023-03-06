@@ -288,3 +288,8 @@
 ## MOOC
 
 * [5 款可以吸引学生的有用的 Moodle 插件 | Linux 中国](https://mp.weixin.qq.com/s/ptmC_t5PQOkx56rHxXW4Jw)
+
+## ChatGPT
+
+* [如果 ChatGPT 给出的的代码不太完善，如何请他一步步改好？](https://mp.weixin.qq.com/s/FEfuSBxCNe5MdKlaukxbSA)
+* [ChatGPT 对科研绘图的帮助](https://mp.weixin.qq.com/s/PFLbjUv4-mfHKSkN4M8Xig)
