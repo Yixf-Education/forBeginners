@@ -289,6 +289,8 @@
 * [GSAman | 我「玩着游戏」就把「科研做了」](https://mp.weixin.qq.com/s/DoC1MFc9m7okVklFnqV4xA)
 * [这 35 个公众号值得关注吗？](https://mp.weixin.qq.com/s/rq52Q0ywm3kkBr-AnYSBfg)
 * [简要介绍十大机器学习算法](https://mp.weixin.qq.com/s/IrhJPuz1iLHuKoFjTXGuZQ)
+* [NGS 基础 - 高通量测序原理](https://mp.weixin.qq.com/s/SS9YBSpgUoU9gI86u-0ATg)
+* [Illumina 测序什么时候会测序到接头序列？](https://mp.weixin.qq.com/s/yH1h_oVbvB1SdlDIRAEF0A)
 
 ## 系统课程
 
