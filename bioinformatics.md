@@ -161,6 +161,7 @@
 * [一些常用处理序列的 Linux 命令行技巧](https://mp.weixin.qq.com/s/FuGGhaiMwFAZNKx3X1Ar7Q)
 * [davetang/learning_vcf_file: Learning the Variant Call Format](https://github.com/davetang/learning_vcf_file)
 * [单细胞还能拉上转录因子？？？](https://mp.weixin.qq.com/s/GwpjUZ6yTJkG6wIzW6w6fg)
+* [全网最新？geo 数据下载工具测评](https://mp.weixin.qq.com/s/NfgwWCecszIEFvYh5s0nsQ)
 
 ## 其他
 
