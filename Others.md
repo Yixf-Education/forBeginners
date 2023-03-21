@@ -102,6 +102,7 @@
 * [如何解释无统计学显著性的结果？可以考虑用置信区间（CI）](https://mp.weixin.qq.com/s/nGqlJ9PEvG6yeX-EpbZBWw)
 * [画说统计 | 卡方检验到底干了什么？有时候还得用 Fishier 确切概率法？](https://mp.weixin.qq.com/s/fgiJYhpnHEKvywg4p3UKOg)
 * [画说统计 | 你说它俩有相关性么](https://mp.weixin.qq.com/s/oCMTkOKgTCqIoc8s4I3Jiw)
+* [画说统计 | 多设几个主要终点是不是我就离阳性结果能更近点儿](https://mp.weixin.qq.com/s/phIq7Yma6fDPhGFu9BWH0Q)
 
 ## 统计学入门
 
