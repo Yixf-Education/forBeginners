@@ -293,3 +293,4 @@
 
 * [如果 ChatGPT 给出的的代码不太完善，如何请他一步步改好？](https://mp.weixin.qq.com/s/FEfuSBxCNe5MdKlaukxbSA)
 * [ChatGPT 对科研绘图的帮助](https://mp.weixin.qq.com/s/PFLbjUv4-mfHKSkN4M8Xig)
+* [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/)
