@@ -335,6 +335,9 @@
 
 * [孟德尔随机化联合共定位分析的简介](https://mp.weixin.qq.com/s/X4UR8JZREJvBdP-IPj2dtQ)
 * [药物开发和蛋白靶点的效应 “虚拟试验” 大热 — MR+QTL 共定位点亮生信分析黑科技](https://mp.weixin.qq.com/s/jTn9tSaMbwf4_8Xx1rQ9DA)
+* [全表观基因组关联分析（EWAS）与 GWAS，MR 碰撞](https://mp.weixin.qq.com/s/Up2pPxDpfjtsUJm9Q1bpTQ)
+* [Post-GWAS 时代药物靶标孟德尔随机 — 藏在基因的随机双盲试验两次登顶 Nature](https://mp.weixin.qq.com/s/mAtw8f-IWNt4ou09sXPSsQ)
+* [想不到吧，孟德尔随机可以发 NG](https://mp.weixin.qq.com/s/hlsTSiKXkPsg33ojly5TPQ)
 
 ## 单细胞
 
