@@ -55,6 +55,7 @@
 * [关于什么是单细胞测序的知识整理，ChatGPT 会做的更好吗？](https://mp.weixin.qq.com/s/RhR_rcNJdCg02NNokKNU_w)
 * [单细胞多组学 ATAC-Cellranger ARC - 结果解读之概述](https://mp.weixin.qq.com/s/_l_uYQjjIVXlGCiic7FsYQ)
 * [单细胞多组学 ATAC-Cellranger ARC - 结果解读之网页报告](https://mp.weixin.qq.com/s/C496e81tvw0Sjx9CAQ364w)
+* [如何把控数据质控那个 “度”？](https://mp.weixin.qq.com/s/ScqaXPbTDKMwO9O5ELNxOA)
 
 ## 空间转录组
 
