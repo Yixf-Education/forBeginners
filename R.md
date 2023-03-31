@@ -332,6 +332,7 @@
 * [finalfit 包，简单快速输出单因素和多因素结果，并可视化模型结果](https://mp.weixin.qq.com/s/NgTr1cHBk7hvRIrsVll1NQ)
 * [高分文章都在炫的双曲线火山图怎么画？新型火山图拿捏！](https://mp.weixin.qq.com/s/JpA7egexar9oN0QFjVt2EQ)
 * [shinyPredict 包，绘制动态列线图的优秀 R 包](https://mp.weixin.qq.com/s/SOKevKWYRSQvz2uqJzkaJA)
+* [如何让你的火山图标签 “乖乖听话”？个性化标签全拿捏！](https://mp.weixin.qq.com/s/qZke0E4f1m22dSNnhzzrGw)
 
 # R包
 
