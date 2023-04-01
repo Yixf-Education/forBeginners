@@ -333,6 +333,7 @@
 * [高分文章都在炫的双曲线火山图怎么画？新型火山图拿捏！](https://mp.weixin.qq.com/s/JpA7egexar9oN0QFjVt2EQ)
 * [shinyPredict 包，绘制动态列线图的优秀 R 包](https://mp.weixin.qq.com/s/SOKevKWYRSQvz2uqJzkaJA)
 * [如何让你的火山图标签 “乖乖听话”？个性化标签全拿捏！](https://mp.weixin.qq.com/s/qZke0E4f1m22dSNnhzzrGw)
+* [线性模型中的高级特征选择技术（岭回归，LASSO，弹性网络）](https://mp.weixin.qq.com/s/aG1ooRC0jiVvrV44-xnIyw)
 
 # R包
 
