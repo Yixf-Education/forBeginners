@@ -243,6 +243,7 @@
 * [跟着 Nature Metabolism 学作图：R 语言 ggplot2 一次性展示很多个饼图](https://mp.weixin.qq.com/s/izBO_S3IomHPA7u6CySD2A)
 * [推荐收藏，ggplot2 统计图形大汇总](https://mp.weixin.qq.com/s/haepEifxlSClpEZA6mPaCg)
 * [使用 graphlayouts 包来丰富网络图布局](https://mp.weixin.qq.com/s/tXKUXVVwnJJyFSCCgTWgNg)
+* [week1：patchwork—— 图片拼接利器](https://mp.weixin.qq.com/s/tzJ4bNjeVzDQf3HKBycwdg)
 
 
 
