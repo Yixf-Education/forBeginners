@@ -335,6 +335,7 @@
 * [shinyPredict 包，绘制动态列线图的优秀 R 包](https://mp.weixin.qq.com/s/SOKevKWYRSQvz2uqJzkaJA)
 * [如何让你的火山图标签 “乖乖听话”？个性化标签全拿捏！](https://mp.weixin.qq.com/s/qZke0E4f1m22dSNnhzzrGw)
 * [线性模型中的高级特征选择技术（岭回归，LASSO，弹性网络）](https://mp.weixin.qq.com/s/aG1ooRC0jiVvrV44-xnIyw)
+* [circlize 画图初探究](https://mp.weixin.qq.com/s/ntE-2I1y5JOYKM97FlJpvA)
 
 # R包
 
