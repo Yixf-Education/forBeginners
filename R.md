@@ -127,6 +127,7 @@
 * [基于 R 语言的多指标联合预测 ROC 曲线分析](https://mp.weixin.qq.com/s/GGhZpPxqUjkwLYjaLiyrAA)
 * [常见列线图的绘制及自定义美化详细教程](https://mp.weixin.qq.com/s/iI_EuO1fLCUIWDW_zRwQEA)
 * [这种精美相关气泡图怎样绘制？告诉你一个方法，超简单～～](https://mp.weixin.qq.com/s/hNL6mGQ66GBULTrguiLkxA)
+* [有趣的实用 R 函数 (1) 数值转换](https://mp.weixin.qq.com/s/anDH4Wq2s8NOrdFpJQYFOw)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
