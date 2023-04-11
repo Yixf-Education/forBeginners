@@ -66,4 +66,5 @@
 * [如何让浮动体听话？](https://mp.weixin.qq.com/s/u6riRs9Z5t7kzooKUarw-A)
 * [你想要的文本框这个宏包都有了](https://mp.weixin.qq.com/s/Al2MHV0V6soj3og_iqDevg)
 * [Excel 表格怎么秒变 LaTeX 格式？](https://mp.weixin.qq.com/s/MtunsjhumOb1EIkRvG5zCQ)
+* [tangyc8866/ECNU-Stat-templates: Different templates for School of Statistics of ECNU are available here.](https://github.com/tangyc8866/ECNU-Stat-templates)
 
