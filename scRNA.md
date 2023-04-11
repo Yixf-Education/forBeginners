@@ -19,6 +19,7 @@
 * [单细胞转录组高级分析六：TCGA 生存分析](https://mp.weixin.qq.com/s?__biz=MzIyMzMwNDQ2MA==&mid=2247483936&idx=1&sn=d6828f3ee7cacd49d659f21737c84bba&chksm=e8210c43df56855594d5d4fc7e9d0fe7525fe16b67d9f986e61b4865b6c1fa4b3bed08b24ffa&mpshare=1&scene=1&srcid=0824fyjhvx1AqDz9u1qzQKYZ&sharer_sharetime=1598267163166&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [单细胞转录组高级分析七：整合 scATAC 数据](https://mp.weixin.qq.com/s?__biz=MzIyMzMwNDQ2MA==&mid=2247483955&idx=1&sn=b27c03cfd8233dbde8de03082619b6d8&chksm=e8210c50df568546251649734dac05f52b4eaae437b99322a58f193b556f684185e76cdd2fcc&mpshare=1&scene=1&srcid=08249uameDHq0Q12z6yZr0hY&sharer_sharetime=1598267171839&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [单细胞转录组高级分析八：整合 V (D) J 数据](https://mp.weixin.qq.com/s?__biz=MzIyMzMwNDQ2MA==&mid=2247483989&idx=1&sn=1ae816f0cbff10844d4a34d8cd089556&chksm=e8210c36df56852079be5c96ae15653de2c8f8b754e0ea84d0230cae9f3fb3647661497b2db8&mpshare=1&scene=1&srcid=0824RXQ4UXPZYHn7LD6UVEd1&sharer_sharetime=1598267181039&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
+* [细胞通讯研究的最新思路](https://mp.weixin.qq.com/s/89EYvMVFod3OuoOCEPH3fg)
 
 
 
