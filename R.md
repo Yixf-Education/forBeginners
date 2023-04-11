@@ -279,6 +279,8 @@
 * [R 沟通｜部署 bookdown 文件到 GitHub 上](https://mp.weixin.qq.com/s/rTcgxhF49aSLAO2rpk5t5Q)
 * [手把手教你使用 Quarto 构建文档 (1)](https://mp.weixin.qq.com/s/mLauhZ2xjLXRuSbXIXl81w)
 * [超超超级好用的 RMarkdown 插件](https://mp.weixin.qq.com/s/P1tKVlaR0Oseq-JklWoLOQ)
+* [tangyc8866/rmarkdown-xaringan-slides: rmarkdown-xaringan-slides](https://github.com/tangyc8866/rmarkdown-xaringan-slides)
+* [数据科学与文学化统计编程 (2023-03-07)](https://tangyc8866.github.io/rmarkdown-xaringan-slides/?panelset=%25E6%2595%25B0%25E6%258D%25AE%25E7%25A7%2591%25E5%25AD%25A6%25E4%25B8%258E%25E7%25BC%2596%25E7%25A8%258B%25E8%25AF%25AD%25E8%25A8%2580&panelset1=r-code#1)
 
 # 生信相关
 
