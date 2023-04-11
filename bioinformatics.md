@@ -162,6 +162,7 @@
 * [davetang/learning_vcf_file: Learning the Variant Call Format](https://github.com/davetang/learning_vcf_file)
 * [单细胞还能拉上转录因子？？？](https://mp.weixin.qq.com/s/GwpjUZ6yTJkG6wIzW6w6fg)
 * [全网最新？geo 数据下载工具测评](https://mp.weixin.qq.com/s/NfgwWCecszIEFvYh5s0nsQ)
+* [ChaoXu1997/RNAseqTool: A Shiny App for Interactive RNAseq Analysis and Visualization](https://github.com/ChaoXu1997/RNAseqTool)
 
 ## 其他
 
