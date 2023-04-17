@@ -298,3 +298,4 @@
 * [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/)
 * [ChatGPT 之后，教育向何处去？](https://mp.weixin.qq.com/s/45m0zHERb1E8TRaj4RqP0Q)
 * [效率神器！超实用的 6 款私藏 AI 工具推荐](https://mp.weixin.qq.com/s/EEJZTa3pjRjFC0K2Ow3brw)
+* [RTutor](https://rtutor.ai/): Chat with your data in dozens of human languages.
