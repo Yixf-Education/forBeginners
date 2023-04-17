@@ -21,6 +21,7 @@
 * [单细胞转录组高级分析八：整合 V (D) J 数据](https://mp.weixin.qq.com/s?__biz=MzIyMzMwNDQ2MA==&mid=2247483989&idx=1&sn=1ae816f0cbff10844d4a34d8cd089556&chksm=e8210c36df56852079be5c96ae15653de2c8f8b754e0ea84d0230cae9f3fb3647661497b2db8&mpshare=1&scene=1&srcid=0824RXQ4UXPZYHn7LD6UVEd1&sharer_sharetime=1598267181039&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [细胞通讯研究的最新思路](https://mp.weixin.qq.com/s/89EYvMVFod3OuoOCEPH3fg)
 * [单细胞工具 MARVEL— 单细胞可变剪切分析 (一)](https://mp.weixin.qq.com/s/xAc5lcuFv8TEIH8j_ONQ_A)
+* [cellDancer 预测 RNA Velocity 和单细胞水平的 RNA 动力学速率](https://mp.weixin.qq.com/s/idaRuTmV4giP4IzecIvTPw)
 
 
 
