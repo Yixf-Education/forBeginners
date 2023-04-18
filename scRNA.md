@@ -22,6 +22,7 @@
 * [细胞通讯研究的最新思路](https://mp.weixin.qq.com/s/89EYvMVFod3OuoOCEPH3fg)
 * [单细胞工具 MARVEL— 单细胞可变剪切分析 (一)](https://mp.weixin.qq.com/s/xAc5lcuFv8TEIH8j_ONQ_A)
 * [cellDancer 预测 RNA Velocity 和单细胞水平的 RNA 动力学速率](https://mp.weixin.qq.com/s/idaRuTmV4giP4IzecIvTPw)
+* [Nature | 通过网络推理和计算机基因扰动分析细胞身份](https://mp.weixin.qq.com/s/Q5Zg_Uj5brY98kwGpmXfXw)
 
 
 
