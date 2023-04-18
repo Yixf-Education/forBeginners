@@ -341,6 +341,9 @@
 * [全表观基因组关联分析（EWAS）与 GWAS，MR 碰撞](https://mp.weixin.qq.com/s/Up2pPxDpfjtsUJm9Q1bpTQ)
 * [Post-GWAS 时代药物靶标孟德尔随机 — 藏在基因的随机双盲试验两次登顶 Nature](https://mp.weixin.qq.com/s/mAtw8f-IWNt4ou09sXPSsQ)
 * [想不到吧，孟德尔随机可以发 NG](https://mp.weixin.qq.com/s/hlsTSiKXkPsg33ojly5TPQ)
+* [SCI 新宠儿 “孟德尔随机化”，简单 3 张图发 8.8+](https://mp.weixin.qq.com/s/7bcFXu_1LJk-8PEFFl8RSQ)
+* [炙手可热 | 孟德尔随机化发 NC](https://mp.weixin.qq.com/s/A-bWKloSa4C5rx3G_POdPg)
+* [如何利用 MR 分析弯道超车？](https://mp.weixin.qq.com/s/3yfFjhJm69k7HNY_FHKiDQ)
 
 ## 单细胞
 
