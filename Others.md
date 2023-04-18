@@ -274,6 +274,7 @@
 * [《学术论文编写规则》正式发布 2023 年 7 月 1 日实施](https://mp.weixin.qq.com/s/pnoylEVrAae_esLEt5YH5A)
 * [分享一个文献查找与综述写作神器](https://mp.weixin.qq.com/s/yUOmVKTXYQzNYQkim9p1Xg)
 * [写好结构化论文的 10 条规则与自行验证](https://mp.weixin.qq.com/s/dgjGVOXDPTY22rOHaEwUIw)
+* [分享一些小编常用的科研网站](https://mp.weixin.qq.com/s/xo3_7AUFsl8TzG9n2k2hzQ)
 
 ## 数据集
 
