@@ -248,6 +248,7 @@
 * [推荐收藏，ggplot2 统计图形大汇总](https://mp.weixin.qq.com/s/haepEifxlSClpEZA6mPaCg)
 * [使用 graphlayouts 包来丰富网络图布局](https://mp.weixin.qq.com/s/tXKUXVVwnJJyFSCCgTWgNg)
 * [week1：patchwork—— 图片拼接利器](https://mp.weixin.qq.com/s/tzJ4bNjeVzDQf3HKBycwdg)
+* [ggplot2 图形系统分面图形绘制详解](https://mp.weixin.qq.com/s/SoVDUh-BnlPql686bTUxKw)
 
 
 
