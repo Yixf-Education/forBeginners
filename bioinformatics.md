@@ -21,6 +21,7 @@
 * [生信小工具 | samtools 的多种使用方法，你会几种？](https://mp.weixin.qq.com/s/pCeMGixD8kksJyyslSZx-g)
 * [docker 镜像之 alphafold 运用](https://mp.weixin.qq.com/s/Is-UZr0NoUQC83j3irGm6w)
 * [(Free) 30+ Best Bioinformatics Software & Tools in [2022]](https://www.softwareradius.com/best-bioinformatics-software-and-tools/#1_GALAXY)
+* [软件装不上，就用 singularity](https://mp.weixin.qq.com/s/ZNIoiIbs7UGiC__-J9QD0Q)
 
 ## 生信问题与编程技能
 * [生物信息学研究的思考](https://mp.weixin.qq.com/s/p7RKD_kVfK3ny6s7j_f8zg)
