@@ -132,6 +132,7 @@
 * [跟着 ChatGPT 学生信转录组篇 (5) counts 矩阵转换 FPKM|TPM](https://mp.weixin.qq.com/s/gUtElpnVX-r6oYP0MUybLw)
 * [dlookr 包，自动输出一份数据诊断报告](https://mp.weixin.qq.com/s/_ZNLcIyKFiA7ZiDJwZwkag)
 * [cowplot 包，ggplot2 图形排版 R 包](https://mp.weixin.qq.com/s/mXHroeXlJPXt5ZeJNRHLnA)
+* [使用 tidyverse 高效处理数据（数据处理代码整理）](https://mp.weixin.qq.com/s/6wR4fuUBW1jUomzHoTw-vw)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
