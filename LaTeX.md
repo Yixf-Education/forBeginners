@@ -69,4 +69,5 @@
 * [tangyc8866/ECNU-Stat-templates: Different templates for School of Statistics of ECNU are available here.](https://github.com/tangyc8866/ECNU-Stat-templates)
 * [Typst - 超越 LaTeX 的文档排版工具](https://mp.weixin.qq.com/s/9FQNhIo4LIi5pwTr5Iac0A)
 * [在线 LaTeX 知多少](https://mp.weixin.qq.com/s/o9j4jToftvtFXKMRW_SIpA)
+* [使用 tabularray 排版表格](https://mp.weixin.qq.com/s/GZ9nBHCbgkKc2NSx11H1Og)
 
