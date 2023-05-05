@@ -301,6 +301,7 @@
 * [效率神器！超实用的 6 款私藏 AI 工具推荐](https://mp.weixin.qq.com/s/EEJZTa3pjRjFC0K2Ow3brw)
 * [RTutor](https://rtutor.ai/): Chat with your data in dozens of human languages.
 * [问题解决 | R 语言 devtools::install_github 失败](https://mp.weixin.qq.com/s/O585uUogtxXK2neeA5QeBQ)
+* [生信人用好 chatGPT 的十条建议](https://mp.weixin.qq.com/s/inpLCwJk3OUj2lXd2GF9sw)
 
 
 
