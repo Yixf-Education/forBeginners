@@ -23,6 +23,7 @@
 * [(Free) 30+ Best Bioinformatics Software & Tools in [2022]](https://www.softwareradius.com/best-bioinformatics-software-and-tools/#1_GALAXY)
 * [软件装不上，就用 singularity](https://mp.weixin.qq.com/s/ZNIoiIbs7UGiC__-J9QD0Q)
 * [IGV 快速上手指南 ——（一）安装和使用](https://mp.weixin.qq.com/s/8urXcYX4ofHMaB31Jeh3xw)
+* [如何进行 GO、KEGG 富集分析？](https://mp.weixin.qq.com/s/yzqrxiZLiE9k6L9s4AqSXA)
 
 ## 生信问题与编程技能
 * [生物信息学研究的思考](https://mp.weixin.qq.com/s/p7RKD_kVfK3ny6s7j_f8zg)
