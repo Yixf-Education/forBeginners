@@ -104,6 +104,7 @@
 * [画说统计 | 你说它俩有相关性么](https://mp.weixin.qq.com/s/oCMTkOKgTCqIoc8s4I3Jiw)
 * [画说统计 | 多设几个主要终点是不是我就离阳性结果能更近点儿](https://mp.weixin.qq.com/s/phIq7Yma6fDPhGFu9BWH0Q)
 * [统计学是人类无能为力下的努力](https://mp.weixin.qq.com/s/ArLbpAkfAxjSEgQnRrKSqQ)
+* [00 生物学家的统计学_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ak4y1E7y8/?vd_source=c2889fdef670dfc637e9a04b0963b553)
 
 ## 统计学入门
 
