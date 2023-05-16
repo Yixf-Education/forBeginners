@@ -71,4 +71,6 @@
 * [在线 LaTeX 知多少](https://mp.weixin.qq.com/s/o9j4jToftvtFXKMRW_SIpA)
 * [使用 tabularray 排版表格](https://mp.weixin.qq.com/s/GZ9nBHCbgkKc2NSx11H1Og)
 * [这些 github 库让你 LaTeX 飞起](https://mp.weixin.qq.com/s/1mAruuG6NaQv3_XJAuMoXg)
+* [让你瞬间惊艳的 LaTeX 简历模板](https://mp.weixin.qq.com/s/22GYWsTlcDf1vOGb-K73Vw)
+* [免费好用的论文或笔记 LaTeX 模板](https://mp.weixin.qq.com/s/alRap9NVSwsSh1QXh5cKFQ)
 
