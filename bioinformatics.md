@@ -351,6 +351,7 @@
 * [SCI 新宠儿 “孟德尔随机化”，简单 3 张图发 8.8+](https://mp.weixin.qq.com/s/7bcFXu_1LJk-8PEFFl8RSQ)
 * [炙手可热 | 孟德尔随机化发 NC](https://mp.weixin.qq.com/s/A-bWKloSa4C5rx3G_POdPg)
 * [如何利用 MR 分析弯道超车？](https://mp.weixin.qq.com/s/3yfFjhJm69k7HNY_FHKiDQ)
+* [升级版孟德尔随机：单细胞 + 共定位](https://mp.weixin.qq.com/s/YxzelKbKha4bLpAt9lsv6g)
 
 ## 单细胞
 
