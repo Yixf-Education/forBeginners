@@ -168,6 +168,7 @@
 * [ChaoXu1997/RNAseqTool: A Shiny App for Interactive RNAseq Analysis and Visualization](https://github.com/ChaoXu1997/RNAseqTool)
 * [使用生信软件，必须阅读文档](https://mp.weixin.qq.com/s/AZEi5sl02fOuhVyKcphzhg)
 * [聊聊改名 —— 哪个更优雅？](https://mp.weixin.qq.com/s/XAn89z-pPRcPExEQ8IkhpQ)
+* [当 bioconda 无法使用了怎么办？](https://mp.weixin.qq.com/s/P-lGYw1bbfq7NzdmBElBww)
 
 ## 其他
 
