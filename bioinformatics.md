@@ -302,6 +302,7 @@
 * [面试官问我，那你会 EWAS 吗？](https://mp.weixin.qq.com/s/Is-KR5EFe6uo8__3Er_edA)
 * [ChIP-Seq 上游数据处理一网打尽 2023 更新版](https://mp.weixin.qq.com/s/KOFd60USQdKY2C4Sc4OIvA)
 * [WGCNA 分析原理、流程与参数选择](https://mp.weixin.qq.com/s/A7PMtHXSXvXQ5VTPNxjOrw)
+* [测序 FAQ 丨基因组测序问题解答](https://mp.weixin.qq.com/s/Ciq93JQhOd9nsKEsf1iSYA)
 
 ## 系统课程
 
