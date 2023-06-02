@@ -171,6 +171,18 @@
 * [聊聊改名 —— 哪个更优雅？](https://mp.weixin.qq.com/s/XAn89z-pPRcPExEQ8IkhpQ)
 * [当 bioconda 无法使用了怎么办？](https://mp.weixin.qq.com/s/P-lGYw1bbfq7NzdmBElBww)
 
+## 基因组坐标系统
+
+* [Chromosome coordinate systems: 0-based, 1-based | G&MIN](https://arnaudceol.wordpress.com/2014/09/18/chromosome-coordinate-systems-0-based-1-based/)
+* [The devil 0 and 1 coordinate systems in genomics](https://tidyomics.com/blog/2018/12/09/2018-12-09-the-devil-0-and-1-coordinate-system-in-genomics/)
+* [The Alternate Allele: Genome Coordinate Conventions](http://alternateallele.blogspot.com/2012/03/genome-coordinate-conventions.html)
+* [The Alternate Allele: Genome Coordinate Cheat Sheet](http://alternateallele.blogspot.com/2012/03/genome-coordinate-cheat-sheet.html)
+* [0-based and 1-based genomic intervals, overlap, and distance - Kamil Slowikowski](https://slowkow.com/notes/genomic-intervals/)
+* [Coordinate Transforms - genomewiki](http://genomewiki.ucsc.edu/index.php/Coordinate_Transforms)
+* [The UCSC Genome Browser Coordinate Counting Systems | UCSC Genome Browser Blog](https://genome-blog.soe.ucsc.edu/blog/2016/12/12/the-ucsc-genome-browser-coordinate-counting-systems/)
+* [What Are The Advantages/Disadvantages Of One-Based Vs. Zero-Based Genome Coordinate Systems](https://www.biostars.org/p/6373/)
+* [计算机为什么要从 0 开始计数？- 腾讯云开发者社区 - 腾讯云](https://cloud.tencent.com/developer/article/1764024)
+
 ## 其他
 
 * [Volcano plot | 别再问我这为什么是火山图 （在线轻松绘制）](https://mp.weixin.qq.com/s?__biz=MzI5MTcwNjA4NQ==&mid=2247500086&idx=2&sn=c145c4ecbc1aedb04009d1fee5824044&chksm=ec0e04bcdb798daa4770c753d4cd47a729446badc2ec1674106e834e9d9553ea726238b9753e&mpshare=1&scene=1&srcid=1018MUA4fsG48RYp2rEaFc4g&sharer_sharetime=1603023708679&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
