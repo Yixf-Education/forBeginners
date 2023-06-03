@@ -183,6 +183,7 @@
 * [Cheat Sheet For One-Based Vs Zero-Based Coordinate Systems](https://www.biostars.org/p/84686/)
 * [What Are The Advantages/Disadvantages Of One-Based Vs. Zero-Based Genome Coordinate Systems](https://www.biostars.org/p/6373/)
 * [计算机为什么要从 0 开始计数？- 腾讯云开发者社区 - 腾讯云](https://cloud.tencent.com/developer/article/1764024)
+* [How to tell if a BigWig file is 1-based or 0-based?](https://www.biostars.org/p/384606/)
 
 ## 其他
 
