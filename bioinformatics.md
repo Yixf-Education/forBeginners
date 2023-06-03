@@ -180,6 +180,7 @@
 * [0-based and 1-based genomic intervals, overlap, and distance - Kamil Slowikowski](https://slowkow.com/notes/genomic-intervals/)
 * [Coordinate Transforms - genomewiki](http://genomewiki.ucsc.edu/index.php/Coordinate_Transforms)
 * [The UCSC Genome Browser Coordinate Counting Systems | UCSC Genome Browser Blog](https://genome-blog.soe.ucsc.edu/blog/2016/12/12/the-ucsc-genome-browser-coordinate-counting-systems/)
+* [Cheat Sheet For One-Based Vs Zero-Based Coordinate Systems](https://www.biostars.org/p/84686/)
 * [What Are The Advantages/Disadvantages Of One-Based Vs. Zero-Based Genome Coordinate Systems](https://www.biostars.org/p/6373/)
 * [计算机为什么要从 0 开始计数？- 腾讯云开发者社区 - 腾讯云](https://cloud.tencent.com/developer/article/1764024)
 
