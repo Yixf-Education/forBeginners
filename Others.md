@@ -307,6 +307,7 @@
 * [生信人用好 chatGPT 的十条建议](https://mp.weixin.qq.com/s/inpLCwJk3OUj2lXd2GF9sw)
 * [用 GPT-4 在黑客大赛上 “炸场”：不完全会 Linux、Perl，似乎也没有关系了！](https://mp.weixin.qq.com/s/mPcpIHD6FGYEyIPzqmo67A)
 * [如何有效利用 chatgpt? - 知乎](https://www.zhihu.com/question/602759673/answer/3067207126)
+* [ChatGPT 提示词大全，读完本文能让你对 AI 应用能力，超越 90% 的人！！](https://mp.weixin.qq.com/s?__biz=MzU4MDc4OTc0Nw==&mid=2247490065&idx=1&sn=6a2496d9adad0ca96001b1ef8638c432&chksm=fd502e8dca27a79bfd06040495e437d7b2ce61bbc6a1c44be5dded57ac083ceae4c2adc04455#rd)
 
 
 
