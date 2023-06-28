@@ -306,6 +306,7 @@
 * [问题解决 | R 语言 devtools::install_github 失败](https://mp.weixin.qq.com/s/O585uUogtxXK2neeA5QeBQ)
 * [生信人用好 chatGPT 的十条建议](https://mp.weixin.qq.com/s/inpLCwJk3OUj2lXd2GF9sw)
 * [用 GPT-4 在黑客大赛上 “炸场”：不完全会 Linux、Perl，似乎也没有关系了！](https://mp.weixin.qq.com/s/mPcpIHD6FGYEyIPzqmo67A)
+* [如何有效利用 chatgpt? - 知乎](https://www.zhihu.com/question/602759673/answer/3067207126)
 
 
 
