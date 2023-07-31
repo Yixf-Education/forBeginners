@@ -64,6 +64,7 @@
 * [如何把控数据质控那个 “度”？](https://mp.weixin.qq.com/s/ScqaXPbTDKMwO9O5ELNxOA)
 * [单细胞多组学数据分析最佳实践 (2023 典藏版)](https://mp.weixin.qq.com/s/jAkmtUW1BS44CWXEAHLzmA)
 * [单细胞转录组经典聚类算法：Louvain 与 Leiden](https://mp.weixin.qq.com/s/eTf54Sm1syZWaqsKX56NDA)
+* [单细胞 —— 从降维聚类分群、细胞命名、到批量富集分析，一文打通 GSE104154 博来霉素小鼠模型单细胞数据](https://mp.weixin.qq.com/s/nxB8DsdVUFluYt6vFHlfbA)
 
 ## 空间转录组
 
