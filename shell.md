@@ -61,6 +61,7 @@
 * [开箱即用：100 个 Linux Shell 脚本经典案例解析](https://mp.weixin.qq.com/s/HgWtoaeT3EviTwVvq-xbCg)
 * [一键解决 Linux 各种压缩格式的解压](https://mp.weixin.qq.com/s/aEO-ny3-IAVExLV_klMVLg)
 * [你还在用「不安全密码」吗？3 招教你生成好记又好用的密码](https://mp.weixin.qq.com/s/qUzqHszrtCWaUdhQGIcBSQ)
+* [shell 脚本必备模板](https://mp.weixin.qq.com/s/kXBWKzNFOofUbyspjf-8FA)
 
 ##  shell编程系列
 * [SHELL编程之语法基础](http://liwei.life/2016/05/16/69/)
