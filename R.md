@@ -394,4 +394,5 @@
 * [MasteringShiny2.2 布局、主题和HTML](https://mp.weixin.qq.com/s/E-2F7tOmOQajZ9W4EHydeQ)
 * [MasteringShiny2.4 用户反馈](https://mp.weixin.qq.com/s/xT7gKXLb2wcvRzMKJVGkEw)
 * [在Shiny app中快速的将静态热图变为互动热图](https://mp.weixin.qq.com/s/8wGPoHqB9s8CET4pFZYU6A)
+* [Shiny 开发学习路径](https://mp.weixin.qq.com/s/DMvjt-2RIlY6J3QUYIAjBQ)
 
