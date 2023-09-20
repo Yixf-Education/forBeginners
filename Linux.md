@@ -119,6 +119,7 @@
 * [最佳 Linux 远程桌面客户端 | Linux 中国](https://mp.weixin.qq.com/s/VGOWov0ofmpzcQUH8iHGLA)
 * [Oh My Zsh 和 Powerlevel10k：天作之合 | Linux 中国](https://mp.weixin.qq.com/s/3RToqfcXs18-6rS5cUtflg)
 * [linux 运维装逼神器，你值得拥有，非常有趣的命令。（转发起来！！！）](https://mp.weixin.qq.com/s/S_xRXxrh_xx3xZX0Fyw-7g)
+* [10 个在 Linux 终端中生成有趣的 ASCII 字符画的工具 | Linux 中国](https://mp.weixin.qq.com/s/DvWUHzyOrePYrOIczNGqPA)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
