@@ -356,6 +356,7 @@
 * [R 脚本封装必备模板 ——argparse 版](https://mp.weixin.qq.com/s?__biz=Mzg5MjY1MTU4Ng==&mid=2247486563&idx=1&sn=1eb4dc6bd73deec0dcdf65b0fbc7ceb8&chksm=c03b9d4ef74c14586dce511ede0e19a53e906dd05ec4fb7c6c9be876f94363e9fc270d941666&scene=21#wechat_redirect)
 * [R 脚本封装必备模板 2—— 基础函数版](https://mp.weixin.qq.com/s?__biz=Mzg5MjY1MTU4Ng==&mid=2247486690&idx=1&sn=0c1c23a5d6aaec2eadb257444047375d&chksm=c03b9dcff74c14d95782d67bdd3e6555f2c08dc27636e87f8e680ed6336706a52f2b2400e372&token=1557781388&lang=zh_CN&scene=21#wechat_redirect)
 * [R 语言 ggplot2 绘制曼哈顿图展示 GWAS 分析的结果](https://mp.weixin.qq.com/s/4J7DQK-YT_94RcTS6qlJLw)
+* [一分钟带你了解 R 语言包 “car”](https://mp.weixin.qq.com/s/mzA3sQssGcvVqdECuxBDZA)
 
 # R包
 
