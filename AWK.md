@@ -20,4 +20,5 @@
 * [Linux 三剑客之 awk 实战详解教程](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666552737&idx=3&sn=38d702ca7cb4cedcb67bbd7b4aaeb67c&chksm=80dc990ab7ab101c8c65ccbf03e7464a53151a82cb5501184a41b10300e1ae6b7dcd49f9ec1e&mpshare=1&scene=1&srcid=0324EzwJs6somtiNVQ6yQKEP&sharer_sharetime=1616558078959&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=439c3bdce1be78fb79cf2aa7adcf71131937e6f9569f16131976a18ba5977b7892b201a17987870e42d0adde18cb20baad53f337f95df74625c835ad7ccee356c187f959a4ae16347b3aa6feab65d5f8dfdf0eeb5849b46f0bd3933a71a53eb51e7b7bcc15618ce2b80d8864a3f29629408ca24222fc88fc02215360f000dde7&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=ARRpCmn3pEE8zU4BfeZPNvQ%3D&pass_ticket=R4gA6eQQe7YgMLebrWgsKJMiRaSVZvJloUg0E%2BvBswneey7d4wJxjToFbns98nxT&wx_header=0)
 * [告别重复造轮子 | 利用单行 awk，实现根据序列长度过滤 fasta 文件](https://mp.weixin.qq.com/s/P_0QnIOz5ITonnI4P1O7oQ)
 * [Shell 三剑客 与 核酸序列](https://mp.weixin.qq.com/s/soRzCzFSpRtGKNM2UBxM4g)
+* [如何在 awk 脚本中使用 shell 变量](https://mp.weixin.qq.com/s/8s7v-dHqTHyhJGsjHiGjvw)
 
