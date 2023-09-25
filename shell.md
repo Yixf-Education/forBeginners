@@ -87,3 +87,5 @@
 ## shell脚本
 
 * [18 个一线工作中常用 Shell 脚本](https://mp.weixin.qq.com/s/hPqiHB4g2IcP0PLFc1UgWQ)
+* [linux 菜单式检查脚本](https://mp.weixin.qq.com/s/azI-r434uXAd2ZQawHDMFQ)
+* [Linux 服务器实用 shell 脚本](https://mp.weixin.qq.com/s/0IfCYELuniMAHKOZ8z8R1Q)
