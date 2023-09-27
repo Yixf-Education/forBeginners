@@ -378,6 +378,7 @@
 * [一些常用处理序列的 Linux 命令行技巧](https://mp.weixin.qq.com/s/FuGGhaiMwFAZNKx3X1Ar7Q)
 * [wget 小细节（geo 数据 ，figshare 数据）](https://mp.weixin.qq.com/s/xehzFpcqvG860RZv-2Hndw)
 * [5 个有用的 Linux Shell 转义序列 | Linux 中国](https://mp.weixin.qq.com/s/snE1XrZzhQaaSHa46yGkYQ)
+* [21 个专业 Linux 用户喜爱的实用终端快捷键 | Linux 中国](https://mp.weixin.qq.com/s/2p5GBtKQrmsFlxgSj-lkyA)
 
 ## 运维
 
