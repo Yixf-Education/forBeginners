@@ -76,4 +76,5 @@
 * [Beautybook 6.1 版本来了 赏心悦目](https://mp.weixin.qq.com/s/5PwBG7tiBHenzEguUl3j7Q)
 * [LaTeX 参考文献入门就这简单 - 经典](https://mp.weixin.qq.com/s/_comduqz-XOm7u6ArlP4KQ)
 * [Slager | LaTeX在线编辑器 | 人人都是论文高手](https://www.slager.link/#/Home)
+* [TikZ 入门指北 - 经典教程免费下](https://mp.weixin.qq.com/s/cjLZLAo2n0L9lIzShkGHYg)
 
