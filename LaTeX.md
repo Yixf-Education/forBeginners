@@ -78,4 +78,5 @@
 * [Slager | LaTeX在线编辑器 | 人人都是论文高手](https://www.slager.link/#/Home)
 * [TikZ 入门指北 - 经典教程免费下](https://mp.weixin.qq.com/s/cjLZLAo2n0L9lIzShkGHYg)
 * [旗舰版 beamer 合集](https://mp.weixin.qq.com/s/cZevinYBqDmFJYWN7m7Y2A)
+* [一本书的新版本更新设计](https://mp.weixin.qq.com/s/MRI6PLb9NMBFqaaG9PfI2w)
 
