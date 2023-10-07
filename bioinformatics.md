@@ -173,6 +173,8 @@
 * [当 bioconda 无法使用了怎么办？](https://mp.weixin.qq.com/s/P-lGYw1bbfq7NzdmBElBww)
 * [使用 snakemake 管理转录组流程](https://mp.weixin.qq.com/s/l1OA0vPLIxS0NBnUGooM2A)
 * [生信小课堂 (1) 自动化下载 fastq 数据](https://mp.weixin.qq.com/s/ZECmmWm85ejI6vTmXvRKTg)
+* [生信小课堂 (2) 并行运算那些事](https://mp.weixin.qq.com/s/X8gp5CUzK1Qbimhz1fIIFQ)
+* [生信小课堂 (3) R 中执行并行运算](https://mp.weixin.qq.com/s/-3wljZ3504Gu0BJlMdHwzA)
 
 ## 基因组坐标系统
 
