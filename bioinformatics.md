@@ -172,6 +172,7 @@
 * [聊聊改名 —— 哪个更优雅？](https://mp.weixin.qq.com/s/XAn89z-pPRcPExEQ8IkhpQ)
 * [当 bioconda 无法使用了怎么办？](https://mp.weixin.qq.com/s/P-lGYw1bbfq7NzdmBElBww)
 * [使用 snakemake 管理转录组流程](https://mp.weixin.qq.com/s/l1OA0vPLIxS0NBnUGooM2A)
+* [生信小课堂 (1) 自动化下载 fastq 数据](https://mp.weixin.qq.com/s/ZECmmWm85ejI6vTmXvRKTg)
 
 ## 基因组坐标系统
 
