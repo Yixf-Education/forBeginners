@@ -358,6 +358,7 @@
 * [R 语言 ggplot2 绘制曼哈顿图展示 GWAS 分析的结果](https://mp.weixin.qq.com/s/4J7DQK-YT_94RcTS6qlJLw)
 * [一分钟带你了解 R 语言包 “car”](https://mp.weixin.qq.com/s/mzA3sQssGcvVqdECuxBDZA)
 * [关于 R 包安装屡次翻车这件事与新版 Seurat 5 体验](https://mp.weixin.qq.com/s/RG8BwOkXVDVOghd8KXg5Zw)
+* [读研生活寡淡如水，所以在 R 里整点花活儿](https://mp.weixin.qq.com/s/Qk5-pgS3-AMmx4VTaR_vOg)
 
 # R包
 
