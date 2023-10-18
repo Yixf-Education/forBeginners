@@ -42,6 +42,7 @@
 ## 基本知识
 
 * [**Single-cell best practices — Single-cell best practices**](https://www.sc-best-practices.org/preamble.html)
+* [hbctraining/scRNA-seq_online](https://github.com/hbctraining/scRNA-seq_online/tree/master): [Single-cell RNA-seq data analysis workshop](https://github.com/hbctraining/scRNA-seq_online/tree/master#single-cell-rna-seq-data-analysis-workshop)
 * [单细胞测序 Q&A 之数据预处理](https://mp.weixin.qq.com/s/kuUbMwL_mWYeEzif_vi1zg)
 * [单细胞笔记系列 | 1 - 单细胞测序简介](https://mp.weixin.qq.com/s/lh6rdV5BwHeYAhkBF2EOXw)
 * [一文打通单细胞上游：从软件部署到上游分析](https://mp.weixin.qq.com/s/pQyUieRVXohY1enqjN4lLA)
