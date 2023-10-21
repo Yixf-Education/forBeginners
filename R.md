@@ -361,6 +361,8 @@
 * [关于 R 包安装屡次翻车这件事与新版 Seurat 5 体验](https://mp.weixin.qq.com/s/RG8BwOkXVDVOghd8KXg5Zw)
 * [读研生活寡淡如水，所以在 R 里整点花活儿](https://mp.weixin.qq.com/s/Qk5-pgS3-AMmx4VTaR_vOg)
 * [ggplot2 绘制 venn 图展示 hub 基因](https://mp.weixin.qq.com/s/F-2NT6-2jcC5v4a15Ocf8Q)
+* [OmicsSuite 多组学大数据分析及可视化程序阶段总结](https://mp.weixin.qq.com/s/HNdWlv0Ti-PQ_SxI1r5ptQ)
+* [汇总贴 | 生物信息学数据可视化平台～国人作品](https://mp.weixin.qq.com/s/lMfVYZZawGp672a4J4RUog)
 
 # R包
 
