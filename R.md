@@ -134,6 +134,7 @@
 * [cowplot 包，ggplot2 图形排版 R 包](https://mp.weixin.qq.com/s/mXHroeXlJPXt5ZeJNRHLnA)
 * [使用 tidyverse 高效处理数据（数据处理代码整理）](https://mp.weixin.qq.com/s/6wR4fuUBW1jUomzHoTw-vw)
 * [R 语言中这些你想知道含义又不知道怎么查的特殊符号](https://mp.weixin.qq.com/s/hxq308sajiE2YWu6NBk9_A)
+* [R 语言数值实验中常见技巧整理](https://mp.weixin.qq.com/s/wBKHR7Jqz9XHsbTpVeS1oA)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
