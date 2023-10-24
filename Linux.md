@@ -380,6 +380,7 @@
 * [5 个有用的 Linux Shell 转义序列 | Linux 中国](https://mp.weixin.qq.com/s/snE1XrZzhQaaSHa46yGkYQ)
 * [21 个专业 Linux 用户喜爱的实用终端快捷键 | Linux 中国](https://mp.weixin.qq.com/s/2p5GBtKQrmsFlxgSj-lkyA)
 * [会玩这 10 个 Linux 命令，一定是个有趣的 IT 男！](https://mp.weixin.qq.com/s/AhsW23OGw6NTFzBtKuhCTA)
+* [30 个常用的 Linux 命令！](https://mp.weixin.qq.com/s/itWu1CS6Dkaisf_O0FgVZA)
 
 ## 运维
 
