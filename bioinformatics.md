@@ -26,6 +26,7 @@
 * [如何进行 GO、KEGG 富集分析？](https://mp.weixin.qq.com/s/yzqrxiZLiE9k6L9s4AqSXA)
 * [新版 Mamba 体验超快的软件安装](https://mp.weixin.qq.com/s/6AI1nGfSHtDl-WWhHNtWyg)
 * [bioawk—— 神奇的小软件](https://mp.weixin.qq.com/s/uvRrrHU6PibzRXwM-lRelA)
+* [什么年代了，还在用 FastQC？试试 Falco 吧](https://mp.weixin.qq.com/s/sHS1NzOFD92LgLKJhQ6vOA)
 
 ## 生信问题与编程技能
 * [生物信息学研究的思考](https://mp.weixin.qq.com/s/p7RKD_kVfK3ny6s7j_f8zg)
