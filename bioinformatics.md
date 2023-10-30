@@ -381,3 +381,4 @@
 * [整合单细胞数据和 Bulk 数据的多种方法（二）：R 包 Scissor](https://mp.weixin.qq.com/s/jC6QTQCfcl_i4tTbFQAq7A)
 * [Bioconductor community blog - Introducing CuratedAtlasQueryR package](https://bioconductor.github.io/biocblog/posts/2023-02-23-CuratedAtlasQueryR/)
 * [infercnv 官方全流程](https://mp.weixin.qq.com/s/5TS2oAP1NBYhXJMW9oTrAQ)
+* [端到端的单细胞管道 SCP - 标准流程](https://mp.weixin.qq.com/s/ypDH3hV-r1pjooOM-SZehQ)
