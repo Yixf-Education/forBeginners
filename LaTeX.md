@@ -80,4 +80,6 @@
 * [旗舰版 beamer 合集](https://mp.weixin.qq.com/s/cZevinYBqDmFJYWN7m7Y2A)
 * [一本书的新版本更新设计](https://mp.weixin.qq.com/s/MRI6PLb9NMBFqaaG9PfI2w)
 * [五款 beamer 进度条设计](https://mp.weixin.qq.com/s/V5s-kDI2fm8zQl66eQ7zOw)
+* [仿 Goodnotes 的笔记模板](https://mp.weixin.qq.com/s/vbdrkfOrFvBc43_nbGXbFw)
+* [两个插件让 obsidian 支持 LaTeX - 科研福音](https://mp.weixin.qq.com/s/nmx__CHCPuiJcMMTLXv81w)
 
