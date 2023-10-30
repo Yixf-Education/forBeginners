@@ -257,6 +257,7 @@
 * [如何一步步提高图形 B 格？以 ggplot 绘图为例](https://mp.weixin.qq.com/s/k5VgsK7e4d9RDrTkctJP6g)
 * [科研绘图偏 | 相关性分析散点图绘制](https://mp.weixin.qq.com/s/QniyJNbhOTokfE5tqjviJw)
 * [利用 ggplot2 包绘制高级版本棒棒图](https://mp.weixin.qq.com/s/UfIpiuHqhS14IKhpzRZUdQ)
+* [ggplot2 自定义正负分布图文本颜色](https://mp.weixin.qq.com/s/5RxqSxzvDdXQdmIQqFegIw)
 
 
 
