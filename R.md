@@ -365,6 +365,7 @@
 * [ggplot2 绘制 venn 图展示 hub 基因](https://mp.weixin.qq.com/s/F-2NT6-2jcC5v4a15Ocf8Q)
 * [OmicsSuite 多组学大数据分析及可视化程序阶段总结](https://mp.weixin.qq.com/s/HNdWlv0Ti-PQ_SxI1r5ptQ)
 * [汇总贴 | 生物信息学数据可视化平台～国人作品](https://mp.weixin.qq.com/s/lMfVYZZawGp672a4J4RUog)
+* [顶刊 table1 基线表全网最强 R 包评测，横空出世的中文期刊专属 table1sci 包](https://mp.weixin.qq.com/s/NXFk8by6XGqmVrvUE0cOpQ)
 
 # R包
 
