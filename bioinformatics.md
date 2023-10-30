@@ -380,3 +380,4 @@
 * [整合单细胞数据和 Bulk 数据的多种方法（一）：R 包 scAB](https://mp.weixin.qq.com/s/6UQIonf3V-7A0Qv3kH4KfQ)
 * [整合单细胞数据和 Bulk 数据的多种方法（二）：R 包 Scissor](https://mp.weixin.qq.com/s/jC6QTQCfcl_i4tTbFQAq7A)
 * [Bioconductor community blog - Introducing CuratedAtlasQueryR package](https://bioconductor.github.io/biocblog/posts/2023-02-23-CuratedAtlasQueryR/)
+* [infercnv 官方全流程](https://mp.weixin.qq.com/s/5TS2oAP1NBYhXJMW9oTrAQ)
