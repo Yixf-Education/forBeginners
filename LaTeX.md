@@ -83,4 +83,6 @@
 * [仿 Goodnotes 的笔记模板](https://mp.weixin.qq.com/s/vbdrkfOrFvBc43_nbGXbFw)
 * [两个插件让 obsidian 支持 LaTeX - 科研福音](https://mp.weixin.qq.com/s/nmx__CHCPuiJcMMTLXv81w)
 * [控制答案显隐 - 师生两版试题 LaTeX 模版](https://mp.weixin.qq.com/s/sQjPo_k_PSI5TKyTcR15pg)
+* [让你刷题刷不停的 LaTeX 习题模版](https://mp.weixin.qq.com/s/pf7OGBwyXXbw2CkzigonLQ)
+* [用 LaTeX 排版最美的程序代码和窗口命令行](https://mp.weixin.qq.com/s/Osv9HIVJTi4hyC5XekuOjQ)
 
