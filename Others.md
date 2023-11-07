@@ -280,6 +280,7 @@
 * [分享一些小编常用的科研网站](https://mp.weixin.qq.com/s/xo3_7AUFsl8TzG9n2k2hzQ)
 * [经验丨如何进行笔记管理](https://mp.weixin.qq.com/s/XliWo1WuGigWqmylEIckRA)
 * [适合研究生的科研步骤和技巧](https://mp.weixin.qq.com/s/0-LWAKsJv9Ue74YymHo_QQ)
+* [生物数据分析工作这样配置电脑](https://mp.weixin.qq.com/s/sUFiyqhhX5OsefEICe1nTg)
 
 ## 数据集
 
