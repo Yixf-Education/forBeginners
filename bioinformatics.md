@@ -177,6 +177,7 @@
 * [生信小课堂 (1) 自动化下载 fastq 数据](https://mp.weixin.qq.com/s/ZECmmWm85ejI6vTmXvRKTg)
 * [生信小课堂 (2) 并行运算那些事](https://mp.weixin.qq.com/s/X8gp5CUzK1Qbimhz1fIIFQ)
 * [生信小课堂 (3) R 中执行并行运算](https://mp.weixin.qq.com/s/-3wljZ3504Gu0BJlMdHwzA)
+* [2023-GATK4-Best Practices|| Getting started with GATK4（一）](https://mp.weixin.qq.com/s/gIdROnUMbAjz5r8WvsET_A)
 
 ## 基因组坐标系统
 
