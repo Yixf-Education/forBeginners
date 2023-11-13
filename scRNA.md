@@ -97,3 +97,4 @@
 * [单细胞研究肿瘤专题 ———— 细胞图谱绘制研究肿瘤异质性](https://mp.weixin.qq.com/s/Jp2UsBlQCcVCHV9xYKIyrw)
 * [Seurat V5 | 构建单细胞多模态数据整合的统一场论](https://mp.weixin.qq.com/s/snUJIxOLnxykK3Thrqh6ZQ)
 * [10X enclone 来确定 clonetype](https://mp.weixin.qq.com/s/kl_A8D1wG0dQ2APXJDL7fQ)
+* [单细胞差异分析之 pseudobulk 的 3 种实现方法](https://mp.weixin.qq.com/s/jR2OdJQPfBAfxSLSYPyqUw)
