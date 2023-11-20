@@ -88,4 +88,5 @@
 * [latexlecture: 一个 LaTeX 入门讲义](https://gitee.com/fpeng1985_admin/latexlecture)
 * [看了就想写本书的 LaTeX 书稿模版](https://mp.weixin.qq.com/s/hVtQhbewq3zuoMXSV_W1HA)
 * [简易又精致的 LaTeX 文本框宏包](https://mp.weixin.qq.com/s/0ZmpbUkUom52DSB8PxBjqg)
+* [LaTeX 简介](https://mp.weixin.qq.com/s/d_G_NmGgpSxWjyiJ2wBN4g)
 
