@@ -66,3 +66,6 @@
 * [从0开始学习GitHub系列之「Git进阶」](http://stormzhang.com/github/2016/06/16/learn-github-from-zero5/)
 * [从0开始学习GitHub系列之「团队合作利器Branch」](http://chuansong.me/n/404317047764)
 
+## GUI
+
+* [Linux 用户必备的 Git 图形化工具](https://mp.weixin.qq.com/s/kEWN4MFoh7ZwTehCxmkhvg)
