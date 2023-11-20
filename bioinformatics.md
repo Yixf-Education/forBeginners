@@ -329,6 +329,7 @@
 * [WGCNA 分析原理、流程与参数选择](https://mp.weixin.qq.com/s/A7PMtHXSXvXQ5VTPNxjOrw)
 * [测序 FAQ 丨基因组测序问题解答](https://mp.weixin.qq.com/s/Ciq93JQhOd9nsKEsf1iSYA)
 * [生信｜这些图怎么看？（1）](https://mp.weixin.qq.com/s/-ux-xtvOYNLR8ny2xlVPnQ)
+* [爬虫的 10 种思路](https://mp.weixin.qq.com/s/nL8H3kIi1f-mUcQX5E8dAQ)
 
 ## 系统课程
 
