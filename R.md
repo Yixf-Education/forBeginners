@@ -398,6 +398,7 @@
 * [机器学习系列 | R 语言实践机器学习案例分享 - ggtrendline 包添加回归拟合线及其方程式](https://mp.weixin.qq.com/s/8EvT31r4nf9KE3BMj7XcwQ)
 * [如何创建简单的 R 包](https://mp.weixin.qq.com/s/00E7L4h53HlXIVwLmySXew)
 * [开发一个自己的 R 包](https://mp.weixin.qq.com/s/F_u-f55t2Ul461LGujGbkg)
+* [R session 中软件包依赖关系网络](https://mp.weixin.qq.com/s/mKm97haa_L2WIeJPz8SKzA)
 
 # Shiny
 
