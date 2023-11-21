@@ -91,4 +91,5 @@
 * [LaTeX 简介](https://mp.weixin.qq.com/s/d_G_NmGgpSxWjyiJ2wBN4g)
 * [免费升级 overleaf 高级账户！](https://mp.weixin.qq.com/s/rLyZFW3WZTbWhbXtt0UXaQ)
 * [免费升级 Overleaf Premium（IEEE Collabratec）](https://mp.weixin.qq.com/s/ZnBe-1E9bqGghf-ful2-ng)
+* [用 LaTeX 制作动画](https://mp.weixin.qq.com/s/YZGWgL2Zp8KyWTaOsfnBjQ)
 
