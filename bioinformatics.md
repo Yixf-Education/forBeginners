@@ -30,6 +30,7 @@
 * [什么年代了，还在用 FastQC？试试 Falco 吧](https://mp.weixin.qq.com/s/sHS1NzOFD92LgLKJhQ6vOA)
 * [一行代码下载原始数据 —Kingfisher](https://mp.weixin.qq.com/s/G-53DHGOxhJaz5u9QEuZjA)
 * [最佳生物信息工作环境（2023 年 11 月更新版）](https://mp.weixin.qq.com/s/D2i8gt8C9MEzHNu9grSpdw)
+* [生物信息学软件工具的大致分类](https://mp.weixin.qq.com/s/hGoiodLok3jesjnHAef3lA)
 
 ## 生信问题与编程技能
 * [生物信息学研究的思考](https://mp.weixin.qq.com/s/p7RKD_kVfK3ny6s7j_f8zg)
