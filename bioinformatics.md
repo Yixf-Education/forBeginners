@@ -331,6 +331,7 @@
 * [测序 FAQ 丨基因组测序问题解答](https://mp.weixin.qq.com/s/Ciq93JQhOd9nsKEsf1iSYA)
 * [生信｜这些图怎么看？（1）](https://mp.weixin.qq.com/s/-ux-xtvOYNLR8ny2xlVPnQ)
 * [爬虫的 10 种思路](https://mp.weixin.qq.com/s/nL8H3kIi1f-mUcQX5E8dAQ)
+* [2023-GATK4-Best Practices|| About the GATK Best Practices（二）](https://mp.weixin.qq.com/s/5LrkcCk0EfG3xWO-QfGbXQ)
 
 ## 系统课程
 
