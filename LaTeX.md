@@ -92,4 +92,6 @@
 * [免费升级 overleaf 高级账户！](https://mp.weixin.qq.com/s/rLyZFW3WZTbWhbXtt0UXaQ)
 * [免费升级 Overleaf Premium（IEEE Collabratec）](https://mp.weixin.qq.com/s/ZnBe-1E9bqGghf-ful2-ng)
 * [用 LaTeX 制作动画](https://mp.weixin.qq.com/s/YZGWgL2Zp8KyWTaOsfnBjQ)
+* [笔记 | LaTeX & Markdown](https://mp.weixin.qq.com/s/Nr1DtmiwBkAXm_zhQ-8Xag)
+* [Typora 伪装 LaTeX 中文样式主题](https://mp.weixin.qq.com/s/egk00nxRePPQ-f2Zy0xQlA)
 
