@@ -99,3 +99,4 @@
 * [10X enclone 来确定 clonetype](https://mp.weixin.qq.com/s/kl_A8D1wG0dQ2APXJDL7fQ)
 * [单细胞差异分析之 pseudobulk 的 3 种实现方法](https://mp.weixin.qq.com/s/jR2OdJQPfBAfxSLSYPyqUw)
 * [介绍一种简单可行的 V4 的 Seruat 安装方案](https://mp.weixin.qq.com/s/NJ5lIeJ9qUVWaz_tXZtk1A)
+* [Seurat 4 与 5 共存](https://mp.weixin.qq.com/s/8eawG7kYW5ExJT7PCYxKew)
