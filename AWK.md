@@ -21,4 +21,5 @@
 * [告别重复造轮子 | 利用单行 awk，实现根据序列长度过滤 fasta 文件](https://mp.weixin.qq.com/s/P_0QnIOz5ITonnI4P1O7oQ)
 * [Shell 三剑客 与 核酸序列](https://mp.weixin.qq.com/s/soRzCzFSpRtGKNM2UBxM4g)
 * [如何在 awk 脚本中使用 shell 变量](https://mp.weixin.qq.com/s/8s7v-dHqTHyhJGsjHiGjvw)
+* [Linux 系统中一个让你直呼 “卧槽” 的命令](https://mp.weixin.qq.com/s/NUx3f4vDsM0UWqbz12Gbnw)
 
