@@ -94,4 +94,6 @@
 * [用 LaTeX 制作动画](https://mp.weixin.qq.com/s/YZGWgL2Zp8KyWTaOsfnBjQ)
 * [笔记 | LaTeX & Markdown](https://mp.weixin.qq.com/s/Nr1DtmiwBkAXm_zhQ-8Xag)
 * [Typora 伪装 LaTeX 中文样式主题](https://mp.weixin.qq.com/s/egk00nxRePPQ-f2Zy0xQlA)
+* [这样排版程序员最爱的窗口和菜单](https://mp.weixin.qq.com/s/z5THU_mu2idt9_ub-9nq1A)
+* [PDF 文件超实用程序与命令](https://mp.weixin.qq.com/s/aJckKva40FuOrh66GwM2Vg)
 
