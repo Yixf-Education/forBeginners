@@ -364,6 +364,7 @@
 * [Bioinformatics Training](https://rockefelleruniversity.github.io/)
 * [harvardx](http://rafalab.dfci.harvard.edu/pages/harvardx.html#series_1): HarvardX Biomedical Data Science Open Online Training
 * [UCLA QCBio Collaboratory - YouTube](https://www.youtube.com/@uclaqcbiocollaboratory3691/videos)
+* [中国科学院大学的 2023 的基因组学授课视频和 PPT](https://mp.weixin.qq.com/s/Xp3s4ewJEyKrdBfaJBbo2A)
 
 ## Galaxy
 
