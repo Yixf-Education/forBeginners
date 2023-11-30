@@ -336,6 +336,7 @@
 * [爬虫的 10 种思路](https://mp.weixin.qq.com/s/nL8H3kIi1f-mUcQX5E8dAQ)
 * [2023-GATK4-Best Practices|| About the GATK Best Practices（二）](https://mp.weixin.qq.com/s/5LrkcCk0EfG3xWO-QfGbXQ)
 * [生物信息学中的里程碑事件](https://mp.weixin.qq.com/s/fxPHL34B_2-6xbX9ePL1XQ)
+* [History and major milestones in bioinformatics](https://bioinformaticshome.com/bioinformatics_tutorials/History%20and%20major%20milestones%20in%20bioinformatics.html)
 
 ## 系统课程
 
