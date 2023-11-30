@@ -97,4 +97,5 @@
 * [这样排版程序员最爱的窗口和菜单](https://mp.weixin.qq.com/s/z5THU_mu2idt9_ub-9nq1A)
 * [PDF 文件超实用程序与命令](https://mp.weixin.qq.com/s/aJckKva40FuOrh66GwM2Vg)
 * [LaTeX 下使用 Helvetica](https://mp.weixin.qq.com/s/oWhTOA4nQV0YGqgRlwYZYw)
+* [保姆教程 — 在本地部署 Overleaf](https://mp.weixin.qq.com/s/CjVbm6JnYTPhy_STYEt35Q)
 
