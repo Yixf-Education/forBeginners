@@ -372,6 +372,7 @@
 * [顶刊 table1 基线表全网最强 R 包评测，横空出世的中文期刊专属 table1sci 包](https://mp.weixin.qq.com/s/NXFk8by6XGqmVrvUE0cOpQ)
 * [高亮某些通路？](https://mp.weixin.qq.com/s/1C2qN7glQbkJvZc2Ia36Nw)
 * [常见列线图的绘制及自定义美化详细教程](https://mp.weixin.qq.com/s/SvuBOLf-pDLjtMfmCLSKsA)
+* [统计问题｜绘制任意分布的 QQ 图](https://mp.weixin.qq.com/s/QQAlN7iEQU3CXJrxab42Jw)
 
 # R包
 
