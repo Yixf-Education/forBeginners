@@ -335,6 +335,7 @@
 * [生信｜这些图怎么看？（1）](https://mp.weixin.qq.com/s/-ux-xtvOYNLR8ny2xlVPnQ)
 * [爬虫的 10 种思路](https://mp.weixin.qq.com/s/nL8H3kIi1f-mUcQX5E8dAQ)
 * [2023-GATK4-Best Practices|| About the GATK Best Practices（二）](https://mp.weixin.qq.com/s/5LrkcCk0EfG3xWO-QfGbXQ)
+* [生物信息学中的里程碑事件](https://mp.weixin.qq.com/s/fxPHL34B_2-6xbX9ePL1XQ)
 
 ## 系统课程
 
