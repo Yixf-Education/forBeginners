@@ -397,3 +397,9 @@
 * [Bioconductor community blog - Introducing CuratedAtlasQueryR package](https://bioconductor.github.io/biocblog/posts/2023-02-23-CuratedAtlasQueryR/)
 * [infercnv 官方全流程](https://mp.weixin.qq.com/s/5TS2oAP1NBYhXJMW9oTrAQ)
 * [端到端的单细胞管道 SCP - 标准流程](https://mp.weixin.qq.com/s/ypDH3hV-r1pjooOM-SZehQ)
+
+## GWAS
+
+* [tunisrusergroup/Introduction_to_GWAS_GAPIT](https://github.com/tunisrusergroup/Introduction_to_GWAS_GAPIT/tree/main)
+* [Genome-Wide Association Studies (GWAS) using R by Andy Chen | Tunis R User Group | Workshop #2 - YouTube](https://www.youtube.com/watch?v=Oq85Jff9i2U&t=707s)
+* [GWAS_GAPIT_Practical_AC - Google 云端硬盘](https://drive.google.com/drive/folders/11H_7CqzOWc7mlA2PsIgTe34zvh0lR5Ng)
