@@ -373,6 +373,7 @@
 * [高亮某些通路？](https://mp.weixin.qq.com/s/1C2qN7glQbkJvZc2Ia36Nw)
 * [常见列线图的绘制及自定义美化详细教程](https://mp.weixin.qq.com/s/SvuBOLf-pDLjtMfmCLSKsA)
 * [统计问题｜绘制任意分布的 QQ 图](https://mp.weixin.qq.com/s/QQAlN7iEQU3CXJrxab42Jw)
+* [【文末赠书】Logistic 回归模型可视化：Nomo 图](https://mp.weixin.qq.com/s/OhnKUWZjil9ExXuV1Poe8g)
 
 # R包
 
