@@ -374,6 +374,7 @@
 * [常见列线图的绘制及自定义美化详细教程](https://mp.weixin.qq.com/s/SvuBOLf-pDLjtMfmCLSKsA)
 * [统计问题｜绘制任意分布的 QQ 图](https://mp.weixin.qq.com/s/QQAlN7iEQU3CXJrxab42Jw)
 * [【文末赠书】Logistic 回归模型可视化：Nomo 图](https://mp.weixin.qq.com/s/OhnKUWZjil9ExXuV1Poe8g)
+* [如何进行 GSEA 功能富集？clusterProfiler 版来了！](https://mp.weixin.qq.com/s/dGYl6HeWSO_XhNsFJh5e4g)
 
 # R包
 
