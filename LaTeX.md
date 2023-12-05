@@ -98,4 +98,7 @@
 * [PDF 文件超实用程序与命令](https://mp.weixin.qq.com/s/aJckKva40FuOrh66GwM2Vg)
 * [LaTeX 下使用 Helvetica](https://mp.weixin.qq.com/s/oWhTOA4nQV0YGqgRlwYZYw)
 * [保姆教程 — 在本地部署 Overleaf](https://mp.weixin.qq.com/s/CjVbm6JnYTPhy_STYEt35Q)
+* [pifont 宏包新用法 - 真香](https://mp.weixin.qq.com/s/PfJk5E5CbiVUOa9Wyw6tZg)
+* [Typst 中文用户使用体验](https://mp.weixin.qq.com/s/4qSb2ASLwmCYTQvtDMFzKw)
+* [南京大学电子学院本科生试卷模板](https://mp.weixin.qq.com/s/xuUkPIQSNK8Bkihd-VMiGQ)
 
