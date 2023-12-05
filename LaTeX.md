@@ -101,4 +101,5 @@
 * [pifont 宏包新用法 - 真香](https://mp.weixin.qq.com/s/PfJk5E5CbiVUOa9Wyw6tZg)
 * [Typst 中文用户使用体验](https://mp.weixin.qq.com/s/4qSb2ASLwmCYTQvtDMFzKw)
 * [南京大学电子学院本科生试卷模板](https://mp.weixin.qq.com/s/xuUkPIQSNK8Bkihd-VMiGQ)
+* [LaTeX 制作英文简历 10 款推荐字体](https://mp.weixin.qq.com/s/HJ4Sm3i1-cm2rqqqmN3JbA)
 
