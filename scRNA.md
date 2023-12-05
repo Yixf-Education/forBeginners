@@ -88,6 +88,7 @@
 * [单细胞及空间转录组整合分析方法](https://mp.weixin.qq.com/s/-jdfRphp93bueLm1SKcdOQ)
 * [空间转录组应用解析 —— 微环境解析](https://mp.weixin.qq.com/s/rYQY-iLtCeusxd9hWFbp_g)
 * [空间转录组可以解决哪些肿瘤研究难题？](https://mp.weixin.qq.com/s/NvxUNWhGLk_UOLGlViANvA)
+* [理想的空间技术 -- 真正的单细胞分辨率](https://mp.weixin.qq.com/s/YGxHHsnwOzfBdHVvWGks8w)
 
 ## 其他
 
