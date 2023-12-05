@@ -185,6 +185,7 @@
 * [跟着 Nature Communications 学数据分析：R 语言 LEA 包做变异位点和环境数据的关联分析](https://mp.weixin.qq.com/s/HjiWmoo2LaWMGY_3pteZSw)
 * [太愁了！这个分析需要哪种数据？原始 count？标准化？抽平？FPKM？TPM？](https://mp.weixin.qq.com/s/Xn00E-eaNT8uKXcfONcecQ)
 * [如何使用蛋白序列绘制 3D 结构图？](https://mp.weixin.qq.com/s/GDWtGJB0Ruc6zemhRNzbHw)
+* [生物学功能注释三板斧](https://mp.weixin.qq.com/s/YVNOeYEIvh7adXb4nSOO5A)
 
 ## 基因组坐标系统
 
