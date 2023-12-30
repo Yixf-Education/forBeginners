@@ -281,6 +281,7 @@
 * [经验丨如何进行笔记管理](https://mp.weixin.qq.com/s/XliWo1WuGigWqmylEIckRA)
 * [适合研究生的科研步骤和技巧](https://mp.weixin.qq.com/s/0-LWAKsJv9Ue74YymHo_QQ)
 * [生物数据分析工作这样配置电脑](https://mp.weixin.qq.com/s/sUFiyqhhX5OsefEICe1nTg)
+* [本科生毕业论文写作指南](https://mp.weixin.qq.com/s/K28Cw7y-0FczBoP3Yaeu4A)
 
 ## 数据集
 
