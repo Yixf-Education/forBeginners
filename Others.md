@@ -107,6 +107,7 @@
 * [00 生物学家的统计学_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ak4y1E7y8/?vd_source=c2889fdef670dfc637e9a04b0963b553)
 * [学习贝叶斯统计的 R 包及配套书籍](https://mp.weixin.qq.com/s/AubFNPpirSM-0Tww0V3aJQ)
 * [贝叶斯定理，不信看完这篇还不懂！](https://mp.weixin.qq.com/s/IuiWobt_bwQBqqDLnm6JNw)
+* [一文读懂机器学习算法的基本概念和适用场景](https://mp.weixin.qq.com/s/ZG5La58HZes7VoYLgScLZw)
 
 ## 统计学入门
 
