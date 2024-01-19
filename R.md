@@ -7,6 +7,7 @@
 * [**swirl: Learn R, in R.**](https://swirlstats.com/)
 * [**https://webr.r-wasm.org/latest/**](https://webr.r-wasm.org/latest/): WebR
 * [**一文解决你所有的绘图配色**](https://mp.weixin.qq.com/s/wNe8tybzH3VF6hV82OOZDA)
+* [**R-universe**](https://r-universe.dev/search/): personal package repositories for R!
 * [不写代码，轻松画图！](https://mp.weixin.qq.com/s/VAT-WjtgZy1WDcWPtq0hkA)
 * [sib-swiss/first-steps-with-R-training: repository of the 2-day course "First steps with R in Life Sciences" from SIB-training](https://github.com/sib-swiss/first-steps-with-R-training)
 * [10 simple rules for teaching R for Data Science](https://ttimbers.github.io/10-simple-rules-for-teaching-R-for-Data-Science/10-simple-rules-for-teaching-r-for-data-science.html#1)
