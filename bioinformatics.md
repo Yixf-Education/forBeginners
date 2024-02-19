@@ -372,6 +372,7 @@
 * [harvardx](http://rafalab.dfci.harvard.edu/pages/harvardx.html#series_1): HarvardX Biomedical Data Science Open Online Training
 * [UCLA QCBio Collaboratory - YouTube](https://www.youtube.com/@uclaqcbiocollaboratory3691/videos)
 * [中国科学院大学的 2023 的基因组学授课视频和 PPT](https://mp.weixin.qq.com/s/Xp3s4ewJEyKrdBfaJBbo2A)
+* [【合集】生物信息学原理笔记](https://mp.weixin.qq.com/s?__biz=MzkxNTYwMjIzOA==&mid=2247484000&idx=1&sn=e3e291d2ca835d2260e93a1b2c959819&chksm=c058c36b2ad5781a6fd2114ecae701de82988c69a743359f193a970a7d30e2e59fec32c72402&scene=132&exptype=timeline_recommend_article_extendread_samebiz#wechat_redirect)
 
 ## Galaxy
 
