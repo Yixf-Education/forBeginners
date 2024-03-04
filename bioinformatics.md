@@ -395,6 +395,8 @@
 * [炙手可热 | 孟德尔随机化发 NC](https://mp.weixin.qq.com/s/A-bWKloSa4C5rx3G_POdPg)
 * [如何利用 MR 分析弯道超车？](https://mp.weixin.qq.com/s/3yfFjhJm69k7HNY_FHKiDQ)
 * [升级版孟德尔随机：单细胞 + 共定位](https://mp.weixin.qq.com/s/YxzelKbKha4bLpAt9lsv6g)
+* [漫画介绍孟德尔随机化](https://mp.weixin.qq.com/s/-1syM5RrzlxYlMCfuvedlg)
+* [R 语言孟德尔系列・一文读懂孟德尔随机化](https://mp.weixin.qq.com/s/IFW0-MKKiGOVNW43tFIQqg)
 
 ## 单细胞
 
