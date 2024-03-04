@@ -139,6 +139,9 @@
 * [R 语言笔记：公式上下标、斜粗体、文本颜色、小数位数等，几乎包含全部所需](https://mp.weixin.qq.com/s/32MnjxzO-O9WspZ0I7zynA)
 * [R 语言数值实验中常见技巧整理](https://mp.weixin.qq.com/s/DCOFJLa8VhCB5BCExyStcQ)
 * [配置 r 语言的环境变量文件](https://mp.weixin.qq.com/s/gugkNjsOVXJEbrKIrtwpNw)
+* [R 语言终于也支持虚拟环境了](https://mp.weixin.qq.com/s/8g1MpYgk0Z_GU8THsIWEmA)
+* [R 包安装常见问题及解决方法](https://mp.weixin.qq.com/s/-OuMJsLOZD3PTvkf0NXPzw)
+* [隐式循环及 function 函数](https://mp.weixin.qq.com/s/cnJQJk9-0rmfq_SWHp7nsQ)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
