@@ -341,6 +341,7 @@
 * [生物信息学中的里程碑事件](https://mp.weixin.qq.com/s/fxPHL34B_2-6xbX9ePL1XQ)
 * [History and major milestones in bioinformatics](https://bioinformaticshome.com/bioinformatics_tutorials/History%20and%20major%20milestones%20in%20bioinformatics.html)
 * [2023 年生物信息学十大进展 – 组学教程](https://omicstutorials.com/top-10-advances-in-bioinformatics-in-2023/)
+* [人类 VS 猩猩，DNA 真的只差 1% 吗？](https://mp.weixin.qq.com/s/uSNvhWSq-9iGkitaWuRByA)
 
 ## 系统课程
 
