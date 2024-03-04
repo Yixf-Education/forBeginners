@@ -317,6 +317,7 @@
 * [好物安利 | 国内可稳定使用的 GPT-4，还自带联网功能噢](https://mp.weixin.qq.com/s/jcdkZA8aF_NtQ2bIf3qQAA)
 * [让 chatGPT 做你的 24 小时生信教练](https://mp.weixin.qq.com/s/QaUZAhuKXOO5wNPJFF-vVA)
 * [ChatGPT 发布一年后，我再也离不开它了](https://mp.weixin.qq.com/s/a-_cZeZ0Q6D_JGRmRyg9jw)
+* [效率 up！热门 AI 工具盘点](https://mp.weixin.qq.com/s/euXoepWVYTAyExTO2j1Vug)
 
 
 
