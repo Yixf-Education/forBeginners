@@ -284,6 +284,7 @@
 * [生物数据分析工作这样配置电脑](https://mp.weixin.qq.com/s/sUFiyqhhX5OsefEICe1nTg)
 * [本科生毕业论文写作指南](https://mp.weixin.qq.com/s/K28Cw7y-0FczBoP3Yaeu4A)
 * [研究生答辩，导师：致谢别矫情，没屁在那硬编！](https://mp.weixin.qq.com/s/ZvnFt_gSNAN1RIgqh6mQdQ)
+* [学术写作注意事项 —— 格式问题](https://mp.weixin.qq.com/s/ES091s4kDqzbtgZtwmuI3w)
 
 ## 数据集
 
