@@ -320,6 +320,7 @@
 * [让 chatGPT 做你的 24 小时生信教练](https://mp.weixin.qq.com/s/QaUZAhuKXOO5wNPJFF-vVA)
 * [ChatGPT 发布一年后，我再也离不开它了](https://mp.weixin.qq.com/s/a-_cZeZ0Q6D_JGRmRyg9jw)
 * [效率 up！热门 AI 工具盘点](https://mp.weixin.qq.com/s/euXoepWVYTAyExTO2j1Vug)
+* [GPT 学术优化：支持 LaTeX 的免费工具，让你学术论文精致高效](https://mp.weixin.qq.com/s/lykLTuoJF8r5eUKSBg5AFQ)
 
 
 
