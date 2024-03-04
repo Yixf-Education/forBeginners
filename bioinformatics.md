@@ -189,6 +189,7 @@
 * [如何使用蛋白序列绘制 3D 结构图？](https://mp.weixin.qq.com/s/GDWtGJB0Ruc6zemhRNzbHw)
 * [生物学功能注释三板斧](https://mp.weixin.qq.com/s/YVNOeYEIvh7adXb4nSOO5A)
 * [irGSEA：基于秩次的单细胞基因集富集分析整合框架](https://mp.weixin.qq.com/s/VI4ISO6y5_rt8Yy_VnIR-w)
+* [使用 Nextflow 制作部署生物信息工作流](https://mp.weixin.qq.com/s/EWKI3LwFFpRDNOu6kE-WlA)
 
 ## 基因组坐标系统
 
