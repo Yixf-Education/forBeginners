@@ -105,4 +105,6 @@
 * [一个超好用的考试试卷 LaTeX 模板](https://mp.weixin.qq.com/s/kzHzL3DypReyEXuntcjbaw)
 * [CTAN: Package jnuexam](https://www.ctan.org/pkg/jnuexam)
 * [Github 最受欢迎 beamer 主题及中文汉化版](https://mp.weixin.qq.com/s/jvQUNGlYusYF6RPjksiwgg)
+* [Github 榜首：Pandoc PDF 转换模板，优雅美观，轻松实现](https://mp.weixin.qq.com/s/OW4bc-loS7unz92yIG0J8w)
+* [将 LaTeX 格式的文档转换为 Word](https://mp.weixin.qq.com/s/czynkKVZjIg95V5kk1pUqA)
 
