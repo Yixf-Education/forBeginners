@@ -409,6 +409,7 @@
 * [Bioconductor community blog - Introducing CuratedAtlasQueryR package](https://bioconductor.github.io/biocblog/posts/2023-02-23-CuratedAtlasQueryR/)
 * [infercnv 官方全流程](https://mp.weixin.qq.com/s/5TS2oAP1NBYhXJMW9oTrAQ)
 * [端到端的单细胞管道 SCP - 标准流程](https://mp.weixin.qq.com/s/ypDH3hV-r1pjooOM-SZehQ)
+* [单细胞转录组的 3 种常规数据分析思路](https://mp.weixin.qq.com/s/yNzFblUS2oNPqGngafDTlg)
 
 ## GWAS
 
