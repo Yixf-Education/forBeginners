@@ -264,6 +264,7 @@
 * [如何将喜欢的色板，拓展出更多的颜色数量？](https://mp.weixin.qq.com/s/mCnq2lUJuddEYmpK9o89Kg)
 * [R 语言笔记：ggplot2 怎么标记回归的 R2、P 值？越方便越好](https://mp.weixin.qq.com/s/3zEfw5Ww4gidwMWbjuVqrw)
 * [分面中嵌入趋势线](https://mp.weixin.qq.com/s/MdLbKoYtuLqrFGYO7V-mBg)
+* [ggplot 优化你的富集条图](https://mp.weixin.qq.com/s/3n0oU2MQURVKUoQYwiGbTw)
 
 
 
