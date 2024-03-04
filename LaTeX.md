@@ -104,4 +104,5 @@
 * [LaTeX 制作英文简历 10 款推荐字体](https://mp.weixin.qq.com/s/HJ4Sm3i1-cm2rqqqmN3JbA)
 * [一个超好用的考试试卷 LaTeX 模板](https://mp.weixin.qq.com/s/kzHzL3DypReyEXuntcjbaw)
 * [CTAN: Package jnuexam](https://www.ctan.org/pkg/jnuexam)
+* [Github 最受欢迎 beamer 主题及中文汉化版](https://mp.weixin.qq.com/s/jvQUNGlYusYF6RPjksiwgg)
 
