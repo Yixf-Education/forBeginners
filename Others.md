@@ -324,6 +324,7 @@
 * [用 ai.TBtools.icu 助力英文、中文、学位论文写作](https://mp.weixin.qq.com/s/D54OB_wRbt_YWHkUGlPwig)
 * [用上这 10 条神指令（prompt)，让 ChatGPT 快速写出优质高分科研论文](https://mp.weixin.qq.com/s/NvQ40vzBmy6gJzcf02Sg7Q)
 * [利用 ChatGPT 生成文献综述和参考文献的全攻略](https://mp.weixin.qq.com/s/hd8XCoIsWFB2gSOh-5UncQ)
+* [ChatGPT 论文指南 | 吐血总结 ChatGPT 完成高质量学术论文全流程！](https://mp.weixin.qq.com/s/enPckpxT-4qmuoWqR7d2_A)
 
 
 
