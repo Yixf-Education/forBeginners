@@ -109,4 +109,5 @@
 * [将 LaTeX 格式的文档转换为 Word](https://mp.weixin.qq.com/s/czynkKVZjIg95V5kk1pUqA)
 * [可随机组卷 LaTeX 试卷模版：高效便捷出题助手](https://mp.weixin.qq.com/s/3qJa3Te2r5JD7KQxMCldZA)
 * [最新国家自然科学基金项目 LaTeX 模版测评](https://mp.weixin.qq.com/s/WoVZUWYrQyuUWjZNqnvLaA)
+* [GitHub - tangyc8866/ECNU-Stat-templates: Different templates for School of Statistics of ECNU are available here.](https://github.com/tangyc8866/ECNU-Stat-templates)
 
