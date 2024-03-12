@@ -110,4 +110,5 @@
 * [可随机组卷 LaTeX 试卷模版：高效便捷出题助手](https://mp.weixin.qq.com/s/3qJa3Te2r5JD7KQxMCldZA)
 * [最新国家自然科学基金项目 LaTeX 模版测评](https://mp.weixin.qq.com/s/WoVZUWYrQyuUWjZNqnvLaA)
 * [GitHub - tangyc8866/ECNU-Stat-templates: Different templates for School of Statistics of ECNU are available here.](https://github.com/tangyc8866/ECNU-Stat-templates)
+* [常用 LaTeX 代码](https://flowus.cn/latex/share/66110e84-b24a-4cd5-b8a7-2ba2afb35a30)
 
