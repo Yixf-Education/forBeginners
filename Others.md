@@ -286,6 +286,7 @@
 * [本科生毕业论文写作指南](https://mp.weixin.qq.com/s/K28Cw7y-0FczBoP3Yaeu4A)
 * [研究生答辩，导师：致谢别矫情，没屁在那硬编！](https://mp.weixin.qq.com/s/ZvnFt_gSNAN1RIgqh6mQdQ)
 * [学术写作注意事项 —— 格式问题](https://mp.weixin.qq.com/s/ES091s4kDqzbtgZtwmuI3w)
+* [比 Sci-hub，google 学术更好用的文献下载网站合集！](https://mp.weixin.qq.com/s/9JEFtgbn1m9JoVXm3Jmcgw)
 
 ## 数据集
 
