@@ -273,6 +273,9 @@
 * [分面中嵌入趋势线](https://mp.weixin.qq.com/s/MdLbKoYtuLqrFGYO7V-mBg)
 * [ggplot 优化你的富集条图](https://mp.weixin.qq.com/s/3n0oU2MQURVKUoQYwiGbTw)
 * [ggplot2 绘制多层次网络图](https://mp.weixin.qq.com/s/75I9obvWasphdPRtFStEIQ)
+* [R 中一行代码完成置信区间添加](https://mp.weixin.qq.com/s/3omOuouaG8XnfOPgKtRHvw)\
+* [npj 图表绘制 - 渐变色填充韦恩图](https://mp.weixin.qq.com/s/TXX3ry-REP2rRyMlCf22tg)
+* [如何绘制双层饼图 / 甜甜圈图？文献同款高频必学！](https://mp.weixin.qq.com/s/HjbyUr4IEmy0ILRqMHcg3A)
 
 
 
