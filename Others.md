@@ -287,6 +287,7 @@
 * [研究生答辩，导师：致谢别矫情，没屁在那硬编！](https://mp.weixin.qq.com/s/ZvnFt_gSNAN1RIgqh6mQdQ)
 * [学术写作注意事项 —— 格式问题](https://mp.weixin.qq.com/s/ES091s4kDqzbtgZtwmuI3w)
 * [比 Sci-hub，google 学术更好用的文献下载网站合集！](https://mp.weixin.qq.com/s/9JEFtgbn1m9JoVXm3Jmcgw)
+* [斯坦福教授：阅读科学论文的五个阶段](https://mp.weixin.qq.com/s/4joqy7t-ExiitP9ml702_g)
 
 ## 数据集
 
