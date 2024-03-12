@@ -192,6 +192,7 @@
 * [使用 Nextflow 制作部署生物信息工作流](https://mp.weixin.qq.com/s/EWKI3LwFFpRDNOu6kE-WlA)
 * [稳健生物信息学研究的 “黄金法则”](https://mp.weixin.qq.com/s/uRij5MahPCsI8uRPiOYGKQ)
 * [利用 pyfastx 处理 fasta 以及 fastq 文件](https://mp.weixin.qq.com/s/ni4GJUoNfbHkKnS0hTJDYw)
+* [生物信息分析好习惯，记录软件版本](https://mp.weixin.qq.com/s/HsjZJQm6bljhlgWYnOz_bQ)
 
 ## 基因组坐标系统
 
