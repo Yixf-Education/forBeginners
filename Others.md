@@ -289,6 +289,8 @@
 * [学术写作注意事项 —— 格式问题](https://mp.weixin.qq.com/s/ES091s4kDqzbtgZtwmuI3w)
 * [比 Sci-hub，google 学术更好用的文献下载网站合集！](https://mp.weixin.qq.com/s/9JEFtgbn1m9JoVXm3Jmcgw)
 * [斯坦福教授：阅读科学论文的五个阶段](https://mp.weixin.qq.com/s/4joqy7t-ExiitP9ml702_g)
+* [低调！这款 Word 插件真的能让毕业论文快三个星期](https://mp.weixin.qq.com/s/MmI5yrAphZi90Ld7kkKE_w)
+* [这一次文献阅读、管理 & 论文写作终于可以 All in one 了！科研人必备利器](https://mp.weixin.qq.com/s/psTtAhPXKUyAA054BtQ5WA)
 
 ## 数据集
 
