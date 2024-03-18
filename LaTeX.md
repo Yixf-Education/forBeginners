@@ -111,4 +111,5 @@
 * [最新国家自然科学基金项目 LaTeX 模版测评](https://mp.weixin.qq.com/s/WoVZUWYrQyuUWjZNqnvLaA)
 * [GitHub - tangyc8866/ECNU-Stat-templates: Different templates for School of Statistics of ECNU are available here.](https://github.com/tangyc8866/ECNU-Stat-templates)
 * [常用 LaTeX 代码](https://flowus.cn/latex/share/66110e84-b24a-4cd5-b8a7-2ba2afb35a30)
+* [用 LaTeX 做笔记是怎样的体验？](https://mp.weixin.qq.com/s/TgyqNzBA_5P0V5wCNLwXzQ)
 
