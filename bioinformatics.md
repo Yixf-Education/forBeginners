@@ -385,6 +385,7 @@
 * [【合集】生物信息学原理笔记](https://mp.weixin.qq.com/s?__biz=MzkxNTYwMjIzOA==&mid=2247484000&idx=1&sn=e3e291d2ca835d2260e93a1b2c959819&chksm=c058c36b2ad5781a6fd2114ecae701de82988c69a743359f193a970a7d30e2e59fec32c72402&scene=132&exptype=timeline_recommend_article_extendread_samebiz#wechat_redirect)
 * [生物信息学原理 -- 第七章 基因定位和全基因组关联分析](https://mp.weixin.qq.com/s/Psp9-sgLN5n9PNwlHJk7TA)
 * [生物信息学原理 -- 第九章 蛋白质结构和功能预测](https://mp.weixin.qq.com/s/djiApV5fN5IyFlA52wfNTw)
+* [quinlan-lab/applied-computational-genomics: Applied Computational Genomics Course at UU: Spring 2020](https://github.com/quinlan-lab/applied-computational-genomics?tab=readme-ov-file)
 
 ## Galaxy
 
