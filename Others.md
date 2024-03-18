@@ -291,6 +291,7 @@
 * [斯坦福教授：阅读科学论文的五个阶段](https://mp.weixin.qq.com/s/4joqy7t-ExiitP9ml702_g)
 * [低调！这款 Word 插件真的能让毕业论文快三个星期](https://mp.weixin.qq.com/s/MmI5yrAphZi90Ld7kkKE_w)
 * [这一次文献阅读、管理 & 论文写作终于可以 All in one 了！科研人必备利器](https://mp.weixin.qq.com/s/psTtAhPXKUyAA054BtQ5WA)
+* [文献管理不知不觉都改用 Zotero 了，用了下果然像开挂了一般的舒爽](https://mp.weixin.qq.com/s/2EEpLU3PWb98sELAT0oaxQ)
 
 ## 数据集
 
