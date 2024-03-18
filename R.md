@@ -392,6 +392,7 @@
 * [如何进行 GSEA 功能富集？clusterProfiler 版来了！](https://mp.weixin.qq.com/s/dGYl6HeWSO_XhNsFJh5e4g)
 * [探索 AnnData 数据对象，揭开它的](https://mp.weixin.qq.com/s/hUBTxjFEQXseUnujQuEN4w)
 * [一个 GSEA 学习的包](https://mp.weixin.qq.com/s/tKj0Y9cOx671_8Zhj-zczQ)
+* [R 中进行 Lasso 回归模型分析](https://mp.weixin.qq.com/s/R_7kj8nQTk6t37gVnkOpwg)
 
 # R包
 
