@@ -35,6 +35,7 @@
 * [蛋白质 - 蛋白质相互作用的快速搜索方法](https://mp.weixin.qq.com/s/ga1Kc8Jh_YJutil48bYgxA)
 * [aspera 的高速下载确实很快吗](https://mp.weixin.qq.com/s/oXddBbeH4qGnjYw6n_H3fQ)
 * [shenwei356/perfect-bioinformatic-tools: What should perfect bioinformatic tools be like?](https://github.com/shenwei356/perfect-bioinformatic-tools)
+* [生信数据预处理的 Linux 三大神器](https://mp.weixin.qq.com/s/u3CIPsRKhObdPzfN8PzwTg)
 
 ## 生信问题与编程技能
 * [生物信息学研究的思考](https://mp.weixin.qq.com/s/p7RKD_kVfK3ny6s7j_f8zg)
