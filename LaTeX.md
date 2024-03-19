@@ -112,4 +112,6 @@
 * [GitHub - tangyc8866/ECNU-Stat-templates: Different templates for School of Statistics of ECNU are available here.](https://github.com/tangyc8866/ECNU-Stat-templates)
 * [常用 LaTeX 代码](https://flowus.cn/latex/share/66110e84-b24a-4cd5-b8a7-2ba2afb35a30)
 * [用 LaTeX 做笔记是怎样的体验？](https://mp.weixin.qq.com/s/TgyqNzBA_5P0V5wCNLwXzQ)
+* [2024 桂林电子科技大学论文模板](https://mp.weixin.qq.com/s/mPAwb69EM5hnI-zEbYy6RA)
+* [研究人员作报告 PPT 都长得一样？这主题让你幻灯片与众不同](https://mp.weixin.qq.com/s/1XuKy17nYfB9rEDg4JOhKA)
 
