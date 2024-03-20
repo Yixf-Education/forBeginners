@@ -144,6 +144,7 @@
 * [隐式循环及 function 函数](https://mp.weixin.qq.com/s/cnJQJk9-0rmfq_SWHp7nsQ)
 * [如何在 Rstudio 中使用 AI 来自动写代码](https://mp.weixin.qq.com/s/A9Asn3fBUTmwiGIo2-jgjA)
 * [RStudio 的 15 个经典高效快捷操作](https://mp.weixin.qq.com/s/hDP7PDk5xkTM-So069dLag)
+* [五种交叉验证方法的 R 语言实现](https://mp.weixin.qq.com/s/c46eAFdFQ0_4aNmHDExMZw)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
