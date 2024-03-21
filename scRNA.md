@@ -104,3 +104,4 @@
 * [学正宗的空间单细胞就得跟着 10x 官网](https://mp.weixin.qq.com/s/Wm8dcCH7hyE6OADzh8YpZQ)
 * [SCTransform 真的能完美替代 Seurat 早期的 3 个函数吗](https://mp.weixin.qq.com/s/tpkTIgdm-ZYy04m6GAvrkg)
 * [scanpy 和 seurat 的所有 Marker 基因可视化方法帮你打包好啦](https://mp.weixin.qq.com/s/DE6F_oy0vo_GUbCpC9DVNQ)
+* [Monocle 3 beta： 最新升级版的单细胞转录组拟时序分析利器 赶快来看吧](https://mp.weixin.qq.com/s/q_PjJK5MqBOMbJGCel1NPQ)
