@@ -114,4 +114,5 @@
 * [用 LaTeX 做笔记是怎样的体验？](https://mp.weixin.qq.com/s/TgyqNzBA_5P0V5wCNLwXzQ)
 * [2024 桂林电子科技大学论文模板](https://mp.weixin.qq.com/s/mPAwb69EM5hnI-zEbYy6RA)
 * [研究人员作报告 PPT 都长得一样？这主题让你幻灯片与众不同](https://mp.weixin.qq.com/s/1XuKy17nYfB9rEDg4JOhKA)
+* [用 LaTeX 做幻灯片比用 PowerPoint 和 Keynote 做更方便、更美观吗？](https://mp.weixin.qq.com/s/gm75VaGGi9Gu4pTnWDBYFw)
 
