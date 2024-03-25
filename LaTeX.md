@@ -115,4 +115,9 @@
 * [2024 桂林电子科技大学论文模板](https://mp.weixin.qq.com/s/mPAwb69EM5hnI-zEbYy6RA)
 * [研究人员作报告 PPT 都长得一样？这主题让你幻灯片与众不同](https://mp.weixin.qq.com/s/1XuKy17nYfB9rEDg4JOhKA)
 * [用 LaTeX 做幻灯片比用 PowerPoint 和 Keynote 做更方便、更美观吗？](https://mp.weixin.qq.com/s/gm75VaGGi9Gu4pTnWDBYFw)
+* [pstrick 可以这么牛逼，我学不会，你肯定可以](https://mp.weixin.qq.com/s/DTA2LC9w2dGBx4vhEG0B8w)
+* [为什么用 LaTeX 排出来的文档普遍看上去比较美观？](https://mp.weixin.qq.com/s/bJlAbwmtbYbH30U_FDo0VA)
+* [把 LaTeX 参考文献变成表格形式，开题报告模版得救了](https://mp.weixin.qq.com/s/PYy5D7-pUEWR4GbrbpIn1A)
+* [期刊回复信 TeX 模板汇总](https://mp.weixin.qq.com/s/sZDAdkgcWI_VP7oZccBaAg)
+* [公式识别工具 LaTeX-OCR 不完美替代 mathpix](https://mp.weixin.qq.com/s/CqpPmp1ILy2nDq1HpATK8Q)
 
