@@ -120,4 +120,5 @@
 * [把 LaTeX 参考文献变成表格形式，开题报告模版得救了](https://mp.weixin.qq.com/s/PYy5D7-pUEWR4GbrbpIn1A)
 * [期刊回复信 TeX 模板汇总](https://mp.weixin.qq.com/s/sZDAdkgcWI_VP7oZccBaAg)
 * [公式识别工具 LaTeX-OCR 不完美替代 mathpix](https://mp.weixin.qq.com/s/CqpPmp1ILy2nDq1HpATK8Q)
+* [Overleaf 桌面客户端程序来了，像桌面程序一样使用 Overleaf，美滋滋！](https://mp.weixin.qq.com/s/qP4CvqXG9OwO_Sf7JS8STA)
 
