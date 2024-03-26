@@ -123,6 +123,7 @@
 * [10 个在 Linux 终端中生成有趣的 ASCII 字符画的工具 | Linux 中国](https://mp.weixin.qq.com/s/DvWUHzyOrePYrOIczNGqPA)
 * [使用 dialog 和 jq 在 Linux 上编写高效终端 TUI | Linux 中国](https://mp.weixin.qq.com/s/Y08NUUD9qVdjOMdPi9Qi0g)
 * [Gooey：将命令行转换为 GUI 界面的神奇工具](https://mp.weixin.qq.com/s/mDbHDSp9ulX4jjEsxMhLVA)
+* [Linux cp 命令加上进度条，太方便了！](https://mp.weixin.qq.com/s/TE_X_vPb1WAzwY3UWocyYw)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
