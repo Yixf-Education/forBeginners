@@ -294,6 +294,7 @@
 * [文献管理不知不觉都改用 Zotero 了，用了下果然像开挂了一般的舒爽](https://mp.weixin.qq.com/s/2EEpLU3PWb98sELAT0oaxQ)
 * [预答辩 PPT 制作七条参考建议](https://mp.weixin.qq.com/s/DRSEHNTvWdapEeCgOVh6xA)
 * [南大核心期刊编辑科普论文发表全流程：为何论文审稿需要三四个月？](https://mp.weixin.qq.com/s/T7l4UBiar3Njj-qUqj_GfQ)
+* [利用 ChatGPT 写学术论文，有效的顶级提示词指令，建议收藏直接使用](https://mp.weixin.qq.com/s/MB3kmP_qSYVWzRFgizIWxw)
 
 ## 数据集
 
