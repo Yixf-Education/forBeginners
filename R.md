@@ -280,6 +280,7 @@
 * [ggplot2 优雅绘制多元素箱线图](https://mp.weixin.qq.com/s/LJAFYTAfvVKMKrWa85FJTw)
 * [Lchiffon/leafletCN: An R gallery for China and other geojson choropleth map in leaflet](https://github.com/Lchiffon/leafletCN)
 * [ggplot2 高效实用指南](https://mp.weixin.qq.com/s/gYpAeUOgwASqnZnQmlgJQQ)
+* [4 种方法实现 ggplot2 的 aes () 中的变量替换](https://mp.weixin.qq.com/s/G46JWP5bHzBJOeg3TmWDWA)
 
 # Rmarkdown
 
