@@ -335,6 +335,7 @@
 * [利用 ChatGPT 生成文献综述和参考文献的全攻略](https://mp.weixin.qq.com/s/hd8XCoIsWFB2gSOh-5UncQ)
 * [ChatGPT 论文指南 | 吐血总结 ChatGPT 完成高质量学术论文全流程！](https://mp.weixin.qq.com/s/enPckpxT-4qmuoWqR7d2_A)
 * [只需三小时，使用 ChatGPT 生成参考文献和文献综述的完全操作指南](https://mp.weixin.qq.com/s/UrGCJ-sYgDaTu7kS7p0MSQ)
+* [汇集 ChatGPT 写论文全过程高阶提示词指令，会用的半天就能完成一篇优质论文](https://mp.weixin.qq.com/s/T17TV93r6htXw90Ri_VQdw)
 
 
 
