@@ -279,6 +279,7 @@
 * [如何绘制双层饼图 / 甜甜圈图？文献同款高频必学！](https://mp.weixin.qq.com/s/HjbyUr4IEmy0ILRqMHcg3A)
 * [ggplot2 优雅绘制多元素箱线图](https://mp.weixin.qq.com/s/LJAFYTAfvVKMKrWa85FJTw)
 * [Lchiffon/leafletCN: An R gallery for China and other geojson choropleth map in leaflet](https://github.com/Lchiffon/leafletCN)
+* [ggplot2 高效实用指南](https://mp.weixin.qq.com/s/gYpAeUOgwASqnZnQmlgJQQ)
 
 # Rmarkdown
 
