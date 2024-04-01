@@ -106,3 +106,4 @@
 * [scanpy 和 seurat 的所有 Marker 基因可视化方法帮你打包好啦](https://mp.weixin.qq.com/s/DE6F_oy0vo_GUbCpC9DVNQ)
 * [Monocle 3 beta： 最新升级版的单细胞转录组拟时序分析利器 赶快来看吧](https://mp.weixin.qq.com/s/q_PjJK5MqBOMbJGCel1NPQ)
 * [巧用 InferCNV，探索肿瘤复杂遗传结构的显微镜](https://mp.weixin.qq.com/s/1NZKTdm6U23xIDNtAE72rQ)
+* [拟时序的正确姿势（拟时序一本通 02）](https://mp.weixin.qq.com/s/QWWHbGy4QskucR4a7vVAQg)
