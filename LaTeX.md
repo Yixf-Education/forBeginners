@@ -124,4 +124,5 @@
 * [LaTeX 实时渲染的工具来了，让 LaTeX “所见即所得”](https://mp.weixin.qq.com/s/pkYLd6HOZ2isEPwPcJkE3Q)
 * [用 AI 写 LaTeX 代码哪家强？我来帮你测试了](https://mp.weixin.qq.com/s/_SB5-dA71aWE-e3PVHBJWQ)
 * [网页显示像 LaTeX 一样精致的数学公式，解决论文移动化阅读最大的挑战](https://mp.weixin.qq.com/s/3qOXo7O2rH2aV5_GLhLWVQ)
+* [你还在用 eps 格式图片吗？为啥有些期刊只接受 eps 图片？](https://mp.weixin.qq.com/s/jDZWMJutMIJY8PuONJkeIA)
 
