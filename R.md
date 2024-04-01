@@ -426,6 +426,7 @@
 * [开发一个自己的 R 包](https://mp.weixin.qq.com/s/F_u-f55t2Ul461LGujGbkg)
 * [R session 中软件包依赖关系网络](https://mp.weixin.qq.com/s/mKm97haa_L2WIeJPz8SKzA)
 * [开发一个自己的 R 包](https://mp.weixin.qq.com/s/Buvz0VM3eO6TQoKNTuSBMQ)
+* [2024 学 R，就使用这些 R 包](https://mp.weixin.qq.com/s/y4ItGnbmBgiU_dbxJRo9sw)
 
 # Shiny
 
