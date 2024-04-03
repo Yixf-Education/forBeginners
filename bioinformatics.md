@@ -353,6 +353,7 @@
 * [2023 年生物信息学十大进展 – 组学教程](https://omicstutorials.com/top-10-advances-in-bioinformatics-in-2023/)
 * [人类 VS 猩猩，DNA 真的只差 1% 吗？](https://mp.weixin.qq.com/s/uSNvhWSq-9iGkitaWuRByA)
 * [将 Ubuntu 作为主力科研机的心得](https://mp.weixin.qq.com/s/2CU-ngehSrUnC2fbkPhnuA)
+* [深度学习在生物信息学中的应用](https://mp.weixin.qq.com/s/jQAlPPMF3i4dbq12PEItqg)
 
 ## 系统课程
 
