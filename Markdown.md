@@ -37,6 +37,9 @@
 * [学习标记语言，从Markdonw开始](https://mp.weixin.qq.com/s/EDqF5Sh6B_hBgmcVORO2yg)
 * [Markdown 初学者指南 | Linux 中国](https://mp.weixin.qq.com/s/iwt2A6tgSAfkN-1hkg85zQ)
 * [Typora 保姆级教程](https://mp.weixin.qq.com/s/ACqQ5x3RVB_QNB41AKsXKw)
+* [Markdown 基本语法 | Markdown 官方教程](https://markdown.com.cn/basic-syntax/)
+* [Markdown 基本语法 | Markdown 指南中文版](https://www.markdown.xyz/basic-syntax/)
+* [Markdown语法及原理从入门到高级（可能是全网最全）](https://www.zhihu.com/tardis/zm/art/99319314?source_id=1003)
 
 ## 工具
 * [4 个 Linux 命令行下的 Markdown 工具](https://zhuanlan.zhihu.com/p/120132098)
