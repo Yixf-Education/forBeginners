@@ -125,6 +125,7 @@
 * [Gooey：将命令行转换为 GUI 界面的神奇工具](https://mp.weixin.qq.com/s/mDbHDSp9ulX4jjEsxMhLVA)
 * [Linux cp 命令加上进度条，太方便了！](https://mp.weixin.qq.com/s/TE_X_vPb1WAzwY3UWocyYw)
 * [10 个最佳 Linux 开源笔记软件](https://mp.weixin.qq.com/s/VEdS1IK2puypRvUwH3Qghg)
+* [【文本处理新秀】Choose：比 AWK 更轻盈，比 Cut 更直观的命令行工具！](https://mp.weixin.qq.com/s/PsX37Zr_jHnabNOr17VS6w)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
