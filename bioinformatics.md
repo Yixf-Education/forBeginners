@@ -354,6 +354,7 @@
 * [人类 VS 猩猩，DNA 真的只差 1% 吗？](https://mp.weixin.qq.com/s/uSNvhWSq-9iGkitaWuRByA)
 * [将 Ubuntu 作为主力科研机的心得](https://mp.weixin.qq.com/s/2CU-ngehSrUnC2fbkPhnuA)
 * [深度学习在生物信息学中的应用](https://mp.weixin.qq.com/s/jQAlPPMF3i4dbq12PEItqg)
+* [关于转录组趋势分析，你想知道的都在这里](https://mp.weixin.qq.com/s/g89wrLg-8Fbcu6d_kzwWIw)
 
 ## 系统课程
 
