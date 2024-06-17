@@ -110,3 +110,4 @@
 * [巧用 InferCNV，探索肿瘤复杂遗传结构的显微镜](https://mp.weixin.qq.com/s/1NZKTdm6U23xIDNtAE72rQ)
 * [拟时序的正确姿势（拟时序一本通 02）](https://mp.weixin.qq.com/s/QWWHbGy4QskucR4a7vVAQg)
 * [动态确定线粒体过滤阈值筛选细胞](https://mp.weixin.qq.com/s/xwQXMJRVxWMFYl2HfNhGpw)
+* [简单几步构建一个单细胞转录组浏览器](https://mp.weixin.qq.com/s/BkguN2rIR9bjescLIh_cjg)
