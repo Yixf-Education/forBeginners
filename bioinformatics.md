@@ -356,6 +356,7 @@
 * [深度学习在生物信息学中的应用](https://mp.weixin.qq.com/s/jQAlPPMF3i4dbq12PEItqg)
 * [关于转录组趋势分析，你想知道的都在这里](https://mp.weixin.qq.com/s/g89wrLg-8Fbcu6d_kzwWIw)
 * [GO 数据库全新功能揭秘：不仅仅是功能注释！](https://mp.weixin.qq.com/s/7R9W3yjpFmhzI41-lt1SLw)
+* [Meta 分析的基础知识](https://mp.weixin.qq.com/s/6oMijF_gP_eThjfEsT189Q)
 
 ## 系统课程
 
