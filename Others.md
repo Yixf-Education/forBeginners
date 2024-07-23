@@ -297,6 +297,7 @@
 * [南大核心期刊编辑科普论文发表全流程：为何论文审稿需要三四个月？](https://mp.weixin.qq.com/s/T7l4UBiar3Njj-qUqj_GfQ)
 * [利用 ChatGPT 写学术论文，有效的顶级提示词指令，建议收藏直接使用](https://mp.weixin.qq.com/s/MB3kmP_qSYVWzRFgizIWxw)
 * [怎么样才算真正拥有科研思维？](https://mp.weixin.qq.com/s/TvcDsjFBMT7arXsvkvOV2Q)
+* [科研工具](https://mp.weixin.qq.com/s/EaXBpw4qDiS-iGHR6PNslg)
 
 ## 数据集
 
