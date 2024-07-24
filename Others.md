@@ -340,6 +340,7 @@
 * [只需三小时，使用 ChatGPT 生成参考文献和文献综述的完全操作指南](https://mp.weixin.qq.com/s/UrGCJ-sYgDaTu7kS7p0MSQ)
 * [汇集 ChatGPT 写论文全过程高阶提示词指令，会用的半天就能完成一篇优质论文](https://mp.weixin.qq.com/s/T17TV93r6htXw90Ri_VQdw)
 * [ChatGPT 让你同时轻松拿捏几十篇文献【附指令】](https://mp.weixin.qq.com/s/uzN-EplvfcaHwNSApVg3ow)
+* [1 招堵住审稿人的嘴！ChatGPT 一键修改论文语法拼写](https://mp.weixin.qq.com/s/5-KMkI1iWTbhktyfL3AdKA)
 
 
 
