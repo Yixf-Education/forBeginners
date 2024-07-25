@@ -65,6 +65,7 @@
 * [开学了，你的数学有救了！](https://mp.weixin.qq.com/s/Po9CWBtOugciFv-fFzHN8Q)
 * [如何确定待办事项上任务的优先级 | Linux 中国](https://mp.weixin.qq.com/s/zTHP93v0v-vmMbp4Uo_7dg)
 * [顶刊中令人惊叹的机制图是这么制作出来的呀，附上软件！你也可以！](https://mp.weixin.qq.com/s/W0WWjEKqW7ylDnr2_u4cew)
+* [编程语言是怎么被实现出来的？](https://mp.weixin.qq.com/s/5DB6vRxvgCCCQ1k8oxE7KA)
 
 ## 统计
 
