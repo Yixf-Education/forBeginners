@@ -126,4 +126,5 @@
 * [网页显示像 LaTeX 一样精致的数学公式，解决论文移动化阅读最大的挑战](https://mp.weixin.qq.com/s/3qOXo7O2rH2aV5_GLhLWVQ)
 * [你还在用 eps 格式图片吗？为啥有些期刊只接受 eps 图片？](https://mp.weixin.qq.com/s/jDZWMJutMIJY8PuONJkeIA)
 * [LaTeX 生成的 PDF 复制的时候出现乱码，无法查重怎么办？方案都在这里了](https://mp.weixin.qq.com/s/rABueLN-O3RourkerL-nWQ)
+* [从 “零” 开始制作幻灯片](https://mp.weixin.qq.com/s/bFGsur4ES04PwWdKVf38MA)
 
