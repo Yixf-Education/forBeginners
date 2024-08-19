@@ -199,6 +199,7 @@
 * [生物信息分析好习惯，记录软件版本](https://mp.weixin.qq.com/s/HsjZJQm6bljhlgWYnOz_bQ)
 * [log10 数据要当心](https://mp.weixin.qq.com/s/EUGwPRPgwV_W8_0ousjIQg)
 * [trans_array：探针表达矩阵转换为基因表达矩阵](https://mp.weixin.qq.com/s/jPQoytK8tlIupa5HCWVMKw)
+* [如何下载蛋白序列并进行比对分析？](https://mp.weixin.qq.com/s/oT1vwAzkwPJR7p_dIf0Qyg)
 
 ## 基因组坐标系统
 
