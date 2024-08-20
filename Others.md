@@ -301,6 +301,7 @@
 * [科研工具](https://mp.weixin.qq.com/s/EaXBpw4qDiS-iGHR6PNslg)
 * [新书推荐｜中国生物信息学 2035 发展战略](https://mp.weixin.qq.com/s/96c7Iosdtas4Hmt-e_ocDw)
 * [学科发展 2035 | 生物学的重要前沿领域与关键科学问题](https://mp.weixin.qq.com/s/Fdq0ExV6rAqORaN47H9Ylg)
+* [图文 | 投稿论文图形化摘要（Graphical abstract）绘制的十条规则](https://mp.weixin.qq.com/s/RyqwLeiotpL3qmyy8HWj_w)
 
 ## 数据集
 
