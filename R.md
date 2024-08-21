@@ -282,6 +282,7 @@
 * [Lchiffon/leafletCN: An R gallery for China and other geojson choropleth map in leaflet](https://github.com/Lchiffon/leafletCN)
 * [ggplot2 高效实用指南](https://mp.weixin.qq.com/s/gYpAeUOgwASqnZnQmlgJQQ)
 * [4 种方法实现 ggplot2 的 aes () 中的变量替换](https://mp.weixin.qq.com/s/G46JWP5bHzBJOeg3TmWDWA)
+* [让 ggplot2 图片直接适配 CNS 杂志要求](https://mp.weixin.qq.com/s/EhbWn-q7WPVFjBv99LuNiw)
 
 # Rmarkdown
 
@@ -396,6 +397,7 @@
 * [探索 AnnData 数据对象，揭开它的](https://mp.weixin.qq.com/s/hUBTxjFEQXseUnujQuEN4w)
 * [一个 GSEA 学习的包](https://mp.weixin.qq.com/s/tKj0Y9cOx671_8Zhj-zczQ)
 * [R 中进行 Lasso 回归模型分析](https://mp.weixin.qq.com/s/R_7kj8nQTk6t37gVnkOpwg)
+* [最强总结，十大统计检验方法 ！！](https://mp.weixin.qq.com/s/18WTd6X-GtlQKa9udd9cpw)
 
 # R包
 
