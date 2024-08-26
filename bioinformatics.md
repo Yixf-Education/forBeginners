@@ -395,6 +395,7 @@
 * [生物信息学原理 -- 第七章 基因定位和全基因组关联分析](https://mp.weixin.qq.com/s/Psp9-sgLN5n9PNwlHJk7TA)
 * [生物信息学原理 -- 第九章 蛋白质结构和功能预测](https://mp.weixin.qq.com/s/djiApV5fN5IyFlA52wfNTw)
 * [quinlan-lab/applied-computational-genomics: Applied Computational Genomics Course at UU: Spring 2020](https://github.com/quinlan-lab/applied-computational-genomics?tab=readme-ov-file)
+* [Dr.Tom 简介](https://biosys.bgi.com/help/)
 
 ## Galaxy
 
