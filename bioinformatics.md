@@ -38,6 +38,11 @@
 * [生信数据预处理的 Linux 三大神器](https://mp.weixin.qq.com/s/u3CIPsRKhObdPzfN8PzwTg)
 * [Singularity — 生信流程搭建好帮手](https://mp.weixin.qq.com/s/B0tjISU_edSMuUGuYuU64g)
 * [Snakemake — 可重复数据分析框架](https://mp.weixin.qq.com/s/hr3yWVNH2AaayhPOlrfXyg)
+* [广州医科大学张文亮团队 Bioinformatics 等期刊发布多个自定义、个性化、免费的多组学分析挖掘云平台](https://mp.weixin.qq.com/s/rzXRrcQF7_ipxF9fgHn_mQ)
+* [COVID19db](http://www.biomedical-web.com/covid19db/home)
+* [circMine](http://www.biomedical-web.com/circmine/home)
+* [ExomiRHub](http://www.biomedical-web.com/exomirhub/home)
+* [ExpOmics](http://www.biomedical-web.com/expomics/home)
 
 ## 生信问题与编程技能
 * [生物信息学研究的思考](https://mp.weixin.qq.com/s/p7RKD_kVfK3ny6s7j_f8zg)
