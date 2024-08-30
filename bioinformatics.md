@@ -365,6 +365,7 @@
 * [关于转录组趋势分析，你想知道的都在这里](https://mp.weixin.qq.com/s/g89wrLg-8Fbcu6d_kzwWIw)
 * [GO 数据库全新功能揭秘：不仅仅是功能注释！](https://mp.weixin.qq.com/s/7R9W3yjpFmhzI41-lt1SLw)
 * [Meta 分析的基础知识](https://mp.weixin.qq.com/s/6oMijF_gP_eThjfEsT189Q)
+* [单细胞转录组与单细胞 ATAC 测序数据关联分析思路](https://mp.weixin.qq.com/s/yfd631YWowMi-hJ6Wd7Yww)
 
 ## 系统课程
 
