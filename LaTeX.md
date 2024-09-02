@@ -128,4 +128,5 @@
 * [LaTeX 生成的 PDF 复制的时候出现乱码，无法查重怎么办？方案都在这里了](https://mp.weixin.qq.com/s/rABueLN-O3RourkerL-nWQ)
 * [从 “零” 开始制作幻灯片](https://mp.weixin.qq.com/s/bFGsur4ES04PwWdKVf38MA)
 * [新一代自定义 LaTeX 题库](https://mp.weixin.qq.com/s/NImwbNYhAQ-L57Zq9-KC6g)
+* [全能 markdown 文件提取器 - 公式变成 LaTeX](https://mp.weixin.qq.com/s/gF7Ln5O7zgeUgE_VVUozGQ)
 
