@@ -404,6 +404,7 @@
 
 * [**常用 R 包大盘点**](https://mp.weixin.qq.com/s/pcCipedfRVQiSX4jzO6v_A)
 * [**R 语言所有包列表及帮助文档 - 爱数吧**](http://idata8.com/index2.html)
+* [**Top 25 R Packages in 2024**](https://mp.weixin.qq.com/s/uP_tAnOopFMeAUyiVbvonA)
 * [如何生成一个 R 包](https://mp.weixin.qq.com/s?__biz=MzI1MjU5MjMzNA==&mid=2247488843&idx=1&sn=7d5062300c9d96b3799753895f465067&chksm=e9e03ceade97b5fcc3094502ddccb602e65d09c82c907919249dde2320f10901e80a38ab8da0&mpshare=1&scene=1&srcid=1102WCqAZRHGbZhY60lfzDT3&sharer_sharetime=1604322904172&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [开发 R 程序包之忍者篇](https://cosx.org/2011/05/write-r-packages-like-a-ninja/)
 * [为新手准备的现代化 R 包开发流程](https://swsoyee.vercel.app/2021/02/writing-r-packages-a-modern-workflow-for-beginners/#%E7%94%A8-styler-%E6%9D%A5%E7%BE%8E%E5%8C%96%E4%BB%A3%E7%A0%81)
@@ -432,6 +433,7 @@
 * [开发一个自己的 R 包](https://mp.weixin.qq.com/s/Buvz0VM3eO6TQoKNTuSBMQ)
 * [2024 学 R，就使用这些 R 包](https://mp.weixin.qq.com/s/y4ItGnbmBgiU_dbxJRo9sw)
 * [R 包安装与使用的常见问题和解决方法速查](https://mp.weixin.qq.com/s/PeB5E_epgeeDq80C6XBR6w)
+* 
 
 # Shiny
 
