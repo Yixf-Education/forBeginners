@@ -129,4 +129,5 @@
 * [从 “零” 开始制作幻灯片](https://mp.weixin.qq.com/s/bFGsur4ES04PwWdKVf38MA)
 * [新一代自定义 LaTeX 题库](https://mp.weixin.qq.com/s/NImwbNYhAQ-L57Zq9-KC6g)
 * [全能 markdown 文件提取器 - 公式变成 LaTeX](https://mp.weixin.qq.com/s/gF7Ln5O7zgeUgE_VVUozGQ)
+* [莲枝精品好文 - 使用模版时，小心不要使用不兼容的宏包](https://mp.weixin.qq.com/s/Xkfaxo_EPTGxam5DL_veOQ)
 
