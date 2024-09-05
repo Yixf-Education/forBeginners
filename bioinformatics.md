@@ -207,6 +207,7 @@
 * [如何下载蛋白序列并进行比对分析？](https://mp.weixin.qq.com/s/oT1vwAzkwPJR7p_dIf0Qyg)
 * [那些 ID 转换失败的基因是哪些呢](https://mp.weixin.qq.com/s/4wur3MicpHeiAyGCyjw9vQ)
 * [生物医学、药物研发常用数据库及网站（很全）](https://mp.weixin.qq.com/s/FuxgPBWr5QguymeMn-iaVA)
+* [一题多解：AWK、R、Python 大比拼，如何用不同的编程语言轻松合并行列名相同的多个文件](https://mp.weixin.qq.com/s/GQwOhK5vcoVtth_XcW1Pqw)
 
 ## 基因组坐标系统
 
