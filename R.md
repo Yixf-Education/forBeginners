@@ -400,6 +400,7 @@
 * [一个 GSEA 学习的包](https://mp.weixin.qq.com/s/tKj0Y9cOx671_8Zhj-zczQ)
 * [R 中进行 Lasso 回归模型分析](https://mp.weixin.qq.com/s/R_7kj8nQTk6t37gVnkOpwg)
 * [最强总结，十大统计检验方法 ！！](https://mp.weixin.qq.com/s/18WTd6X-GtlQKa9udd9cpw)
+* [R 语言批量做 t 检验](https://mp.weixin.qq.com/s/WJCJylGZiIuZZsoGZ8CTDg)
 
 # R包
 
