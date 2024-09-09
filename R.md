@@ -285,6 +285,7 @@
 * [ggplot2 高效实用指南](https://mp.weixin.qq.com/s/gYpAeUOgwASqnZnQmlgJQQ)
 * [4 种方法实现 ggplot2 的 aes () 中的变量替换](https://mp.weixin.qq.com/s/G46JWP5bHzBJOeg3TmWDWA)
 * [让 ggplot2 图片直接适配 CNS 杂志要求](https://mp.weixin.qq.com/s/EhbWn-q7WPVFjBv99LuNiw)
+* [告别平庸：用这六款花式柱状图](https://mp.weixin.qq.com/s/vwtTDB68UgSU_Cdl1Ky3tw)
 
 # Rmarkdown
 
