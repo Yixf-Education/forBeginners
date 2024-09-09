@@ -303,6 +303,8 @@
 * [新书推荐｜中国生物信息学 2035 发展战略](https://mp.weixin.qq.com/s/96c7Iosdtas4Hmt-e_ocDw)
 * [学科发展 2035 | 生物学的重要前沿领域与关键科学问题](https://mp.weixin.qq.com/s/Fdq0ExV6rAqORaN47H9Ylg)
 * [图文 | 投稿论文图形化摘要（Graphical abstract）绘制的十条规则](https://mp.weixin.qq.com/s/RyqwLeiotpL3qmyy8HWj_w)
+* [顶级的国自然标书：真实且共情](https://mp.weixin.qq.com/s/ktW-fDMBMoigmnb7vUUbrQ)
+* 
 
 ## 数据集
 
@@ -347,6 +349,7 @@
 * [ChatGPT 让你同时轻松拿捏几十篇文献【附指令】](https://mp.weixin.qq.com/s/uzN-EplvfcaHwNSApVg3ow)
 * [1 招堵住审稿人的嘴！ChatGPT 一键修改论文语法拼写](https://mp.weixin.qq.com/s/5-KMkI1iWTbhktyfL3AdKA)
 * [30 个顶级 GPT 提示词，6 小时写完一篇学术论文](https://mp.weixin.qq.com/s/v8dG0Paz-QU-VmEa2OepKw)
+* [实用 | 一个神奇网站，提升中英写作文笔！](https://mp.weixin.qq.com/s/2aEcpmd-H5Sm282WDV5oaQ)
 
 
 
