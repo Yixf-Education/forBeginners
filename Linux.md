@@ -389,6 +389,7 @@
 * [30 个常用的 Linux 命令！](https://mp.weixin.qq.com/s/itWu1CS6Dkaisf_O0FgVZA)
 * [Linux 表格处理大全](https://mp.weixin.qq.com/s/cDkVrAj42vYnjo24i-GnCA)
 * [能用到 “退休” 的 600 条 Linux 命令，可以解决日常 99% 的问题～](https://mp.weixin.qq.com/s/5dM3cBznxToJmORK5Q7r7A)
+* [多线程打包压缩数据，提高数据传输速度](https://mp.weixin.qq.com/s/HTIVwk9zxLjJIShaf6zaeA)
 
 ## 运维
 
