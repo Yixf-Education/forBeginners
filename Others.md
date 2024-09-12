@@ -113,6 +113,7 @@
 * [贝叶斯定理，不信看完这篇还不懂！](https://mp.weixin.qq.com/s/IuiWobt_bwQBqqDLnm6JNw)
 * [一文读懂机器学习算法的基本概念和适用场景](https://mp.weixin.qq.com/s/ZG5La58HZes7VoYLgScLZw)
 * [统计学基础 | 因果推断之深度工具变量法](https://mp.weixin.qq.com/s/Uph4cpm14k35528nSs8Gzg)
+* [超强总结！十大数据预处理技巧 ！！](https://mp.weixin.qq.com/s/Il7Hlirr0ZWANHrsSEXqGQ)
 
 ## 统计学入门
 
