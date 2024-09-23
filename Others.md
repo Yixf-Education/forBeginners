@@ -309,6 +309,7 @@
 * [顶级的国自然标书：真实且共情](https://mp.weixin.qq.com/s/ktW-fDMBMoigmnb7vUUbrQ)
 * [今天不卷 LaTeX 了，教大家 Word 排版](https://mp.weixin.qq.com/s/MUIB3uuDtn4pJZy3Iui-ww)
 * [资深专家会如何引用文献：职业级别的引用](https://mp.weixin.qq.com/s/tUSjVINguEuLwTACWPrFVw)
+* [论文结论与摘要的区别](https://mp.weixin.qq.com/s/aehc8bL85wFKxzfb2gm__g)
 
 ## 数据集
 
