@@ -132,5 +132,5 @@
 * [莲枝精品好文 - 使用模版时，小心不要使用不兼容的宏包](https://mp.weixin.qq.com/s/Xkfaxo_EPTGxam5DL_veOQ)
 * [使用 latexdiff 做修订版论文中文无法断行问题修复](https://mp.weixin.qq.com/s/83xVexWrO9ldqJQJuRjkLQ)
 * [玩转 LaTeX 绘图，课堂上运笔如飞地绘图技巧](https://mp.weixin.qq.com/s/gGx5ZEVRjshcrxk411EZ4g)
-* 
+* [LaTeX 辅助工具 - 自动化编译 LaTeX 文档的好帮手](https://mp.weixin.qq.com/s/3VxZknvPT08NuiawP9IqFA)
 
