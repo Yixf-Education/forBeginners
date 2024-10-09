@@ -148,6 +148,7 @@
 * [R 语言的 N 种打开方式](https://mp.weixin.qq.com/s/1tRMd-ONTutDG9zW-TGb6w)
 * [R 语言：如何读取超大量的文件](https://mp.weixin.qq.com/s/L4lEpUDxw4-1APA9vm3sAg)
 * [R 包安装指定 GCC 和 G++ 并开启 C++11 支持](https://mp.weixin.qq.com/s/2285EpbmZSZsDIp7DDTUng)
+* [RStudio：t 检验、秩和检验、卡方检验、确切概率法、方差分析、Logi 回归、KM 曲线和检验、ROC 曲线、Cox 回归、列线图。](https://mp.weixin.qq.com/s/SxlmvkhYZd6d4tgzo8q6Ow)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
@@ -286,6 +287,7 @@
 * [4 种方法实现 ggplot2 的 aes () 中的变量替换](https://mp.weixin.qq.com/s/G46JWP5bHzBJOeg3TmWDWA)
 * [让 ggplot2 图片直接适配 CNS 杂志要求](https://mp.weixin.qq.com/s/EhbWn-q7WPVFjBv99LuNiw)
 * [告别平庸：用这六款花式柱状图](https://mp.weixin.qq.com/s/vwtTDB68UgSU_Cdl1Ky3tw)
+* [基于 VlnPlot 参数及 ggplot2 美化小提琴图](https://mp.weixin.qq.com/s/AuoAGMvjxO394mxkLdsjjQ)
 
 # Rmarkdown
 
