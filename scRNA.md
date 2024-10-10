@@ -111,3 +111,4 @@
 * [拟时序的正确姿势（拟时序一本通 02）](https://mp.weixin.qq.com/s/QWWHbGy4QskucR4a7vVAQg)
 * [动态确定线粒体过滤阈值筛选细胞](https://mp.weixin.qq.com/s/xwQXMJRVxWMFYl2HfNhGpw)
 * [简单几步构建一个单细胞转录组浏览器](https://mp.weixin.qq.com/s/BkguN2rIR9bjescLIh_cjg)
+* [超越代码 3：单细胞数据质控](https://mp.weixin.qq.com/s/KmeSUj-wYKyNEF2IG8NBUA)
