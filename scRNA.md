@@ -10,6 +10,7 @@
 * [单细胞转录组基础分析八：可视化工具总结](https://mp.weixin.qq.com/s?__biz=MzIyMzMwNDQ2MA==&mid=2247483794&idx=1&sn=6425ab85a1f9c728b2685d1d4e7921c5&chksm=e8210ff1df5686e782223e6d5818f604adc7a19b8d9acfc7067c45ee11328aa0fadd36b0bf35&mpshare=1&scene=1&srcid=0824MBheYv2r0enLaFEONeEh&sharer_sharetime=1598267101694&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0#rd)
 * [单细胞数据标准化及高变基因鉴定](https://mp.weixin.qq.com/s?__biz=MzI1Njk4ODE0MQ==&mid=2247522483&idx=1&sn=08e72498529027edef5f97155ae44499&scene=21#wechat_redirect)
 * [单细胞 PCA 降维结果理解](https://mp.weixin.qq.com/s/qe1Zeb-hJUWmonWsUho8qQ)
+* [超越代码 5：细胞类型注释](https://mp.weixin.qq.com/s/rtN5IvbfWYvg69wX4Vbweg)
 
 ## 单细胞转录组高级分析
 
