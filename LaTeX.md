@@ -133,4 +133,5 @@
 * [使用 latexdiff 做修订版论文中文无法断行问题修复](https://mp.weixin.qq.com/s/83xVexWrO9ldqJQJuRjkLQ)
 * [玩转 LaTeX 绘图，课堂上运笔如飞地绘图技巧](https://mp.weixin.qq.com/s/gGx5ZEVRjshcrxk411EZ4g)
 * [LaTeX 辅助工具 - 自动化编译 LaTeX 文档的好帮手](https://mp.weixin.qq.com/s/3VxZknvPT08NuiawP9IqFA)
+* [LaTeX 实时渲染的工具来了，让 LaTeX “所见即所得”](https://mp.weixin.qq.com/s/pkYLd6HOZ2isEPwPcJkE3Q)
 
