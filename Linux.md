@@ -391,6 +391,7 @@
 * [能用到 “退休” 的 600 条 Linux 命令，可以解决日常 99% 的问题～](https://mp.weixin.qq.com/s/5dM3cBznxToJmORK5Q7r7A)
 * [多线程打包压缩数据，提高数据传输速度](https://mp.weixin.qq.com/s/HTIVwk9zxLjJIShaf6zaeA)
 * [命令行表格处理工具大全](https://mp.weixin.qq.com/s/PgKR-7mwChn53nMh_BjciQ)
+* [top 再升级，盘一盘 btop](https://mp.weixin.qq.com/s/o4tsRP_jOhIw4_6duKpNMg)
 
 ## 运维
 
