@@ -115,6 +115,8 @@
 * [统计学基础 | 因果推断之深度工具变量法](https://mp.weixin.qq.com/s/Uph4cpm14k35528nSs8Gzg)
 * [超强总结！十大数据预处理技巧 ！！](https://mp.weixin.qq.com/s/Il7Hlirr0ZWANHrsSEXqGQ)
 * [干货满满！长达 58 页的 R 语言预测模型 PDF](https://mp.weixin.qq.com/s/rd6x0OS1f3P7aP3LDDDDng)
+* [最强总结！十大统计检验方法 ！！](https://mp.weixin.qq.com/s/-jCsOzzxTKugFdtVp3nI6g)
+* [统计学中的 P 值：你真的了解它吗？](https://mp.weixin.qq.com/s/ofnHaXWfFF50pTc822NFmg)
 
 ## 统计学入门
 
