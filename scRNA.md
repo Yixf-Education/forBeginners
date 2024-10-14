@@ -11,7 +11,7 @@
 * [单细胞数据标准化及高变基因鉴定](https://mp.weixin.qq.com/s?__biz=MzI1Njk4ODE0MQ==&mid=2247522483&idx=1&sn=08e72498529027edef5f97155ae44499&scene=21#wechat_redirect)
 * [单细胞 PCA 降维结果理解](https://mp.weixin.qq.com/s/qe1Zeb-hJUWmonWsUho8qQ)
 * [超越代码 5：细胞类型注释](https://mp.weixin.qq.com/s/rtN5IvbfWYvg69wX4Vbweg)
-* [最强总结！十大统计检验方法 ！！](https://mp.weixin.qq.com/s/-jCsOzzxTKugFdtVp3nI6g)
+* [超越代码 6：肿瘤细胞 CNV 分析](https://mp.weixin.qq.com/s/tXLIqPcJFqGfz_Xv_9V3ag)
 
 ## 单细胞转录组高级分析
 
