@@ -12,6 +12,7 @@
 * [单细胞 PCA 降维结果理解](https://mp.weixin.qq.com/s/qe1Zeb-hJUWmonWsUho8qQ)
 * [超越代码 5：细胞类型注释](https://mp.weixin.qq.com/s/rtN5IvbfWYvg69wX4Vbweg)
 * [超越代码 6：肿瘤细胞 CNV 分析](https://mp.weixin.qq.com/s/tXLIqPcJFqGfz_Xv_9V3ag)
+* [超越代码 10：细胞互作分析](https://mp.weixin.qq.com/s/eQrpep2OxV1hccihqYbZgA)
 
 ## 单细胞转录组高级分析
 
