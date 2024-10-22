@@ -404,6 +404,7 @@
 * [R 中进行 Lasso 回归模型分析](https://mp.weixin.qq.com/s/R_7kj8nQTk6t37gVnkOpwg)
 * [最强总结，十大统计检验方法 ！！](https://mp.weixin.qq.com/s/18WTd6X-GtlQKa9udd9cpw)
 * [R 语言批量做 t 检验](https://mp.weixin.qq.com/s/WJCJylGZiIuZZsoGZ8CTDg)
+* [简单搞明白箱线图](https://mp.weixin.qq.com/s/7OifM_Srj8C3WXQhx7NiNA)
 
 # R包
 
