@@ -67,6 +67,7 @@
 * [顶刊中令人惊叹的机制图是这么制作出来的呀，附上软件！你也可以！](https://mp.weixin.qq.com/s/W0WWjEKqW7ylDnr2_u4cew)
 * [编程语言是怎么被实现出来的？](https://mp.weixin.qq.com/s/5DB6vRxvgCCCQ1k8oxE7KA)
 * [《白蛇传》，一开始是个恐怖的黑神话……](https://mp.weixin.qq.com/s/aCNDTu114vO2gPodYCSrzg)
+* [史上最烧脑的八道数学题，做的出来算我输](https://mp.weixin.qq.com/s/pQIMnJgCMj9nHaRtVzUgsg)
 
 ## 统计
 
