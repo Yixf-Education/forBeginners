@@ -149,6 +149,7 @@
 * [R 语言：如何读取超大量的文件](https://mp.weixin.qq.com/s/L4lEpUDxw4-1APA9vm3sAg)
 * [R 包安装指定 GCC 和 G++ 并开启 C++11 支持](https://mp.weixin.qq.com/s/2285EpbmZSZsDIp7DDTUng)
 * [RStudio：t 检验、秩和检验、卡方检验、确切概率法、方差分析、Logi 回归、KM 曲线和检验、ROC 曲线、Cox 回归、列线图。](https://mp.weixin.qq.com/s/SxlmvkhYZd6d4tgzo8q6Ow)
+* [R 语言 tidyr 整洁数据整理](https://mp.weixin.qq.com/s/tQT49C6rxrnrNYs4pBrjmg)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
