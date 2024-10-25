@@ -315,6 +315,7 @@
 * [论文结论与摘要的区别](https://mp.weixin.qq.com/s/aehc8bL85wFKxzfb2gm__g)
 * [如何撰写好论文的结论（Conclusion）！](https://mp.weixin.qq.com/s/blrmBB4j5fIpDLnHVkYvUQ)
 * [主旨句，让段落清晰度倍增的秘诀](https://mp.weixin.qq.com/s/WmcVjjvyREf3Y2Zr5wPoIQ)
+* [阿里巴巴达摩院开源一款自动生成科研 idea 的 agent](https://mp.weixin.qq.com/s/lWZL1AE0UeerOOgcTqqDGg)
 
 ## 数据集
 
