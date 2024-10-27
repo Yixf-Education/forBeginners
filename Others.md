@@ -316,6 +316,9 @@
 * [如何撰写好论文的结论（Conclusion）！](https://mp.weixin.qq.com/s/blrmBB4j5fIpDLnHVkYvUQ)
 * [主旨句，让段落清晰度倍增的秘诀](https://mp.weixin.qq.com/s/WmcVjjvyREf3Y2Zr5wPoIQ)
 * [阿里巴巴达摩院开源一款自动生成科研 idea 的 agent](https://mp.weixin.qq.com/s/lWZL1AE0UeerOOgcTqqDGg)
+* [如何写好论文的讨论部分](https://mp.weixin.qq.com/s/rDr_R58j7rHVBmAIombWHA)
+* [如何撰写好论文的摘要（Abstract）](https://mp.weixin.qq.com/s/A56ZmeKt7Q5vIBww1CrPcQ)
+* [《Nature》重磅发布：ChatGPT 在学术研究和写作中的最佳应用指南 (附使用链接)](https://mp.weixin.qq.com/s/XsD-95L7gdc9yTlDDODV8A)
 
 ## 数据集
 
@@ -361,6 +364,7 @@
 * [1 招堵住审稿人的嘴！ChatGPT 一键修改论文语法拼写](https://mp.weixin.qq.com/s/5-KMkI1iWTbhktyfL3AdKA)
 * [30 个顶级 GPT 提示词，6 小时写完一篇学术论文](https://mp.weixin.qq.com/s/v8dG0Paz-QU-VmEa2OepKw)
 * [实用 | 一个神奇网站，提升中英写作文笔！](https://mp.weixin.qq.com/s/2aEcpmd-H5Sm282WDV5oaQ)
+* [美国专家的提示词技巧实测，无论 Kimi 还是豆包都好用，吊打全网 90% 的提示词课程，尤其是最后的懒人提示词，太神了](https://mp.weixin.qq.com/s/djzHUh7aYgCokeQqKMf_uA)
 
 
 
