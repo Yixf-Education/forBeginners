@@ -319,6 +319,7 @@
 * [如何写好论文的讨论部分](https://mp.weixin.qq.com/s/rDr_R58j7rHVBmAIombWHA)
 * [如何撰写好论文的摘要（Abstract）](https://mp.weixin.qq.com/s/A56ZmeKt7Q5vIBww1CrPcQ)
 * [《Nature》重磅发布：ChatGPT 在学术研究和写作中的最佳应用指南 (附使用链接)](https://mp.weixin.qq.com/s/XsD-95L7gdc9yTlDDODV8A)
+* [如何撰写好论文的引言（Introduction）！](https://mp.weixin.qq.com/s/439qSD2lY6j06iv3xigCHQ)
 
 ## 数据集
 
