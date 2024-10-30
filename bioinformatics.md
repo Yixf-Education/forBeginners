@@ -375,6 +375,7 @@
 * [从这组今昔对比照，看华大 25 年变化](https://mp.weixin.qq.com/s/C7Z-q2rADA8FeW1TmfwNRw)
 * [生物信息服务器，一文说清楚](https://mp.weixin.qq.com/s/S9ejSMPZ15Ji-8-DZcLfVA)
 * [人基因组测序，平均覆盖度为啥要 30× 吗？](https://mp.weixin.qq.com/s/d_YUPG35cYDMNDJazxVSYQ)
+* [最新最全版 TCGA 数据下载及合成基因表达矩阵](https://mp.weixin.qq.com/s/-uuE9uc9HocTbLdD_aN7TA)
 
 ## 系统课程
 
