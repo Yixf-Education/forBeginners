@@ -211,6 +211,7 @@
 * [一题多解：AWK、R、Python 大比拼，如何用不同的编程语言轻松合并行列名相同的多个文件](https://mp.weixin.qq.com/s/GQwOhK5vcoVtth_XcW1Pqw)
 * [【数据可视化利器】一文带你了解 Circos 静态图像生成全流程（上）](https://mp.weixin.qq.com/s/rMOLw5COMvu_3va08KiLVw)
 * [【数据可视化利器】一文带你了解 Circos 静态图像生成全流程（下）](https://mp.weixin.qq.com/s/0i8GFJB4fprgBy08TjOA2A?poc_token=HKhK5WajtiZdW2VH9QrTRrBqB3W1J2l7CiIfXY6u)
+* [蛋白质结构域预测全攻略：目的、方法与应用探讨](https://mp.weixin.qq.com/s/7WNYJ9XNVlb-EXBtunQ71w)
 
 ## 基因组坐标系统
 
