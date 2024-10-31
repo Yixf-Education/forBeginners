@@ -321,6 +321,7 @@
 * [《Nature》重磅发布：ChatGPT 在学术研究和写作中的最佳应用指南 (附使用链接)](https://mp.weixin.qq.com/s/XsD-95L7gdc9yTlDDODV8A)
 * [如何撰写好论文的引言（Introduction）！](https://mp.weixin.qq.com/s/439qSD2lY6j06iv3xigCHQ)
 * [如何撰写论文材料与方法（Materials and Methods）](https://mp.weixin.qq.com/s/aOqpdjYlQkNOlJakvYtbYA)
+* [Bioart](https://bioart.niaid.nih.gov/)
 
 ## 数据集
 
