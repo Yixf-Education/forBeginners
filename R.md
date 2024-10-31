@@ -150,6 +150,8 @@
 * [R 包安装指定 GCC 和 G++ 并开启 C++11 支持](https://mp.weixin.qq.com/s/2285EpbmZSZsDIp7DDTUng)
 * [RStudio：t 检验、秩和检验、卡方检验、确切概率法、方差分析、Logi 回归、KM 曲线和检验、ROC 曲线、Cox 回归、列线图。](https://mp.weixin.qq.com/s/SxlmvkhYZd6d4tgzo8q6Ow)
 * [R 语言 tidyr 整洁数据整理](https://mp.weixin.qq.com/s/tQT49C6rxrnrNYs4pBrjmg)
+* [基于 Linux 和 R 的数据分析流程](https://mp.weixin.qq.com/s/VwnKOq4boaICFNYLHfsaig)
+* [R 语言中的机器学习：10 个常用算法及其实现](https://mp.weixin.qq.com/s/lOL4aJDRQziM7YBbD_JaTg)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
