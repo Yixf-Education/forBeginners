@@ -213,6 +213,7 @@
 * [【数据可视化利器】一文带你了解 Circos 静态图像生成全流程（下）](https://mp.weixin.qq.com/s/0i8GFJB4fprgBy08TjOA2A?poc_token=HKhK5WajtiZdW2VH9QrTRrBqB3W1J2l7CiIfXY6u)
 * [蛋白质结构域预测全攻略：目的、方法与应用探讨](https://mp.weixin.qq.com/s/7WNYJ9XNVlb-EXBtunQ71w)
 * [如何绘制好看的进化树？](https://mp.weixin.qq.com/s/boWSh7Hfe6ZWAIsgubbA3A)
+* [只会用 NCBI 去 blast？多序列比对神器 mafft 一站式解决你的序列比对难题！亲测有效，简单详细](https://mp.weixin.qq.com/s/TU6U4JNa4u6sq6uNrB3XYw)
 
 ## 基因组坐标系统
 
