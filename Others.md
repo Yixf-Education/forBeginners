@@ -322,6 +322,7 @@
 * [如何撰写好论文的引言（Introduction）！](https://mp.weixin.qq.com/s/439qSD2lY6j06iv3xigCHQ)
 * [如何撰写论文材料与方法（Materials and Methods）](https://mp.weixin.qq.com/s/aOqpdjYlQkNOlJakvYtbYA)
 * [Bioart](https://bioart.niaid.nih.gov/)
+* [如何撰写顶刊的 Abstract 和 Introduction](https://mp.weixin.qq.com/s/KkU7MoJlpKXOXVqRHurWzA)
 
 ## 数据集
 
