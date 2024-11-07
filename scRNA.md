@@ -13,6 +13,7 @@
 * [超越代码 5：细胞类型注释](https://mp.weixin.qq.com/s/rtN5IvbfWYvg69wX4Vbweg)
 * [超越代码 6：肿瘤细胞 CNV 分析](https://mp.weixin.qq.com/s/tXLIqPcJFqGfz_Xv_9V3ag)
 * [超越代码 10：细胞互作分析](https://mp.weixin.qq.com/s/eQrpep2OxV1hccihqYbZgA)
+* [面向初学者的单细胞详解](https://mp.weixin.qq.com/s/TtW3xqKnATCn7f5yW7Y8Jg)
 
 ## 单细胞转录组高级分析
 
