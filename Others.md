@@ -370,6 +370,7 @@
 * [实用 | 一个神奇网站，提升中英写作文笔！](https://mp.weixin.qq.com/s/2aEcpmd-H5Sm282WDV5oaQ)
 * [美国专家的提示词技巧实测，无论 Kimi 还是豆包都好用，吊打全网 90% 的提示词课程，尤其是最后的懒人提示词，太神了](https://mp.weixin.qq.com/s/djzHUh7aYgCokeQqKMf_uA)
 * [让你大呼过瘾的！专业级论文润色 ChatGPT 指令集【一看就会教程】](https://mp.weixin.qq.com/s/2ce1J4FLqvKyHzeM_gj0xA)
+* [60 + 条用于数据科学领域的 ChatGPT prompts 语句](https://mp.weixin.qq.com/s/ZzNPVVYhNpU1gRlOPaVJbg)
 
 
 
