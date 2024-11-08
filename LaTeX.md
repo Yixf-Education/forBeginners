@@ -136,4 +136,5 @@
 * [LaTeX 实时渲染的工具来了，让 LaTeX “所见即所得”](https://mp.weixin.qq.com/s/pkYLd6HOZ2isEPwPcJkE3Q)
 * [Overleaf 桌面程序新版来了，1024 节日快乐](https://mp.weixin.qq.com/s/_2WB8mJv8LfNOcozO_vNaQ)
 * [LaTeX 用户最易犯的 4 个排版错误](https://mp.weixin.qq.com/s/4biNYVkVi7vzLvHeVxQ5Jw)
+* [LaTeX 用起来超爽的代码片段与资料 - 多年积累系列一](https://mp.weixin.qq.com/s/i__jntGkKtdrYz0UJzZpOg)
 
