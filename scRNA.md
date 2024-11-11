@@ -14,6 +14,7 @@
 * [超越代码 6：肿瘤细胞 CNV 分析](https://mp.weixin.qq.com/s/tXLIqPcJFqGfz_Xv_9V3ag)
 * [超越代码 10：细胞互作分析](https://mp.weixin.qq.com/s/eQrpep2OxV1hccihqYbZgA)
 * [面向初学者的单细胞详解](https://mp.weixin.qq.com/s/TtW3xqKnATCn7f5yW7Y8Jg)
+* [单细胞测序研究应用及分析思路笔记 （单细胞团队 南开大学 孙宝发老师团队）](https://mp.weixin.qq.com/s/icBV_UIlfEkb3APR0G-MqA)
 
 ## 单细胞转录组高级分析
 
