@@ -219,6 +219,7 @@
 * [SeqKit2｜一款超快且全能的序列处理工具包（以取反向互补序列为例）](https://mp.weixin.qq.com/s/-rtWSprDvZvKsQVaLqDTtQ)
 * [AlphaFold Server - 全流程详解](https://mp.weixin.qq.com/s/Y3jiYQJ26v3DMHIZCsy11Q)
 * [每天学生信超过 10 小时的大佬整理的转录组流程](https://mp.weixin.qq.com/s/-PII-SZm4xAxKXn-hlc2rQ)
+* [基因在说话！看 TWAS 如何捕捉性状背后的秘密](https://mp.weixin.qq.com/s/jhYSSAJY1VhDNnHWkAML7A?poc_token=HLTHMWejtXXzaVezylvqzuxasVIQiKF0EFsRCP_g)
 
 ## 基因组坐标系统
 
