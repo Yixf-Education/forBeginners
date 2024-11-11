@@ -220,6 +220,8 @@
 * [AlphaFold Server - 全流程详解](https://mp.weixin.qq.com/s/Y3jiYQJ26v3DMHIZCsy11Q)
 * [每天学生信超过 10 小时的大佬整理的转录组流程](https://mp.weixin.qq.com/s/-PII-SZm4xAxKXn-hlc2rQ)
 * [基因在说话！看 TWAS 如何捕捉性状背后的秘密](https://mp.weixin.qq.com/s/jhYSSAJY1VhDNnHWkAML7A?poc_token=HLTHMWejtXXzaVezylvqzuxasVIQiKF0EFsRCP_g)
+* [如何看懂系统发育树](https://mp.weixin.qq.com/s/mH9_s1QIbUJnrM9OGNUIWg)
+* [测序深度和测序数据量](https://mp.weixin.qq.com/s/vFzecWLAdQfYjxXmEHskUg)
 
 ## 基因组坐标系统
 
