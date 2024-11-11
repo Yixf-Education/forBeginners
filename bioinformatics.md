@@ -218,6 +218,7 @@
 * [测序接头的一点知识](https://mp.weixin.qq.com/s/E4J1XT9SyDbWtDFq5qT0uA)
 * [SeqKit2｜一款超快且全能的序列处理工具包（以取反向互补序列为例）](https://mp.weixin.qq.com/s/-rtWSprDvZvKsQVaLqDTtQ)
 * [AlphaFold Server - 全流程详解](https://mp.weixin.qq.com/s/Y3jiYQJ26v3DMHIZCsy11Q)
+* [每天学生信超过 10 小时的大佬整理的转录组流程](https://mp.weixin.qq.com/s/-PII-SZm4xAxKXn-hlc2rQ)
 
 ## 基因组坐标系统
 
