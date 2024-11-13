@@ -410,6 +410,7 @@
 * [最强总结，十大统计检验方法 ！！](https://mp.weixin.qq.com/s/18WTd6X-GtlQKa9udd9cpw)
 * [R 语言批量做 t 检验](https://mp.weixin.qq.com/s/WJCJylGZiIuZZsoGZ8CTDg)
 * [简单搞明白箱线图](https://mp.weixin.qq.com/s/7OifM_Srj8C3WXQhx7NiNA)
+* [看完这篇，不信你还不会画富集分析图](https://mp.weixin.qq.com/s/eX8mc5ssTQht8rhU0bbp6g)
 
 # R包
 
