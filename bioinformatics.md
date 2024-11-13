@@ -389,6 +389,7 @@
 * [最新最全版 TCGA 数据下载及合成基因表达矩阵](https://mp.weixin.qq.com/s/-uuE9uc9HocTbLdD_aN7TA)
 * [如何做 QTL 定位？- 数量遗传学](https://mp.weixin.qq.com/s/x-B7kOBnP9J0gZlYFKkFdQ)
 * [Pharmmapper 数据库 ------ 预测药物的作用靶点](https://mp.weixin.qq.com/s/Qun0e9p75ww8kBn2OFNP6w)
+* [关于测序接头的那些事儿](https://mp.weixin.qq.com/s/auEPk9LLl3-96OxqjKcbeQ)
 
 ## 系统课程
 
