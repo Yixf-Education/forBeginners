@@ -393,6 +393,8 @@
 * [如何做 QTL 定位？- 数量遗传学](https://mp.weixin.qq.com/s/x-B7kOBnP9J0gZlYFKkFdQ)
 * [Pharmmapper 数据库 ------ 预测药物的作用靶点](https://mp.weixin.qq.com/s/Qun0e9p75ww8kBn2OFNP6w)
 * [关于测序接头的那些事儿](https://mp.weixin.qq.com/s/auEPk9LLl3-96OxqjKcbeQ)
+* [基因组重复区（一）](https://mp.weixin.qq.com/s/gXe5nRZ6Okct_rWcBn2kqQ)
+* [比较基因组分析](https://mp.weixin.qq.com/s/6KXMnoq4iFFZKsQoyDZ-Qw)
 
 ## 系统课程
 
