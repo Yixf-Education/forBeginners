@@ -118,6 +118,7 @@
 * [干货满满！长达 58 页的 R 语言预测模型 PDF](https://mp.weixin.qq.com/s/rd6x0OS1f3P7aP3LDDDDng)
 * [最强总结！十大统计检验方法 ！！](https://mp.weixin.qq.com/s/-jCsOzzxTKugFdtVp3nI6g)
 * [统计学中的 P 值：你真的了解它吗？](https://mp.weixin.qq.com/s/ofnHaXWfFF50pTc822NFmg)
+* [统计推断与作图｜第 2 期。统计分析前必不可少的正态性检验](https://mp.weixin.qq.com/s/AL17LPLp7XnQ-s1I_KdZbw)
 
 ## 统计学入门
 
