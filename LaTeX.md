@@ -138,4 +138,5 @@
 * [LaTeX 用户最易犯的 4 个排版错误](https://mp.weixin.qq.com/s/4biNYVkVi7vzLvHeVxQ5Jw)
 * [LaTeX 用起来超爽的代码片段与资料 - 多年积累系列一](https://mp.weixin.qq.com/s/i__jntGkKtdrYz0UJzZpOg)
 * [TikZ 绘图基础知识超级备忘单 - 20 分钟入门 TiKZ](https://mp.weixin.qq.com/s/CSkh8qzAF7n5OjF28fhTmg)
+* [两个代码分析器让你 LaTeX 代码录入体验爽飞](https://mp.weixin.qq.com/s/LImXYsSuEXvQGMcaFAhuQQ)
 
