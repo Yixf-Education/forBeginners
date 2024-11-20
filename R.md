@@ -153,6 +153,7 @@
 * [基于 Linux 和 R 的数据分析流程](https://mp.weixin.qq.com/s/VwnKOq4boaICFNYLHfsaig)
 * [R 语言中的机器学习：10 个常用算法及其实现](https://mp.weixin.qq.com/s/lOL4aJDRQziM7YBbD_JaTg)
 * [R 语言基于 tidyverse 的数据整理](https://mp.weixin.qq.com/s/zPbRB2G26aLokhy9PLB5LA)
+* [如何用 R 轻松搞定数据清洗？超全攻略！](https://mp.weixin.qq.com/s/CQuhizeMMPo6WO0rSxUodg)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
