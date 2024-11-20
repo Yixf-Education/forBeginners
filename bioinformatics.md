@@ -396,6 +396,7 @@
 * [基因组重复区（一）](https://mp.weixin.qq.com/s/gXe5nRZ6Okct_rWcBn2kqQ)
 * [比较基因组分析](https://mp.weixin.qq.com/s/6KXMnoq4iFFZKsQoyDZ-Qw)
 * [泛基因组分析](https://mp.weixin.qq.com/s/HG7tIaLF28wqPuyWq0kA_w)
+* [群体基因组分析](https://mp.weixin.qq.com/s/-0NsPo0XzR5qinC8EJitAA)
 
 ## 系统课程
 
