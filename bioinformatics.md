@@ -398,6 +398,7 @@
 * [泛基因组分析](https://mp.weixin.qq.com/s/HG7tIaLF28wqPuyWq0kA_w)
 * [群体基因组分析](https://mp.weixin.qq.com/s/-0NsPo0XzR5qinC8EJitAA)
 * [为什么你的重测序推荐测 30X，为什么你的转录组一般只测 6G 数据量](https://mp.weixin.qq.com/s/ngVcNJr0gM-I-g4C_d156Q)
+* [全外显子测序分析](https://mp.weixin.qq.com/s/uz23cfbDWvgBMiczBjlaYQ)
 
 ## 系统课程
 
