@@ -119,3 +119,4 @@
 * [超越代码 3：单细胞数据质控](https://mp.weixin.qq.com/s/KmeSUj-wYKyNEF2IG8NBUA)
 * [联川生物 2024 版 10x 单细胞转录组分析报告重磅发布](https://mp.weixin.qq.com/s/GB0vD-sJnh4lcncVdijOLg)
 * [SCENIC 寻找转录调控因子太慢了？那就试试这个 NC 新方法 scRegClust](https://mp.weixin.qq.com/s/KDCkuBr2nzLCEfYlLmitZQ)
+* [单细胞思路 | 第 2 期 单细胞中的资源库](https://mp.weixin.qq.com/s/BWfz38Q2Ts4oB1bqknnLKQ)
