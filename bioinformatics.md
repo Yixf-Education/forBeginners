@@ -225,6 +225,7 @@
 * [参考基因组注释文件信息](https://mp.weixin.qq.com/s/6enCUA84qzB3bLGXxyFR4Q)
 * [参考基因组是什么](https://mp.weixin.qq.com/s/8KSmifNAas421t6nnBP0bA)
 * [生物信息学分析中的常见错误与误区：初学者避坑指南](https://mp.weixin.qq.com/s/g08Q7yKuQnpfwnfLu9L80A)
+* [预测蛋白质三维结构，除了 Alphafold，你还可以选它们](https://mp.weixin.qq.com/s/jlp4vLmsb3xSXyoPohI_0Q)
 
 ## 基因组坐标系统
 
