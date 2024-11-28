@@ -375,6 +375,7 @@
 * [让你大呼过瘾的！专业级论文润色 ChatGPT 指令集【一看就会教程】](https://mp.weixin.qq.com/s/2ce1J4FLqvKyHzeM_gj0xA)
 * [60 + 条用于数据科学领域的 ChatGPT prompts 语句](https://mp.weixin.qq.com/s/ZzNPVVYhNpU1gRlOPaVJbg)
 * [从 0 到 1，不会编程的我用 ChatGPT 写了一个地震警报 App](https://mp.weixin.qq.com/s/th4YunMlDnIee34vQg-4gQ)
+* [30 个顶级 GPT 提示词，半年发表两篇 SCI！](https://mp.weixin.qq.com/s/qnDPgkCwG8uJOAgZMvTL9Q)
 
 
 
