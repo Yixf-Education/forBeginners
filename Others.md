@@ -376,6 +376,7 @@
 * [60 + 条用于数据科学领域的 ChatGPT prompts 语句](https://mp.weixin.qq.com/s/ZzNPVVYhNpU1gRlOPaVJbg)
 * [从 0 到 1，不会编程的我用 ChatGPT 写了一个地震警报 App](https://mp.weixin.qq.com/s/th4YunMlDnIee34vQg-4gQ)
 * [30 个顶级 GPT 提示词，半年发表两篇 SCI！](https://mp.weixin.qq.com/s/qnDPgkCwG8uJOAgZMvTL9Q)
+* [听劝！让审稿人闭嘴！这 14 条 ChatGPT 指令就够了](https://mp.weixin.qq.com/s/fjBNqbgwj6mClRoW_Ims1Q)
 
 
 
