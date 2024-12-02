@@ -402,6 +402,7 @@
 * [为什么你的重测序推荐测 30X，为什么你的转录组一般只测 6G 数据量](https://mp.weixin.qq.com/s/ngVcNJr0gM-I-g4C_d156Q)
 * [全外显子测序分析](https://mp.weixin.qq.com/s/uz23cfbDWvgBMiczBjlaYQ)
 * [全基因组关联分析（GWAS）](https://mp.weixin.qq.com/s/RyDHmIb2l3zeUzaf6_ijxQ)
+* [如何读懂进化树？附大众常犯的 10 个错误](https://mp.weixin.qq.com/s/0fIJQHa_ZWoTLpUmpUx6tw)
 
 ## 系统课程
 
