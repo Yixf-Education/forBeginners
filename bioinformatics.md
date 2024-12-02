@@ -227,6 +227,7 @@
 * [生物信息学分析中的常见错误与误区：初学者避坑指南](https://mp.weixin.qq.com/s/g08Q7yKuQnpfwnfLu9L80A)
 * [预测蛋白质三维结构，除了 Alphafold，你还可以选它们](https://mp.weixin.qq.com/s/jlp4vLmsb3xSXyoPohI_0Q)
 * [有参考基因组分析和无参考基因组分析](https://mp.weixin.qq.com/s/1mRk8N-xZWMnCCtNHNlR3A)
+* [从序列到进化树：MAFFT+FastTree+ggtree 完整操作指南](https://mp.weixin.qq.com/s/M99c-9VsQ5h5ZXb4cMYmIQ)
 
 ## 基因组坐标系统
 
