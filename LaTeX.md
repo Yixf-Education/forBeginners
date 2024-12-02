@@ -141,4 +141,5 @@
 * [两个代码分析器让你 LaTeX 代码录入体验爽飞](https://mp.weixin.qq.com/s/LImXYsSuEXvQGMcaFAhuQQ)
 * [Word 转 LaTeX 工具知多少？](https://mp.weixin.qq.com/s/QNa5Owb7WRUZJJ5foN8MCg)
 * [30 个样例带你搞定完美 LaTeX 表格](https://mp.weixin.qq.com/s/4vcqUdz4j7gPDCD3vgd45Q)
+* [通过友好的入门课程免费在线学习 LaTeX | learnlatex.org](https://www.learnlatex.org/zh-hans/)
 
