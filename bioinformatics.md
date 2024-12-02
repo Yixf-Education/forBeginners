@@ -406,6 +406,7 @@
 * [全外显子测序分析](https://mp.weixin.qq.com/s/uz23cfbDWvgBMiczBjlaYQ)
 * [全基因组关联分析（GWAS）](https://mp.weixin.qq.com/s/RyDHmIb2l3zeUzaf6_ijxQ)
 * [如何读懂进化树？附大众常犯的 10 个错误](https://mp.weixin.qq.com/s/0fIJQHa_ZWoTLpUmpUx6tw)
+* [冷知识：为什么人类基因组计划中，测的是单倍体基因组呢](https://mp.weixin.qq.com/s/CEZpswEW_FfY9U_TXwv5Ng)
 
 ## 系统课程
 
