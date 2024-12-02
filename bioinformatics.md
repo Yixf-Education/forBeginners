@@ -229,6 +229,7 @@
 * [有参考基因组分析和无参考基因组分析](https://mp.weixin.qq.com/s/1mRk8N-xZWMnCCtNHNlR3A)
 * [从序列到进化树：MAFFT+FastTree+ggtree 完整操作指南](https://mp.weixin.qq.com/s/M99c-9VsQ5h5ZXb4cMYmIQ)
 * [做生信如何从 nature protocols 获得生信分析方法？](https://mp.weixin.qq.com/s/LhXqPdU4N5rQT2gZ8YApyQ)
+* [如何寻找蛋白的同源蛋白：从一级序列比对到三维结构比对](https://mp.weixin.qq.com/s/oxt29K6cqMxdttrqEiv1_g)
 
 ## 基因组坐标系统
 
