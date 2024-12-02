@@ -140,4 +140,5 @@
 * [TikZ 绘图基础知识超级备忘单 - 20 分钟入门 TiKZ](https://mp.weixin.qq.com/s/CSkh8qzAF7n5OjF28fhTmg)
 * [两个代码分析器让你 LaTeX 代码录入体验爽飞](https://mp.weixin.qq.com/s/LImXYsSuEXvQGMcaFAhuQQ)
 * [Word 转 LaTeX 工具知多少？](https://mp.weixin.qq.com/s/QNa5Owb7WRUZJJ5foN8MCg)
+* [30 个样例带你搞定完美 LaTeX 表格](https://mp.weixin.qq.com/s/4vcqUdz4j7gPDCD3vgd45Q)
 
