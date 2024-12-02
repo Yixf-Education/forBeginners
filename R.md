@@ -155,6 +155,7 @@
 * [R 语言基于 tidyverse 的数据整理](https://mp.weixin.qq.com/s/zPbRB2G26aLokhy9PLB5LA)
 * [如何用 R 轻松搞定数据清洗？超全攻略！](https://mp.weixin.qq.com/s/CQuhizeMMPo6WO0rSxUodg)
 * [R 语言中的高性能计算：20 个优化技巧](https://mp.weixin.qq.com/s/sy3ZB_B5SvRMx8dfY2Ljmw)
+* [tidymodels 进行多变量分析](https://mp.weixin.qq.com/s/tChj-ZGo-HqRl6AqtM3MUQ)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
