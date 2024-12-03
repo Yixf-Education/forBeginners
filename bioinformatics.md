@@ -44,6 +44,7 @@
 * [ExomiRHub](http://www.biomedical-web.com/exomirhub/home)
 * [ExpOmics](http://www.biomedical-web.com/expomics/home)
 * [测序数据质控软件](https://mp.weixin.qq.com/s/_Vm4raA91RCy-ugfVXazvQ)
+* [基因变异注释三巨头：ANNOVAR、SnpEff 和 VEP](https://mp.weixin.qq.com/s/OUxt_rtY_wVpGZP8StjfaQ)
 
 ## 生信问题与编程技能
 * [生物信息学研究的思考](https://mp.weixin.qq.com/s/p7RKD_kVfK3ny6s7j_f8zg)
