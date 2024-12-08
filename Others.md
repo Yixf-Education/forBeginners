@@ -379,6 +379,7 @@
 * [从 0 到 1，不会编程的我用 ChatGPT 写了一个地震警报 App](https://mp.weixin.qq.com/s/th4YunMlDnIee34vQg-4gQ)
 * [30 个顶级 GPT 提示词，半年发表两篇 SCI！](https://mp.weixin.qq.com/s/qnDPgkCwG8uJOAgZMvTL9Q)
 * [听劝！让审稿人闭嘴！这 14 条 ChatGPT 指令就够了](https://mp.weixin.qq.com/s/fjBNqbgwj6mClRoW_Ims1Q)
+* [最新，20 个国内免费 ChatGPT (4o/4.0/3.5) 镜像站](https://mp.weixin.qq.com/s/tc2j0sAHG_XKeYQtv3A2Gw)
 
 
 
