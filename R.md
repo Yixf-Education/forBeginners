@@ -299,6 +299,7 @@
 * [告别平庸：用这六款花式柱状图](https://mp.weixin.qq.com/s/vwtTDB68UgSU_Cdl1Ky3tw)
 * [基于 VlnPlot 参数及 ggplot2 美化小提琴图](https://mp.weixin.qq.com/s/AuoAGMvjxO394mxkLdsjjQ)
 * [如何选用最合适的图形表达数据？](https://mp.weixin.qq.com/s/qSyfiDVMhu5ojUQWqzjN3w)
+* [巨好看的箱线图](https://mp.weixin.qq.com/s/3v3T2RSYLJ5T_zkl30cM0g)
 
 # Rmarkdown
 
