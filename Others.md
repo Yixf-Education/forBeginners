@@ -328,6 +328,7 @@
 * [Bioart](https://bioart.niaid.nih.gov/)
 * [如何撰写顶刊的 Abstract 和 Introduction](https://mp.weixin.qq.com/s/KkU7MoJlpKXOXVqRHurWzA)
 * [关于文献使用的常识和技巧](https://mp.weixin.qq.com/s/mIyOI-f2-YlsFPou1sdv4Q)
+* [写综述利器 Obsidian ZotLit & Perplexity](https://mp.weixin.qq.com/s/--liRCjk7kigcC5ZDDd6CA)
 
 ## 数据集
 
