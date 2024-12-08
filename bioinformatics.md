@@ -47,6 +47,7 @@
 * [基因变异注释三巨头：ANNOVAR、SnpEff 和 VEP](https://mp.weixin.qq.com/s/OUxt_rtY_wVpGZP8StjfaQ)
 * [玩转服务器 — 数据上传与下载](https://mp.weixin.qq.com/s/TK_09JgSAgfpZmYohhmYQA)
 * [GWAS 分析中高质量基因型数据处理](https://mp.weixin.qq.com/s/J99w4vDC3ma49vQ_I7QLaQ)
+* [如何高效获取 UK Biobank 数据？](https://mp.weixin.qq.com/s/xOElhh3TgIng9wXL5iJzLw)
 
 ## 生信问题与编程技能
 * [生物信息学研究的思考](https://mp.weixin.qq.com/s/p7RKD_kVfK3ny6s7j_f8zg)
