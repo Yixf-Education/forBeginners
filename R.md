@@ -420,6 +420,7 @@
 * [1-R 语言回归分析：线性回归](https://mp.weixin.qq.com/s/fGEv_c6DAKHbxijXf5Ed1A)
 * [2-R 语言回归分析：逻辑回归](https://mp.weixin.qq.com/s/SC8xwkRFOgPo87AqVLIV8w)
 * [3-R 语言回归分析：稳健回归](https://mp.weixin.qq.com/s/EpZlblJu6yvWVntcA7GHrA)
+* [临床预测模型从开发到转化应用的 12 条建议（一）](https://mp.weixin.qq.com/s/qFW4Ti2c-Zy9lanFL8Ovew)
 
 # R包
 
