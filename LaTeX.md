@@ -143,4 +143,5 @@
 * [Word 转 LaTeX 工具知多少？](https://mp.weixin.qq.com/s/QNa5Owb7WRUZJJ5foN8MCg)
 * [30 个样例带你搞定完美 LaTeX 表格](https://mp.weixin.qq.com/s/4vcqUdz4j7gPDCD3vgd45Q)
 * [通过友好的入门课程免费在线学习 LaTeX | learnlatex.org](https://www.learnlatex.org/zh-hans/)
+* [基于 exam.cls 试卷文类制作的 A3 中文试卷样例（带装订线）](https://mp.weixin.qq.com/s/o0Z9TVac-d7BdR7mDLUsBA)
 
