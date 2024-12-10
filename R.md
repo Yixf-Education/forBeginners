@@ -300,6 +300,7 @@
 * [基于 VlnPlot 参数及 ggplot2 美化小提琴图](https://mp.weixin.qq.com/s/AuoAGMvjxO394mxkLdsjjQ)
 * [如何选用最合适的图形表达数据？](https://mp.weixin.qq.com/s/qSyfiDVMhu5ojUQWqzjN3w)
 * [巨好看的箱线图](https://mp.weixin.qq.com/s/3v3T2RSYLJ5T_zkl30cM0g)
+* [ggplot2 图表大全：R 语言论文必备高清指南！](https://mp.weixin.qq.com/s/C_r_CMYovjx7-6wkteu34A)
 
 # Rmarkdown
 
