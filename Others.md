@@ -121,6 +121,7 @@
 * [统计学中的 P 值：你真的了解它吗？](https://mp.weixin.qq.com/s/ofnHaXWfFF50pTc822NFmg)
 * [统计推断与作图｜第 2 期。统计分析前必不可少的正态性检验](https://mp.weixin.qq.com/s/AL17LPLp7XnQ-s1I_KdZbw)
 * [PCA 图怎么看？一分钟看懂主成分分析](https://mp.weixin.qq.com/s/dkKp8WYATtQrvNi4XnilFg)
+* [案例 - R 语言探索性数据分析与 Boruta 包特征选择](https://mp.weixin.qq.com/s/JEEmmh9KQa-q9WpbD6uvjQ)
 
 ## 统计学入门
 
