@@ -425,6 +425,7 @@
 * [临床预测模型从开发到转化应用的 12 条建议（一）](https://mp.weixin.qq.com/s/qFW4Ti2c-Zy9lanFL8Ovew)
 * [4-R 语言回归分析：精确逻辑回归](https://mp.weixin.qq.com/s/CWzmJQhd-18i6i_5Bku2JQ)
 * [5-R 语言回归分析：多项逻辑回归](https://mp.weixin.qq.com/s/Sw9V0LuIDHhRuGWrBMPXkQ)
+* [6-R 语言回归分析：有序逻辑回归](https://mp.weixin.qq.com/s/lRVeTss8kQp63n1gazTMPg)
 
 # R包
 
