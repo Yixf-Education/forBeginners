@@ -395,6 +395,7 @@
 * [top 再升级，盘一盘 btop](https://mp.weixin.qq.com/s/o4tsRP_jOhIw4_6duKpNMg)
 * [linux 统计分析工具 datamash](https://mp.weixin.qq.com/s/EX2gsXnhstvd4vxHA7aKCg)
 * [多线程打包压缩数据，提高数据传输速度](https://mp.weixin.qq.com/s/kaseKVvluH6gFYx8GkpE6w)
+* [玩转服务器 — 了解 bashrc 文件](https://mp.weixin.qq.com/s/Q1RLQUfCQtnknJ2ETUEVNA)
 
 ## 运维
 
