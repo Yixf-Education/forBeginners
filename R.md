@@ -430,6 +430,7 @@
 * [7-R 语言回归分析：Probit 回归](https://mp.weixin.qq.com/s/_cYFnJ593codYYWcMG_Y3w)
 * [8-R 语言回归分析：泊松回归](https://mp.weixin.qq.com/s/XIEh-7x6SPpf0cHRupjEFQ)
 * [临床系列 R 包 | 第 3 期。探索生存分析的利器：survival 包](https://mp.weixin.qq.com/s/toLp5yppfj-_N3PiR23LWw?poc_token=HLFkY2ejoc23l9JPmOvAd9EU0i9M5mS5sAhuWA9R)
+* [tidymodels 使用 workflowsets 高效优化和比较模型](https://mp.weixin.qq.com/s/LWhXWf962WMaHAH3ZHL6Cg)
 
 # R包
 
