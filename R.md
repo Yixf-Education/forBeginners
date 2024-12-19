@@ -428,6 +428,7 @@
 * [5-R 语言回归分析：多项逻辑回归](https://mp.weixin.qq.com/s/Sw9V0LuIDHhRuGWrBMPXkQ)
 * [6-R 语言回归分析：有序逻辑回归](https://mp.weixin.qq.com/s/lRVeTss8kQp63n1gazTMPg)
 * [7-R 语言回归分析：Probit 回归](https://mp.weixin.qq.com/s/_cYFnJ593codYYWcMG_Y3w)
+* [8-R 语言回归分析：泊松回归](https://mp.weixin.qq.com/s/XIEh-7x6SPpf0cHRupjEFQ)
 
 # R包
 
