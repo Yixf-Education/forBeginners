@@ -14,6 +14,7 @@
 * [MdEditor](http://www.mdeditor.com/): Markdown在线编辑器
 * [免费开源的在线 Markdown 编辑器](https://linux.cn/article-12624-1.html)
 * [R 沟通｜markdown 编辑器 —Typora](https://mp.weixin.qq.com/s?__biz=MzI1NjUwMjQxMQ==&mid=2247491318&idx=1&sn=47128737582a34677926a9f64f03e4ed&chksm=ea24e112dd53680478ac90151554ebdde72ab122fcc84bae4da6e87e9c97b020275ecabc846c&mpshare=1&scene=1&srcid=0224zXsy4bxRPcFpagJ5nKK9&sharer_sharetime=1614173621516&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=9635e972a6ebf4546d99d3098ee6d4a410eecaf6bec80a9135ca5cfe0866cb788fdf076ae2592a14c7e08163a332fbca7a0714fa396a9a827b310a162d124ec98ca427e26921b82f583246f8e90e590c905618a683f683fdfdfb9ec362a739619b490f4cb2ee6dfdd68aea3c083d918c00bcbede8249a6e70ace62f108fd1c72&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AbdNDIeeL2837XgqNlW%2BRBY%3D&pass_ticket=R9jpaUXpCFjBDIouxDFPMCQLobV6t8Qz8Er3IVMMhmM7ejfJujHQ7tA1WBEpmau8&wx_header=0)
+* [人人都应该在手边备一个免费开源的 Markdown 编辑器（5 款推荐）](https://mp.weixin.qq.com/s/7YtDdYJf6IggnduzSGaoMQ)
 
 ## 语法
 * [什么是Markdown?](http://jingxuan.io/markdown/)
