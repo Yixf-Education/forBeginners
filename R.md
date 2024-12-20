@@ -159,6 +159,7 @@
 * [R 语言中的高性能计算：20 个优化技巧](https://mp.weixin.qq.com/s/sy3ZB_B5SvRMx8dfY2Ljmw)
 * [tidymodels 进行多变量分析](https://mp.weixin.qq.com/s/tChj-ZGo-HqRl6AqtM3MUQ)
 * [案例 - 某热水器评论数据分析 - 日期特征的处理](https://mp.weixin.qq.com/s/o6XTr5Sp71t2Wu5bdiEvvA)
+* [使用 R 语言构建区块链](https://mp.weixin.qq.com/s/koVeRbb08Gfk6a14URD1zA)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
