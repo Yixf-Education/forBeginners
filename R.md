@@ -433,6 +433,7 @@
 * [8-R 语言回归分析：泊松回归](https://mp.weixin.qq.com/s/XIEh-7x6SPpf0cHRupjEFQ)
 * [临床系列 R 包 | 第 3 期。探索生存分析的利器：survival 包](https://mp.weixin.qq.com/s/toLp5yppfj-_N3PiR23LWw?poc_token=HLFkY2ejoc23l9JPmOvAd9EU0i9M5mS5sAhuWA9R)
 * [tidymodels 使用 workflowsets 高效优化和比较模型](https://mp.weixin.qq.com/s/LWhXWf962WMaHAH3ZHL6Cg)
+* [9-R 语言回归分析：负二项回归](https://mp.weixin.qq.com/s/5Dm94boKgRSNIdyciWK3zw)
 
 # R包
 
