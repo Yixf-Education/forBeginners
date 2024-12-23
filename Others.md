@@ -331,6 +331,7 @@
 * [关于文献使用的常识和技巧](https://mp.weixin.qq.com/s/mIyOI-f2-YlsFPou1sdv4Q)
 * [写综述利器 Obsidian ZotLit & Perplexity](https://mp.weixin.qq.com/s/--liRCjk7kigcC5ZDDd6CA)
 * [文献综述、学术论文阅读的 10 个高效工具。](https://mp.weixin.qq.com/s/P4u1_dMjzaQedYfMNrek7w)
+* [被博导夸爆的 discussion 结构五部法‼️](https://mp.weixin.qq.com/s/uih9DLYvdoGTdSLFKuPJHQ)
 
 ## 数据集
 
