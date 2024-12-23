@@ -411,6 +411,7 @@
 * [全基因组关联分析（GWAS）](https://mp.weixin.qq.com/s/RyDHmIb2l3zeUzaf6_ijxQ)
 * [如何读懂进化树？附大众常犯的 10 个错误](https://mp.weixin.qq.com/s/0fIJQHa_ZWoTLpUmpUx6tw)
 * [冷知识：为什么人类基因组计划中，测的是单倍体基因组呢](https://mp.weixin.qq.com/s/CEZpswEW_FfY9U_TXwv5Ng)
+* [12 个公共数据库，发文潜力各不同！！！](https://mp.weixin.qq.com/s/kENMu2Xei8PVNIgKyTCR-A)
 
 ## 系统课程
 
