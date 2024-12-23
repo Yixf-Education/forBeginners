@@ -469,7 +469,7 @@
 * [开发一个自己的 R 包](https://mp.weixin.qq.com/s/Buvz0VM3eO6TQoKNTuSBMQ)
 * [2024 学 R，就使用这些 R 包](https://mp.weixin.qq.com/s/y4ItGnbmBgiU_dbxJRo9sw)
 * [R 包安装与使用的常见问题和解决方法速查](https://mp.weixin.qq.com/s/PeB5E_epgeeDq80C6XBR6w)
-* 
+* [R 包安装那些坑：手把手带你优雅填坑](https://mp.weixin.qq.com/s/K3bJcD3NLi8LcNyre7xTtA)
 
 # Shiny
 
