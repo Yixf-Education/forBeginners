@@ -305,6 +305,7 @@
 * [巨好看的箱线图](https://mp.weixin.qq.com/s/3v3T2RSYLJ5T_zkl30cM0g)
 * [ggplot2 图表大全：R 语言论文必备高清指南！](https://mp.weixin.qq.com/s/C_r_CMYovjx7-6wkteu34A)
 * [ggplot 个性化绘制旭日图](https://mp.weixin.qq.com/s/KJ7jDqOfN_4Ew-mAScM5zw)
+* [R 语言画图 | 新风格 boxplot](https://mp.weixin.qq.com/s/34fIV8BcUwRJNQspGOEtkw)
 
 # Rmarkdown
 
