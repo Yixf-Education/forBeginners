@@ -162,6 +162,7 @@
 * [使用 R 语言构建区块链](https://mp.weixin.qq.com/s/koVeRbb08Gfk6a14URD1zA)
 * [tidymodels 基于重采样和 tidy 数据的假设检验](https://mp.weixin.qq.com/s/mfXu_OyAG5VG_JPE-O8ndQ)
 * [R 语言中的正则表达式：20 个实用案例](https://mp.weixin.qq.com/s/bI7EJ7Fx_Cyud9mL-2TS_w)
+* [R 语言基于 tidyverse 的数据整理（版本 2）](https://mp.weixin.qq.com/s/YYTp3ZTAAy_LHnMRjw3TvQ)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
