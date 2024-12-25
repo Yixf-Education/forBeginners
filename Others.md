@@ -387,6 +387,7 @@
 * [最新，20 个国内免费 ChatGPT (4o/4.0/3.5) 镜像站](https://mp.weixin.qq.com/s/tc2j0sAHG_XKeYQtv3A2Gw)
 * [为什么导师一天可以阅读 50 篇文献？这 40 个神级 GPT 指令请收好！](https://mp.weixin.qq.com/s/LpzAp-5w2FJcXYpMHhr_xA)
 * [2024 最佳科研 AI 工具对比：Consensus、SciSpace、Elicit 及其他](https://mp.weixin.qq.com/s/xNi9mwuRTeARWH3PUQen3A)
+* [深度长文｜Claude 的 5 层 Prompt 体系：从 AI 用户到 AI 指挥官的进阶之路](https://mp.weixin.qq.com/s/BEwaHKwbOUbN9vWRtXdYNg)
 
 
 
