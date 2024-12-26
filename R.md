@@ -163,6 +163,8 @@
 * [tidymodels 基于重采样和 tidy 数据的假设检验](https://mp.weixin.qq.com/s/mfXu_OyAG5VG_JPE-O8ndQ)
 * [R 语言中的正则表达式：20 个实用案例](https://mp.weixin.qq.com/s/bI7EJ7Fx_Cyud9mL-2TS_w)
 * [R 语言基于 tidyverse 的数据整理（版本 2）](https://mp.weixin.qq.com/s/YYTp3ZTAAy_LHnMRjw3TvQ)
+* [数据清洗中的 10 个高频操作！](https://mp.weixin.qq.com/s/mMPMSL-Pd7QPv8SOg8PONg)
+* [R 语言中的报告自动化：20 个提高效率的技巧](https://mp.weixin.qq.com/s/Abjn8J26RDR7pJ4cWD675g)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
@@ -307,6 +309,7 @@
 * [ggplot2 图表大全：R 语言论文必备高清指南！](https://mp.weixin.qq.com/s/C_r_CMYovjx7-6wkteu34A)
 * [ggplot 个性化绘制旭日图](https://mp.weixin.qq.com/s/KJ7jDqOfN_4Ew-mAScM5zw)
 * [R 语言画图 | 新风格 boxplot](https://mp.weixin.qq.com/s/34fIV8BcUwRJNQspGOEtkw)
+* [医学科研绘图：我用 R 画出这三个图，印度审稿人当场向我敬礼！](https://mp.weixin.qq.com/s/MHP8XUAKm-0TWelDp1-fnw)
 
 # Rmarkdown
 
@@ -437,6 +440,7 @@
 * [临床系列 R 包 | 第 3 期。探索生存分析的利器：survival 包](https://mp.weixin.qq.com/s/toLp5yppfj-_N3PiR23LWw?poc_token=HLFkY2ejoc23l9JPmOvAd9EU0i9M5mS5sAhuWA9R)
 * [tidymodels 使用 workflowsets 高效优化和比较模型](https://mp.weixin.qq.com/s/LWhXWf962WMaHAH3ZHL6Cg)
 * [9-R 语言回归分析：负二项回归](https://mp.weixin.qq.com/s/5Dm94boKgRSNIdyciWK3zw)
+* [10-R 语言回归分析：零膨胀泊松回归](https://mp.weixin.qq.com/s/m7oQbAywlJO04rAG-cDS9w)
 
 # R包
 
