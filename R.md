@@ -441,6 +441,7 @@
 * [tidymodels 使用 workflowsets 高效优化和比较模型](https://mp.weixin.qq.com/s/LWhXWf962WMaHAH3ZHL6Cg)
 * [9-R 语言回归分析：负二项回归](https://mp.weixin.qq.com/s/5Dm94boKgRSNIdyciWK3zw)
 * [10-R 语言回归分析：零膨胀泊松回归](https://mp.weixin.qq.com/s/m7oQbAywlJO04rAG-cDS9w)
+* [人和小鼠的基因怎么无缝切换？](https://mp.weixin.qq.com/s/uxwK7yX9FxgWhmEV0tVwTg)
 
 # R包
 
