@@ -165,6 +165,7 @@
 * [R 语言基于 tidyverse 的数据整理（版本 2）](https://mp.weixin.qq.com/s/YYTp3ZTAAy_LHnMRjw3TvQ)
 * [数据清洗中的 10 个高频操作！](https://mp.weixin.qq.com/s/mMPMSL-Pd7QPv8SOg8PONg)
 * [R 语言中的报告自动化：20 个提高效率的技巧](https://mp.weixin.qq.com/s/Abjn8J26RDR7pJ4cWD675g)
+* [R 语言中的函数编写：20 个提高代码质量的技巧](https://mp.weixin.qq.com/s/2CndyaPEjRi6MXQKZdtgSA)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
