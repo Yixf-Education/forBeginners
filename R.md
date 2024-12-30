@@ -481,6 +481,7 @@
 * [R 包安装那些坑：手把手带你优雅填坑](https://mp.weixin.qq.com/s/K3bJcD3NLi8LcNyre7xTtA)
 * [Home | Package Manager](https://packagemanager.posit.co/client/#/)
 * [Linux 系统如何安装二进制 R 包](https://mp.weixin.qq.com/s/MmPZa7N94vxkDbksDbp2aA)
+* [别再重复写代码！3 种方法打造你的 R 函数库](https://mp.weixin.qq.com/s/ahAoe6c-60BB3COip3XFxQ)
 
 # Shiny
 
