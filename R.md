@@ -313,6 +313,7 @@
 * [ggplot 个性化绘制旭日图](https://mp.weixin.qq.com/s/KJ7jDqOfN_4Ew-mAScM5zw)
 * [R 语言画图 | 新风格 boxplot](https://mp.weixin.qq.com/s/34fIV8BcUwRJNQspGOEtkw)
 * [医学科研绘图：我用 R 画出这三个图，印度审稿人当场向我敬礼！](https://mp.weixin.qq.com/s/MHP8XUAKm-0TWelDp1-fnw)
+* [酷！掌握 R 语言中 3D 数据可视化](https://mp.weixin.qq.com/s/LFJebj7rJqIU4f8STFxzJA)
 
 # Rmarkdown
 
