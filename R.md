@@ -168,6 +168,7 @@
 * [R 语言中的报告自动化：20 个提高效率的技巧](https://mp.weixin.qq.com/s/Abjn8J26RDR7pJ4cWD675g)
 * [R 语言中的函数编写：20 个提高代码质量的技巧](https://mp.weixin.qq.com/s/2CndyaPEjRi6MXQKZdtgSA)
 * [R 语言正则表达式与 stringr 处理字符、forcats 处理因子（版本 2）](https://mp.weixin.qq.com/s/ysg_jjQNjRyp2mN_xW90Eg)
+* [R 语言中的数据结构：深入理解和高效使用](https://mp.weixin.qq.com/s/dkWpX7bojfhLH11ikFPp6Q)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
