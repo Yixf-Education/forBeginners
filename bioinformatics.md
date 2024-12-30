@@ -235,6 +235,7 @@
 * [做生信如何从 nature protocols 获得生信分析方法？](https://mp.weixin.qq.com/s/LhXqPdU4N5rQT2gZ8YApyQ)
 * [如何寻找蛋白的同源蛋白：从一级序列比对到三维结构比对](https://mp.weixin.qq.com/s/oxt29K6cqMxdttrqEiv1_g)
 * [国内做生信，岂能不会更改镜像](https://mp.weixin.qq.com/s/-zYG2G9jnATUHlRRmRSoQg)
+* [IGV 基因组浏览器：一个组学分析中必不可少的神奇](https://mp.weixin.qq.com/s/_nYNoHHABZnguZWAgMD89A)
 
 ## 基因组坐标系统
 
