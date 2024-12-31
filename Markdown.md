@@ -17,6 +17,8 @@
 * [人人都应该在手边备一个免费开源的 Markdown 编辑器（5 款推荐）](https://mp.weixin.qq.com/s/7YtDdYJf6IggnduzSGaoMQ)
 * [四款免费开源的 Markdown 桌面编辑器](https://mp.weixin.qq.com/s/zMqciJO6IBsCzQ8YrkFTKA)
 * [笔记详情 - MDX Notes](https://mdxnotes.com/post?id=demo)
+* [微信 Markdown 编辑器 | Doocs 开源社区](https://doocs.github.io/md/)
+* [微信 Markdown 编辑器 | Doocs 开源社区](https://doocs-md.pages.dev/)
 
 ## 语法
 * [什么是Markdown?](http://jingxuan.io/markdown/)
