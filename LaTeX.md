@@ -146,4 +146,5 @@
 * [基于 exam.cls 试卷文类制作的 A3 中文试卷样例（带装订线）](https://mp.weixin.qq.com/s/o0Z9TVac-d7BdR7mDLUsBA)
 * [基于 ctexart 制作的简单易用试卷样例（带装订线）](https://mp.weixin.qq.com/s/gux8xpTIhcclVHauBzJ1Yw)
 * [列表环境的间距控制感到头疼？listparskip 宏包来救你！](https://mp.weixin.qq.com/s/0HbN4IOj8Cw-AlhOhioj5g)
+* [拯救 “色盲” 人群：简单几步，让你的文档色彩无障碍](https://mp.weixin.qq.com/s/BRn_V-y4P1wODsV0ak3b0Q)
 
