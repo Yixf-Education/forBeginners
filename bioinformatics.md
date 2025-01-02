@@ -415,6 +415,7 @@
 * [冷知识：为什么人类基因组计划中，测的是单倍体基因组呢](https://mp.weixin.qq.com/s/CEZpswEW_FfY9U_TXwv5Ng)
 * [12 个公共数据库，发文潜力各不同！！！](https://mp.weixin.qq.com/s/kENMu2Xei8PVNIgKyTCR-A)
 * [HuGe 数据下载](https://mp.weixin.qq.com/s/c3XJxxTGGDhQDIMK_n0kFQ)
+* [一人吸烟危害两到三代人！研究表明：父亲儿童时期暴露于二手烟环境会增加后代哮喘风险，祖母孕期吸烟会增加孙辈自闭症风险](https://mp.weixin.qq.com/s/DWqqBeH1pja9Y8IiDvOhoQ)
 
 ## 系统课程
 
