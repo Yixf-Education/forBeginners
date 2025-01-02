@@ -181,6 +181,7 @@
 * [数据结构之列表](http://mp.weixin.qq.com/s?src=3&timestamp=1493856951&ver=1&signature=*UZRAeg5R0pjoY3Lr7g8x0DxUITL8xN4XTkjNGhEg99TDkMH-WgXI4xck4KCpCyBYP4zLbVaJcthe1RcpJQGfILBH7CyTehJuQFt9F4CAW3md1Nmc*6L-YhXgrG5pcvyRKYBxt-NRYLzpDfIw1s3YMIvR3oHz9IXFz3jQ0AOf98=)
 * [数据的读入](http://mp.weixin.qq.com/s?src=3&timestamp=1494290958&ver=1&signature=*UZRAeg5R0pjoY3Lr7g8x0DxUITL8xN4XTkjNGhEg9-NvgqpxWC7qccl-2GCYLNHKDfnJPh4D0Zd18ApYIcS9cMGQSVgVPf9xmHgU2M2oZ8eCxe-gsZQfdeFdi6Xl8E1u14Wvs-9hjTKQB5FvEc8YMlkJN*crIrWchH7OdgSwf0=)
 * [单个总体均值的t检验](http://mp.weixin.qq.com/s?src=3&timestamp=1493856746&ver=1&signature=*UZRAeg5R0pjoY3Lr7g8x0DxUITL8xN4XTkjNGhEg9-She-UXhGhW9tvkHeFL4TBTOD32n3BwAXUs1ud1A6it2dg7e1VB7gLkabpqDlcuzEART8LKcCW4XuFiMdPB9HTDjWkJh-7NUnLDklW10NmZ-IlCvKVs8XpT2Rnzb5uZQ4=)
+* [3MW (Using Word Templates With R)](https://3mw.albert-rapp.de/p/using-word-templates-with-r)
 
 # ggplot2
 * [A Gentle Guide to the Grammar of Graphics with ggplot2](https://pkg.garrickadenbuie.com/gentle-ggplot2/#1)
