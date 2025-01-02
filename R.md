@@ -169,6 +169,8 @@
 * [R 语言中的函数编写：20 个提高代码质量的技巧](https://mp.weixin.qq.com/s/2CndyaPEjRi6MXQKZdtgSA)
 * [R 语言正则表达式与 stringr 处理字符、forcats 处理因子（版本 2）](https://mp.weixin.qq.com/s/ysg_jjQNjRyp2mN_xW90Eg)
 * [R 语言中的数据结构：深入理解和高效使用](https://mp.weixin.qq.com/s/dkWpX7bojfhLH11ikFPp6Q)
+* [3MW (Using Word Templates With R)](https://3mw.albert-rapp.de/p/using-word-templates-with-r)
+* [R 语言 6 种将字符转成数字的方法，写在新年来临之际](https://mp.weixin.qq.com/s/vrK8shJFgpsLyRPaDbxKDA)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
@@ -181,7 +183,6 @@
 * [数据结构之列表](http://mp.weixin.qq.com/s?src=3&timestamp=1493856951&ver=1&signature=*UZRAeg5R0pjoY3Lr7g8x0DxUITL8xN4XTkjNGhEg99TDkMH-WgXI4xck4KCpCyBYP4zLbVaJcthe1RcpJQGfILBH7CyTehJuQFt9F4CAW3md1Nmc*6L-YhXgrG5pcvyRKYBxt-NRYLzpDfIw1s3YMIvR3oHz9IXFz3jQ0AOf98=)
 * [数据的读入](http://mp.weixin.qq.com/s?src=3&timestamp=1494290958&ver=1&signature=*UZRAeg5R0pjoY3Lr7g8x0DxUITL8xN4XTkjNGhEg9-NvgqpxWC7qccl-2GCYLNHKDfnJPh4D0Zd18ApYIcS9cMGQSVgVPf9xmHgU2M2oZ8eCxe-gsZQfdeFdi6Xl8E1u14Wvs-9hjTKQB5FvEc8YMlkJN*crIrWchH7OdgSwf0=)
 * [单个总体均值的t检验](http://mp.weixin.qq.com/s?src=3&timestamp=1493856746&ver=1&signature=*UZRAeg5R0pjoY3Lr7g8x0DxUITL8xN4XTkjNGhEg9-She-UXhGhW9tvkHeFL4TBTOD32n3BwAXUs1ud1A6it2dg7e1VB7gLkabpqDlcuzEART8LKcCW4XuFiMdPB9HTDjWkJh-7NUnLDklW10NmZ-IlCvKVs8XpT2Rnzb5uZQ4=)
-* [3MW (Using Word Templates With R)](https://3mw.albert-rapp.de/p/using-word-templates-with-r)
 
 # ggplot2
 * [A Gentle Guide to the Grammar of Graphics with ggplot2](https://pkg.garrickadenbuie.com/gentle-ggplot2/#1)
