@@ -421,6 +421,7 @@
 * [生物书上一笔带过的这个计划，远比你想象的烧钱......](https://mp.weixin.qq.com/s/8-9CpIIoEPDUPQjKS_-o5g)
 * [TCGA 样本 barcode 详细介绍](https://mp.weixin.qq.com/s/qo4eCFLbTeSZMv6e2xaQEg)
 * [从基因到疾病：等位基因频率与效应大小的关系](https://mp.weixin.qq.com/s/ad4Llwf8BSr9l43hQ09KMw)
+* [读文献先读图：GSEA 图怎么看？](https://mp.weixin.qq.com/s/_sqY7pOMZS-c0vgyGWG6Pg)
 
 ## 系统课程
 
