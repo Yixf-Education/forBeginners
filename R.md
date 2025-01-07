@@ -7,6 +7,7 @@
 * [**swirl: Learn R, in R.**](https://swirlstats.com/)
 * [**https://webr.r-wasm.org/latest/**](https://webr.r-wasm.org/latest/): WebR
 * [**一文解决你所有的绘图配色**](https://mp.weixin.qq.com/s/wNe8tybzH3VF6hV82OOZDA)
+* [R 语言中的数据可视化配色方案：理论与实践](https://mp.weixin.qq.com/s/ggsMKWHb4bVx-yeKst6OXQ)
 * [**R-universe**](https://r-universe.dev/search/): personal package repositories for R!
 * [**tidyverse 编码风格最佳实践指南**](https://mp.weixin.qq.com/s/q5fiVNiAIY2GoKaBh_PwZQ)
 * [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/)
