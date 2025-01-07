@@ -320,6 +320,7 @@
 * [医学科研绘图：我用 R 画出这三个图，印度审稿人当场向我敬礼！](https://mp.weixin.qq.com/s/MHP8XUAKm-0TWelDp1-fnw)
 * [酷！掌握 R 语言中 3D 数据可视化](https://mp.weixin.qq.com/s/LFJebj7rJqIU4f8STFxzJA)
 * [审稿人：为什么行业大牛的论文总喜欢用这个图？3 个 R 包就能做！](https://mp.weixin.qq.com/s/8xLqO-AzJEasAPeefcbxXg)
+* [R tips：ggplot2 进行多维原位图绘制](https://mp.weixin.qq.com/s/VuUxCZiKM6Wx99LGv5RrpA)
 
 # Rmarkdown
 
