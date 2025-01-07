@@ -418,6 +418,7 @@
 * [一人吸烟危害两到三代人！研究表明：父亲儿童时期暴露于二手烟环境会增加后代哮喘风险，祖母孕期吸烟会增加孙辈自闭症风险](https://mp.weixin.qq.com/s/DWqqBeH1pja9Y8IiDvOhoQ)
 * [如何画热图，才能惊艳众人？](https://mp.weixin.qq.com/s/WFPbIRPUyC0PYFQVfDAXow)
 * [生物书上一笔带过的这个计划，远比你想象的烧钱......](https://mp.weixin.qq.com/s/8-9CpIIoEPDUPQjKS_-o5g)
+* [TCGA 样本 barcode 详细介绍](https://mp.weixin.qq.com/s/qo4eCFLbTeSZMv6e2xaQEg)
 
 ## 系统课程
 
