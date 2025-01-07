@@ -173,6 +173,7 @@
 * [3MW (Using Word Templates With R)](https://3mw.albert-rapp.de/p/using-word-templates-with-r)
 * [R 语言 6 种将字符转成数字的方法，写在新年来临之际](https://mp.weixin.qq.com/s/vrK8shJFgpsLyRPaDbxKDA)
 * [【SAS 老兵 vs R 新贵】Tidyverse 包简介](https://mp.weixin.qq.com/s/KrZPzVfIWmrMii44-4fJOA)
+* [R 语言小白绘图系列 | 第 47 弹・系统发育树](https://mp.weixin.qq.com/s/0knz7QLEIdgPn_Uj12M0aw)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
