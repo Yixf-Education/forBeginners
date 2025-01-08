@@ -423,6 +423,7 @@
 * [从基因到疾病：等位基因频率与效应大小的关系](https://mp.weixin.qq.com/s/ad4Llwf8BSr9l43hQ09KMw)
 * [读文献先读图：GSEA 图怎么看？](https://mp.weixin.qq.com/s/_sqY7pOMZS-c0vgyGWG6Pg)
 * [Motif 分析有它就够了！Homer 带你搞定一切基因组学调控元件分析！](https://mp.weixin.qq.com/s/kAULC2ngoCdirTl8Aa4Svg)
+* [什么？我们手上的基因组并不是 “完整版”？](https://mp.weixin.qq.com/s/DptkvQ5TjfTLm-9FmnMLeQ)
 
 ## 系统课程
 
