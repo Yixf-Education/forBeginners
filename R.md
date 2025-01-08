@@ -456,6 +456,7 @@
 * [人和小鼠的基因怎么无缝切换？](https://mp.weixin.qq.com/s/uxwK7yX9FxgWhmEV0tVwTg)
 * [R 语言小白绘图系列 | 第 46 弹・染色体定位图（新版）](https://mp.weixin.qq.com/s/XRLcyQJr7K4RSOauCkVKfQ)
 * [R 语言小白绘图系列 | 第 47 弹・系统发育树](https://mp.weixin.qq.com/s/0knz7QLEIdgPn_Uj12M0aw)
+* [TCGA 数据库 | 如何将表达矩阵与样本临床数据进行合并？](https://mp.weixin.qq.com/s/H6VgI7lxunp2B5mn8qrJwA)
 
 # R包
 
