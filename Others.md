@@ -124,6 +124,7 @@
 * [PCA 图怎么看？一分钟看懂主成分分析](https://mp.weixin.qq.com/s/dkKp8WYATtQrvNi4XnilFg)
 * [案例 - R 语言探索性数据分析与 Boruta 包特征选择](https://mp.weixin.qq.com/s/JEEmmh9KQa-q9WpbD6uvjQ)
 * [数据科学指南：如何为你的数据选择合适的分析方法](https://mp.weixin.qq.com/s/GTTn4sim1H44TFxypkRhOA)
+* [临床预测模型系列（七）变量筛选及常见误解](https://mp.weixin.qq.com/s/fsvCgW2xk-KP_4z_fZzziA)
 
 ## 统计学入门
 
