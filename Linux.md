@@ -398,6 +398,7 @@
 * [玩转服务器 — 了解 bashrc 文件](https://mp.weixin.qq.com/s/Q1RLQUfCQtnknJ2ETUEVNA)
 * [玩转服务器 —Linux 文件压缩与解压一览表](https://mp.weixin.qq.com/s/1RnnHxPzuGy2mA8xOt_Wmg)
 * [玩转服务器 — 从前台到后台，让你的任务无忧运行](https://mp.weixin.qq.com/s/bex0o6koESnJiUvNRN4I5w)
+* [看完这篇，你就觉得 Linux 其实很好学](https://mp.weixin.qq.com/s/rIVvkuWopfWXNmVxurZ5YA)
 
 ## 运维
 
