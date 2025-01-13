@@ -98,6 +98,7 @@
 * [空间转录组可以解决哪些肿瘤研究难题？](https://mp.weixin.qq.com/s/NvxUNWhGLk_UOLGlViANvA)
 * [理想的空间技术 -- 真正的单细胞分辨率](https://mp.weixin.qq.com/s/YGxHHsnwOzfBdHVvWGks8w)
 * [Visium HD 分析 || 首篇 10xVisium HD 分析：解析结直肠癌和癌旁样本](https://mp.weixin.qq.com/s/tRVrX8UiLqObg-qFqSwzRg)
+* [跟着 Seurat 官网学 Xenium 空转分析](https://mp.weixin.qq.com/s/RIyqt4GYZLUBZ0TauqIl_A)
 
 ## 其他
 
