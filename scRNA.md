@@ -74,6 +74,7 @@
 * [单细胞转录组经典聚类算法：Louvain 与 Leiden](https://mp.weixin.qq.com/s/eTf54Sm1syZWaqsKX56NDA)
 * [单细胞 —— 从降维聚类分群、细胞命名、到批量富集分析，一文打通 GSE104154 博来霉素小鼠模型单细胞数据](https://mp.weixin.qq.com/s/nxB8DsdVUFluYt6vFHlfbA)
 * [cellchat 细胞通讯中 prob 与 pval 的含义是什么？](https://mp.weixin.qq.com/s/hd0ZvHl6-5kPaPWaeA5N0Q)
+* [5 种方式美化你的单细胞 umap 散点图](https://mp.weixin.qq.com/s/SJWwUVkfw1UNcM-WHZrbBQ)
 
 ## 空间转录组
 
