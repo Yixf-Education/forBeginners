@@ -461,6 +461,7 @@
 * [TCGA 数据库 | 如何将表达矩阵与样本临床数据进行合并？](https://mp.weixin.qq.com/s/H6VgI7lxunp2B5mn8qrJwA)
 * [R 语言小白绘图系列 | 第 48 弹・癌谱图](https://mp.weixin.qq.com/s/LW84Q_hcMbXazBoRIkUavQ)
 * [R 语言小白绘图系列 | 第 49 弹・人体解剖学图谱](https://mp.weixin.qq.com/s/L5Zt3zTZKWA_BZiOIvNylA)
+* [KEGG 富集结果 7 大分类展示](https://mp.weixin.qq.com/s/7bnvBcQNEalT-qT1XQ0Cgg)
 
 # R包
 
