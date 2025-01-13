@@ -49,6 +49,7 @@
 * [GWAS 分析中高质量基因型数据处理](https://mp.weixin.qq.com/s/J99w4vDC3ma49vQ_I7QLaQ)
 * [如何高效获取 UK Biobank 数据？](https://mp.weixin.qq.com/s/xOElhh3TgIng9wXL5iJzLw)
 * [传输数据，还得是 Filezilla](https://mp.weixin.qq.com/s/wNy-ttLg905NLRuAKUW98Q)
+* [认知肿瘤样本免疫浸润全局景观 ——xCell 分析 | 生信实战开发](https://mp.weixin.qq.com/s/JVeDHwUv8MEeMr1WmRmrRQ)
 
 ## 生信问题与编程技能
 * [生物信息学研究的思考](https://mp.weixin.qq.com/s/p7RKD_kVfK3ny6s7j_f8zg)
