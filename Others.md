@@ -70,6 +70,7 @@
 * [《白蛇传》，一开始是个恐怖的黑神话……](https://mp.weixin.qq.com/s/aCNDTu114vO2gPodYCSrzg)
 * [史上最烧脑的八道数学题，做的出来算我输](https://mp.weixin.qq.com/s/pQIMnJgCMj9nHaRtVzUgsg)
 * [南大核心、北大核心、CSCD、SCI、SSCI、EI、A&HCI 等期刊有什么区别？看完我悟了...](https://mp.weixin.qq.com/s/jntFpg0iU8YdDYRR1mp3RA)
+* [TonyCrane/PracticalSkillsTutorial: 浙江大学系列朋辈辅学「实用技能拾遗」课程资料仓库](https://github.com/TonyCrane/PracticalSkillsTutorial/tree/master)
 
 ## 统计
 
