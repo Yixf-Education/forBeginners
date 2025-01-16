@@ -31,6 +31,7 @@
 * [单细胞工具 MARVEL— 单细胞可变剪切分析 (二)](https://mp.weixin.qq.com/s/XoXBq6OMkghlhsg4yurHJA)
 * [cellDancer 预测 RNA Velocity 和单细胞水平的 RNA 动力学速率](https://mp.weixin.qq.com/s/idaRuTmV4giP4IzecIvTPw)
 * [Nature | 通过网络推理和计算机基因扰动分析细胞身份](https://mp.weixin.qq.com/s/Q5Zg_Uj5brY98kwGpmXfXw)
+* [Cell Type Classification Methods - Google 表格](https://docs.google.com/spreadsheets/d/1DK4ACsXCBlq_EiA_3QOJPELd_HiautGsbTPztAUKp6w/edit?pli=1&gid=0#gid=0)
 
 
 
