@@ -425,6 +425,7 @@
 * [读文献先读图：GSEA 图怎么看？](https://mp.weixin.qq.com/s/_sqY7pOMZS-c0vgyGWG6Pg)
 * [Motif 分析有它就够了！Homer 带你搞定一切基因组学调控元件分析！](https://mp.weixin.qq.com/s/kAULC2ngoCdirTl8Aa4Svg)
 * [什么？我们手上的基因组并不是 “完整版”？](https://mp.weixin.qq.com/s/DptkvQ5TjfTLm-9FmnMLeQ)
+* [什么是顺式调控与反式调控？](https://mp.weixin.qq.com/s/fjdlIWpbxpLY2ZoU34b-FA)
 
 ## 系统课程
 
