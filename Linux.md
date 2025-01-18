@@ -399,6 +399,7 @@
 * [玩转服务器 —Linux 文件压缩与解压一览表](https://mp.weixin.qq.com/s/1RnnHxPzuGy2mA8xOt_Wmg)
 * [玩转服务器 — 从前台到后台，让你的任务无忧运行](https://mp.weixin.qq.com/s/bex0o6koESnJiUvNRN4I5w)
 * [看完这篇，你就觉得 Linux 其实很好学](https://mp.weixin.qq.com/s/rIVvkuWopfWXNmVxurZ5YA)
+* [tldr：为生物软件添加一个中文注释](https://mp.weixin.qq.com/s/qUV4NYJxISFcbLKj3DZoiQ)
 
 ## 运维
 
