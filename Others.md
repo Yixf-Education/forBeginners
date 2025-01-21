@@ -346,6 +346,7 @@
 * [这 10 个很棒的免费数据源，让你告别找数据的焦虑～～](https://mp.weixin.qq.com/s/yUbzF83ur1dY2pqTSjhOSQ)
 * [大家都是在哪些网站找数据？](https://mp.weixin.qq.com/s/sJNDS7F_BRDCG2pgOflObA)
 * [全网最全的公共数据库汇总](https://mp.weixin.qq.com/s/4007O8kU-27dEiWIWqSefw)
+* [无基金课题发 SCI！2025 必挖 8 大公共临床数据库超全介绍及选题！](https://mp.weixin.qq.com/s/O2SIXfcAEWbBjHlS93gxqQ)
 
 
 
