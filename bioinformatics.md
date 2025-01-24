@@ -239,6 +239,8 @@
 * [如何寻找蛋白的同源蛋白：从一级序列比对到三维结构比对](https://mp.weixin.qq.com/s/oxt29K6cqMxdttrqEiv1_g)
 * [国内做生信，岂能不会更改镜像](https://mp.weixin.qq.com/s/-zYG2G9jnATUHlRRmRSoQg)
 * [IGV 基因组浏览器：一个组学分析中必不可少的神奇](https://mp.weixin.qq.com/s/_nYNoHHABZnguZWAgMD89A)
+* [综述：ATAC-Seq 数据分析工具大全](https://mp.weixin.qq.com/s/DSm7z9Z2QYfZJ5A_Ch7Z6g)
+* [databio/awesome-atac-analysis: Links to ATAC-seq analysis tools](https://github.com/databio/awesome-atac-analysis)
 
 ## 基因组坐标系统
 
