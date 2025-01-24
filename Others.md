@@ -397,6 +397,7 @@
 * [2024 最佳科研 AI 工具对比：Consensus、SciSpace、Elicit 及其他](https://mp.weixin.qq.com/s/xNi9mwuRTeARWH3PUQen3A)
 * [深度长文｜Claude 的 5 层 Prompt 体系：从 AI 用户到 AI 指挥官的进阶之路](https://mp.weixin.qq.com/s/BEwaHKwbOUbN9vWRtXdYNg)
 * [斯坦福大学官方发布的 8 个 ChatGPT 润色指令](https://mp.weixin.qq.com/s/nwONxHvU6xIdnbh0RzZ7sw)
+* [几分钟内开发一个网站，编程神器诞生了！](https://mp.weixin.qq.com/s/6_NFU1X3w1QpdJHsfr7m3A)
 
 
 
