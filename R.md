@@ -465,6 +465,7 @@
 * [KEGG 富集结果 7 大分类展示](https://mp.weixin.qq.com/s/7bnvBcQNEalT-qT1XQ0Cgg)
 * [18-R 语言回归分析：Cox 回归（生存分析）](https://mp.weixin.qq.com/s/a8peUJ-ZdQvzWnXwGOq1vQ)
 * [给你的单细胞 umap 图加个 cell 杂志同款的圈](https://mp.weixin.qq.com/s/smb7yTU8RBu7t8QlHhbOrQ)
+* [trackview（r 包）包绘制 基因棒棒图](https://mp.weixin.qq.com/s/0U56tRJemIMM38buv6QA6w)
 
 # R包
 
