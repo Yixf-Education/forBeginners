@@ -131,3 +131,5 @@
 * [最全！免疫检查点图文详解（上）](https://mp.weixin.qq.com/s/1Fp4FLMWcRhQdq6pRSQ2JQ)
 * [看透一个免疫细胞：B cell](https://mp.weixin.qq.com/s/aUEIyi7oJtXjrAQjdceM8w)
 * [Meta cell：拯救你那跑不动的单细胞大数据](https://mp.weixin.qq.com/s/hbLgMBxbt9TUC6sDMoarOA)
+* [65 款单细胞亚群注释工具你用过几款？](https://mp.weixin.qq.com/s/Ny6huWMJ0yiTYOg1Kv17VQ)
+* [Pluto Bio • Annotating cell clusters in single cell RNA-se... | Pluto Bio](https://pluto.bio/resources/Learning%20Series/annotating-clusters-in-scrnaseq)
