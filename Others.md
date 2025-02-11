@@ -358,7 +358,7 @@
 
 * [5 款可以吸引学生的有用的 Moodle 插件 | Linux 中国](https://mp.weixin.qq.com/s/ptmC_t5PQOkx56rHxXW4Jw)
 
-## ChatGPT
+## AI
 
 * [如果 ChatGPT 给出的的代码不太完善，如何请他一步步改好？](https://mp.weixin.qq.com/s/FEfuSBxCNe5MdKlaukxbSA)
 * [ChatGPT 对科研绘图的帮助](https://mp.weixin.qq.com/s/PFLbjUv4-mfHKSkN4M8Xig)
@@ -398,6 +398,11 @@
 * [深度长文｜Claude 的 5 层 Prompt 体系：从 AI 用户到 AI 指挥官的进阶之路](https://mp.weixin.qq.com/s/BEwaHKwbOUbN9vWRtXdYNg)
 * [斯坦福大学官方发布的 8 个 ChatGPT 润色指令](https://mp.weixin.qq.com/s/nwONxHvU6xIdnbh0RzZ7sw)
 * [几分钟内开发一个网站，编程神器诞生了！](https://mp.weixin.qq.com/s/6_NFU1X3w1QpdJHsfr7m3A)
+* [DeepSeek R1，本地部署才是王道！支持 WebUI](https://mp.weixin.qq.com/s?__biz=MzA3MzgxMzIwMA==&mid=2247484521&idx=1&sn=863c6d016358b4165666dbc0037f77d1&scene=21#wechat_redirect)
+* [🤩必看！Cherry Studio + DeepSeek 搭建本地私有知识库！](https://mp.weixin.qq.com/s/9io8AnCUn8s3bAPQD-egmw)
+* [炸裂！CherryStudio&DeepSeek 带来大模型客户端超强体验！](https://mp.weixin.qq.com/s/fWU-VRdc2wmBfCqvnIXy1Q)
+* [你不需要一个本地的大语言模型如 Deepseek，而是一个集成的知识库](https://mp.weixin.qq.com/s/eWFOwZ0tBiNAAYWFCAEF0w)
+* [DeepSeek 在 Mac 上本地可视化部署，保姆级教程，再也不怕崩了！](https://mp.weixin.qq.com/s/9T1WcEENyQP3niOquR_3uA)
 
 
 
