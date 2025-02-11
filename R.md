@@ -466,6 +466,9 @@
 * [18-R 语言回归分析：Cox 回归（生存分析）](https://mp.weixin.qq.com/s/a8peUJ-ZdQvzWnXwGOq1vQ)
 * [给你的单细胞 umap 图加个 cell 杂志同款的圈](https://mp.weixin.qq.com/s/smb7yTU8RBu7t8QlHhbOrQ)
 * [trackview（r 包）包绘制 基因棒棒图](https://mp.weixin.qq.com/s/0U56tRJemIMM38buv6QA6w)
+* [ggplot2（r 包）绘制基因棒棒糖图](https://mp.weixin.qq.com/s/7k7sAWaVFRNSkzPu0S6Xrw)
+* [G3viz（r 包）绘制基因棒棒糖图](https://mp.weixin.qq.com/s/hHX5HBRqoCEZ-1NkdadFUw)
+* [GenVisR（r 包）介绍：基因组可视化工具](https://mp.weixin.qq.com/s/COOOpGD0ISeMtWmYTLEWmg)
 
 # R包
 
