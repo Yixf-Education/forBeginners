@@ -403,6 +403,9 @@
 * [炸裂！CherryStudio&DeepSeek 带来大模型客户端超强体验！](https://mp.weixin.qq.com/s/fWU-VRdc2wmBfCqvnIXy1Q)
 * [你不需要一个本地的大语言模型如 Deepseek，而是一个集成的知识库](https://mp.weixin.qq.com/s/eWFOwZ0tBiNAAYWFCAEF0w)
 * [DeepSeek 在 Mac 上本地可视化部署，保姆级教程，再也不怕崩了！](https://mp.weixin.qq.com/s/9T1WcEENyQP3niOquR_3uA)
+* [如果 DeepSeek 能用于生信分析，又有一批人吃不上饭了啊](https://mp.weixin.qq.com/s/Vye8AFLBWwyAmetER6iCQA)
+* [R 语言接入大模型：ellmer 包快速上手](https://mp.weixin.qq.com/s/2UKTueyFLn8flsSyWpFlHA)
+* [不用求人，DeepSeek 扮演国家自然科学基金审评专家，为申请书初稿提出专业改进意见，快速提升内容质量](https://mp.weixin.qq.com/s/2iH1atzGzpw8FP_esSM_4g)
 
 
 
