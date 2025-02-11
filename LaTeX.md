@@ -150,4 +150,5 @@
 * [LaTeX 代码生成工具，自然语言公式录入 - Overleaf 的 AI 助手](https://mp.weixin.qq.com/s/E1fKRlCoqx2vRp_Lyr8loQ)
 * [CreationBoites，让文档排版瞬间优雅升级！](https://mp.weixin.qq.com/s/7derlQ85Ll3dyxteDzfmdA)
 * [拯救美国建模 LaTeX 排版，有了这工具如虎添翼](https://mp.weixin.qq.com/s/9puRiYac_8XtAR_uBO8HvQ)
+* [探索 TeX 管理题库、随机组卷和试卷排版 - 《基于 LaTeX 的高等数学题库建设与试卷生成》](https://mp.weixin.qq.com/s/pYiILuRnfkppo19Ov4_x8w)
 
