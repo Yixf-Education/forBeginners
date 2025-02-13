@@ -400,6 +400,7 @@
 * [玩转服务器 — 从前台到后台，让你的任务无忧运行](https://mp.weixin.qq.com/s/bex0o6koESnJiUvNRN4I5w)
 * [看完这篇，你就觉得 Linux 其实很好学](https://mp.weixin.qq.com/s/rIVvkuWopfWXNmVxurZ5YA)
 * [tldr：为生物软件添加一个中文注释](https://mp.weixin.qq.com/s/qUV4NYJxISFcbLKj3DZoiQ)
+* [再见 FTP/SFTP，是时候拥抱下一代文件传输利器 Croc 了！](https://mp.weixin.qq.com/s/9HKQUwo3AQiYpF0f7eiaCw)
 
 ## 运维
 
