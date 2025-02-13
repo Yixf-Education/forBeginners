@@ -406,6 +406,9 @@
 * [如果 DeepSeek 能用于生信分析，又有一批人吃不上饭了啊](https://mp.weixin.qq.com/s/Vye8AFLBWwyAmetER6iCQA)
 * [R 语言接入大模型：ellmer 包快速上手](https://mp.weixin.qq.com/s/2UKTueyFLn8flsSyWpFlHA)
 * [不用求人，DeepSeek 扮演国家自然科学基金审评专家，为申请书初稿提出专业改进意见，快速提升内容质量](https://mp.weixin.qq.com/s/2iH1atzGzpw8FP_esSM_4g)
+* [DeepSeek R1 671B 完整版本地部署教程来了！！！](https://mp.weixin.qq.com/s/G3r6okyk8JnEkmcfOP13pw)
+* [DeepSeek 等 8 种大模型本地化部署及其表现](https://mp.weixin.qq.com/s/PJTdWc2Wdoa5LlYimOWvpQ)
+* [DeepSeek 7 大隐藏功能被挖出来了，研究生开始用它发文章，网友：不会用的人会被淘汰](https://mp.weixin.qq.com/s/TlQWZeNXRQQvYPk_AP6Tyw)
 
 
 
