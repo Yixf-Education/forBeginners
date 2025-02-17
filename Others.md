@@ -129,6 +129,7 @@
 * [数据科学指南：如何为你的数据选择合适的分析方法](https://mp.weixin.qq.com/s/GTTn4sim1H44TFxypkRhOA)
 * [临床预测模型系列（七）变量筛选及常见误解](https://mp.weixin.qq.com/s/fsvCgW2xk-KP_4z_fZzziA)
 * [临床预测模型系列（九）预测模型的内部和外部验证](https://mp.weixin.qq.com/s/Kdtt2HljJc4qklU_Xvf4Mg)
+* [超强总结！十大数据预处理技巧 ！！](https://mp.weixin.qq.com/s/xMhEc1RifFIysoR_HIaxyQ)
 
 ## 统计学入门
 
