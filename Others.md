@@ -412,6 +412,7 @@
 * [DeepSeek 7 大隐藏功能被挖出来了，研究生开始用它发文章，网友：不会用的人会被淘汰](https://mp.weixin.qq.com/s/TlQWZeNXRQQvYPk_AP6Tyw)
 * [为 Rstudio 添加 AI 功能](https://mp.weixin.qq.com/s/QMxtJX8OZMWdOwZSlsm25g)
 * [一边聊天，一边使用 R 分析数据](https://mp.weixin.qq.com/s/ed5ywSYMpOeEKHA58y7U7g)
+* [用 DeepSeek 2 小时搞定一篇论文初稿（全流程攻略）！附 20 个论文高阶提示词！](https://mp.weixin.qq.com/s/fe0d9guKt6w1UqLXOdofpw)
 
 
 
