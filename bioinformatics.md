@@ -430,6 +430,7 @@
 * [什么？我们手上的基因组并不是 “完整版”？](https://mp.weixin.qq.com/s/DptkvQ5TjfTLm-9FmnMLeQ)
 * [什么是顺式调控与反式调控？](https://mp.weixin.qq.com/s/fjdlIWpbxpLY2ZoU34b-FA)
 * [BLAST 与 HMM 算法，到底是什么鬼](https://mp.weixin.qq.com/s/54At-o66W8IU8-UD-E_aqQ)
+* [深入解析 GTF 文件：基因组注释的钥匙](https://mp.weixin.qq.com/s/7hafXB2zWCRsFHLS3ZJL_w)
 
 ## 系统课程
 
