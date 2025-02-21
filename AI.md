@@ -41,6 +41,8 @@
 * [深度长文｜Claude 的 5 层 Prompt 体系：从 AI 用户到 AI 指挥官的进阶之路](https://mp.weixin.qq.com/s/BEwaHKwbOUbN9vWRtXdYNg)
 * [几分钟内开发一个网站，编程神器诞生了！](https://mp.weixin.qq.com/s/6_NFU1X3w1QpdJHsfr7m3A)
 * [100 个常用的 DeepSeek 提示词](https://mp.weixin.qq.com/s/P5X6qB25yBsMYZ53pmpKtA)
+* [效率神器，用 Kimi 一天读完 100 本书籍](https://mp.weixin.qq.com/s/lduH9WZeDn0JTspPnJncyQ)
+* [20 个很强的 DeepSeek 提问公式](https://mp.weixin.qq.com/s/qrkn0XY7yDGttLKOeY83-w)
 
 
 ## 编写代码
@@ -80,3 +82,7 @@
 * [为 Rstudio 添加 AI 功能](https://mp.weixin.qq.com/s/QMxtJX8OZMWdOwZSlsm25g)
 * [一边聊天，一边使用 R 分析数据](https://mp.weixin.qq.com/s/ed5ywSYMpOeEKHA58y7U7g)
 * [DeepSeek 大模型在单细胞注释中的表现](https://mp.weixin.qq.com/s/l9hBakvpm4LHphR2k2Nvag)
+* [deepseek + mermaid 自动绘制流程图](https://mp.weixin.qq.com/s?__biz=Mzk0ODY5ODAwNw==&mid=2247485661&idx=1&sn=b0c16b61fdb346e8cdd75c8c149069f7&scene=21#wechat_redirect)
+* [Deepseek + Napkin 轻松打造高颜值流程图](https://mp.weixin.qq.com/s/loqIrQNbzdRr__M0gIdiLQ)
+* [PPT 效率革命：用 DeepSeek+MindShow 30 分钟完成专业级 PPT](https://mp.weixin.qq.com/s/o__srP1dR959qk81aaMwyQ)
+* [DeepSeek 制作 PPT，太快了](https://mp.weixin.qq.com/s/fV2UXZT-lTkZl6CKelLIJw)
