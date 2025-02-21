@@ -469,6 +469,7 @@
 * [ggplot2（r 包）绘制基因棒棒糖图](https://mp.weixin.qq.com/s/7k7sAWaVFRNSkzPu0S6Xrw)
 * [G3viz（r 包）绘制基因棒棒糖图](https://mp.weixin.qq.com/s/hHX5HBRqoCEZ-1NkdadFUw)
 * [GenVisR（r 包）介绍：基因组可视化工具](https://mp.weixin.qq.com/s/COOOpGD0ISeMtWmYTLEWmg)
+* [ezcox 包：批量单因素多因素 Cox 模型 + 可视化](https://mp.weixin.qq.com/s/c9-Y5Nej5M_39IismoEjSQ)
 
 # R包
 
