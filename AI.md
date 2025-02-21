@@ -69,6 +69,7 @@
 * [清华大学第四弹：DeepSeek+DeepResearch 让科研像聊天一样简单（附 PDF）](https://mp.weixin.qq.com/s/6xqqP0IQorXqz5oZeFBAyg?poc_token=HJnJt2ejj2HA892f74rgEjeh4rD0F29MG8xkE17l)
 * [90 个 DeepSeek 学术提示词，24 小时完成一篇论文！（无套路，直接领）](https://mp.weixin.qq.com/s/AAbokb9m012SC3tj_3piLg)
 * [我愿称之为修改国自然基金最伟大的 Deepseeek 提示词](https://mp.weixin.qq.com/s/9JR7esY62PiKLvukqgjZRg)
+* [手把手教你用 deepseek 高效阅读文献并完成文献综述写作](https://mp.weixin.qq.com/s/1EG8Pe15q1uduwcS5YKcDw)
 
 
 ## 分析绘图
