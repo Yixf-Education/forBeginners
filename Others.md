@@ -341,6 +341,7 @@
 * [文献综述、学术论文阅读的 10 个高效工具。](https://mp.weixin.qq.com/s/P4u1_dMjzaQedYfMNrek7w)
 * [被博导夸爆的 discussion 结构五部法‼️](https://mp.weixin.qq.com/s/uih9DLYvdoGTdSLFKuPJHQ)
 * [sci 摘要这样写，妥妥 accepted](https://mp.weixin.qq.com/s/04kPPPiNtehR-bFWnNdpLA)
+* [审稿人的暗示，你读懂了吗？如何回复很关键...](https://mp.weixin.qq.com/s/EWsq451M2kJy14zJJjWWFQ)
 
 ## 数据集
 
