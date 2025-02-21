@@ -78,3 +78,4 @@
 * [R 语言接入大模型：ellmer 包快速上手](https://mp.weixin.qq.com/s/2UKTueyFLn8flsSyWpFlHA)
 * [为 Rstudio 添加 AI 功能](https://mp.weixin.qq.com/s/QMxtJX8OZMWdOwZSlsm25g)
 * [一边聊天，一边使用 R 分析数据](https://mp.weixin.qq.com/s/ed5ywSYMpOeEKHA58y7U7g)
+* [DeepSeek 大模型在单细胞注释中的表现](https://mp.weixin.qq.com/s/l9hBakvpm4LHphR2k2Nvag)
