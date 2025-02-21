@@ -1,0 +1,80 @@
+# AI
+
+## 工具汇总
+
+* [ChatPDF - Chat with any PDF!](https://www.chatpdf.com/)
+* [效率神器！超实用的 6 款私藏 AI 工具推荐](https://mp.weixin.qq.com/s/EEJZTa3pjRjFC0K2Ow3brw)
+* [RTutor](https://rtutor.ai/): Chat with your data in dozens of human languages.
+* [好物安利 | 国内可稳定使用的 GPT-4，还自带联网功能噢](https://mp.weixin.qq.com/s/jcdkZA8aF_NtQ2bIf3qQAA)
+* [效率 up！热门 AI 工具盘点](https://mp.weixin.qq.com/s/euXoepWVYTAyExTO2j1Vug)
+* [GPT 学术优化：支持 LaTeX 的免费工具，让你学术论文精致高效](https://mp.weixin.qq.com/s/lykLTuoJF8r5eUKSBg5AFQ)
+* [用 ai.TBtools.icu 助力英文、中文、学位论文写作](https://mp.weixin.qq.com/s/D54OB_wRbt_YWHkUGlPwig)
+* [实用 | 一个神奇网站，提升中英写作文笔！](https://mp.weixin.qq.com/s/2aEcpmd-H5Sm282WDV5oaQ)
+* [最新，20 个国内免费 ChatGPT (4o/4.0/3.5) 镜像站](https://mp.weixin.qq.com/s/tc2j0sAHG_XKeYQtv3A2Gw)
+* [2024 最佳科研 AI 工具对比：Consensus、SciSpace、Elicit 及其他](https://mp.weixin.qq.com/s/xNi9mwuRTeARWH3PUQen3A)
+* [DeepSeek R1，本地部署才是王道！支持 WebUI](https://mp.weixin.qq.com/s?__biz=MzA3MzgxMzIwMA==&mid=2247484521&idx=1&sn=863c6d016358b4165666dbc0037f77d1&scene=21#wechat_redirect)
+* [🤩必看！Cherry Studio + DeepSeek 搭建本地私有知识库！](https://mp.weixin.qq.com/s/9io8AnCUn8s3bAPQD-egmw)
+* [炸裂！CherryStudio&DeepSeek 带来大模型客户端超强体验！](https://mp.weixin.qq.com/s/fWU-VRdc2wmBfCqvnIXy1Q)
+* [你不需要一个本地的大语言模型如 Deepseek，而是一个集成的知识库](https://mp.weixin.qq.com/s/eWFOwZ0tBiNAAYWFCAEF0w)
+* [DeepSeek 在 Mac 上本地可视化部署，保姆级教程，再也不怕崩了！](https://mp.weixin.qq.com/s/9T1WcEENyQP3niOquR_3uA)
+* [如果 DeepSeek 能用于生信分析，又有一批人吃不上饭了啊](https://mp.weixin.qq.com/s/Vye8AFLBWwyAmetER6iCQA)
+* [DeepSeek R1 671B 完整版本地部署教程来了！！！](https://mp.weixin.qq.com/s/G3r6okyk8JnEkmcfOP13pw)
+* [DeepSeek 等 8 种大模型本地化部署及其表现](https://mp.weixin.qq.com/s/PJTdWc2Wdoa5LlYimOWvpQ)
+* [DeepSeek 7 大隐藏功能被挖出来了，研究生开始用它发文章，网友：不会用的人会被淘汰](https://mp.weixin.qq.com/s/TlQWZeNXRQQvYPk_AP6Tyw)
+
+
+## 变革思考
+
+* [ChatGPT 之后，教育向何处去？](https://mp.weixin.qq.com/s/45m0zHERb1E8TRaj4RqP0Q)
+
+
+## 基本使用
+
+* [问题解决 | R 语言 devtools::install_github 失败](https://mp.weixin.qq.com/s/O585uUogtxXK2neeA5QeBQ)
+* [生信人用好 chatGPT 的十条建议](https://mp.weixin.qq.com/s/inpLCwJk3OUj2lXd2GF9sw)
+* [如何有效利用 chatgpt? - 知乎](https://www.zhihu.com/question/602759673/answer/3067207126)
+* [ChatGPT 提示词大全，读完本文能让你对 AI 应用能力，超越 90% 的人！！](https://mp.weixin.qq.com/s?__biz=MzU4MDc4OTc0Nw==&mid=2247490065&idx=1&sn=6a2496d9adad0ca96001b1ef8638c432&chksm=fd502e8dca27a79bfd06040495e437d7b2ce61bbc6a1c44be5dded57ac083ceae4c2adc04455#rd)
+* [让 chatGPT 做你的 24 小时生信教练](https://mp.weixin.qq.com/s/QaUZAhuKXOO5wNPJFF-vVA)
+* [ChatGPT 发布一年后，我再也离不开它了](https://mp.weixin.qq.com/s/a-_cZeZ0Q6D_JGRmRyg9jw)
+* [美国专家的提示词技巧实测，无论 Kimi 还是豆包都好用，吊打全网 90% 的提示词课程，尤其是最后的懒人提示词，太神了](https://mp.weixin.qq.com/s/djzHUh7aYgCokeQqKMf_uA)
+* [从 0 到 1，不会编程的我用 ChatGPT 写了一个地震警报 App](https://mp.weixin.qq.com/s/th4YunMlDnIee34vQg-4gQ)
+* [深度长文｜Claude 的 5 层 Prompt 体系：从 AI 用户到 AI 指挥官的进阶之路](https://mp.weixin.qq.com/s/BEwaHKwbOUbN9vWRtXdYNg)
+* [几分钟内开发一个网站，编程神器诞生了！](https://mp.weixin.qq.com/s/6_NFU1X3w1QpdJHsfr7m3A)
+* [100 个常用的 DeepSeek 提示词](https://mp.weixin.qq.com/s/P5X6qB25yBsMYZ53pmpKtA)
+
+
+## 编写代码
+
+* [如果 ChatGPT 给出的的代码不太完善，如何请他一步步改好？](https://mp.weixin.qq.com/s/FEfuSBxCNe5MdKlaukxbSA)
+* [用 GPT-4 在黑客大赛上 “炸场”：不完全会 Linux、Perl，似乎也没有关系了！](https://mp.weixin.qq.com/s/mPcpIHD6FGYEyIPzqmo67A)
+
+
+## 论文课题
+
+* [用上这 10 条神指令（prompt)，让 ChatGPT 快速写出优质高分科研论文](https://mp.weixin.qq.com/s/NvQ40vzBmy6gJzcf02Sg7Q)
+* [利用 ChatGPT 生成文献综述和参考文献的全攻略](https://mp.weixin.qq.com/s/hd8XCoIsWFB2gSOh-5UncQ)
+* [ChatGPT 论文指南 | 吐血总结 ChatGPT 完成高质量学术论文全流程！](https://mp.weixin.qq.com/s/enPckpxT-4qmuoWqR7d2_A)
+* [只需三小时，使用 ChatGPT 生成参考文献和文献综述的完全操作指南](https://mp.weixin.qq.com/s/UrGCJ-sYgDaTu7kS7p0MSQ)
+* [汇集 ChatGPT 写论文全过程高阶提示词指令，会用的半天就能完成一篇优质论文](https://mp.weixin.qq.com/s/T17TV93r6htXw90Ri_VQdw)
+* [ChatGPT 让你同时轻松拿捏几十篇文献【附指令】](https://mp.weixin.qq.com/s/uzN-EplvfcaHwNSApVg3ow)
+* [1 招堵住审稿人的嘴！ChatGPT 一键修改论文语法拼写](https://mp.weixin.qq.com/s/5-KMkI1iWTbhktyfL3AdKA)
+* [30 个顶级 GPT 提示词，6 小时写完一篇学术论文](https://mp.weixin.qq.com/s/v8dG0Paz-QU-VmEa2OepKw)
+* [让你大呼过瘾的！专业级论文润色 ChatGPT 指令集【一看就会教程】](https://mp.weixin.qq.com/s/2ce1J4FLqvKyHzeM_gj0xA)
+* [30 个顶级 GPT 提示词，半年发表两篇 SCI！](https://mp.weixin.qq.com/s/qnDPgkCwG8uJOAgZMvTL9Q)
+* [听劝！让审稿人闭嘴！这 14 条 ChatGPT 指令就够了](https://mp.weixin.qq.com/s/fjBNqbgwj6mClRoW_Ims1Q)
+* [为什么导师一天可以阅读 50 篇文献？这 40 个神级 GPT 指令请收好！](https://mp.weixin.qq.com/s/LpzAp-5w2FJcXYpMHhr_xA)
+* [斯坦福大学官方发布的 8 个 ChatGPT 润色指令](https://mp.weixin.qq.com/s/nwONxHvU6xIdnbh0RzZ7sw)
+* [不用求人，DeepSeek 扮演国家自然科学基金审评专家，为申请书初稿提出专业改进意见，快速提升内容质量](https://mp.weixin.qq.com/s/2iH1atzGzpw8FP_esSM_4g)
+* [用 DeepSeek 2 小时搞定一篇论文初稿（全流程攻略）！附 20 个论文高阶提示词！](https://mp.weixin.qq.com/s/fe0d9guKt6w1UqLXOdofpw)
+* [清华大学第四弹：DeepSeek+DeepResearch 让科研像聊天一样简单（附 PDF）](https://mp.weixin.qq.com/s/6xqqP0IQorXqz5oZeFBAyg?poc_token=HJnJt2ejj2HA892f74rgEjeh4rD0F29MG8xkE17l)
+* [90 个 DeepSeek 学术提示词，24 小时完成一篇论文！（无套路，直接领）](https://mp.weixin.qq.com/s/AAbokb9m012SC3tj_3piLg)
+* [我愿称之为修改国自然基金最伟大的 Deepseeek 提示词](https://mp.weixin.qq.com/s/9JR7esY62PiKLvukqgjZRg)
+
+
+## 分析绘图
+
+* [ChatGPT 对科研绘图的帮助](https://mp.weixin.qq.com/s/PFLbjUv4-mfHKSkN4M8Xig)
+* [60 + 条用于数据科学领域的 ChatGPT prompts 语句](https://mp.weixin.qq.com/s/ZzNPVVYhNpU1gRlOPaVJbg)
+* [R 语言接入大模型：ellmer 包快速上手](https://mp.weixin.qq.com/s/2UKTueyFLn8flsSyWpFlHA)
+* [为 Rstudio 添加 AI 功能](https://mp.weixin.qq.com/s/QMxtJX8OZMWdOwZSlsm25g)
+* [一边聊天，一边使用 R 分析数据](https://mp.weixin.qq.com/s/ed5ywSYMpOeEKHA58y7U7g)
