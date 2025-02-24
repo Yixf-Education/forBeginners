@@ -22,11 +22,17 @@
 * [DeepSeek 等 8 种大模型本地化部署及其表现](https://mp.weixin.qq.com/s/PJTdWc2Wdoa5LlYimOWvpQ)
 * [DeepSeek 7 大隐藏功能被挖出来了，研究生开始用它发文章，网友：不会用的人会被淘汰](https://mp.weixin.qq.com/s/TlQWZeNXRQQvYPk_AP6Tyw)
 * [DeepSeek 本地部署与使用初探](https://mp.weixin.qq.com/s/Zb0oo9jcGZ8nLjmGBA4UWw)
+* [满血版 DeepSeek 上线免费使用，829 所高校共享！](https://mp.weixin.qq.com/s/PRA72VsC68XEZnCUaoBlTw)
+* [3 个令人惊艳的 DeepSeek 项目，诞生了！](https://mp.weixin.qq.com/s/XxRqRg6ENa75AOOUgGgoFQ)
+* [GitHub - deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+* [DeepSeek 联合 PubMed、Zotero 等四大工具出手了！研究生直呼：我论文有救了](https://mp.weixin.qq.com/s/THfHD5iR309kWpV8Z0U4tQ)
 
 
 ## 变革思考
 
 * [ChatGPT 之后，教育向何处去？](https://mp.weixin.qq.com/s/45m0zHERb1E8TRaj4RqP0Q)
+* [用不来 or 不敢用？大型调查揭示科研人员对 AI 的态度](https://mp.weixin.qq.com/s/kQv-8UQMMM3O9lT4ieOzeA)
+* [Nature 指南：AI 工具哪家强？DeepSeek-R1 全能，o3-mini 擅长推理，Llama 是牛马](https://mp.weixin.qq.com/s/Y1KMpY3d85ntLG2Q2lrmTw)
 
 
 ## 基本使用
@@ -89,3 +95,9 @@
 * [Deepseek + Napkin 轻松打造高颜值流程图](https://mp.weixin.qq.com/s/loqIrQNbzdRr__M0gIdiLQ)
 * [PPT 效率革命：用 DeepSeek+MindShow 30 分钟完成专业级 PPT](https://mp.weixin.qq.com/s/o__srP1dR959qk81aaMwyQ)
 * [DeepSeek 制作 PPT，太快了](https://mp.weixin.qq.com/s/fV2UXZT-lTkZl6CKelLIJw)
+
+## 生物模型
+
+* [生物版 Deepseek 来了！斯坦福、英伟达祭出史上最大开源 AI 生物学模型，400 亿参数引爆学界](https://mp.weixin.qq.com/s/b9XKIq8SiikH1lC7zYV2rQ)
+* [重磅！中美两国同天发布生物学 AI 大模型，免费开源，更适合生物学领域科研工作者！](https://mp.weixin.qq.com/s/RsTAxRu8D2ZlU9odDamvQg)
+* 
