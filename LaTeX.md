@@ -154,4 +154,5 @@
 * [一文搞懂，LaTeX 数学公式对齐超全指南](https://mp.weixin.qq.com/s/Aaq27Tp6D1-86a-_UCcuHQ)
 * [LaTeX 玩扑克！JeuxCartes 包让你轻松玩转扑克和纸牌游戏 - 元宵快乐！](https://mp.weixin.qq.com/s/o2DazQjDPpe4NEz3OmgEuQ)
 * [教师必备！用 LaTeX 轻松排版试卷 - 25 最新版](https://mp.weixin.qq.com/s/APou3zcd4zvF_NPyKXR8Zg)
+* [LaTeX 制作 2025 新版教案模板 - 爱上教案排版的模版](https://mp.weixin.qq.com/s/oUY3q7yOSY-KIF1jwZBWcw)
 
