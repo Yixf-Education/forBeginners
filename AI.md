@@ -21,6 +21,7 @@
 * [DeepSeek R1 671B 完整版本地部署教程来了！！！](https://mp.weixin.qq.com/s/G3r6okyk8JnEkmcfOP13pw)
 * [DeepSeek 等 8 种大模型本地化部署及其表现](https://mp.weixin.qq.com/s/PJTdWc2Wdoa5LlYimOWvpQ)
 * [DeepSeek 7 大隐藏功能被挖出来了，研究生开始用它发文章，网友：不会用的人会被淘汰](https://mp.weixin.qq.com/s/TlQWZeNXRQQvYPk_AP6Tyw)
+* [DeepSeek 本地部署与使用初探](https://mp.weixin.qq.com/s/Zb0oo9jcGZ8nLjmGBA4UWw)
 
 
 ## 变革思考
