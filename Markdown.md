@@ -51,4 +51,5 @@
 * [marp-team/marp: The entrance repository of Markdown presentation ecosystem](https://github.com/marp-team/marp)
 * [deckgo/deckdeckgo: The web open source editor for presentations](https://github.com/deckgo/deckdeckgo)
 * [Quarto](https://quarto.org/)
+* [Moffee：一键将 Markdown 转换为专业 PPT，支持多主题与实时预览](https://mp.weixin.qq.com/s/0itLAxijwX1qQVNhtrDm4w)
 
