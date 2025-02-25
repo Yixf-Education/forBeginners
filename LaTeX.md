@@ -124,6 +124,7 @@
 * [把 LaTeX 参考文献变成表格形式，开题报告模版得救了](https://mp.weixin.qq.com/s/PYy5D7-pUEWR4GbrbpIn1A)
 * [期刊回复信 TeX 模板汇总](https://mp.weixin.qq.com/s/sZDAdkgcWI_VP7oZccBaAg)
 * [使用 latexdiff 做修订版论文中文无法断行问题修复](https://mp.weixin.qq.com/s/83xVexWrO9ldqJQJuRjkLQ)
+* [专为考研做题本 / 刷题本而设计的 LaTeX 模版](https://mp.weixin.qq.com/s/BaGPOi-l2LFrnrp-cK8wwg)
 
 ## 幻灯片
 * [R Markdown 制作 beamer 幻灯片](https://mp.weixin.qq.com/s/vnDD1Ovx1TaW4TdBnf56vQ)
