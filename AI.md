@@ -82,6 +82,7 @@
 * [手把手教你用 deepseek 高效阅读文献并完成文献综述写作](https://mp.weixin.qq.com/s/1EG8Pe15q1uduwcS5YKcDw)
 * [论文选题的 “降维打击”：用 DeepSeek 发现别人看不到的研究机会](https://mp.weixin.qq.com/s/u_q8gZQGCmDt_95t3b-7WA)
 * [100 个顶级 DeepSeek 提示词 —— 论文润色篇](https://mp.weixin.qq.com/s/AN11i0exZ9-JZuVhbxumfQ)
+* [deepseek+zotero，轻松搞定文献阅读！](https://mp.weixin.qq.com/s/adQepX0NmEDpzIXNSl4MLQ)
 
 
 ## 分析绘图
@@ -101,4 +102,4 @@
 
 * [生物版 Deepseek 来了！斯坦福、英伟达祭出史上最大开源 AI 生物学模型，400 亿参数引爆学界](https://mp.weixin.qq.com/s/b9XKIq8SiikH1lC7zYV2rQ)
 * [重磅！中美两国同天发布生物学 AI 大模型，免费开源，更适合生物学领域科研工作者！](https://mp.weixin.qq.com/s/RsTAxRu8D2ZlU9odDamvQg)
-* 
+* [SciToolAgent：基于知识图谱的智能体，一键整合 500 + 科研工具](https://mp.weixin.qq.com/s/Vgs3hRZOImTiS-CODxP3dQ)
