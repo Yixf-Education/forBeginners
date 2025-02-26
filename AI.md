@@ -26,6 +26,7 @@
 * [3 个令人惊艳的 DeepSeek 项目，诞生了！](https://mp.weixin.qq.com/s/XxRqRg6ENa75AOOUgGgoFQ)
 * [GitHub - deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 * [DeepSeek 联合 PubMed、Zotero 等四大工具出手了！研究生直呼：我论文有救了](https://mp.weixin.qq.com/s/THfHD5iR309kWpV8Z0U4tQ)
+* [DeepSeek 最强外挂！搭建「个人知识库」，让 AI 更懂你！](https://mp.weixin.qq.com/s/tYZJhkEKXO6AbxFj4Wha_w)
 
 
 ## 变革思考
