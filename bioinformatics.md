@@ -242,6 +242,7 @@
 * [综述：ATAC-Seq 数据分析工具大全](https://mp.weixin.qq.com/s/DSm7z9Z2QYfZJ5A_Ch7Z6g)
 * [databio/awesome-atac-analysis: Links to ATAC-seq analysis tools](https://github.com/databio/awesome-atac-analysis)
 * [从 gtf 文件构建 orgdb 和 txdb 数据库](https://mp.weixin.qq.com/s/w3FFimm-xF2OY20aoFRcSg)
+* [一个优秀的 ATAC-seq 数据分析资源实战（一）](https://mp.weixin.qq.com/s/-4ohvZnJMzEA5ADDlUFGRg)
 
 ## 基因组坐标系统
 
