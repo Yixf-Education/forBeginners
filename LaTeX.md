@@ -80,6 +80,7 @@
 * [列表环境的间距控制感到头疼？listparskip 宏包来救你！](https://mp.weixin.qq.com/s/0HbN4IOj8Cw-AlhOhioj5g)
 * [CreationBoites，让文档排版瞬间优雅升级！](https://mp.weixin.qq.com/s/7derlQ85Ll3dyxteDzfmdA)
 * [LaTeX 玩扑克！JeuxCartes 包让你轻松玩转扑克和纸牌游戏 - 元宵快乐！](https://mp.weixin.qq.com/s/o2DazQjDPpe4NEz3OmgEuQ)
+* [还在为 TeX 代码高亮发愁？TeXhigh 宏包来救场啦！](https://mp.weixin.qq.com/s/a971k4OhRqxplplVF0SuOQ)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
