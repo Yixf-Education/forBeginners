@@ -84,6 +84,8 @@
 * [论文选题的 “降维打击”：用 DeepSeek 发现别人看不到的研究机会](https://mp.weixin.qq.com/s/u_q8gZQGCmDt_95t3b-7WA)
 * [100 个顶级 DeepSeek 提示词 —— 论文润色篇](https://mp.weixin.qq.com/s/AN11i0exZ9-JZuVhbxumfQ)
 * [deepseek+zotero，轻松搞定文献阅读！](https://mp.weixin.qq.com/s/adQepX0NmEDpzIXNSl4MLQ)
+* [8 个精准到头发丝的 DeepSeek 提示词，一天肝完论文还拿优秀](https://mp.weixin.qq.com/s/V_2IqU84H-mrUBoUii8ymg)
+* [比 Deepseek 还厉害？论文秒变视频 + PPT, 我的组会有救了！](https://mp.weixin.qq.com/s/n4weqHz13-Ms8v2YAPJoVQ?poc_token=HLUGwWejzLMZA6vQflaiLwMIT2tJw-77fovLd8Yz)
 
 
 ## 分析绘图
