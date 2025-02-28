@@ -104,3 +104,4 @@
 * [生物版 Deepseek 来了！斯坦福、英伟达祭出史上最大开源 AI 生物学模型，400 亿参数引爆学界](https://mp.weixin.qq.com/s/b9XKIq8SiikH1lC7zYV2rQ)
 * [重磅！中美两国同天发布生物学 AI 大模型，免费开源，更适合生物学领域科研工作者！](https://mp.weixin.qq.com/s/RsTAxRu8D2ZlU9odDamvQg)
 * [SciToolAgent：基于知识图谱的智能体，一键整合 500 + 科研工具](https://mp.weixin.qq.com/s/Vgs3hRZOImTiS-CODxP3dQ)
+* [基因组语言模型 | 基因组学大语言模型 Evo2 如何在线使用](https://mp.weixin.qq.com/s/JCdtWedpuOhmZ8zeUHipOg)
