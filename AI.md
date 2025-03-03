@@ -37,6 +37,7 @@
 * [用不来 or 不敢用？大型调查揭示科研人员对 AI 的态度](https://mp.weixin.qq.com/s/kQv-8UQMMM3O9lT4ieOzeA)
 * [Nature 指南：AI 工具哪家强？DeepSeek-R1 全能，o3-mini 擅长推理，Llama 是牛马](https://mp.weixin.qq.com/s/Y1KMpY3d85ntLG2Q2lrmTw)
 * [建议大家尽早开始搭建个人知识库](https://mp.weixin.qq.com/s/lDGNOmvxtRq5j1IeWCeiNA)
+* [AI 撒谎只是前戏！人类脑死亡或成进行时](https://mp.weixin.qq.com/s/QVQU5JzK8-z_FcKZJNtvMA)
 
 
 ## 基本使用
