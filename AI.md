@@ -29,6 +29,7 @@
 * [DeepSeek 最强外挂！搭建「个人知识库」，让 AI 更懂你！](https://mp.weixin.qq.com/s/tYZJhkEKXO6AbxFj4Wha_w)
 * [用本地 AI 打造个人知识库：DeepSeek + Cherry Studio 实战指南](https://mp.weixin.qq.com/s/Xb6fPCcpKjjDKfEGlcnB0g)
 * [如何正确部署 DeepSeek R1，坚决不建议 ollama](https://mp.weixin.qq.com/s/i1qFm82TOg6G1YKu-Oqkuw)
+* [80 款 AI 应用大集合](https://mp.weixin.qq.com/s/YSqsBgR3wtnhjqxmHmrG8Q)
 
 
 ## 变革思考
