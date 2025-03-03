@@ -177,6 +177,7 @@
 * [R 语言中的自然语言处理：20 个实用技巧](https://mp.weixin.qq.com/s/eARqY8DlQBf17zZnV3XzDg)
 * [R 语言中的单元测试：确保代码质量的 10 个最佳实践](https://mp.weixin.qq.com/s/DtfykIakv0sofj6TmOv47w)
 * [【SAS 老兵 vs R 新贵】Tidyverse 包风格指南](https://mp.weixin.qq.com/s/fsuwp87uC7SHZDetEOU5Tw)
+* [“去重复” 的 R 语言代码](https://mp.weixin.qq.com/s/bKkeCrpmzni4xtVIdPaUjg)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
