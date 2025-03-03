@@ -19,6 +19,7 @@
 * [笔记详情 - MDX Notes](https://mdxnotes.com/post?id=demo)
 * [微信 Markdown 编辑器 | Doocs 开源社区](https://doocs.github.io/md/)
 * [微信 Markdown 编辑器 | Doocs 开源社区](https://doocs-md.pages.dev/)
+* [笔记 | 制作基于 markdown 的简易 slides](https://mp.weixin.qq.com/s/7sr7-wWuPRFfow6Fbp0Zag)
 
 ## 语法
 * [什么是Markdown?](http://jingxuan.io/markdown/)
