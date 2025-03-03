@@ -104,6 +104,7 @@
 * [Deepseek + Napkin 轻松打造高颜值流程图](https://mp.weixin.qq.com/s/loqIrQNbzdRr__M0gIdiLQ)
 * [PPT 效率革命：用 DeepSeek+MindShow 30 分钟完成专业级 PPT](https://mp.weixin.qq.com/s/o__srP1dR959qk81aaMwyQ)
 * [DeepSeek 制作 PPT，太快了](https://mp.weixin.qq.com/s/fV2UXZT-lTkZl6CKelLIJw)
+* [如何使用 DeepSeek 进行科研图表绘制？](https://mp.weixin.qq.com/s/iJl0l1FvQDiKHPrMh14vlw)
 
 ## 生物模型
 
