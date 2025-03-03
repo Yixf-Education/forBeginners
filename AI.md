@@ -27,6 +27,8 @@
 * [GitHub - deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 * [DeepSeek 联合 PubMed、Zotero 等四大工具出手了！研究生直呼：我论文有救了](https://mp.weixin.qq.com/s/THfHD5iR309kWpV8Z0U4tQ)
 * [DeepSeek 最强外挂！搭建「个人知识库」，让 AI 更懂你！](https://mp.weixin.qq.com/s/tYZJhkEKXO6AbxFj4Wha_w)
+* [用本地 AI 打造个人知识库：DeepSeek + Cherry Studio 实战指南](https://mp.weixin.qq.com/s/Xb6fPCcpKjjDKfEGlcnB0g)
+* [如何正确部署 DeepSeek R1，坚决不建议 ollama](https://mp.weixin.qq.com/s/i1qFm82TOg6G1YKu-Oqkuw)
 
 
 ## 变革思考
