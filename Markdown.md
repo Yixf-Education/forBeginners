@@ -46,6 +46,7 @@
 * [Markdown 基本语法 | Markdown 官方教程](https://markdown.com.cn/basic-syntax/)
 * [Markdown 基本语法 | Markdown 指南中文版](https://www.markdown.xyz/basic-syntax/)
 * [Markdown语法及原理从入门到高级（可能是全网最全）](https://www.zhihu.com/tardis/zm/art/99319314?source_id=1003)
+* [Markdown介绍与语法](https://mp.weixin.qq.com/s/hVBGgq_BesVbn1D1X9zmJg)
 
 ## 工具
 * [4 个 Linux 命令行下的 Markdown 工具](https://zhuanlan.zhihu.com/p/120132098)
