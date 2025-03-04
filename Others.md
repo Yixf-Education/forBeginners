@@ -342,6 +342,7 @@
 * [被博导夸爆的 discussion 结构五部法‼️](https://mp.weixin.qq.com/s/uih9DLYvdoGTdSLFKuPJHQ)
 * [sci 摘要这样写，妥妥 accepted](https://mp.weixin.qq.com/s/04kPPPiNtehR-bFWnNdpLA)
 * [审稿人的暗示，你读懂了吗？如何回复很关键...](https://mp.weixin.qq.com/s/EWsq451M2kJy14zJJjWWFQ)
+* [科研必备：从文献查找、数据检索到论文降重的科研工具大集合](https://mp.weixin.qq.com/s/n60AkNXzZS9TVVd52hZ94g)
 
 ## 数据集
 
