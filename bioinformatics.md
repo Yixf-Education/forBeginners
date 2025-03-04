@@ -245,6 +245,7 @@
 * [一个优秀的 ATAC-seq 数据分析资源实战（一）](https://mp.weixin.qq.com/s/-4ohvZnJMzEA5ADDlUFGRg)
 * [一个优秀的 ATAC-seq 数据分析资源实战（二）](https://mp.weixin.qq.com/s/75kbK_4XY96n18v9033EUA)
 * [生信数据技能｜第四期：在远程服务器上工作](https://mp.weixin.qq.com/s/EaQvtDAur6PcnORrui2NUw)
+* [转录组×免疫浸润：洞察肿瘤、炎症与免疫疗法的新视角](https://mp.weixin.qq.com/s/RR-IWRHHqLscySD-7IBfoA)
 
 ## 基因组坐标系统
 
