@@ -130,6 +130,7 @@
 * [临床预测模型系列（七）变量筛选及常见误解](https://mp.weixin.qq.com/s/fsvCgW2xk-KP_4z_fZzziA)
 * [临床预测模型系列（九）预测模型的内部和外部验证](https://mp.weixin.qq.com/s/Kdtt2HljJc4qklU_Xvf4Mg)
 * [超强总结！十大数据预处理技巧 ！！](https://mp.weixin.qq.com/s/xMhEc1RifFIysoR_HIaxyQ)
+* [使用 SHAP 使机器学习模型变的可解释！！](https://mp.weixin.qq.com/s/51qLGQ-ZqfJJvfCdqL2AZg)
 
 ## 统计学入门
 
