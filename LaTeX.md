@@ -91,6 +91,8 @@
 * [Excel 表格怎么秒变 LaTeX 格式？](https://mp.weixin.qq.com/s/MtunsjhumOb1EIkRvG5zCQ)
 * [在线 LaTeX 知多少](https://mp.weixin.qq.com/s/o9j4jToftvtFXKMRW_SIpA)
 * [Slager | LaTeX在线编辑器 | 人人都是论文高手](https://www.slager.link/#/Home)
+* [TransGPTex：支持 deepseek 接入让 LaTeX 文章翻译与编译变得超简单](https://mp.weixin.qq.com/s/_sGH3hhRBxCPiDolYFe63A)
+* [离线可用手绘符号查找 LaTeX 命令 - LaTeX 符号命令查询助手](https://mp.weixin.qq.com/s/P10E-r3McqJwZbv3j-V_NQ)
 
 
 ## 教学
