@@ -20,6 +20,7 @@
 * [微信 Markdown 编辑器 | Doocs 开源社区](https://doocs.github.io/md/)
 * [微信 Markdown 编辑器 | Doocs 开源社区](https://doocs-md.pages.dev/)
 * [笔记 | 制作基于 markdown 的简易 slides](https://mp.weixin.qq.com/s/7sr7-wWuPRFfow6Fbp0Zag)
+* [腾讯出品！这款Markdown神器让你码字效率翻倍，双模式编辑太香了！](https://mp.weixin.qq.com/s/-p2ymoupze5Fuyykz9YbPw)
 
 ## 语法
 * [什么是Markdown?](http://jingxuan.io/markdown/)
