@@ -93,6 +93,8 @@
 * [Slager | LaTeX在线编辑器 | 人人都是论文高手](https://www.slager.link/#/Home)
 * [TransGPTex：支持 deepseek 接入让 LaTeX 文章翻译与编译变得超简单](https://mp.weixin.qq.com/s/_sGH3hhRBxCPiDolYFe63A)
 * [离线可用手绘符号查找 LaTeX 命令 - LaTeX 符号命令查询助手](https://mp.weixin.qq.com/s/P10E-r3McqJwZbv3j-V_NQ)
+* [【spTemplate】高度封装 LaTeX 类文件, 旨在提供极度简洁的模版. 新手福音](https://mp.weixin.qq.com/s/owJW2tOJU1lXKhOXwmYF2A)
+* [GitHub - SweetPastry/spTemplate: This repository provides a collection of LaTeX class templates designed to enhance the clarity and conciseness of the main .tex files. It allows users to focus on the content of their work, rather than the intricacies of LaTeX code.](https://github.com/SweetPastry/spTemplate)
 
 
 ## 教学
