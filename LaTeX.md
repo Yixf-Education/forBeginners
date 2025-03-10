@@ -154,3 +154,4 @@
 * [从零开始用 LaTeX 制作简历](https://mp.weixin.qq.com/s/wH96CWZ1iDKVMtg85t2qew)
 * [让你瞬间惊艳的 LaTeX 简历模板](https://mp.weixin.qq.com/s/22GYWsTlcDf1vOGb-K73Vw)
 * [LaTeX 制作英文简历 10 款推荐字体](https://mp.weixin.qq.com/s/HJ4Sm3i1-cm2rqqqmN3JbA)
+* [吐槽 overleaf 越来越难用的用户制作的好看简历 LaTeX 模版](https://mp.weixin.qq.com/s/_5Q7YBk25W0K8y0hFOEJag)
