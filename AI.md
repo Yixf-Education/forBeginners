@@ -32,7 +32,7 @@
 * [80 款 AI 应用大集合](https://mp.weixin.qq.com/s/YSqsBgR3wtnhjqxmHmrG8Q)
 * [总结工作中的常用开发工具！](https://mp.weixin.qq.com/s/-FxqV_DGCuzXvjj7VeHK0g)
 * [手机里常用的AI工具](https://mp.weixin.qq.com/s/CJhb7ifMzcjwi1K3dO-Vqg)
-* 
+* [腾讯ima重磅升级，可免费无限扩容，终究是我格局小，误解了腾讯！](https://mp.weixin.qq.com/s/nXr5B43mShCk35gETojaXA)
 
 
 ## 变革思考
