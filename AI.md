@@ -33,6 +33,7 @@
 * [总结工作中的常用开发工具！](https://mp.weixin.qq.com/s/-FxqV_DGCuzXvjj7VeHK0g)
 * [手机里常用的AI工具](https://mp.weixin.qq.com/s/CJhb7ifMzcjwi1K3dO-Vqg)
 * [腾讯ima重磅升级，可免费无限扩容，终究是我格局小，误解了腾讯！](https://mp.weixin.qq.com/s/nXr5B43mShCk35gETojaXA)
+* [一个强大的AI提示词优化工具！成熟的AI应该学会自己动！](https://mp.weixin.qq.com/s/818hyRMQy1PMxuo86cJDew)
 
 
 ## 变革思考
