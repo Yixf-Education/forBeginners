@@ -519,6 +519,9 @@
 * [R 包镜像推荐 - 西湖大学镜像](https://mp.weixin.qq.com/s/H6QFGEh6OXcTfCbozKCdmw)
 * [使用 rhub + github workflow 自动化测试 R 包](https://mp.weixin.qq.com/s/lDfn5oy0-XdzaWwqLlr11g)
 * [Tidyverse 扩展包深度解析](https://mp.weixin.qq.com/s/GLYj6EBjUZOISwO9wbuLtw)
+* [生信学习者专属的R包安装终极指南](https://mp.weixin.qq.com/s/IKUWN0l5y6ZhmF-VBUUPnw)
+* [小小配置一下，装github的R包畅通无阻](https://mp.weixin.qq.com/s?__biz=MzU4NjU4ODQ2MQ==&mid=2247496864&idx=1&sn=e53ba369a6976f1b74360ccfb051648a&scene=21#wechat_redirect)
+* [R包安装与使用的常见问题和解决方法速查](https://mp.weixin.qq.com/s?__biz=MzU4NjU4ODQ2MQ==&mid=2247494995&idx=1&sn=b7ba41ca3e094c8fb279e193421bbc7f&scene=21#wechat_redirect)
 
 # Shiny
 
