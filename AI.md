@@ -98,6 +98,7 @@
 * [NotebookLM 升级！一次分析 300 篇文献，精准引用，科研效率提升 200%](https://mp.weixin.qq.com/s/4_NBB1qv7buy8pdXKl10vw)
 * [如何使用 AI 分析 RNA-seq 数据？人工智能时代，这些生信 AI 工具不容错过！](https://mp.weixin.qq.com/s/kkbeAhTuzRqhlvvXD3t9PQ)
 * [Deep Research怎么用：5个免费开源方案+3大使用技巧 - 知乎](https://zhuanlan.zhihu.com/p/25074301363)
+* [1分钟阻止Ai乱编文献（附提示词）](https://mp.weixin.qq.com/s/5fHvSYRJGuEBb_suteg9mA)
 
 
 ## 分析绘图
