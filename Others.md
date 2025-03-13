@@ -363,5 +363,9 @@
 
 * [5 款可以吸引学生的有用的 Moodle 插件 | Linux 中国](https://mp.weixin.qq.com/s/ptmC_t5PQOkx56rHxXW4Jw)
 
+## Ai绘图
+
+* [如何绘制惊艳审稿人的科研示意图？](https://mp.weixin.qq.com/s/Urlbq3qRRCHOWHuLSehaqg)
+
 
 
