@@ -534,4 +534,5 @@
 * [MasteringShiny2.4 用户反馈](https://mp.weixin.qq.com/s/xT7gKXLb2wcvRzMKJVGkEw)
 * [在Shiny app中快速的将静态热图变为互动热图](https://mp.weixin.qq.com/s/8wGPoHqB9s8CET4pFZYU6A)
 * [Shiny 开发学习路径](https://mp.weixin.qq.com/s/DMvjt-2RIlY6J3QUYIAjBQ)
+* [R语言爱好者必看：如何将你的统计分析作品变成网页应用？](https://mp.weixin.qq.com/s/42f0-kZV4hqtk4eCop6GWw)
 
