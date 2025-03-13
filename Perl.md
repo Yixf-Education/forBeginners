@@ -34,6 +34,7 @@
 * [perl 语言统计 fastq 文件 GC 含量与未知碱基 N 含量](https://mp.weixin.qq.com/s?__biz=Mzg5MjY1MTU4Ng==&mid=2247486657&idx=1&sn=d82c8c8be7cb1cb552b964f4e8dbe6f8&chksm=c03b9decf74c14fa74f19c0b8039bf7ca24efac9d4bc7ed4d2ec4b8dcd5ee5bdd2543783861e&scene=21#wechat_redirect)
 * [A Comprehensive Guide to Perl Programming for Biologists – Omics tutorials](https://omicstutorials.com/a-comprehensive-guide-to-perl-programming-for-biologists/)
 * [10 个杀手级的 Python 自动化脚本！](https://mp.weixin.qq.com/s/287-RQ0U4GOVTLScHx1CyQ)
+* [程序员建议遵守的优秀编程风格](https://mp.weixin.qq.com/s/cepwGOtzBxoybpVLeGbXPA)
 
 ## Perl系列
 
