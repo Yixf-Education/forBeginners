@@ -247,6 +247,7 @@
 * [生信数据技能｜第四期：在远程服务器上工作](https://mp.weixin.qq.com/s/EaQvtDAur6PcnORrui2NUw)
 * [转录组×免疫浸润：洞察肿瘤、炎症与免疫疗法的新视角](https://mp.weixin.qq.com/s/RR-IWRHHqLscySD-7IBfoA)
 * [从入门到精通：GTF文件操作全攻略](https://mp.weixin.qq.com/s/WNyG-ONrrw_caGPiD8QgNQ)
+* [基因组数据分析的基石：BED文件格式详解](https://mp.weixin.qq.com/s/jGMIZifAOHfkJr29_THiEw)
 
 ## 基因组坐标系统
 
