@@ -440,6 +440,7 @@
 * [BLAST 与 HMM 算法，到底是什么鬼](https://mp.weixin.qq.com/s/54At-o66W8IU8-UD-E_aqQ)
 * [深入解析 GTF 文件：基因组注释的钥匙](https://mp.weixin.qq.com/s/7hafXB2zWCRsFHLS3ZJL_w)
 * [在R语言中的 ATACseq 数据分析全流程实战（一）](https://mp.weixin.qq.com/s/mvBFl0WfQZr71SZMQGstcw)
+* [在R语言中的 ATACseq 数据分析全流程实战（二）](https://mp.weixin.qq.com/s/7tBa_pPWRAnI9C4lfZPSTQ)
 
 ## 系统课程
 
