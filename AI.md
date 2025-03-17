@@ -116,6 +116,7 @@
 * [DeepSeek 制作 PPT，太快了](https://mp.weixin.qq.com/s/fV2UXZT-lTkZl6CKelLIJw)
 * [如何使用 DeepSeek 进行科研图表绘制？](https://mp.weixin.qq.com/s/iJl0l1FvQDiKHPrMh14vlw)
 * [Claude 画 SVG 图，真真强的可怕！](https://mp.weixin.qq.com/s/UV4MfAS3IQsnjTTb7qF-pw)
+* [PDF阅读犯困？Claude的这段提示词，让你的PDF报告变成可视化网页！](https://mp.weixin.qq.com/s/H8mlfbPSOKNaPa9yyHfk7A)
 
 ## 生物模型
 
