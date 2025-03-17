@@ -100,6 +100,7 @@
 * [Deep Research怎么用：5个免费开源方案+3大使用技巧 - 知乎](https://zhuanlan.zhihu.com/p/25074301363)
 * [1分钟阻止Ai乱编文献（附提示词）](https://mp.weixin.qq.com/s/5fHvSYRJGuEBb_suteg9mA)
 * [用DeepSeeK一天高效阅读80篇文献——30个顶级喂饭指令！](https://mp.weixin.qq.com/s/yMrPCVTOSRMwzP4u5kz6BA)
+* [西湖大学｜利用LLM做论文review到哪一步了？来看看DeepReview吧](https://mp.weixin.qq.com/s/Ofy0YFBJUoG2HDnbxo8t6w)
 
 
 ## 分析绘图
