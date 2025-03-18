@@ -249,6 +249,7 @@
 * [从入门到精通：GTF文件操作全攻略](https://mp.weixin.qq.com/s/WNyG-ONrrw_caGPiD8QgNQ)
 * [基因组数据分析的基石：BED文件格式详解](https://mp.weixin.qq.com/s/jGMIZifAOHfkJr29_THiEw)
 * [CDS和ORF的区别？别再傻傻分不清啦！](https://mp.weixin.qq.com/s/bQsyXIBsz1zuQZw7P7L_Xw)
+* [转录组中的Reads, Count, RPKM, FPKM, TPM, CPM等详解](https://mp.weixin.qq.com/s/mv1Yw9W4_mOIt5uOpFOsqQ)
 
 ## 基因组坐标系统
 
