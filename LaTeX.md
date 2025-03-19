@@ -130,6 +130,7 @@
 * [期刊回复信 TeX 模板汇总](https://mp.weixin.qq.com/s/sZDAdkgcWI_VP7oZccBaAg)
 * [使用 latexdiff 做修订版论文中文无法断行问题修复](https://mp.weixin.qq.com/s/83xVexWrO9ldqJQJuRjkLQ)
 * [专为考研做题本 / 刷题本而设计的 LaTeX 模版](https://mp.weixin.qq.com/s/BaGPOi-l2LFrnrp-cK8wwg)
+* [LaTeX 文献引用新革命：citation-style-language 包让 CSL 帮你轻松管理文献，告别格式烦恼！](https://mp.weixin.qq.com/s/9dGur_hg2sH_PkZ1pnkRyQ)
 
 ## 幻灯片
 * [R Markdown 制作 beamer 幻灯片](https://mp.weixin.qq.com/s/vnDD1Ovx1TaW4TdBnf56vQ)
