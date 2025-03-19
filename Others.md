@@ -131,6 +131,7 @@
 * [临床预测模型系列（九）预测模型的内部和外部验证](https://mp.weixin.qq.com/s/Kdtt2HljJc4qklU_Xvf4Mg)
 * [超强总结！十大数据预处理技巧 ！！](https://mp.weixin.qq.com/s/xMhEc1RifFIysoR_HIaxyQ)
 * [使用 SHAP 使机器学习模型变的可解释！！](https://mp.weixin.qq.com/s/51qLGQ-ZqfJJvfCdqL2AZg)
+* [一张图对比T检验和卡方检验](https://mp.weixin.qq.com/s/VDNimxruMFgSjVHGkhCDWQ)
 
 ## 统计学入门
 
