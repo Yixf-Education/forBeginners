@@ -412,3 +412,4 @@
 * [8 台服务器如何同时安装软件](https://mp.weixin.qq.com/s/yKC3mTiojFzSXnMN9_6Uww)
 * [Linux 性能分析工具汇总](https://mp.weixin.qq.com/s/QFbVwYWsIB0Ayw_-kJICYQ)
 * [如何在 Linux 中监控用户活动 | Linux 中国](https://mp.weixin.qq.com/s/MyngM1FJU59jjvRoWlVNFw)
+* [没有公网IP ? 这个工具太6了, 运维力荐](https://mp.weixin.qq.com/s/cGncPOLb9dOhVmkarwSZRw)
