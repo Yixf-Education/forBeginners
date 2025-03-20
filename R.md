@@ -478,6 +478,7 @@
 * [画这种图对不起 nature 系列杂志啊](https://mp.weixin.qq.com/s/ZD-cTUgRnMdUMd9EbG9wVg)
 * [GCAS：基于GEO数据库整理的多种癌症的综合分析工具（R包/app）](https://mp.weixin.qq.com/s/z1cCHLZY_GvrsJ_pYAQ_tw)
 * [为什么老是画不好小提琴图？](https://mp.weixin.qq.com/s/nyL3DbUrkC9z4ySx_BV9IA)
+* [练习R：用R 语言mice包mice()+with()+pool()函数完成多重插补！](https://mp.weixin.qq.com/s/s-cQ595jFYYtGE9KF82Low)
 
 # R包
 
