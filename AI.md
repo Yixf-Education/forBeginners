@@ -101,6 +101,7 @@
 * [1分钟阻止Ai乱编文献（附提示词）](https://mp.weixin.qq.com/s/5fHvSYRJGuEBb_suteg9mA)
 * [用DeepSeeK一天高效阅读80篇文献——30个顶级喂饭指令！](https://mp.weixin.qq.com/s/yMrPCVTOSRMwzP4u5kz6BA)
 * [西湖大学｜利用LLM做论文review到哪一步了？来看看DeepReview吧](https://mp.weixin.qq.com/s/Ofy0YFBJUoG2HDnbxo8t6w)
+* [Gemini推出科研智能体，1句话检索、完成文献综述](https://mp.weixin.qq.com/s/MFQg3SVAp8P3b0-HkY2AGg)
 
 
 ## 分析绘图
