@@ -347,6 +347,7 @@
 * [科研必备：从文献查找、数据检索到论文降重的科研工具大集合](https://mp.weixin.qq.com/s/n60AkNXzZS9TVVd52hZ94g)
 * [科研人必备！Elsevier投稿进度跟踪神器](https://mp.weixin.qq.com/s/OAWFI1k1x-pVxeG42gPSqg)
 * [审稿人最怕见到的回复意见！学会这几招，拒稿率直降80%！](https://mp.weixin.qq.com/s/cY37f5GIRubUZtuJGvYugQ)
+* [Introduction别再写“文献流水账”了！学会4个词，让编辑眼前一亮！](https://mp.weixin.qq.com/s/OMagizrFUfBT1CwqU0WjbA)
 
 ## 数据集
 
