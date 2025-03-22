@@ -73,6 +73,7 @@
 * [TonyCrane/PracticalSkillsTutorial: 浙江大学系列朋辈辅学「实用技能拾遗」课程资料仓库](https://github.com/TonyCrane/PracticalSkillsTutorial/tree/master)
 * [一个进度条还能玩这么花？](https://mp.weixin.qq.com/s/XQt0UAs2ygrTm0_kE-FlOg)
 * [如何绘制好看的环状通路机制示意图？](https://mp.weixin.qq.com/s/Hb3wYAhA04Wiszads3t4Ug)
+* [我的生产力工具就是个无限延伸的「.txt」文件而已](https://mp.weixin.qq.com/s/7sK3UmeLj1LHf0AXCDuf4w)
 
 ## 统计
 
