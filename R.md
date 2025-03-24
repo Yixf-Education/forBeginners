@@ -331,6 +331,7 @@
 * [R tips：ggplot2 进行多维原位图绘制](https://mp.weixin.qq.com/s/VuUxCZiKM6Wx99LGv5RrpA)
 * [发表级 figure 图用 R 也可一步到位！比 ggplot2 简单！](https://mp.weixin.qq.com/s/9wZPcctNaVFlvvI7aFkH2w)
 * [使用ggplot优雅的绘制过表达/敲除双火山图](https://mp.weixin.qq.com/s/LSvLaymATPQ_MUvn-AmbIQ)
+* [精美的富集分析图](https://mp.weixin.qq.com/s/D9zvZY1dBi-Fo7lEbQ-1sQ)
 
 # Rmarkdown
 
