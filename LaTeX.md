@@ -147,6 +147,7 @@
 * [研究人员作报告 PPT 都长得一样？这主题让你幻灯片与众不同](https://mp.weixin.qq.com/s/1XuKy17nYfB9rEDg4JOhKA)
 * [用 LaTeX 做幻灯片比用 PowerPoint 和 Keynote 做更方便、更美观吗？](https://mp.weixin.qq.com/s/gm75VaGGi9Gu4pTnWDBYFw)
 * [从 “零” 开始制作幻灯片](https://mp.weixin.qq.com/s/bFGsur4ES04PwWdKVf38MA)
+* [学术报告精品 beamer 主题样式 - 中英文都精致，让你享受科研输出！](https://mp.weixin.qq.com/s/tgkkK262FuYleVnDdd4FEg)
 
 ## 简历
 * [R 沟通｜使用 latex 模板构建个人履历](https://mp.weixin.qq.com/s?__biz=MzI1NjUwMjQxMQ==&mid=2247493793&idx=1&sn=ac5653d10a318d71885e6b1ff3ed3a67&chksm=ea271745dd509e53173998508ab53dad55d4e2acb22c78afee57ea57bc9950503fdb22bc00d7&mpshare=1&scene=1&srcid=0409FLWNIC803gsQy2MCRHf3&sharer_sharetime=1617972203672&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=054fa246941644a431b792a8e22c73ab9d7c60512aca171e13bd557f42e82831fad8cfddcaa95b25726a60b777aaba41b1c5199afb1e119e1aef81f77abb58a4f35327647aa91ab66d7497f84e26ce8b25674d208507c1d155c14d616280315aa26808a28f64cfea04527ec0914c8fbed78b4343cf9bd81b2b16ae3b9fa837e4&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AfIcxQXUATRgT3HhKjc%2Bp1I%3D&pass_ticket=ImYROlKpE89PONWRsTgVS7DYqyOUm2qljbwpNZVrorxesYR471emvwoCKO3RPS2w&wx_header=0)
