@@ -482,6 +482,7 @@
 * [为什么老是画不好小提琴图？](https://mp.weixin.qq.com/s/nyL3DbUrkC9z4ySx_BV9IA)
 * [练习R：用R 语言mice包mice()+with()+pool()函数完成多重插补！](https://mp.weixin.qq.com/s/s-cQ595jFYYtGE9KF82Low)
 * [在R语言中的 ATACseq 数据分析全流程实战（四）：Peak calling](https://mp.weixin.qq.com/s/Xgszof9w0TAvqmQg3bhnoQ)
+* [gtsummary包，快速生成关联分析中的多个回归模型表格](https://mp.weixin.qq.com/s/noUyfHDKic4_O15afZn4Fw)
 
 # R包
 
