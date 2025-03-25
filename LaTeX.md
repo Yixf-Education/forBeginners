@@ -95,6 +95,7 @@
 * [离线可用手绘符号查找 LaTeX 命令 - LaTeX 符号命令查询助手](https://mp.weixin.qq.com/s/P10E-r3McqJwZbv3j-V_NQ)
 * [【spTemplate】高度封装 LaTeX 类文件, 旨在提供极度简洁的模版. 新手福音](https://mp.weixin.qq.com/s/owJW2tOJU1lXKhOXwmYF2A)
 * [GitHub - SweetPastry/spTemplate: This repository provides a collection of LaTeX class templates designed to enhance the clarity and conciseness of the main .tex files. It allows users to focus on the content of their work, rather than the intricacies of LaTeX code.](https://github.com/SweetPastry/spTemplate)
+* [DeTikZify横空出世，手绘草图或现图，一键生成 TikZ 图形代码，超便捷](https://mp.weixin.qq.com/s/wRwG1PA8wGRIv6dPhJ9s5Q)
 
 
 ## 教学
@@ -131,6 +132,7 @@
 * [使用 latexdiff 做修订版论文中文无法断行问题修复](https://mp.weixin.qq.com/s/83xVexWrO9ldqJQJuRjkLQ)
 * [专为考研做题本 / 刷题本而设计的 LaTeX 模版](https://mp.weixin.qq.com/s/BaGPOi-l2LFrnrp-cK8wwg)
 * [LaTeX 文献引用新革命：citation-style-language 包让 CSL 帮你轻松管理文献，告别格式烦恼！](https://mp.weixin.qq.com/s/9dGur_hg2sH_PkZ1pnkRyQ)
+* [LaTeX 制作 学生自律打卡周记录](https://mp.weixin.qq.com/s/rK-GJSAUXszGwi_KGdwIEw)
 
 ## 幻灯片
 * [R Markdown 制作 beamer 幻灯片](https://mp.weixin.qq.com/s/vnDD1Ovx1TaW4TdBnf56vQ)
