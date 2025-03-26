@@ -96,6 +96,7 @@
 * [【spTemplate】高度封装 LaTeX 类文件, 旨在提供极度简洁的模版. 新手福音](https://mp.weixin.qq.com/s/owJW2tOJU1lXKhOXwmYF2A)
 * [GitHub - SweetPastry/spTemplate: This repository provides a collection of LaTeX class templates designed to enhance the clarity and conciseness of the main .tex files. It allows users to focus on the content of their work, rather than the intricacies of LaTeX code.](https://github.com/SweetPastry/spTemplate)
 * [DeTikZify横空出世，手绘草图或现图，一键生成 TikZ 图形代码，超便捷](https://mp.weixin.qq.com/s/wRwG1PA8wGRIv6dPhJ9s5Q)
+* [再也不用纸上做公式演算了，这款神器让数学协作 “起飞”！](https://mp.weixin.qq.com/s/ourJIsutTG-Ncn3PCpSciQ)
 
 
 ## 教学
