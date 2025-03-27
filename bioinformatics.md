@@ -51,6 +51,7 @@
 * [传输数据，还得是 Filezilla](https://mp.weixin.qq.com/s/wNy-ttLg905NLRuAKUW98Q)
 * [认知肿瘤样本免疫浸润全局景观 ——xCell 分析 | 生信实战开发](https://mp.weixin.qq.com/s/JVeDHwUv8MEeMr1WmRmrRQ)
 * [生物医学通用绘图平台（GDP）使用教程](https://mp.weixin.qq.com/s/OrS5jh5KG1gsEbGtbTt8BQ)
+* [链特异性分析｜如何用bedtools精准锁定基因调控的"黄金区域"？](https://mp.weixin.qq.com/s/qYKEbQYc2kXxRjqRGzpRww)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
