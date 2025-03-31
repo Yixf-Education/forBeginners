@@ -103,6 +103,7 @@
 * [西湖大学｜利用LLM做论文review到哪一步了？来看看DeepReview吧](https://mp.weixin.qq.com/s/Ofy0YFBJUoG2HDnbxo8t6w)
 * [Gemini推出科研智能体，1句话检索、完成文献综述](https://mp.weixin.qq.com/s/MFQg3SVAp8P3b0-HkY2AGg)
 * [博士室友用manus 和deepseek 一个小时写出了毕业论文！](https://mp.weixin.qq.com/s/r5Mz2qS32Jj71Zx3b6rk9w)
+* [免费不限量的PDF全文翻译和ai问答-不用天理难容](https://mp.weixin.qq.com/s/K-KBr9DnzLbM39Sotci1GA)
 
 
 ## 分析绘图
