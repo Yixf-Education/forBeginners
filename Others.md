@@ -349,6 +349,7 @@
 * [科研人必备！Elsevier投稿进度跟踪神器](https://mp.weixin.qq.com/s/OAWFI1k1x-pVxeG42gPSqg)
 * [审稿人最怕见到的回复意见！学会这几招，拒稿率直降80%！](https://mp.weixin.qq.com/s/cY37f5GIRubUZtuJGvYugQ)
 * [Introduction别再写“文献流水账”了！学会4个词，让编辑眼前一亮！](https://mp.weixin.qq.com/s/OMagizrFUfBT1CwqU0WjbA)
+* [科研绘图中常用图片格式](https://mp.weixin.qq.com/s/HSwtWn0g24Sy34UbBCs-EQ)
 
 ## 数据集
 
