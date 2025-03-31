@@ -529,6 +529,7 @@
 * [小小配置一下，装github的R包畅通无阻](https://mp.weixin.qq.com/s?__biz=MzU4NjU4ODQ2MQ==&mid=2247496864&idx=1&sn=e53ba369a6976f1b74360ccfb051648a&scene=21#wechat_redirect)
 * [R包安装与使用的常见问题和解决方法速查](https://mp.weixin.qq.com/s?__biz=MzU4NjU4ODQ2MQ==&mid=2247494995&idx=1&sn=b7ba41ca3e094c8fb279e193421bbc7f&scene=21#wechat_redirect)
 * [R语言｜强迫症福音：parsnip包](https://mp.weixin.qq.com/s/ks45mh1MD9nUEch7c-irhg)
+* [R语言：Top期刊中使用最多的50个R扩展包](https://mp.weixin.qq.com/s/Twl8ENXoKpgkMPU13rfiOw)
 
 # Shiny
 
