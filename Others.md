@@ -350,6 +350,7 @@
 * [审稿人最怕见到的回复意见！学会这几招，拒稿率直降80%！](https://mp.weixin.qq.com/s/cY37f5GIRubUZtuJGvYugQ)
 * [Introduction别再写“文献流水账”了！学会4个词，让编辑眼前一亮！](https://mp.weixin.qq.com/s/OMagizrFUfBT1CwqU0WjbA)
 * [科研绘图中常用图片格式](https://mp.weixin.qq.com/s/HSwtWn0g24Sy34UbBCs-EQ)
+* [投稿后“石沉大海”？四大顶级出版社投稿状态全攻略（ACS、Wiley、Elsevier、MDPI），建议收藏！](https://mp.weixin.qq.com/s/TeKfLWgd3KY9BsRRPh-Enw)
 
 ## 数据集
 
