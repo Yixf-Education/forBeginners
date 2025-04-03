@@ -484,6 +484,8 @@
 * [在R语言中的 ATACseq 数据分析全流程实战（四）：Peak calling](https://mp.weixin.qq.com/s/Xgszof9w0TAvqmQg3bhnoQ)
 * [gtsummary包，快速生成关联分析中的多个回归模型表格](https://mp.weixin.qq.com/s/noUyfHDKic4_O15afZn4Fw)
 * [R语言TCGA数据处理全攻略：从数据下载到差异表达分析](https://mp.weixin.qq.com/s/1LgJUpS5WcnnCRuwSpSb9A)
+* [机器学习｜mlr3-超参数调优](https://mp.weixin.qq.com/s/DTnAvVr4awPYAgcpF8wLrA)
+* [R语言｜强迫症福音：workflow包](https://mp.weixin.qq.com/s/RjKAp7aDXilOZnr3_S0d9A)
 
 # R包
 
