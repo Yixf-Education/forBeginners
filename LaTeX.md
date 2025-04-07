@@ -52,6 +52,7 @@
 * [通过友好的入门课程免费在线学习 LaTeX | learnlatex.org](https://www.learnlatex.org/zh-hans/)
 * [拯救 “色盲” 人群：简单几步，让你的文档色彩无障碍](https://mp.weixin.qq.com/s/BRn_V-y4P1wODsV0ak3b0Q)
 * [一文搞懂，LaTeX 数学公式对齐超全指南](https://mp.weixin.qq.com/s/Aaq27Tp6D1-86a-_UCcuHQ)
+* [如何丝滑实现小说目录，回目标题的双行显示？](https://mp.weixin.qq.com/s/8TCBrrW8hAsmJQj-MdSfDw)
 
 ## 宏包
 * [enumitem 宏包中的长度设置](https://mp.weixin.qq.com/s/1x1Q_ucVSN9Ks9wRx1Bk8w)
@@ -99,6 +100,7 @@
 * [再也不用纸上做公式演算了，这款神器让数学协作 “起飞”！](https://mp.weixin.qq.com/s/ourJIsutTG-Ncn3PCpSciQ)
 * [说说 LaTeX 可视化哪些软件儿](https://mp.weixin.qq.com/s/KKNtpQM0l2XpMFEaC7yasA)
 * [再也不吃新手表格入门输入的苦，这两个工具最懂你](https://mp.weixin.qq.com/s/Fh10YcWWcLx28f4kkOR_Ew)
+* [史上最全技巧，破解 Overleaf 编译超时，不开会员也能继续用](https://mp.weixin.qq.com/s/xeX5ita-DnoxkQghqtyp2A)
 
 
 ## 教学
@@ -136,6 +138,7 @@
 * [专为考研做题本 / 刷题本而设计的 LaTeX 模版](https://mp.weixin.qq.com/s/BaGPOi-l2LFrnrp-cK8wwg)
 * [LaTeX 文献引用新革命：citation-style-language 包让 CSL 帮你轻松管理文献，告别格式烦恼！](https://mp.weixin.qq.com/s/9dGur_hg2sH_PkZ1pnkRyQ)
 * [LaTeX 制作 学生自律打卡周记录](https://mp.weixin.qq.com/s/rK-GJSAUXszGwi_KGdwIEw)
+* [宝藏 LaTeX 文档模版：lecturenotes 助你高效撰写学术笔记](https://mp.weixin.qq.com/s/g97-lzdnTpErrM1XkzVccA)
 
 ## 幻灯片
 * [R Markdown 制作 beamer 幻灯片](https://mp.weixin.qq.com/s/vnDD1Ovx1TaW4TdBnf56vQ)
