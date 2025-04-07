@@ -105,6 +105,7 @@
 * [Gemini推出科研智能体，1句话检索、完成文献综述](https://mp.weixin.qq.com/s/MFQg3SVAp8P3b0-HkY2AGg)
 * [博士室友用manus 和deepseek 一个小时写出了毕业论文！](https://mp.weixin.qq.com/s/r5Mz2qS32Jj71Zx3b6rk9w)
 * [免费不限量的PDF全文翻译和ai问答-不用天理难容](https://mp.weixin.qq.com/s/K-KBr9DnzLbM39Sotci1GA)
+* [告别熬夜搜文献！我用 Gemini 造了个 2 分钟出深度研究报告的 AI 神器！](https://mp.weixin.qq.com/s/VhyvaY1aTNl0ek5BuLn_RQ)
 
 
 ## 分析绘图
