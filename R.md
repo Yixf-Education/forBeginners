@@ -488,6 +488,7 @@
 * [R语言TCGA数据处理全攻略：从数据下载到差异表达分析](https://mp.weixin.qq.com/s/1LgJUpS5WcnnCRuwSpSb9A)
 * [机器学习｜mlr3-超参数调优](https://mp.weixin.qq.com/s/DTnAvVr4awPYAgcpF8wLrA)
 * [R语言｜强迫症福音：workflow包](https://mp.weixin.qq.com/s/RjKAp7aDXilOZnr3_S0d9A)
+* [R语言绘图｜Publish包助力森林图绘制](https://mp.weixin.qq.com/s/ny8vcYJS2wAsHxw2JlbvXQ)
 
 # R包
 
