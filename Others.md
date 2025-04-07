@@ -351,6 +351,7 @@
 * [Introduction别再写“文献流水账”了！学会4个词，让编辑眼前一亮！](https://mp.weixin.qq.com/s/OMagizrFUfBT1CwqU0WjbA)
 * [科研绘图中常用图片格式](https://mp.weixin.qq.com/s/HSwtWn0g24Sy34UbBCs-EQ)
 * [投稿后“石沉大海”？四大顶级出版社投稿状态全攻略（ACS、Wiley、Elsevier、MDPI），建议收藏！](https://mp.weixin.qq.com/s/TeKfLWgd3KY9BsRRPh-Enw)
+* [【期刊知识】审稿人亲述：看到这5类标题，我直接点拒稿！](https://mp.weixin.qq.com/s/aeYgUZPf2SP27BDwqhzyHA)
 
 ## 数据集
 
