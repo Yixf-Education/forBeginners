@@ -108,6 +108,7 @@
 * [博士室友用manus 和deepseek 一个小时写出了毕业论文！](https://mp.weixin.qq.com/s/r5Mz2qS32Jj71Zx3b6rk9w)
 * [免费不限量的PDF全文翻译和ai问答-不用天理难容](https://mp.weixin.qq.com/s/K-KBr9DnzLbM39Sotci1GA)
 * [告别熬夜搜文献！我用 Gemini 造了个 2 分钟出深度研究报告的 AI 神器！](https://mp.weixin.qq.com/s/VhyvaY1aTNl0ek5BuLn_RQ)
+* [别再熬夜画图了！DeepSeek 三步生成超牛课题技术路线图（附实操指令）](https://mp.weixin.qq.com/s/0Wa2_aioNavhjW6QlZl4pA)
 
 
 ## 分析绘图
