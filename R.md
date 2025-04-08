@@ -489,6 +489,8 @@
 * [机器学习｜mlr3-超参数调优](https://mp.weixin.qq.com/s/DTnAvVr4awPYAgcpF8wLrA)
 * [R语言｜强迫症福音：workflow包](https://mp.weixin.qq.com/s/RjKAp7aDXilOZnr3_S0d9A)
 * [R语言绘图｜Publish包助力森林图绘制](https://mp.weixin.qq.com/s/ny8vcYJS2wAsHxw2JlbvXQ)
+* [mlr3 顺序性Pipeline](https://mp.weixin.qq.com/s/7BykEoksxVwG4wZajEQCwg)
+* [R语言：相关性分析](https://mp.weixin.qq.com/s/hJuxOWTLXHbhVaVrQSm6Ew)
 
 # R包
 
