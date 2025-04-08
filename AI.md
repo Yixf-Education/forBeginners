@@ -45,6 +45,7 @@
 * [AI 撒谎只是前戏！人类脑死亡或成进行时](https://mp.weixin.qq.com/s/QVQU5JzK8-z_FcKZJNtvMA)
 * [他们正在用 AI，疯狂给互联网「下毒」](https://mp.weixin.qq.com/s/wmL2d0IpzqhlctP6EmgBEA)
 * [用AI把微信聊天记录变成可视化报告，酷到封神。](https://mp.weixin.qq.com/s/flTj7ETVZWCSSXDwEiCSow)
+* [狂揽75K Star！最强开源AI Workflow平台【内置1500+工具和模板】效率起飞～](https://mp.weixin.qq.com/s/ctAqu27OZFL0Fp46d4R6Eg)
 
 
 ## 基本使用
