@@ -491,6 +491,7 @@
 * [R语言绘图｜Publish包助力森林图绘制](https://mp.weixin.qq.com/s/ny8vcYJS2wAsHxw2JlbvXQ)
 * [mlr3 顺序性Pipeline](https://mp.weixin.qq.com/s/7BykEoksxVwG4wZajEQCwg)
 * [R语言：相关性分析](https://mp.weixin.qq.com/s/hJuxOWTLXHbhVaVrQSm6Ew)
+* [样本太少没法分析？试试 Bootstrap + 贝叶斯！](https://mp.weixin.qq.com/s/y07cE7OXyAjrywFcRlsdSA)
 
 # R包
 
