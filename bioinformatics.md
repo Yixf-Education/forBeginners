@@ -253,6 +253,7 @@
 * [CDS和ORF的区别？别再傻傻分不清啦！](https://mp.weixin.qq.com/s/bQsyXIBsz1zuQZw7P7L_Xw)
 * [转录组中的Reads, Count, RPKM, FPKM, TPM, CPM等详解](https://mp.weixin.qq.com/s/mv1Yw9W4_mOIt5uOpFOsqQ)
 * [ATAC-seq生信分析软件及工具大全](https://mp.weixin.qq.com/s/u9SgK1WQbpYj6tXnnp9S7g)
+* [使用STRING数据库研究生命系统藏着哪些惊喜？](https://mp.weixin.qq.com/s/6qkJObBUpKUi1_0-ExBMsA)
 
 ## 基因组坐标系统
 
