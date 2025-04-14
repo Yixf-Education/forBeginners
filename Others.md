@@ -74,6 +74,7 @@
 * [一个进度条还能玩这么花？](https://mp.weixin.qq.com/s/XQt0UAs2ygrTm0_kE-FlOg)
 * [如何绘制好看的环状通路机制示意图？](https://mp.weixin.qq.com/s/Hb3wYAhA04Wiszads3t4Ug)
 * [我的生产力工具就是个无限延伸的「.txt」文件而已](https://mp.weixin.qq.com/s/7sK3UmeLj1LHf0AXCDuf4w)
+* [zotero7.0正式版终于发布，多项性能优化！](https://mp.weixin.qq.com/s/GAYnZXb9WByGtgrhxNEOsw?poc_token=HBdo_GejIjmwwJIOSz7AMQXXNQXFJ-n4VofJF8S3)
 
 ## 统计
 
