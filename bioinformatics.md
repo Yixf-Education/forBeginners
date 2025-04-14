@@ -445,6 +445,7 @@
 * [深入解析 GTF 文件：基因组注释的钥匙](https://mp.weixin.qq.com/s/7hafXB2zWCRsFHLS3ZJL_w)
 * [在R语言中的 ATACseq 数据分析全流程实战（一）](https://mp.weixin.qq.com/s/mvBFl0WfQZr71SZMQGstcw)
 * [在R语言中的 ATACseq 数据分析全流程实战（二）](https://mp.weixin.qq.com/s/7tBa_pPWRAnI9C4lfZPSTQ)
+* [西湖生物样本库（WBBC）数据批量下载指南](https://mp.weixin.qq.com/s/0dawm5im3WsBTnRZr3cOMg)
 
 ## 系统课程
 
