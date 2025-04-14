@@ -10,6 +10,7 @@
 * [R 语言中的数据可视化配色方案：理论与实践](https://mp.weixin.qq.com/s/ggsMKWHb4bVx-yeKst6OXQ)
 * [**R-universe**](https://r-universe.dev/search/): personal package repositories for R!
 * [**tidyverse 编码风格最佳实践指南**](https://mp.weixin.qq.com/s/q5fiVNiAIY2GoKaBh_PwZQ)
+* [**Big Book of R**](https://www.bigbookofr.com/)
 * [Modern Data Visualization with R](https://rkabacoff.github.io/datavis/)
 * [r-wasm/webr: The statistical language R compiled to WebAssembly via Emscripten, for use in web browsers and Node.](https://github.com/r-wasm/webr/?tab=readme-ov-file)
 * [不写代码，轻松画图！](https://mp.weixin.qq.com/s/VAT-WjtgZy1WDcWPtq0hkA)
