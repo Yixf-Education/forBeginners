@@ -492,6 +492,7 @@
 * [mlr3 顺序性Pipeline](https://mp.weixin.qq.com/s/7BykEoksxVwG4wZajEQCwg)
 * [R语言：相关性分析](https://mp.weixin.qq.com/s/hJuxOWTLXHbhVaVrQSm6Ew)
 * [样本太少没法分析？试试 Bootstrap + 贝叶斯！](https://mp.weixin.qq.com/s/y07cE7OXyAjrywFcRlsdSA)
+* [机器学习｜iml包模型解释](https://mp.weixin.qq.com/s/OsTXGn2eGaTNC-KSYoX7GA)
 
 # R包
 
