@@ -140,6 +140,8 @@
 * [LaTeX 文献引用新革命：citation-style-language 包让 CSL 帮你轻松管理文献，告别格式烦恼！](https://mp.weixin.qq.com/s/9dGur_hg2sH_PkZ1pnkRyQ)
 * [LaTeX 制作 学生自律打卡周记录](https://mp.weixin.qq.com/s/rK-GJSAUXszGwi_KGdwIEw)
 * [宝藏 LaTeX 文档模版：lecturenotes 助你高效撰写学术笔记](https://mp.weixin.qq.com/s/g97-lzdnTpErrM1XkzVccA)
+* [学术党必备，一键让 Overleaf 打开并编辑 arxiv.org 论文源码](https://mp.weixin.qq.com/s/H86LFTG_CWUUL3MYpXW0KQ)
+* [点赞最高书稿模版，最佳排版实践](https://mp.weixin.qq.com/s/gZRy9Hb9nHDp6PunAlhK5w)
 
 ## 幻灯片
 * [R Markdown 制作 beamer 幻灯片](https://mp.weixin.qq.com/s/vnDD1Ovx1TaW4TdBnf56vQ)
