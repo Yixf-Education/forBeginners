@@ -355,6 +355,7 @@
 * [【期刊知识】审稿人亲述：看到这5类标题，我直接点拒稿！](https://mp.weixin.qq.com/s/aeYgUZPf2SP27BDwqhzyHA)
 * [SCI投稿Cover Letter的五大要点！避开这些坑，你的论文录用率飙升！附模板！](https://mp.weixin.qq.com/s/uAPeyB-66GnfkzPAxz9Exw)
 * [学术写作里的缩写与首字母缩略词，到底怎么用才对？](https://mp.weixin.qq.com/s/NjuL5oMNhOY3KQ7MQqSYGQ)
+* [如何免费制作精美的流程图](https://mp.weixin.qq.com/s/SQ5GlNUR48ZwqTrvusef2w)
 
 ## 数据集
 
