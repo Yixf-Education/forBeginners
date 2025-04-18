@@ -53,6 +53,7 @@
 * [拯救 “色盲” 人群：简单几步，让你的文档色彩无障碍](https://mp.weixin.qq.com/s/BRn_V-y4P1wODsV0ak3b0Q)
 * [一文搞懂，LaTeX 数学公式对齐超全指南](https://mp.weixin.qq.com/s/Aaq27Tp6D1-86a-_UCcuHQ)
 * [如何丝滑实现小说目录，回目标题的双行显示？](https://mp.weixin.qq.com/s/8TCBrrW8hAsmJQj-MdSfDw)
+* [点赞一个 up 主：找到了word 与 LaTeX 行距对应值，我看到科研精神，极致精致](https://mp.weixin.qq.com/s/77g5eJwEtIn8c0-YmwgJNw)
 
 ## 宏包
 * [enumitem 宏包中的长度设置](https://mp.weixin.qq.com/s/1x1Q_ucVSN9Ks9wRx1Bk8w)
@@ -171,3 +172,4 @@
 * [LaTeX 制作英文简历 10 款推荐字体](https://mp.weixin.qq.com/s/HJ4Sm3i1-cm2rqqqmN3JbA)
 * [吐槽 overleaf 越来越难用的用户制作的好看简历 LaTeX 模版](https://mp.weixin.qq.com/s/_5Q7YBk25W0K8y0hFOEJag)
 * [零代码！用这些平台轻松搞定 LaTeX 简历，附宝藏 LaTeX 简历模版合集](https://mp.weixin.qq.com/s/tiL-_m-J1cKOcH7sx294eQ)
+* [一套满足您科研生涯各阶段需求的简历合集 - 8个样式可选](https://mp.weixin.qq.com/s/116Q393A6rzvYVsCkH1Anw)
