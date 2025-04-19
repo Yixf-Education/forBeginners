@@ -129,6 +129,7 @@
 * [PDF阅读犯困？Claude的这段提示词，让你的PDF报告变成可视化网页！](https://mp.weixin.qq.com/s/H8mlfbPSOKNaPa9yyHfk7A)
 * [别让“一键生成”害了你！用DeepSeek+Napkin 跳出PPT陷阱](https://mp.weixin.qq.com/s/U2nVTltlh4YJiUwEd97bRw)
 * [使用DeepSeek绘制8种常见的科研图表](https://mp.weixin.qq.com/s/z6CP5E2kcONPGEeBeMSv2Q)
+* [DeepSeek带你学生信：绘制科研图表](https://mp.weixin.qq.com/s/ameQqFpCNpb4TCMP_iPaqw)
 
 ## 生物模型
 
