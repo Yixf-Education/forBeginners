@@ -104,6 +104,7 @@
 * [说说 LaTeX 可视化哪些软件儿](https://mp.weixin.qq.com/s/KKNtpQM0l2XpMFEaC7yasA)
 * [再也不吃新手表格入门输入的苦，这两个工具最懂你](https://mp.weixin.qq.com/s/Fh10YcWWcLx28f4kkOR_Ew)
 * [史上最全技巧，破解 Overleaf 编译超时，不开会员也能继续用](https://mp.weixin.qq.com/s/xeX5ita-DnoxkQghqtyp2A)
+* [科研必备！Mathpix Markdown 让文档编辑起飞](https://mp.weixin.qq.com/s/FjZp_E-XTqw0SAAJpljH-Q)
 
 
 ## 教学
