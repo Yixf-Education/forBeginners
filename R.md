@@ -182,6 +182,7 @@
 * [解构 R 语言底层逻辑：用语言学思维进行降维打击](https://mp.weixin.qq.com/s?__biz=Mzk2NDk1MDg4NA==&mid=2247483677&idx=1&sn=ddc13f81d5b20a025b036ff5cbac2197&scene=21#wechat_redirect)
 * [化虚为实 —— 用日常逻辑拆解 R 语言核心概念（一）](https://mp.weixin.qq.com/s/zV7YC4AEtA2L11MphbyEEg)
 * [化虚为实 —— 用日常逻辑拆解 R 语言核心概念（二）](https://mp.weixin.qq.com/s/SRJyaGx8pTF1FIFtDfPcIg)
+* [【高手局】怎么在Rstudio中debug](https://mp.weixin.qq.com/s/TWlywcZ3Ts31kjvRd6GZsw)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
