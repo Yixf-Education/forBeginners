@@ -34,6 +34,8 @@
 * [手机里常用的AI工具](https://mp.weixin.qq.com/s/CJhb7ifMzcjwi1K3dO-Vqg)
 * [腾讯ima重磅升级，可免费无限扩容，终究是我格局小，误解了腾讯！](https://mp.weixin.qq.com/s/nXr5B43mShCk35gETojaXA)
 * [一个强大的AI提示词优化工具！成熟的AI应该学会自己动！](https://mp.weixin.qq.com/s/818hyRMQy1PMxuo86cJDew)
+* [GitHub - NVIDIA/accelerated-computing-hub: NVIDIA curated collection of educational resources related to general purpose GPU programming.](https://github.com/NVIDIA/accelerated-computing-hub)
+* [推荐一个GPU编程学习与实践的宝藏网站](https://mp.weixin.qq.com/s/dkhl5kAcHt91NNJXJVgBdg)
 
 
 ## 变革思考
