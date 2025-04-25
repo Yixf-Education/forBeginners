@@ -123,6 +123,7 @@
 * [探索 TeX 管理题库、随机组卷和试卷排版 - 《基于 LaTeX 的高等数学题库建设与试卷生成》](https://mp.weixin.qq.com/s/pYiILuRnfkppo19Ov4_x8w)
 * [教师必备！用 LaTeX 轻松排版试卷 - 25 最新版](https://mp.weixin.qq.com/s/APou3zcd4zvF_NPyKXR8Zg)
 * [LaTeX 制作 2025 新版教案模板 - 爱上教案排版的模版](https://mp.weixin.qq.com/s/oUY3q7yOSY-KIF1jwZBWcw)
+* [还在为微积分出题发愁？这款基于 LaTeX 的出题系统拯救你！](https://mp.weixin.qq.com/s/5HzLDQrQ4hOLa5v4KTxS4w)
 
 ## 科研
 * [学术写作注意事项 —— 格式问题](https://mp.weixin.qq.com/s/1eGN7jRRMIih_sDljN8Bpw)
