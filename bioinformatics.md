@@ -256,6 +256,7 @@
 * [使用STRING数据库研究生命系统藏着哪些惊喜？](https://mp.weixin.qq.com/s/6qkJObBUpKUi1_0-ExBMsA)
 * [在R语言中的 ATACseq 数据分析全流程实战（六）：差异 peaks 分析](https://mp.weixin.qq.com/s/-XIMfd_gi1vTwK8Do2e4iA)
 * [生信代码专题：ATACseq 数据分析全流程实战（四）：Peak calling](https://mp.weixin.qq.com/s/A_0c5VSmDouK7nC4QpWYTQ)
+* [【生信入门笔记】| 自动化管理生信工作流：Snakemake入门与应用](https://mp.weixin.qq.com/s/_i5SkOjJYhYrY6h4nDf5nQ)
 
 ## 基因组坐标系统
 
