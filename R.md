@@ -545,6 +545,7 @@
 * [R语言｜强迫症福音：parsnip包](https://mp.weixin.qq.com/s/ks45mh1MD9nUEch7c-irhg)
 * [R语言：Top期刊中使用最多的50个R扩展包](https://mp.weixin.qq.com/s/Twl8ENXoKpgkMPU13rfiOw)
 * [优秀学员笔记—如何查看函数源代码？](https://mp.weixin.qq.com/s/vni0hSDYVHEe6F0fVj6Scw)
+* [跨平台R语言版本管理工具——快速切换R版本！](https://mp.weixin.qq.com/s/lpmQ57p0Tx7zwY0OMK1Pjw)
 
 # Shiny
 
