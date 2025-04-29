@@ -498,6 +498,7 @@
 * [样本太少没法分析？试试 Bootstrap + 贝叶斯！](https://mp.weixin.qq.com/s/y07cE7OXyAjrywFcRlsdSA)
 * [机器学习｜iml包模型解释](https://mp.weixin.qq.com/s/OsTXGn2eGaTNC-KSYoX7GA)
 * [通透！标准化与归一化的区别 ！！](https://mp.weixin.qq.com/s/d_cXbjx96EqTOVmoWmv_Qg)
+* [R语言｜parsnip包 和 workflow包 基本语法](https://mp.weixin.qq.com/s/O_l4Qz7px1boKZJF_1muUg)
 
 # R包
 
