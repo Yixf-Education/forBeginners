@@ -360,6 +360,7 @@
 * [从本科生一直到顶级教授：从他们书写的论文摘要看学术成长与写作水平的演进](https://mp.weixin.qq.com/s/IZXoaBNfhXcXMbnCA88Akg)
 * [很多人不知道，论文能不能中顶刊，编辑和审稿人眼里的“创新性”，很大程度上取决于你讲故事的角度和深度！](https://mp.weixin.qq.com/s/GX_dezzO5upfo359vZVxxg)
 * [论文结论与摘要的区别（含示例）](https://mp.weixin.qq.com/s/g5LaEN0NgzGbJXJePzqYzg)
+* [期刊编辑眼里的完美论文初稿，原来这样写！](https://mp.weixin.qq.com/s/7jkbd-FmCRlrH59udAiFsA)
 
 ## 数据集
 
