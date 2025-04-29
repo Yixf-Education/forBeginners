@@ -111,6 +111,7 @@
 * [单细胞数据集中常见 marker 基因汇总_2024 版](https://mp.weixin.qq.com/s/jzj8hLHdxHKqG5Re_KqVWg)
 * [巨噬细胞的Marker基因](https://mp.weixin.qq.com/s/sWM__9fIuL_jajoc9AY0-w)
 * [甲状腺腺组织细胞已知marker基因](https://mp.weixin.qq.com/s/-XtspEgrdYayjGZqOr_Gsw)
+* [Nature杂志：内皮细胞亚群marker基因](https://mp.weixin.qq.com/s/6hObv7LtrowKj5LRiCvyNA)
 
 ## 其他
 
