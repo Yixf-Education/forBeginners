@@ -449,7 +449,7 @@
 * [深入解析 GTF 文件：基因组注释的钥匙](https://mp.weixin.qq.com/s/7hafXB2zWCRsFHLS3ZJL_w)
 * [在R语言中的 ATACseq 数据分析全流程实战（一）](https://mp.weixin.qq.com/s/mvBFl0WfQZr71SZMQGstcw)
 * [在R语言中的 ATACseq 数据分析全流程实战（二）](https://mp.weixin.qq.com/s/7tBa_pPWRAnI9C4lfZPSTQ)
-* [西湖生物样本库（WBBC）数据批量下载指南](https://mp.weixin.qq.com/s/0dawm5im3WsBTnRZr3cOMg)
+* [OS、DSS、DFI、PFI：TCGA的这些生存期在哪里找？](https://mp.weixin.qq.com/s/ET1Un_ceFMV-DDJINCswnw)
 
 ## 系统课程
 
@@ -529,3 +529,4 @@
 
 * [Westlake BioBank for Chinese](https://wbbc.westlake.edu.cn/index.html)
 * [首个中国开源三万人多组学样本库：西湖生物样本库数据批量下载详细步骤，附完整代码](https://mp.weixin.qq.com/s/B4432pH8hG8G7aNGvfJsbw)
+* [西湖生物样本库（WBBC）数据批量下载指南](https://mp.weixin.qq.com/s/0dawm5im3WsBTnRZr3cOMg)
