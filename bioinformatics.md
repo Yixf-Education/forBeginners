@@ -524,3 +524,8 @@
 * [tunisrusergroup/Introduction_to_GWAS_GAPIT](https://github.com/tunisrusergroup/Introduction_to_GWAS_GAPIT/tree/main)
 * [Genome-Wide Association Studies (GWAS) using R by Andy Chen | Tunis R User Group | Workshop #2 - YouTube](https://www.youtube.com/watch?v=Oq85Jff9i2U&t=707s)
 * [GWAS_GAPIT_Practical_AC - Google 云端硬盘](https://drive.google.com/drive/folders/11H_7CqzOWc7mlA2PsIgTe34zvh0lR5Ng)
+
+## 生物样本库
+
+* [Westlake BioBank for Chinese](https://wbbc.westlake.edu.cn/index.html)
+* [首个中国开源三万人多组学样本库：西湖生物样本库数据批量下载详细步骤，附完整代码](https://mp.weixin.qq.com/s/B4432pH8hG8G7aNGvfJsbw)
