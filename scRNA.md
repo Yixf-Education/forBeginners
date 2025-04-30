@@ -146,6 +146,8 @@
 * [Pluto Bio • Annotating cell clusters in single cell RNA-se... | Pluto Bio](https://pluto.bio/resources/Learning%20Series/annotating-clusters-in-scrnaseq)
 * [单细胞组间差异分析组内细胞数太少如何判断且跳过不报错](https://mp.weixin.qq.com/s/zmNI6G0DyTfMLhu74MYKNw)
 * [话卌(xì) 七 | 单细胞泛癌还能怎么做？](https://mp.weixin.qq.com/s/SlLatkDu3jCaeNJk0Piq1g?poc_token=HB5o_Gej7p3VF7IoVQ-eDzoVOln_yeFtQhMuCi_R)
+* [单细胞遗传学（Single-cell Genetics）/sc-DRS: 将基因组学与单细胞RNA测序的结合的方法](https://mp.weixin.qq.com/s/q6TTUdl1l8r3-ipXFTo_Mw)
+* [还在为单细胞注释发愁吗？mLLMCelltype单细胞注释工具成为注释难题终结者！](https://mp.weixin.qq.com/s/tG0LFBAwRYxiAW2N6QHCTA)
 
 ## scATAC-seq
 
