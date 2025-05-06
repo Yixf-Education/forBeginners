@@ -148,6 +148,7 @@
 * [点赞最高书稿模版，最佳排版实践](https://mp.weixin.qq.com/s/gZRy9Hb9nHDp6PunAlhK5w)
 * [看厌倦朴素 LaTeX 版式，推荐这套模版，瞬间清爽精致！](https://mp.weixin.qq.com/s/NWnuvnZhU2QPsR6i7Vo5AA)
 * [参考文献新国标GB/T 7714-2025的biblatex实现，全新示例，让标准文献引用一步到位](https://mp.weixin.qq.com/s/FtYV9fokwsr-xuoTk-Ltvw)
+* [点对点答复审稿人意见多色模版，让你的逐点回复美轮美奂](https://mp.weixin.qq.com/s/5aRVRyL7qgS20PJmP5nL7Q)
 
 ## 幻灯片
 * [R Markdown 制作 beamer 幻灯片](https://mp.weixin.qq.com/s/vnDD1Ovx1TaW4TdBnf56vQ)
