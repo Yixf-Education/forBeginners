@@ -138,6 +138,7 @@
 * [使用 SHAP 使机器学习模型变的可解释！！](https://mp.weixin.qq.com/s/51qLGQ-ZqfJJvfCdqL2AZg)
 * [一张图对比T检验和卡方检验](https://mp.weixin.qq.com/s/VDNimxruMFgSjVHGkhCDWQ)
 * [1篇搞懂贝叶斯因果发现：如何用数据构建因果网络？理论详解与开源落地](https://mp.weixin.qq.com/s/vW-zhQylI98MEnwv_tTXmQ)
+* [mlr3包学习：Introduction and Overview](https://mp.weixin.qq.com/s/TDG9q7GJtaQOyaGQdt3_TA)
 
 ## 统计学入门
 
