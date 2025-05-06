@@ -148,6 +148,7 @@
 * [话卌(xì) 七 | 单细胞泛癌还能怎么做？](https://mp.weixin.qq.com/s/SlLatkDu3jCaeNJk0Piq1g?poc_token=HB5o_Gej7p3VF7IoVQ-eDzoVOln_yeFtQhMuCi_R)
 * [单细胞遗传学（Single-cell Genetics）/sc-DRS: 将基因组学与单细胞RNA测序的结合的方法](https://mp.weixin.qq.com/s/q6TTUdl1l8r3-ipXFTo_Mw)
 * [还在为单细胞注释发愁吗？mLLMCelltype单细胞注释工具成为注释难题终结者！](https://mp.weixin.qq.com/s/tG0LFBAwRYxiAW2N6QHCTA)
+* [16种单细胞水平推断药物反应情况的工具！！！](https://mp.weixin.qq.com/s/Z6cZqpLd-kAQAopkCwW9dg)
 
 ## scATAC-seq
 
