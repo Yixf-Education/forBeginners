@@ -364,6 +364,7 @@
 * [论文结论与摘要的区别（含示例）](https://mp.weixin.qq.com/s/g5LaEN0NgzGbJXJePzqYzg)
 * [期刊编辑眼里的完美论文初稿，原来这样写！](https://mp.weixin.qq.com/s/7jkbd-FmCRlrH59udAiFsA)
 * [从拒稿到录用：教师论文修改的“黄金法则”](https://mp.weixin.qq.com/s/bAZh-YHQAE_AjobAKeedmg)
+* [BioGDP：生物绘图素材库](https://mp.weixin.qq.com/s/k4bKY0kmlhOlIoEY7VJNSQ)
 
 ## 数据集
 
