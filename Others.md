@@ -77,6 +77,7 @@
 * [zotero7.0正式版终于发布，多项性能优化！](https://mp.weixin.qq.com/s/GAYnZXb9WByGtgrhxNEOsw?poc_token=HBdo_GejIjmwwJIOSz7AMQXXNQXFJ-n4VofJF8S3)
 * [文件夹管理：从混乱到高效的 3 个层级](https://mp.weixin.qq.com/s/GD6NVX49_111b_dCZ1eWKw)
 * [真正的高手，都是贝叶斯主义者](https://mp.weixin.qq.com/s/HKgTN03Wc20WXdWcgIhXmA)
+* [有哪些算法惊艳到了你？（四）](https://mp.weixin.qq.com/s/CDe1hc2oX5ttPHVtps_qCw)
 
 ## 统计
 
