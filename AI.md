@@ -36,6 +36,7 @@
 * [一个强大的AI提示词优化工具！成熟的AI应该学会自己动！](https://mp.weixin.qq.com/s/818hyRMQy1PMxuo86cJDew)
 * [GitHub - NVIDIA/accelerated-computing-hub: NVIDIA curated collection of educational resources related to general purpose GPU programming.](https://github.com/NVIDIA/accelerated-computing-hub)
 * [推荐一个GPU编程学习与实践的宝藏网站](https://mp.weixin.qq.com/s/dkhl5kAcHt91NNJXJVgBdg)
+* [图文并茂，不靠天赋靠工具——科研人新宠 Napkin AI](https://mp.weixin.qq.com/s/SjLmOBavSU1LSq7L5M0WvQ)
 
 
 ## 变革思考
