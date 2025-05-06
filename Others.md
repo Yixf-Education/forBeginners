@@ -369,6 +369,7 @@
 * [从拒稿到录用：教师论文修改的“黄金法则”](https://mp.weixin.qq.com/s/bAZh-YHQAE_AjobAKeedmg)
 * [BioGDP：生物绘图素材库](https://mp.weixin.qq.com/s/k4bKY0kmlhOlIoEY7VJNSQ)
 * [提升论文接收率的审稿意见回复技巧——三段结构解析与实例”](https://mp.weixin.qq.com/s/uEymYmQEtqfyPS4JBSOsaw)
+* [做科研，什么最重要！](https://mp.weixin.qq.com/s/i__ErSYdPYroAZqYExcwuQ)
 
 ## 数据集
 
