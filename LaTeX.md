@@ -180,3 +180,4 @@
 * [零代码！用这些平台轻松搞定 LaTeX 简历，附宝藏 LaTeX 简历模版合集](https://mp.weixin.qq.com/s/tiL-_m-J1cKOcH7sx294eQ)
 * [一套满足您科研生涯各阶段需求的简历合集 - 8个样式可选](https://mp.weixin.qq.com/s/116Q393A6rzvYVsCkH1Anw)
 * [优雅 Material Design设计风格简历，还支持脚本自动更新](https://mp.weixin.qq.com/s/Wxa62lzSQmNv_jxEQiwP7w)
+* [绝了！用 stylishcv 打造吸睛简历，轻松赢在科研求职起跑线](https://mp.weixin.qq.com/s/1pYlPpkASkagIdEQrJ73nA)
