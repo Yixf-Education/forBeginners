@@ -362,6 +362,7 @@
 * [很多人不知道，论文能不能中顶刊，编辑和审稿人眼里的“创新性”，很大程度上取决于你讲故事的角度和深度！](https://mp.weixin.qq.com/s/GX_dezzO5upfo359vZVxxg)
 * [论文结论与摘要的区别（含示例）](https://mp.weixin.qq.com/s/g5LaEN0NgzGbJXJePzqYzg)
 * [期刊编辑眼里的完美论文初稿，原来这样写！](https://mp.weixin.qq.com/s/7jkbd-FmCRlrH59udAiFsA)
+* [从拒稿到录用：教师论文修改的“黄金法则”](https://mp.weixin.qq.com/s/bAZh-YHQAE_AjobAKeedmg)
 
 ## 数据集
 
