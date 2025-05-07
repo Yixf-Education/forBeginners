@@ -457,6 +457,7 @@
 * [GitHub上很不错的4年生物信息学课程学习计划](https://mp.weixin.qq.com/s/NJhGnzRKE40K2bZjzAQu5A)
 * [ossu/bioinformatics: Path to a free self-taught education in Bioinformatics!](https://github.com/ossu/bioinformatics)
 * [Practical Computing and Bioinformatics for Conservation and Evolutionary Genomics](https://eriqande.github.io/eca-bioinf-handbook/)
+* [est-practices-in-bioinformatics/basic](https://github.com/best-practices-in-bioinformatics/basic?tab=readme-ov-file)
 * [肿瘤生物学：（1）癌症的本质](https://mp.weixin.qq.com/s/1EtIzhDVwUVVPo_dm-Z85Q)
 * [肿瘤生物学：（2）肿瘤病毒](https://mp.weixin.qq.com/s/ywkwjTCzJtZIoKT1Bca0cA)
 * [肿瘤生物学：（3）细胞癌基因](https://mp.weixin.qq.com/s/lLzCRS-oRfTd61clbLOXeQ)
