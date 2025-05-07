@@ -156,3 +156,4 @@
 
 * [使用 Signac 和 Seurat 进行单细胞 ATAC-seq 数据分析：从预处理到聚类与注释](https://mp.weixin.qq.com/s/TUR5l7_qaTvfD-1jXaFKIQ)
 * [scATAC-seq分析之CellRanger-ATAC定量](https://mp.weixin.qq.com/s/jf3DvDBdpiGnQ5A5p7bfIw)
+* [scATAC-seq数据分析之标准分析流程](https://mp.weixin.qq.com/s/ut8jOHjN-YBbrUe9usuVvQ)
