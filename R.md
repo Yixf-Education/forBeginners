@@ -500,6 +500,7 @@
 * [机器学习｜iml包模型解释](https://mp.weixin.qq.com/s/OsTXGn2eGaTNC-KSYoX7GA)
 * [通透！标准化与归一化的区别 ！！](https://mp.weixin.qq.com/s/d_cXbjx96EqTOVmoWmv_Qg)
 * [R语言｜parsnip包 和 workflow包 基本语法](https://mp.weixin.qq.com/s/O_l4Qz7px1boKZJF_1muUg)
+* [转录组数据的批次效应处理](https://mp.weixin.qq.com/s/DNXzvEXR1RRpw0xvYsIuJA)
 
 # R包
 
