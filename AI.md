@@ -119,6 +119,7 @@
 * [别再熬夜画图了！DeepSeek 三步生成超牛课题技术路线图（附实操指令）](https://mp.weixin.qq.com/s/0Wa2_aioNavhjW6QlZl4pA)
 * [震惊！《Nature》推荐的30条GPT神级指令，让你7天写出一篇SCI论文](https://mp.weixin.qq.com/s/lVr-zWPql9oqppvNinAjng)
 * [斯坦福大学重磅发布！8个ChatGPT润色写作指令让你的水平瞬间提升！（DeepSeek也能用）](https://mp.weixin.qq.com/s/CclSOBLnmYnVGX2uY0PCVA)
+* [还可以这么玩！我被秘塔震惊了！](https://mp.weixin.qq.com/s/4HfLQStTpQnsbNJb1X-bcQ)
 
 
 ## 分析绘图
