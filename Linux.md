@@ -405,6 +405,7 @@
 * [玩转服务器 — 提交并行任务](https://mp.weixin.qq.com/s/ts2bARUcrSY-eto-wDNj1g)
 * [巧用CDPATH，解决新手目录困惑](https://mp.weixin.qq.com/s/xzRSc4BltzL_4EuYvysFOw)
 * [用好history命令，极大提高敲命令效率](https://mp.weixin.qq.com/s/h_Vc41LLs-OdVLQfDxYogA)
+* [命令行用了这么多年，原来还有这么多冷门实用的命令](https://mp.weixin.qq.com/s/GcdAKVRVT6m4CEGt2OU6fQ)
 
 ## 运维
 
