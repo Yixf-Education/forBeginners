@@ -122,6 +122,7 @@
 * [震惊！《Nature》推荐的30条GPT神级指令，让你7天写出一篇SCI论文](https://mp.weixin.qq.com/s/lVr-zWPql9oqppvNinAjng)
 * [斯坦福大学重磅发布！8个ChatGPT润色写作指令让你的水平瞬间提升！（DeepSeek也能用）](https://mp.weixin.qq.com/s/CclSOBLnmYnVGX2uY0PCVA)
 * [还可以这么玩！我被秘塔震惊了！](https://mp.weixin.qq.com/s/4HfLQStTpQnsbNJb1X-bcQ)
+* [科研菜鸟如何使用DeepSeek做大做强？](https://mp.weixin.qq.com/s/uXF2is3MlHpeFCt0Np18Dw)
 
 
 ## 分析绘图
