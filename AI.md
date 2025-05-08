@@ -39,6 +39,7 @@
 * [图文并茂，不靠天赋靠工具——科研人新宠 Napkin AI](https://mp.weixin.qq.com/s/SjLmOBavSU1LSq7L5M0WvQ)
 * [文献追踪神器：Research Rabbit 使用指南](https://mp.weixin.qq.com/s/ob657c_tkwDG4abxfVx2Hw)
 * [别再找了｜我压箱底的6大AI效率神器推荐给你，选对工具，每天多赚2小时](https://mp.weixin.qq.com/s/4fLT9e5cIR-OSJFqOASfXQ)
+* [《Nature》发文推荐：用于科研的AI工具，如何正确选择的完全指南](https://mp.weixin.qq.com/s/d2618GxHlYfuizJAuly83w)
 
 
 ## 变革思考
