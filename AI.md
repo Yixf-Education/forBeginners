@@ -72,6 +72,9 @@
 * [效率神器，用 Kimi 一天读完 100 本书籍](https://mp.weixin.qq.com/s/lduH9WZeDn0JTspPnJncyQ)
 * [20 个很强的 DeepSeek 提问公式](https://mp.weixin.qq.com/s/qrkn0XY7yDGttLKOeY83-w)
 * [学会这 7 个公式，秒变 DeepSeek 提问高手](https://mp.weixin.qq.com/s/BXhZHU3Z047Om-9WhmfUaQ)
+* [怎么用 AI 帮你排版 Word 文档（详细教程）](https://mp.weixin.qq.com/s/1eMcwmdVVDC2TIXFuM_Caw)
+
+
 
 
 ## 编写代码
