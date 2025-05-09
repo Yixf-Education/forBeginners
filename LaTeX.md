@@ -56,6 +56,7 @@
 * [点赞一个 up 主：找到了word 与 LaTeX 行距对应值，我看到科研精神，极致精致](https://mp.weixin.qq.com/s/77g5eJwEtIn8c0-YmwgJNw)
 * [带下划线的学位论文标题超长，如何自动换行并居中 - 完美解决方案](https://mp.weixin.qq.com/s/5ea9Y8HQyiLZyq78rzFz9Q)
 * [GitHub - dspinellis/latex-advice: Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)
+* [GitHub - divisbyzero/latex-cheatsheet: A two-page LaTeX cheatsheet. LaTeX source code and PDF included.](https://github.com/divisbyzero/latex-cheatsheet)
 
 ## 宏包
 * [enumitem 宏包中的长度设置](https://mp.weixin.qq.com/s/1x1Q_ucVSN9Ks9wRx1Bk8w)
