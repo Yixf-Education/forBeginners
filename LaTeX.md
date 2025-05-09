@@ -107,6 +107,7 @@
 * [史上最全技巧，破解 Overleaf 编译超时，不开会员也能继续用](https://mp.weixin.qq.com/s/xeX5ita-DnoxkQghqtyp2A)
 * [科研必备！Mathpix Markdown 让文档编辑起飞](https://mp.weixin.qq.com/s/FjZp_E-XTqw0SAAJpljH-Q)
 * [Txt2LaTeX](https://txt2latex.com/)
+* [宝藏工具 SVG2TikZ：让 SVG 到 TikZ/PGF 转换超轻松！](https://mp.weixin.qq.com/s/Dcd5u77OmUWEX8PyB9ltpA)
 
 
 ## 教学
