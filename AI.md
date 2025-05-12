@@ -149,6 +149,7 @@
 * [使用DeepSeek绘制8种常见的科研图表](https://mp.weixin.qq.com/s/z6CP5E2kcONPGEeBeMSv2Q)
 * [DeepSeek带你学生信：绘制科研图表](https://mp.weixin.qq.com/s/ameQqFpCNpb4TCMP_iPaqw)
 * [如何使用DeepSeek进行GO、KEGG富集分析和网络图绘制？](https://mp.weixin.qq.com/s/BgO6skdGBEp1onG9oHs87w)
+* [如何使用DeepSeek绘制多种漂亮的韦恩图？](https://mp.weixin.qq.com/s/WcsqkKqKIb1nLKPVf8egdw)
 
 ## 生物模型
 
