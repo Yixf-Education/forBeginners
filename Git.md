@@ -48,6 +48,7 @@
 * [Git In The Trenches](https://cbx33.github.io/gitt/intro.html)
 * [我在 Linux 中使用的 5 个 Git 配置 | Linux 中国](https://mp.weixin.qq.com/s/48cu4Vi9weJqg3vVchvpPQ)
 * [45 个 Git 经典操作场景，专治不会合代码](https://mp.weixin.qq.com/s/QEoC5Ib-zkd6r8SVFcpeUw)
+* [用了这么久的Git，这些冷门命令才是提效神器](https://mp.weixin.qq.com/s/7jqFdFwskvOcZTwRp87z8g)
 
 ## 技能树
 * [闯过这54关，点亮你的Git技能树](http://www.codingstyle.cn/topics/51)
