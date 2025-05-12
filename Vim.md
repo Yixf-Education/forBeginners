@@ -32,6 +32,7 @@
 * [技术 | 简简单单的 Vim 就很好](https://linux.cn/article-14326-1.html)
 * [技术 | 4 个用于提高生产力的 Vim 功能](https://linux.cn/article-14325-1.html)
 * [你会使用 Linux 编辑器 vim 吗?](https://mp.weixin.qq.com/s/sQPpx62XrNCaYkVVcZJxbQ)
+* [别再低效使用Vim了，原来有这么多快捷指令可以用](https://mp.weixin.qq.com/s/s4a5WnYdsq1Wxn3PZpKfwQ)
 
 ## Vim卡片
 * [初学者Vi备忘单](https://linux.cn/article-7110-1.html)
