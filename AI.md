@@ -55,6 +55,7 @@
 * [狂揽75K Star！最强开源AI Workflow平台【内置1500+工具和模板】效率起飞～](https://mp.weixin.qq.com/s/ctAqu27OZFL0Fp46d4R6Eg)
 * [AI赋能教学与科研：AI怎么看（含大三级别的验证测试题）](https://mp.weixin.qq.com/s/iL7FFmAA1tagYmrhRILZ4w)
 * [最近「万人求码」的 Fellou 是什么？伪装成浏览器的 AI 真能帮你「颠覆效率」？](https://mp.weixin.qq.com/s/yIEyMHWouRGJbQUFguy5oQ)
+* [科研界沸腾 | 全球首款“论文秒变代码仓”神器开源，复现效率提升50%，Copilot自愧不如！](https://mp.weixin.qq.com/s/jVi6lxHW15GQP8O1sabW4Q)
 
 
 ## 基本使用
