@@ -339,6 +339,7 @@
 * [ggsave如何统一不同格式的图片尺寸](https://mp.weixin.qq.com/s/PrTpoNmKR7V13byEYOfodw)
 * [\[论文分享\] ggplot2绘制绚丽冲积图](https://mp.weixin.qq.com/s/ugMKCwSZvKfbeKIUqCaUzg)
 * [tidyplots：一个全能绘图包(配色好看，一键式出图！可以取代ggplot2？)](https://mp.weixin.qq.com/s/ttdY4eOXDBqNmQtYdsmJZA)
+* [一文解锁随心所欲绘图：不要被ggplot2洗脑了，我们只要grid！！！](https://mp.weixin.qq.com/s/CWy91OQw9Z2A5xX3iARWig)
 
 # Rmarkdown
 
