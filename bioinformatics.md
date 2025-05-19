@@ -260,6 +260,7 @@
 * [【生信入门笔记】| 自动化管理生信工作流：Snakemake入门与应用](https://mp.weixin.qq.com/s/_i5SkOjJYhYrY6h4nDf5nQ)
 * [在R语言中的 ATACseq 数据分析全流程实战（七）：Motif分析](https://mp.weixin.qq.com/s/hMho_EUBv32XK-DKy9J5RA)
 * [ATAC-seq领域超级大佬William J. Greenleaf团队开发的scATAC-seq分析软件：ArchR](https://mp.weixin.qq.com/s/0gCiT50oEBixOjcYQgPXzA)
+* [生物公司生信入门分析详细教程](https://mp.weixin.qq.com/s/fe9aZsgb-2U_s9Nvm4ImkA)
 
 ## 基因组坐标系统
 
