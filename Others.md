@@ -142,6 +142,7 @@
 * [1篇搞懂贝叶斯因果发现：如何用数据构建因果网络？理论详解与开源落地](https://mp.weixin.qq.com/s/vW-zhQylI98MEnwv_tTXmQ)
 * [mlr3包学习：Introduction and Overview](https://mp.weixin.qq.com/s/TDG9q7GJtaQOyaGQdt3_TA)
 * [P value、adjust.P、qvalue、FDR有何异同](https://mp.weixin.qq.com/s/snETYDmUfL5x7wRia8ZFKQ)
+* [画说统计 | 单变量统计分析方法地图-一张当年考试的时候就想画的图](https://mp.weixin.qq.com/s/4Yqb9o0VndYozFqyZvAUjw)
 
 ## 统计学入门
 
