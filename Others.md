@@ -79,6 +79,7 @@
 * [真正的高手，都是贝叶斯主义者](https://mp.weixin.qq.com/s/HKgTN03Wc20WXdWcgIhXmA)
 * [有哪些算法惊艳到了你？（四）](https://mp.weixin.qq.com/s/CDe1hc2oX5ttPHVtps_qCw)
 * [工具分享|利用Adobe illustrator拼出高颜值科研绘图](https://mp.weixin.qq.com/s/NH4dXTHOfnh5XT1wVGBLng)
+* [Twitter疯传的用于科学插图的 BioRender 的多种免费替代品](https://mp.weixin.qq.com/s/Rc_m-c_DpiVDn5hXWVqN0w)
 
 ## 统计
 
