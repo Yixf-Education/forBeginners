@@ -502,6 +502,7 @@
 * [R语言｜parsnip包 和 workflow包 基本语法](https://mp.weixin.qq.com/s/O_l4Qz7px1boKZJF_1muUg)
 * [转录组数据的批次效应处理](https://mp.weixin.qq.com/s/DNXzvEXR1RRpw0xvYsIuJA)
 * [R语言｜easystats套件助力预测模型模型解释](https://mp.weixin.qq.com/s/h6xkT1VAVNy0vxR4NF7lng)
+* [mlr3包学习：Data and Basic Modeling](https://mp.weixin.qq.com/s/2yoyKVGPomDO5EuxkaEm1g)
 
 # R包
 
