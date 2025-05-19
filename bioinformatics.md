@@ -53,6 +53,7 @@
 * [生物医学通用绘图平台（GDP）使用教程](https://mp.weixin.qq.com/s/OrS5jh5KG1gsEbGtbTt8BQ)
 * [链特异性分析｜如何用bedtools精准锁定基因调控的"黄金区域"？](https://mp.weixin.qq.com/s/qYKEbQYc2kXxRjqRGzpRww)
 * [基础医学和生物学常用网站](https://mp.weixin.qq.com/s/NMO02daSTnKZTqIK_WdxsA)
+* [分享32个常用的生信数据库](https://mp.weixin.qq.com/s/YJipr3Zh8xcHQLKo3fCGDw)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
