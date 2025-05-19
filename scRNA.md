@@ -151,6 +151,7 @@
 * [还在为单细胞注释发愁吗？mLLMCelltype单细胞注释工具成为注释难题终结者！](https://mp.weixin.qq.com/s/tG0LFBAwRYxiAW2N6QHCTA)
 * [16种单细胞水平推断药物反应情况的工具！！！](https://mp.weixin.qq.com/s/Z6cZqpLd-kAQAopkCwW9dg)
 * [Tahoe-100M：全球最大的癌症单细胞药物扰动数据集，现已上线Talk2Data](https://mp.weixin.qq.com/s/JI5Sm0lEfcKZrFM2S6BK9w)
+* [空间转录组转录因子分析原理及应用思路](https://mp.weixin.qq.com/s/Tozgr6ha2KJTmnqKigfDKg)
 
 ## scATAC-seq
 
