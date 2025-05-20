@@ -504,6 +504,8 @@
 * [转录组数据的批次效应处理](https://mp.weixin.qq.com/s/DNXzvEXR1RRpw0xvYsIuJA)
 * [R语言｜easystats套件助力预测模型模型解释](https://mp.weixin.qq.com/s/h6xkT1VAVNy0vxR4NF7lng)
 * [mlr3包学习：Data and Basic Modeling](https://mp.weixin.qq.com/s/2yoyKVGPomDO5EuxkaEm1g)
+* [简单图表不简单：解锁14款高阶图表](https://mp.weixin.qq.com/s/RgZty-65eWgmc_cz86prOQ)
+* [读文献先读图：火山图怎么看？](https://mp.weixin.qq.com/s/u0P0Spep7spR8qBQdbWHLg)
 
 # R包
 
