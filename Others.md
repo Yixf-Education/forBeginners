@@ -143,6 +143,7 @@
 * [mlr3包学习：Introduction and Overview](https://mp.weixin.qq.com/s/TDG9q7GJtaQOyaGQdt3_TA)
 * [P value、adjust.P、qvalue、FDR有何异同](https://mp.weixin.qq.com/s/snETYDmUfL5x7wRia8ZFKQ)
 * [画说统计 | 单变量统计分析方法地图-一张当年考试的时候就想画的图](https://mp.weixin.qq.com/s/4Yqb9o0VndYozFqyZvAUjw)
+* [画说统计 | 研究设计选哪个：一张地图概述之](https://mp.weixin.qq.com/s/5oO53xHjmgxHrOoApI9EnA)
 
 ## 统计学入门
 
