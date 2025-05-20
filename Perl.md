@@ -35,6 +35,7 @@
 * [A Comprehensive Guide to Perl Programming for Biologists – Omics tutorials](https://omicstutorials.com/a-comprehensive-guide-to-perl-programming-for-biologists/)
 * [10 个杀手级的 Python 自动化脚本！](https://mp.weixin.qq.com/s/287-RQ0U4GOVTLScHx1CyQ)
 * [程序员建议遵守的优秀编程风格](https://mp.weixin.qq.com/s/cepwGOtzBxoybpVLeGbXPA)
+* [10个牛逼的编程范式，你已经用过了几个？](https://mp.weixin.qq.com/s/gsep2Qy4AbNxE0Ru7KvAHw)
 
 ## Perl系列
 
