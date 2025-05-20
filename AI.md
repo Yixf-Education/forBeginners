@@ -57,6 +57,8 @@
 * [最近「万人求码」的 Fellou 是什么？伪装成浏览器的 AI 真能帮你「颠覆效率」？](https://mp.weixin.qq.com/s/yIEyMHWouRGJbQUFguy5oQ)
 * [科研界沸腾 | 全球首款“论文秒变代码仓”神器开源，复现效率提升50%，Copilot自愧不如！](https://mp.weixin.qq.com/s/jVi6lxHW15GQP8O1sabW4Q)
 * [研究生：如何用质疑的态度面对AI？](https://mp.weixin.qq.com/s/1Q4l0WCdT4i0QXnx4MZOdQ)
+* [一句话扒出各大 AI 的隐藏人设，可能比你想象得还离谱 | 附提示词](https://mp.weixin.qq.com/s/57kaxDTlBPP6CJiezbW6nw)
+* [推荐几款我日常使用的AI工具：其中一个10分钟写完了3万字的报告](https://mp.weixin.qq.com/s/P2wYFQOUtHaWCSx_q0DNNg)
 
 
 ## 基本使用
@@ -129,6 +131,7 @@
 * [斯坦福大学重磅发布！8个ChatGPT润色写作指令让你的水平瞬间提升！（DeepSeek也能用）](https://mp.weixin.qq.com/s/CclSOBLnmYnVGX2uY0PCVA)
 * [还可以这么玩！我被秘塔震惊了！](https://mp.weixin.qq.com/s/4HfLQStTpQnsbNJb1X-bcQ)
 * [科研菜鸟如何使用DeepSeek做大做强？](https://mp.weixin.qq.com/s/uXF2is3MlHpeFCt0Np18Dw)
+* [太强了！ChatGPT深度分析文章并匹配期刊，预测成功发表概率及附带投稿策略](https://mp.weixin.qq.com/s/M9w7_4OExxQgBG2Wnql_ww)
 
 
 ## 分析绘图
