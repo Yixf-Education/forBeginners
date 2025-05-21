@@ -132,6 +132,7 @@
 * [还可以这么玩！我被秘塔震惊了！](https://mp.weixin.qq.com/s/4HfLQStTpQnsbNJb1X-bcQ)
 * [科研菜鸟如何使用DeepSeek做大做强？](https://mp.weixin.qq.com/s/uXF2is3MlHpeFCt0Np18Dw)
 * [太强了！ChatGPT深度分析文章并匹配期刊，预测成功发表概率及附带投稿策略](https://mp.weixin.qq.com/s/M9w7_4OExxQgBG2Wnql_ww)
+* [用Dropbox搭建ChatGPT知识库，让Deep Research基于数百篇文献深度研究](https://mp.weixin.qq.com/s/Pu71YeSlH9AAvxjHvxGElQ)
 
 
 ## 分析绘图
