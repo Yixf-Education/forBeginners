@@ -18,6 +18,7 @@
 * [面向初学者的单细胞详解](https://mp.weixin.qq.com/s/TtW3xqKnATCn7f5yW7Y8Jg)
 * [单细胞测序研究应用及分析思路笔记 （单细胞团队 南开大学 孙宝发老师团队）](https://mp.weixin.qq.com/s/icBV_UIlfEkb3APR0G-MqA)
 * [不搞懂这“三步走”，别说你会单细胞分析！](https://mp.weixin.qq.com/s/_JtXZVHZYUbJWbsTXvizZg)
+* [**超详细T细胞亚群标记基因列表**](https://mp.weixin.qq.com/s/KXaf0DylvatrooYKlj49Xw)
 
 ## 单细胞转录组高级分析
 
