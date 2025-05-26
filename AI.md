@@ -87,6 +87,7 @@
 * [如果 ChatGPT 给出的的代码不太完善，如何请他一步步改好？](https://mp.weixin.qq.com/s/FEfuSBxCNe5MdKlaukxbSA)
 * [用 GPT-4 在黑客大赛上 “炸场”：不完全会 Linux、Perl，似乎也没有关系了！](https://mp.weixin.qq.com/s/mPcpIHD6FGYEyIPzqmo67A)
 * [生信的福音！Rstudio接入Deepseek，开启自动编程新时代](https://mp.weixin.qq.com/s/aiuX8FJd3yhwJGeUKjRfFw)
+* [还用学生信吗？Copilot自动生成全部代码](https://mp.weixin.qq.com/s/MR6hSvQQHH3r8AI7vfqzrg)
 
 
 ## 论文课题
