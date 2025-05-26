@@ -160,3 +160,4 @@
 * [scATAC-seq数据分析之标准分析流程](https://mp.weixin.qq.com/s/ut8jOHjN-YBbrUe9usuVvQ)
 * [大佬William J. Greenleaf团队开发的scATAC-seq分析软件：ArchR（二）](https://mp.weixin.qq.com/s/xWWYWrVdpbGlYJz9E_5zlw)
 * [scATAC-seq分析ArchR（三）：使用模块打分注释细胞亚群](https://mp.weixin.qq.com/s/qHgm4ksKQ7v7kBo2Sgsugg)
+* [10X scATAC-seq的结果 fragment files 含义](https://mp.weixin.qq.com/s/1BpOFYLvGXh8rwY2gU8IdA)
