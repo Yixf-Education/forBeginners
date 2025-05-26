@@ -374,6 +374,7 @@
 * [BioGDP：生物绘图素材库](https://mp.weixin.qq.com/s/k4bKY0kmlhOlIoEY7VJNSQ)
 * [提升论文接收率的审稿意见回复技巧——三段结构解析与实例”](https://mp.weixin.qq.com/s/uEymYmQEtqfyPS4JBSOsaw)
 * [做科研，什么最重要！](https://mp.weixin.qq.com/s/i__ErSYdPYroAZqYExcwuQ)
+* [学会如何高效地查找文献](https://mp.weixin.qq.com/s/oQGsdq7K-YJwwGZJXDC-pQ)
 
 ## 数据集
 
