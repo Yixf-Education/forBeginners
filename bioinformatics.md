@@ -54,6 +54,7 @@
 * [链特异性分析｜如何用bedtools精准锁定基因调控的"黄金区域"？](https://mp.weixin.qq.com/s/qYKEbQYc2kXxRjqRGzpRww)
 * [基础医学和生物学常用网站](https://mp.weixin.qq.com/s/NMO02daSTnKZTqIK_WdxsA)
 * [分享32个常用的生信数据库](https://mp.weixin.qq.com/s/YJipr3Zh8xcHQLKo3fCGDw)
+* [MUSCLE：或许是最好的多序列比对神器](https://mp.weixin.qq.com/s/zTUgq5X2IBRp8eP3Fa4C-Q)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
