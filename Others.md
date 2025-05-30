@@ -80,6 +80,8 @@
 * [有哪些算法惊艳到了你？（四）](https://mp.weixin.qq.com/s/CDe1hc2oX5ttPHVtps_qCw)
 * [工具分享|利用Adobe illustrator拼出高颜值科研绘图](https://mp.weixin.qq.com/s/NH4dXTHOfnh5XT1wVGBLng)
 * [Twitter疯传的用于科学插图的 BioRender 的多种免费替代品](https://mp.weixin.qq.com/s/Rc_m-c_DpiVDn5hXWVqN0w)
+* [【科研作图必备】科研人必用的可视化工具](https://mp.weixin.qq.com/s/Xj-rAvkxxDYymgmle527Ig)
+* [毕业论文图片排版工具--Adobe Illustrator使用操作指南](https://mp.weixin.qq.com/s/LOlQbi8GfaDuKW1XEG9iNg)
 
 ## 统计
 
