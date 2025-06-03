@@ -91,6 +91,7 @@
 * [用 GPT-4 在黑客大赛上 “炸场”：不完全会 Linux、Perl，似乎也没有关系了！](https://mp.weixin.qq.com/s/mPcpIHD6FGYEyIPzqmo67A)
 * [生信的福音！Rstudio接入Deepseek，开启自动编程新时代](https://mp.weixin.qq.com/s/aiuX8FJd3yhwJGeUKjRfFw)
 * [还用学生信吗？Copilot自动生成全部代码](https://mp.weixin.qq.com/s/MR6hSvQQHH3r8AI7vfqzrg)
+* [使用命令行AI，做生物信息竟然如此简单](https://mp.weixin.qq.com/s/L0nAnEk7SaTtzUE9pZtOuw)
 
 
 ## 论文课题
