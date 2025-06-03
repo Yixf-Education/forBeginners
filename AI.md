@@ -82,6 +82,7 @@
 * [学会这 7 个公式，秒变 DeepSeek 提问高手](https://mp.weixin.qq.com/s/BXhZHU3Z047Om-9WhmfUaQ)
 * [怎么用 AI 帮你排版 Word 文档（详细教程）](https://mp.weixin.qq.com/s/1eMcwmdVVDC2TIXFuM_Caw)
 * [AI做PPT完整攻略：12个工具10大场景，看这一篇全搞定](https://mp.weixin.qq.com/s/PUYVI8IPlJveMtYLXEAdbQ)
+* [借助AI一键下载网页中的所有数据，如此简单！](https://mp.weixin.qq.com/s/q70mgtGzzoubk_93QMJA2A)
 
 
 
