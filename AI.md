@@ -43,6 +43,7 @@
 * [爱不释手！！Trae又又又双叒叕更新啦](https://mp.weixin.qq.com/s/Lw8UmzaZENsFard-hfyP_Q)
 * [2025年不可错过的15款AI生成PPT工具测评](https://mp.weixin.qq.com/s/0MthB62laX1JfJPwAfJ3-g)
 * [科研神器SciSpace：从文献检索到论文写作的一站式AI助手](https://mp.weixin.qq.com/s/ViyMOJj93DXVJIjD0q-Luw)
+* [自已写的几款文献解读软件](https://mp.weixin.qq.com/s/DhyYsfqzbcKfOOJeF8cggw)
 
 
 ## 变革思考
