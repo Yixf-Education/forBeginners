@@ -380,6 +380,7 @@
 * [学会如何高效地查找文献](https://mp.weixin.qq.com/s/oQGsdq7K-YJwwGZJXDC-pQ)
 * [期刊让提交“预印本”，应该投还是不投？](https://mp.weixin.qq.com/s/hUQqMfo9EV4LTAaBSzuYZA)
 * [科研人必收藏！6款文献神器让论文写作效率翻3倍](https://mp.weixin.qq.com/s/BawbsUt8bz_vYOQkjia_Jw)
+* [细谈如何写摘要](https://mp.weixin.qq.com/s/BPDIph11vUc0gPkS9y2igQ)
 
 ## 数据集
 
