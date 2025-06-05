@@ -109,6 +109,7 @@
 * [科研必备！Mathpix Markdown 让文档编辑起飞](https://mp.weixin.qq.com/s/FjZp_E-XTqw0SAAJpljH-Q)
 * [Txt2LaTeX](https://txt2latex.com/)
 * [宝藏工具 SVG2TikZ：让 SVG 到 TikZ/PGF 转换超轻松！](https://mp.weixin.qq.com/s/Dcd5u77OmUWEX8PyB9ltpA)
+* [告别 LaTeX 排版烦恼：TeXtidote，你的智能代码矫正写作伙伴！](https://mp.weixin.qq.com/s/qDA1qTcy6FymJHgPUYPGiQ)
 
 
 ## 教学
