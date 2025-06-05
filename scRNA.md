@@ -107,6 +107,7 @@
 * [跟着 Seurat 官网学 Xenium 空转分析](https://mp.weixin.qq.com/s/RIyqt4GYZLUBZ0TauqIl_A)
 * [空间转录组 -- 初识](https://mp.weixin.qq.com/s/GNZA_w4YJUQM8gbiWW6PfA)
 * [空间转录组多组学关联分析总述](https://mp.weixin.qq.com/s/Vk40-vtMzt7x2jCM_bpVvA)
+* [第一篇正式见刊的HD高精度空间转录组文章做了什么？](https://mp.weixin.qq.com/s/PIPpwo6iO8vHS5LGsd6EzA)
 
 ## Markers
 
