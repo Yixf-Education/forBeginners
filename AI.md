@@ -44,6 +44,7 @@
 * [2025年不可错过的15款AI生成PPT工具测评](https://mp.weixin.qq.com/s/0MthB62laX1JfJPwAfJ3-g)
 * [科研神器SciSpace：从文献检索到论文写作的一站式AI助手](https://mp.weixin.qq.com/s/ViyMOJj93DXVJIjD0q-Luw)
 * [自已写的几款文献解读软件](https://mp.weixin.qq.com/s/DhyYsfqzbcKfOOJeF8cggw)
+* [实测好用，6个AI工具，贯穿我的一天](https://mp.weixin.qq.com/s/uxxh20JXcHvjB1Qye3jkTQ)
 
 
 ## 变革思考
@@ -83,6 +84,7 @@
 * [怎么用 AI 帮你排版 Word 文档（详细教程）](https://mp.weixin.qq.com/s/1eMcwmdVVDC2TIXFuM_Caw)
 * [AI做PPT完整攻略：12个工具10大场景，看这一篇全搞定](https://mp.weixin.qq.com/s/PUYVI8IPlJveMtYLXEAdbQ)
 * [借助AI一键下载网页中的所有数据，如此简单！](https://mp.weixin.qq.com/s/q70mgtGzzoubk_93QMJA2A)
+* [DeepSeek-0528生物信息能力测试](https://mp.weixin.qq.com/s/zPv2oJgK8glUsCYiD1adMA)
 
 
 
