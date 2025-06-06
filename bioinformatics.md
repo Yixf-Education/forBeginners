@@ -265,6 +265,7 @@
 * [生物公司生信入门分析详细教程](https://mp.weixin.qq.com/s/fe9aZsgb-2U_s9Nvm4ImkA)
 * [空间转录组基因富集和打分分析应用思路](https://mp.weixin.qq.com/s/7Djti_oNqCX_WvzB30QOrA)
 * [如何从ENA数据库批量下载fq数据与表达矩阵（代码版）？](https://mp.weixin.qq.com/s/5QyvZRIt3-5iGPMvOptUcw)
+* [NGS测序相关——知识补充](https://mp.weixin.qq.com/s/L-JOrdq9Dy3rxKIJlTlrmQ)
 
 ## 基因组坐标系统
 
