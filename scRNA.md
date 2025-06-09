@@ -115,6 +115,7 @@
 * [巨噬细胞的Marker基因](https://mp.weixin.qq.com/s/sWM__9fIuL_jajoc9AY0-w)
 * [甲状腺腺组织细胞已知marker基因](https://mp.weixin.qq.com/s/-XtspEgrdYayjGZqOr_Gsw)
 * [Nature杂志：内皮细胞亚群marker基因](https://mp.weixin.qq.com/s/6hObv7LtrowKj5LRiCvyNA)
+* [细胞类型映射到细胞本体论：让你的单细胞注释更专业！](https://mp.weixin.qq.com/s/2PqmjBJukaMvy5iGdN2MJw)
 
 ## 其他
 
