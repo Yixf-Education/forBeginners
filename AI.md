@@ -45,6 +45,7 @@
 * [科研神器SciSpace：从文献检索到论文写作的一站式AI助手](https://mp.weixin.qq.com/s/ViyMOJj93DXVJIjD0q-Luw)
 * [自已写的几款文献解读软件](https://mp.weixin.qq.com/s/DhyYsfqzbcKfOOJeF8cggw)
 * [实测好用，6个AI工具，贯穿我的一天](https://mp.weixin.qq.com/s/uxxh20JXcHvjB1Qye3jkTQ)
+* [科研学术AI工具选择的终极指南](https://mp.weixin.qq.com/s/vRs9YzJ506MfqO78OpNUKQ)
 
 
 ## 变革思考
