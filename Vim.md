@@ -33,6 +33,7 @@
 * [技术 | 4 个用于提高生产力的 Vim 功能](https://linux.cn/article-14325-1.html)
 * [你会使用 Linux 编辑器 vim 吗?](https://mp.weixin.qq.com/s/sQPpx62XrNCaYkVVcZJxbQ)
 * [别再低效使用Vim了，原来有这么多快捷指令可以用](https://mp.weixin.qq.com/s/s4a5WnYdsq1Wxn3PZpKfwQ)
+* [Vim 缩进插入删除使用技巧](https://mp.weixin.qq.com/s/WXirukd6zvScs2aYu82pTA)
 
 ## Vim卡片
 * [初学者Vi备忘单](https://linux.cn/article-7110-1.html)
