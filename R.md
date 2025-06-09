@@ -509,6 +509,7 @@
 * [读文献先读图：火山图怎么看？](https://mp.weixin.qq.com/s/u0P0Spep7spR8qBQdbWHLg)
 * [cellchat细胞通讯绘制弦图函数的参数这么难搞定吗？](https://mp.weixin.qq.com/s/hk1BZWyBrA5TSk2zQC4oCw)
 * [mlr3包学习：Evaluation and Benchmarking](https://mp.weixin.qq.com/s/pjj7aqyr9kBwVklDrWdTKw)
+* [Various Topics on Gene Set Enrichment Analysis • GSEAtopics](https://jokergoo.github.io/GSEAtopics/index.html)
 
 # R包
 
