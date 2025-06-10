@@ -382,6 +382,7 @@
 * [科研人必收藏！6款文献神器让论文写作效率翻3倍](https://mp.weixin.qq.com/s/BawbsUt8bz_vYOQkjia_Jw)
 * [细谈如何写摘要](https://mp.weixin.qq.com/s/BPDIph11vUc0gPkS9y2igQ)
 * [分享15个实用的科研小工具](https://mp.weixin.qq.com/s/NpYw7Y_GooHkyZHDLCIapQ)
+* [常见段落结构与示例](https://mp.weixin.qq.com/s/KtjclfeGfmu6L2u20tS4zg)
 
 ## 数据集
 
