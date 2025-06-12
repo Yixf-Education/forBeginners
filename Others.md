@@ -383,6 +383,7 @@
 * [细谈如何写摘要](https://mp.weixin.qq.com/s/BPDIph11vUc0gPkS9y2igQ)
 * [分享15个实用的科研小工具](https://mp.weixin.qq.com/s/NpYw7Y_GooHkyZHDLCIapQ)
 * [常见段落结构与示例](https://mp.weixin.qq.com/s/KtjclfeGfmu6L2u20tS4zg)
+* [如何做学术报告（含投票）](https://mp.weixin.qq.com/s/p8SDNhE2TyoIzQWD9-l5qQ)
 
 ## 数据集
 
