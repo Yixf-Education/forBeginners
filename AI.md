@@ -143,6 +143,7 @@
 * [科研菜鸟如何使用DeepSeek做大做强？](https://mp.weixin.qq.com/s/uXF2is3MlHpeFCt0Np18Dw)
 * [太强了！ChatGPT深度分析文章并匹配期刊，预测成功发表概率及附带投稿策略](https://mp.weixin.qq.com/s/M9w7_4OExxQgBG2Wnql_ww)
 * [用Dropbox搭建ChatGPT知识库，让Deep Research基于数百篇文献深度研究](https://mp.weixin.qq.com/s/Pu71YeSlH9AAvxjHvxGElQ)
+* [科研人神器，论文秒变海报！Paper2Poster：一键生成顶会级学术Poster，再也不用为赶会熬夜做PPT啦。](https://mp.weixin.qq.com/s/8-DBSqud9fI2b8j3BUyZUA)
 
 
 ## 分析绘图
