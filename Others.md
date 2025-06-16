@@ -148,6 +148,7 @@
 * [画说统计 | 研究设计选哪个：一张地图概述之](https://mp.weixin.qq.com/s/5oO53xHjmgxHrOoApI9EnA)
 * [画说统计 | 一张样本量估算的参数地图](https://mp.weixin.qq.com/s/bJrPjnLwC7IsdlFs-1MZoA)
 * [你以为你在独立思考，背后可能是贝叶斯在帮你做决定](https://mp.weixin.qq.com/s/OY3upAPpjjmNeOuTcM7uog)
+* [基础统计学：计算空难事件概率](https://mp.weixin.qq.com/s/YxHNdztrmIMdCyytCCBnXg)
 
 ## 统计学入门
 
