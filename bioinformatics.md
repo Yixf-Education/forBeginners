@@ -268,6 +268,7 @@
 * [如何从ENA数据库批量下载fq数据与表达矩阵（代码版）？](https://mp.weixin.qq.com/s/5QyvZRIt3-5iGPMvOptUcw)
 * [NGS测序相关——知识补充](https://mp.weixin.qq.com/s/L-JOrdq9Dy3rxKIJlTlrmQ)
 * [GitHub - YongxinLiu/MicrobiomeStatPlot: Interpretation and visualization of microbiome charts](https://github.com/YongxinLiu/MicrobiomeStatPlot/)
+* [科研党必备：一键下载药物-靶标-疾病全关联数据！](https://mp.weixin.qq.com/s/0ljKzEbHcuqlNQnbAfUxdg)
 
 ## 基因组坐标系统
 
