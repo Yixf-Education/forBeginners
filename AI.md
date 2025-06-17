@@ -47,6 +47,7 @@
 * [实测好用，6个AI工具，贯穿我的一天](https://mp.weixin.qq.com/s/uxxh20JXcHvjB1Qye3jkTQ)
 * [科研学术AI工具选择的终极指南](https://mp.weixin.qq.com/s/vRs9YzJ506MfqO78OpNUKQ)
 * [科研人必藏！斯坦福大学都在用的五款学术搜索AI大模型，精准检索文献和深度综述轻松搞定](https://mp.weixin.qq.com/s/DAHFgOTEuVQ0SsdcHTK2Gg)
+* [浅尝AI写作工具之「MindBricks」：免费、智能的本地创作神器](https://mp.weixin.qq.com/s/YnPWXOVkXxw1fcO0O__64A)
 
 
 ## 变革思考
