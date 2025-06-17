@@ -386,6 +386,7 @@
 * [分享15个实用的科研小工具](https://mp.weixin.qq.com/s/NpYw7Y_GooHkyZHDLCIapQ)
 * [常见段落结构与示例](https://mp.weixin.qq.com/s/KtjclfeGfmu6L2u20tS4zg)
 * [如何做学术报告（含投票）](https://mp.weixin.qq.com/s/p8SDNhE2TyoIzQWD9-l5qQ)
+* [如何进行科研图像调整和示意图绘制？](https://mp.weixin.qq.com/s/u0KtM4XouGsIBKVABFiaHw)
 
 ## 数据集
 
