@@ -387,6 +387,7 @@
 * [常见段落结构与示例](https://mp.weixin.qq.com/s/KtjclfeGfmu6L2u20tS4zg)
 * [如何做学术报告（含投票）](https://mp.weixin.qq.com/s/p8SDNhE2TyoIzQWD9-l5qQ)
 * [如何进行科研图像调整和示意图绘制？](https://mp.weixin.qq.com/s/u0KtM4XouGsIBKVABFiaHw)
+* [Google Scholar文献检索语法](https://mp.weixin.qq.com/s/ShEl2GRjAq87JF8ZgO_28Q)
 
 ## 数据集
 
