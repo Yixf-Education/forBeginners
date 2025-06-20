@@ -48,6 +48,7 @@
 * [科研学术AI工具选择的终极指南](https://mp.weixin.qq.com/s/vRs9YzJ506MfqO78OpNUKQ)
 * [科研人必藏！斯坦福大学都在用的五款学术搜索AI大模型，精准检索文献和深度综述轻松搞定](https://mp.weixin.qq.com/s/DAHFgOTEuVQ0SsdcHTK2Gg)
 * [浅尝AI写作工具之「MindBricks」：免费、智能的本地创作神器](https://mp.weixin.qq.com/s/YnPWXOVkXxw1fcO0O__64A)
+* [做PPT还只会用KIMI？这两个AI智能体才是真正的效率神器！](https://mp.weixin.qq.com/s/N2c5XYtk7uGSdrRnT4yRNQ)
 
 
 ## 变革思考
