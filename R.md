@@ -185,6 +185,7 @@
 * [【高手局】怎么在Rstudio中debug](https://mp.weixin.qq.com/s/TWlywcZ3Ts31kjvRd6GZsw)
 * [还在复制粘贴？R语言函数封装才是科研效率神器！](https://mp.weixin.qq.com/s/xG2qVTgVzYF1TljR52X_oQ)
 * [优秀学员笔记2：生信入门——Day1-2](https://mp.weixin.qq.com/s/1eTcpK8hR14HxDLy_pC1EA)
+* [R语言教程|1使用tidyverse进行葡萄酒质量数据的探索性分析(EDA)](https://mp.weixin.qq.com/s/Zba6l_3x6fxd5w-rkS2U0A)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
