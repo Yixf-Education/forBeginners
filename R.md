@@ -513,6 +513,7 @@
 * [cellchat细胞通讯绘制弦图函数的参数这么难搞定吗？](https://mp.weixin.qq.com/s/hk1BZWyBrA5TSk2zQC4oCw)
 * [mlr3包学习：Evaluation and Benchmarking](https://mp.weixin.qq.com/s/pjj7aqyr9kBwVklDrWdTKw)
 * [Various Topics on Gene Set Enrichment Analysis • GSEAtopics](https://jokergoo.github.io/GSEAtopics/index.html)
+* [R语言教程|2用糖尿病数据教你从清洗到预测的全流程](https://mp.weixin.qq.com/s/83pvIjlpncGOwXeA1p3-vg)
 
 # R包
 
