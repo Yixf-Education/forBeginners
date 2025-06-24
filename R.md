@@ -514,6 +514,7 @@
 * [mlr3包学习：Evaluation and Benchmarking](https://mp.weixin.qq.com/s/pjj7aqyr9kBwVklDrWdTKw)
 * [Various Topics on Gene Set Enrichment Analysis • GSEAtopics](https://jokergoo.github.io/GSEAtopics/index.html)
 * [R语言教程|2用糖尿病数据教你从清洗到预测的全流程](https://mp.weixin.qq.com/s/83pvIjlpncGOwXeA1p3-vg)
+* [R语言教程|3预测信用卡违约风险：tidyverse数据清洗 + tidymodels逻辑回归全流程](https://mp.weixin.qq.com/s/h5IGy0W24K_kKLFWYx18tg)
 
 # R包
 
