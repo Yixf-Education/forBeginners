@@ -111,6 +111,7 @@
 * [Txt2LaTeX](https://txt2latex.com/)
 * [宝藏工具 SVG2TikZ：让 SVG 到 TikZ/PGF 转换超轻松！](https://mp.weixin.qq.com/s/Dcd5u77OmUWEX8PyB9ltpA)
 * [告别 LaTeX 排版烦恼：TeXtidote，你的智能代码矫正写作伙伴！](https://mp.weixin.qq.com/s/qDA1qTcy6FymJHgPUYPGiQ)
+* [使用 Neovim 编写 LaTeX: 终极指南-带视频演示，极客首选，运笔如飞](https://mp.weixin.qq.com/s/Q4Y_ABrSTmYAbm0_EOdOdQ)
 
 
 ## 教学
