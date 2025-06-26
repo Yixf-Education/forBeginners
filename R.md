@@ -515,6 +515,7 @@
 * [Various Topics on Gene Set Enrichment Analysis • GSEAtopics](https://jokergoo.github.io/GSEAtopics/index.html)
 * [R语言教程|2用糖尿病数据教你从清洗到预测的全流程](https://mp.weixin.qq.com/s/83pvIjlpncGOwXeA1p3-vg)
 * [R语言教程|3预测信用卡违约风险：tidyverse数据清洗 + tidymodels逻辑回归全流程](https://mp.weixin.qq.com/s/h5IGy0W24K_kKLFWYx18tg)
+* [还在使用同源基因转换获取非人类物种基因集吗，那你就out啦！来看看这个方法](https://mp.weixin.qq.com/s/AeMeQr_-td8Y2ZbtwAk0oQ)
 
 # R包
 
