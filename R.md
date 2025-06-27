@@ -580,4 +580,5 @@
 * [在Shiny app中快速的将静态热图变为互动热图](https://mp.weixin.qq.com/s/8wGPoHqB9s8CET4pFZYU6A)
 * [Shiny 开发学习路径](https://mp.weixin.qq.com/s/DMvjt-2RIlY6J3QUYIAjBQ)
 * [R语言爱好者必看：如何将你的统计分析作品变成网页应用？](https://mp.weixin.qq.com/s/42f0-kZV4hqtk4eCop6GWw)
+* [Posit Connect Cloud：免费快速部署网络应用](https://mp.weixin.qq.com/s/LwNDEgfSmOhyHEpO2HT8YA?poc_token=HO1CXmijiK6xiY5WAl0pQ7o4XtBCmIzC8PM-6u5a)
 
