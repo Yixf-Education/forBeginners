@@ -390,6 +390,7 @@
 * [如何进行科研图像调整和示意图绘制？](https://mp.weixin.qq.com/s/u0KtM4XouGsIBKVABFiaHw)
 * [Google Scholar文献检索语法](https://mp.weixin.qq.com/s/ShEl2GRjAq87JF8ZgO_28Q)
 * [多组学数据整合的挑战和解决方案](https://mp.weixin.qq.com/s/PD9YSms0kjPBSrfQZ10Q2A)
+* [硕博必备的科研网站（1）](https://mp.weixin.qq.com/s/o4_Kk7fCnhMNz-B5RQyy9w?poc_token=HOpCXmijLd3eROjDOiEicnhsWDx6xQFpx9NzlDNc)
 
 ## 数据集
 
