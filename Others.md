@@ -82,6 +82,7 @@
 * [Twitter疯传的用于科学插图的 BioRender 的多种免费替代品](https://mp.weixin.qq.com/s/Rc_m-c_DpiVDn5hXWVqN0w)
 * [【科研作图必备】科研人必用的可视化工具](https://mp.weixin.qq.com/s/Xj-rAvkxxDYymgmle527Ig)
 * [毕业论文图片排版工具--Adobe Illustrator使用操作指南](https://mp.weixin.qq.com/s/LOlQbi8GfaDuKW1XEG9iNg)
+* [全网最实用搜索技巧合集：从“不会找”到“什么都能找到”](https://mp.weixin.qq.com/s/wFD8obFx456WGWLdhfpMEw)
 
 ## 统计
 
