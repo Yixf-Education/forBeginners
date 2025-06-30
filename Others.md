@@ -391,6 +391,7 @@
 * [Google Scholar文献检索语法](https://mp.weixin.qq.com/s/ShEl2GRjAq87JF8ZgO_28Q)
 * [多组学数据整合的挑战和解决方案](https://mp.weixin.qq.com/s/PD9YSms0kjPBSrfQZ10Q2A)
 * [硕博必备的科研网站（1）](https://mp.weixin.qq.com/s/o4_Kk7fCnhMNz-B5RQyy9w?poc_token=HOpCXmijLd3eROjDOiEicnhsWDx6xQFpx9NzlDNc)
+* [一键完成问卷量表描述分析（2分钟得到酷炫图表和文字报告）](https://mp.weixin.qq.com/s/ZmXFiGiCl-ZJbBmLEL-gdA)
 
 ## 数据集
 
