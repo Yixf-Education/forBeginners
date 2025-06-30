@@ -112,6 +112,7 @@
 * [宝藏工具 SVG2TikZ：让 SVG 到 TikZ/PGF 转换超轻松！](https://mp.weixin.qq.com/s/Dcd5u77OmUWEX8PyB9ltpA)
 * [告别 LaTeX 排版烦恼：TeXtidote，你的智能代码矫正写作伙伴！](https://mp.weixin.qq.com/s/qDA1qTcy6FymJHgPUYPGiQ)
 * [使用 Neovim 编写 LaTeX: 终极指南-带视频演示，极客首选，运笔如飞](https://mp.weixin.qq.com/s/Q4Y_ABrSTmYAbm0_EOdOdQ)
+* [中英文自动空格的盘古之白，texspace 工具发布了 - TeXHub 平台规则引擎来了](https://mp.weixin.qq.com/s/pEq2caQRbB023GncBlaOPg)
 
 
 ## 教学
@@ -175,6 +176,7 @@
 * [学术报告精品 beamer 主题样式 - 中英文都精致，让你享受科研输出！](https://mp.weixin.qq.com/s/tgkkK262FuYleVnDdd4FEg)
 * [学术汇报新宠！Albi Beamer 主题，打造高级感学术演讲，秒变学术圈“顶流”！](https://mp.weixin.qq.com/s/-Q4mKH3IYaR-B4k_xduXFg?poc_token=HCpo_Gejp6aHtwck0om9j1I6q-bH4f-Opx10Fpfr)
 * [Awesome Marp 让你用 Markdown 轻松做出高大上演示文稿，取代 LaTeX Beamer](https://mp.weixin.qq.com/s/zYQBHuzBFnxONeQXLb_9jg)
+* [这模版17种配色可选让你享受科研的精致，让学术写作优雅又高效！](https://mp.weixin.qq.com/s/eugrpTQwZJFHX0UgJo6wMg)
 
 ## 简历
 * [R 沟通｜使用 latex 模板构建个人履历](https://mp.weixin.qq.com/s?__biz=MzI1NjUwMjQxMQ==&mid=2247493793&idx=1&sn=ac5653d10a318d71885e6b1ff3ed3a67&chksm=ea271745dd509e53173998508ab53dad55d4e2acb22c78afee57ea57bc9950503fdb22bc00d7&mpshare=1&scene=1&srcid=0409FLWNIC803gsQy2MCRHf3&sharer_sharetime=1617972203672&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=054fa246941644a431b792a8e22c73ab9d7c60512aca171e13bd557f42e82831fad8cfddcaa95b25726a60b777aaba41b1c5199afb1e119e1aef81f77abb58a4f35327647aa91ab66d7497f84e26ce8b25674d208507c1d155c14d616280315aa26808a28f64cfea04527ec0914c8fbed78b4343cf9bd81b2b16ae3b9fa837e4&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AfIcxQXUATRgT3HhKjc%2Bp1I%3D&pass_ticket=ImYROlKpE89PONWRsTgVS7DYqyOUm2qljbwpNZVrorxesYR471emvwoCKO3RPS2w&wx_header=0)
