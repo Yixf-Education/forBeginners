@@ -161,6 +161,8 @@
 * [cellchat细胞间通信网络可视化及解析](https://mp.weixin.qq.com/s/fLupExENsbTwsxq-WZorYA)
 * [空间转录组细胞通讯分析：CellChat v2（Nature Protocols，IF: 16.0/Q1）](https://mp.weixin.qq.com/s/ejOXY0z43yiFc3Mo228H5Q)
 * [cellchat细胞间通信网络的系统分析](https://mp.weixin.qq.com/s/0W9z2Cr7tKtKiV7xpK2XYA)
+* [空间转录组多样本整合分析：选seurat的CCA还是harmony呢？](https://mp.weixin.qq.com/s/7JghEN29RsF81VfMS3Ci5w)
+* [bulk RNA-seq反卷积新包：granulator，来看看！](https://mp.weixin.qq.com/s/fWieLGI-b5Y3HsDP1dVhIQ)
 
 ## scATAC-seq
 
