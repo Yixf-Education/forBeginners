@@ -56,6 +56,7 @@
 * [分享32个常用的生信数据库](https://mp.weixin.qq.com/s/YJipr3Zh8xcHQLKo3fCGDw)
 * [MUSCLE：或许是最好的多序列比对神器](https://mp.weixin.qq.com/s/zTUgq5X2IBRp8eP3Fa4C-Q)
 * [分享一个曾老板都觉得超级棒的python模块！](https://mp.weixin.qq.com/s/9yRXgrQ1HvJBoN-llBujkg)
+* [KEGG 数据库｜是，但绝不只是 pathway](https://mp.weixin.qq.com/s/xSgFmTfi2fhr1CHLXv8lIw)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
