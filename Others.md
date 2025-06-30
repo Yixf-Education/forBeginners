@@ -392,6 +392,7 @@
 * [多组学数据整合的挑战和解决方案](https://mp.weixin.qq.com/s/PD9YSms0kjPBSrfQZ10Q2A)
 * [硕博必备的科研网站（1）](https://mp.weixin.qq.com/s/o4_Kk7fCnhMNz-B5RQyy9w?poc_token=HOpCXmijLd3eROjDOiEicnhsWDx6xQFpx9NzlDNc)
 * [一键完成问卷量表描述分析（2分钟得到酷炫图表和文字报告）](https://mp.weixin.qq.com/s/ZmXFiGiCl-ZJbBmLEL-gdA)
+* [帮助本科生、硕士生和博士生的10篇文章](https://mp.weixin.qq.com/s/9QukeiaKhuaeP86AX9RUIg)
 
 ## 数据集
 
