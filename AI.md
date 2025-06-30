@@ -49,6 +49,7 @@
 * [科研人必藏！斯坦福大学都在用的五款学术搜索AI大模型，精准检索文献和深度综述轻松搞定](https://mp.weixin.qq.com/s/DAHFgOTEuVQ0SsdcHTK2Gg)
 * [浅尝AI写作工具之「MindBricks」：免费、智能的本地创作神器](https://mp.weixin.qq.com/s/YnPWXOVkXxw1fcO0O__64A)
 * [做PPT还只会用KIMI？这两个AI智能体才是真正的效率神器！](https://mp.weixin.qq.com/s/N2c5XYtk7uGSdrRnT4yRNQ)
+* [gemini cli用上了，生物信息分析进入新时代](https://mp.weixin.qq.com/s/shQN_nNbqFAveEPUuCR3yQ)
 
 
 ## 变革思考
@@ -100,6 +101,7 @@
 * [生信的福音！Rstudio接入Deepseek，开启自动编程新时代](https://mp.weixin.qq.com/s/aiuX8FJd3yhwJGeUKjRfFw)
 * [还用学生信吗？Copilot自动生成全部代码](https://mp.weixin.qq.com/s/MR6hSvQQHH3r8AI7vfqzrg)
 * [使用命令行AI，做生物信息竟然如此简单](https://mp.weixin.qq.com/s/L0nAnEk7SaTtzUE9pZtOuw)
+* [如何使用DeepSeek进行主成分分析（PCA）？](https://mp.weixin.qq.com/s/Z--Yt8Ft3Oa0ynBXD-Vmrg)
 
 
 ## 论文课题
