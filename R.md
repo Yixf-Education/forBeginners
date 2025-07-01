@@ -519,6 +519,7 @@
 * [用ggret画树状的系统发育网络](https://mp.weixin.qq.com/s/UFk5PrJkAtxiuHwOQkXbKg)
 * [TCGA数据库| 如何根据单个基因的表达对样本分组绘制KM生存曲线？](https://mp.weixin.qq.com/s/QOcrRUxKcJq0ge5ESme8DQ)
 * [R语言机器学习实战：11种机器学习建模与SHAP解释四步套路总结](https://mp.weixin.qq.com/s/dv4fs1zmZaREDg1Re0g8pQ)
+* [一文了解热图如何添加文本框注释](https://mp.weixin.qq.com/s/HpXxTq2lGVSQ19kJiiiMOg)
 
 # R包
 
