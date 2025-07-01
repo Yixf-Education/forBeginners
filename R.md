@@ -518,6 +518,7 @@
 * [还在使用同源基因转换获取非人类物种基因集吗，那你就out啦！来看看这个方法](https://mp.weixin.qq.com/s/AeMeQr_-td8Y2ZbtwAk0oQ)
 * [用ggret画树状的系统发育网络](https://mp.weixin.qq.com/s/UFk5PrJkAtxiuHwOQkXbKg)
 * [TCGA数据库| 如何根据单个基因的表达对样本分组绘制KM生存曲线？](https://mp.weixin.qq.com/s/QOcrRUxKcJq0ge5ESme8DQ)
+* [R语言机器学习实战：11种机器学习建模与SHAP解释四步套路总结](https://mp.weixin.qq.com/s/dv4fs1zmZaREDg1Re0g8pQ)
 
 # R包
 
