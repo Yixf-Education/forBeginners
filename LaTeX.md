@@ -88,6 +88,7 @@
 * [还在为 TeX 代码高亮发愁？TeXhigh 宏包来救场啦！](https://mp.weixin.qq.com/s/a971k4OhRqxplplVF0SuOQ)
 * [LaTeX 排版枯燥的救星！coloredtheorem 让文档颜值暴涨](https://mp.weixin.qq.com/s/Pe3KLq5oYDQw5GeLI5Jd7w)
 * [参考文献最新国标 GB/T 7714-2025 的 biblatex 实现](https://mp.weixin.qq.com/s/soh8bQpJ7zPXfzRWRHFEHA)
+* [告别繁琐！tikzfxgraph 如何让你的 LaTeX 函数绘图飙升效率！](https://mp.weixin.qq.com/s/kujq6aGHFqkq2Exyvc8yqw)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
