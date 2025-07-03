@@ -57,6 +57,7 @@
 * [带下划线的学位论文标题超长，如何自动换行并居中 - 完美解决方案](https://mp.weixin.qq.com/s/5ea9Y8HQyiLZyq78rzFz9Q)
 * [GitHub - dspinellis/latex-advice: Advice for writing LaTeX documents](https://github.com/dspinellis/latex-advice)
 * [GitHub - divisbyzero/latex-cheatsheet: A two-page LaTeX cheatsheet. LaTeX source code and PDF included.](https://github.com/divisbyzero/latex-cheatsheet)
+* [TikZ 绘图：诗词格律之近体诗平仄、变格、拗救示意图](https://mp.weixin.qq.com/s/ic13-WYsPK5pf1pZdp7gOw)
 
 ## 宏包
 * [enumitem 宏包中的长度设置](https://mp.weixin.qq.com/s/1x1Q_ucVSN9Ks9wRx1Bk8w)
@@ -89,6 +90,7 @@
 * [LaTeX 排版枯燥的救星！coloredtheorem 让文档颜值暴涨](https://mp.weixin.qq.com/s/Pe3KLq5oYDQw5GeLI5Jd7w)
 * [参考文献最新国标 GB/T 7714-2025 的 biblatex 实现](https://mp.weixin.qq.com/s/soh8bQpJ7zPXfzRWRHFEHA)
 * [告别繁琐！tikzfxgraph 如何让你的 LaTeX 函数绘图飙升效率！](https://mp.weixin.qq.com/s/kujq6aGHFqkq2Exyvc8yqw)
+* [simplexam：LaTeX 试卷神器，让试卷制作轻松到飞起！](https://mp.weixin.qq.com/s/tmO2jxsa42BFka97EPSKfw)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
