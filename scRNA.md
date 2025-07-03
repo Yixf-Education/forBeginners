@@ -164,6 +164,7 @@
 * [cellchat细胞间通信网络的系统分析](https://mp.weixin.qq.com/s/0W9z2Cr7tKtKiV7xpK2XYA)
 * [空间转录组多样本整合分析：选seurat的CCA还是harmony呢？](https://mp.weixin.qq.com/s/7JghEN29RsF81VfMS3Ci5w)
 * [bulk RNA-seq反卷积新包：granulator，来看看！](https://mp.weixin.qq.com/s/fWieLGI-b5Y3HsDP1dVhIQ)
+* [转录因子分析中筛选关键Regulons及靶基因](https://mp.weixin.qq.com/s/E6yDX-_OpHCu7GHuov2RhA)
 
 ## scATAC-seq
 
