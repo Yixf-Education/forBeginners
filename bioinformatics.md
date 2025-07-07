@@ -273,6 +273,7 @@
 * [一套完整的生信分析研究！](https://mp.weixin.qq.com/s/gpbjB-uHdhYY8UXrrWTFvg)
 * [8种构建系统发育进化树的软件！](https://mp.weixin.qq.com/s/tF7jQ74kl1HstNqbP3rlrQ)
 * [如何说清楚你的测序数据量呢](https://mp.weixin.qq.com/s/4gyMcjbUfrOmnQcLxETiPQ)
+* [GWAS分析效果好坏重点是看QQ图](https://mp.weixin.qq.com/s/RGfFUjnS0hKhWQzWRaGGIg)
 
 ## 基因组坐标系统
 
