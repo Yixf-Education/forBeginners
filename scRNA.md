@@ -165,6 +165,7 @@
 * [空间转录组多样本整合分析：选seurat的CCA还是harmony呢？](https://mp.weixin.qq.com/s/7JghEN29RsF81VfMS3Ci5w)
 * [bulk RNA-seq反卷积新包：granulator，来看看！](https://mp.weixin.qq.com/s/fWieLGI-b5Y3HsDP1dVhIQ)
 * [转录因子分析中筛选关键Regulons及靶基因](https://mp.weixin.qq.com/s/E6yDX-_OpHCu7GHuov2RhA)
+* [一站式单细胞下游分析工具发布；AI大模型驱动分析自动化；使聚类更精准的新算法；单细胞揭示克罗恩病肠道纤维化之谜及致病脑瘤新机制等](https://mp.weixin.qq.com/s/prIA9-F4Jx53xDgnTB2yKQ?poc_token=HGAka2ij0mWpLviOXBGgr2UpLPUIw2HegFUTVR6h)
 
 ## scATAC-seq
 
