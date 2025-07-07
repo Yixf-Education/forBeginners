@@ -50,6 +50,7 @@
 * [浅尝AI写作工具之「MindBricks」：免费、智能的本地创作神器](https://mp.weixin.qq.com/s/YnPWXOVkXxw1fcO0O__64A)
 * [做PPT还只会用KIMI？这两个AI智能体才是真正的效率神器！](https://mp.weixin.qq.com/s/N2c5XYtk7uGSdrRnT4yRNQ)
 * [gemini cli用上了，生物信息分析进入新时代](https://mp.weixin.qq.com/s/shQN_nNbqFAveEPUuCR3yQ)
+* [推荐 5 个超级 Nice 的 GitHub 项目。](https://mp.weixin.qq.com/s/QsT4Z998pfCgpLHkGX_0oA)
 
 
 ## 变革思考
@@ -172,6 +173,7 @@
 * [DeepSeek带你学生信：绘制科研图表](https://mp.weixin.qq.com/s/ameQqFpCNpb4TCMP_iPaqw)
 * [如何使用DeepSeek进行GO、KEGG富集分析和网络图绘制？](https://mp.weixin.qq.com/s/BgO6skdGBEp1onG9oHs87w)
 * [如何使用DeepSeek绘制多种漂亮的韦恩图？](https://mp.weixin.qq.com/s/WcsqkKqKIb1nLKPVf8egdw)
+* [如何使用DeepSeek绘制漂亮的堆叠图？](https://mp.weixin.qq.com/s/CzczSBsCksYQDiYPe_DsHQ)
 
 ## 生物模型
 
