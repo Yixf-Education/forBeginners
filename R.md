@@ -520,6 +520,7 @@
 * [TCGA数据库| 如何根据单个基因的表达对样本分组绘制KM生存曲线？](https://mp.weixin.qq.com/s/QOcrRUxKcJq0ge5ESme8DQ)
 * [R语言机器学习实战：11种机器学习建模与SHAP解释四步套路总结](https://mp.weixin.qq.com/s/dv4fs1zmZaREDg1Re0g8pQ)
 * [一文了解热图如何添加文本框注释](https://mp.weixin.qq.com/s/HpXxTq2lGVSQ19kJiiiMOg)
+* [R语言教程|4用R语言预测乳腺癌：tidymodels全流程指南](https://mp.weixin.qq.com/s/MzKPz_YOJTm7fSL4Mq9C8A?poc_token=HEoka2ijHdtMWbMoM_d_gP9HjsRjGzda0bIse-OV)
 
 # R包
 
