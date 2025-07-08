@@ -69,6 +69,8 @@
 * [研究生：如何用质疑的态度面对AI？](https://mp.weixin.qq.com/s/1Q4l0WCdT4i0QXnx4MZOdQ)
 * [一句话扒出各大 AI 的隐藏人设，可能比你想象得还离谱 | 附提示词](https://mp.weixin.qq.com/s/57kaxDTlBPP6CJiezbW6nw)
 * [推荐几款我日常使用的AI工具：其中一个10分钟写完了3万字的报告](https://mp.weixin.qq.com/s/P2wYFQOUtHaWCSx_q0DNNg)
+* [一只猫就能让最强 AI 答错题，Deepseek 也翻车，猫怎么成了大模型「天敌」?](https://mp.weixin.qq.com/s/SyZyosqxSGLdXcf-B9YXYQ)
+* [媒体调查：14所顶尖大学学者向论文注入“仅给好评”提示词，操纵审稿人AI给予正面评价 | 科研圈日报](https://mp.weixin.qq.com/s/xYgo29NWXfGZ-S5LvkjWdg)
 
 
 ## 基本使用
