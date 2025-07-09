@@ -105,6 +105,7 @@
 * [还用学生信吗？Copilot自动生成全部代码](https://mp.weixin.qq.com/s/MR6hSvQQHH3r8AI7vfqzrg)
 * [使用命令行AI，做生物信息竟然如此简单](https://mp.weixin.qq.com/s/L0nAnEk7SaTtzUE9pZtOuw)
 * [如何使用DeepSeek进行主成分分析（PCA）？](https://mp.weixin.qq.com/s/Z--Yt8Ft3Oa0ynBXD-Vmrg)
+* [使用最强大语言模型做生物信息怎么样](https://mp.weixin.qq.com/s/8x368Sqyp0Y4UjZfS_wMog)
 
 
 ## 论文课题
