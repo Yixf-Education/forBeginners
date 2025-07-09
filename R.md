@@ -344,6 +344,7 @@
 * [\[论文分享\] ggplot2绘制绚丽冲积图](https://mp.weixin.qq.com/s/ugMKCwSZvKfbeKIUqCaUzg)
 * [tidyplots：一个全能绘图包(配色好看，一键式出图！可以取代ggplot2？)](https://mp.weixin.qq.com/s/ttdY4eOXDBqNmQtYdsmJZA)
 * [一文解锁随心所欲绘图：不要被ggplot2洗脑了，我们只要grid！！！](https://mp.weixin.qq.com/s/CWy91OQw9Z2A5xX3iARWig)
+* [顶刊杂志同款高颜值热图+文字注释框（IF=25.476）](https://mp.weixin.qq.com/s/_GYIDqrW4jrobyM3Ob5VFg)
 
 # Rmarkdown
 
