@@ -58,6 +58,7 @@
 * [分享一个曾老板都觉得超级棒的python模块！](https://mp.weixin.qq.com/s/9yRXgrQ1HvJBoN-llBujkg)
 * [KEGG 数据库｜是，但绝不只是 pathway](https://mp.weixin.qq.com/s/xSgFmTfi2fhr1CHLXv8lIw)
 * [了解一些生信小众工具](https://mp.weixin.qq.com/s/1NIocahHeyt3Y-urwlPRsw)
+* [MsigDB 数据库](https://mp.weixin.qq.com/s/NW9_2q1_LhFswEdY3mXvng)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
