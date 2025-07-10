@@ -59,6 +59,7 @@
 * [GitHub - divisbyzero/latex-cheatsheet: A two-page LaTeX cheatsheet. LaTeX source code and PDF included.](https://github.com/divisbyzero/latex-cheatsheet)
 * [TikZ 绘图：诗词格律之近体诗平仄、变格、拗救示意图](https://mp.weixin.qq.com/s/ic13-WYsPK5pf1pZdp7gOw)
 * [LaTeX中实现嵌套的公式编号，教你搞定带超链接的嵌套编号](https://mp.weixin.qq.com/s/oy2fN0MeiucJLdSMQP0HDg)
+* [一个简约清爽的 LaTeX 数学笔记模版制作](https://mp.weixin.qq.com/s/4bbmk_TtEmG5-NKe6k-MgA)
 
 ## 宏包
 * [enumitem 宏包中的长度设置](https://mp.weixin.qq.com/s/1x1Q_ucVSN9Ks9wRx1Bk8w)
