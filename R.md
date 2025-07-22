@@ -573,6 +573,7 @@
 * [跨平台R语言版本管理工具——快速切换R版本！](https://mp.weixin.qq.com/s/lpmQ57p0Tx7zwY0OMK1Pjw)
 * [Rstudio换皮：自定义彩虹括号与缩进线](https://mp.weixin.qq.com/s/mYWPPcjiM5Y75cbdIz_EJw)
 * [服务器安装R包终极大法！](https://mp.weixin.qq.com/s/WknM174iwOta5j03q_IU1g)
+* [每日一R｜dplyr::rename()：变量名修改，就是这么简单！](https://mp.weixin.qq.com/s/-j0tdIUgLH3yEK_mYBQ3qQ)
 
 # Shiny
 
