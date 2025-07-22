@@ -107,6 +107,8 @@
 * [如何使用DeepSeek进行主成分分析（PCA）？](https://mp.weixin.qq.com/s/Z--Yt8Ft3Oa0ynBXD-Vmrg)
 * [使用最强大语言模型做生物信息怎么样](https://mp.weixin.qq.com/s/8x368Sqyp0Y4UjZfS_wMog)
 * [AI快要成精了，居然能做RNAseq了](https://mp.weixin.qq.com/s/_sfErkp43Gli2zCRUNx-7w)
+* [现在写日常代码基本上都靠人工智能大模型啦](https://mp.weixin.qq.com/s/rH3pyEljdbVCEx-c51qzqw)
+* [大模型帮我读取不规则的突变信息](https://mp.weixin.qq.com/s/gBL0b5QMHf4Ad9TOkX0oUA)
 
 
 ## 论文课题
