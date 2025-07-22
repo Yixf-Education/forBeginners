@@ -84,6 +84,7 @@
 * [毕业论文图片排版工具--Adobe Illustrator使用操作指南](https://mp.weixin.qq.com/s/LOlQbi8GfaDuKW1XEG9iNg)
 * [全网最实用搜索技巧合集：从“不会找”到“什么都能找到”](https://mp.weixin.qq.com/s/wFD8obFx456WGWLdhfpMEw)
 * [17. K-Means Clustering](https://mp.weixin.qq.com/s/xs6PTmOiBE879xz2c91d6Q)
+* [每日一R｜dplyr::rename()：变量名修改，就是这么简单！](https://mp.weixin.qq.com/s/-j0tdIUgLH3yEK_mYBQ3qQ)
 
 ## 统计
 
