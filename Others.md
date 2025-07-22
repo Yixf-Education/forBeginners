@@ -399,6 +399,7 @@
 * [一键完成问卷量表描述分析（2分钟得到酷炫图表和文字报告）](https://mp.weixin.qq.com/s/ZmXFiGiCl-ZJbBmLEL-gdA)
 * [帮助本科生、硕士生和博士生的10篇文章](https://mp.weixin.qq.com/s/9QukeiaKhuaeP86AX9RUIg)
 * [首次投稿和返修完投稿的Cover letter不一样！手把手教你分别怎么写](https://mp.weixin.qq.com/s/wEUV1dXmU30wdR982Or7Uw?poc_token=HEMka2ijGiTaN_HnbLt_gQobNDYPF8lyYCSS-Bf2)
+* [研究生必备的科研工具及科研方法](https://mp.weixin.qq.com/s/542lTdle1A4ovw3j7L3WfQ)
 
 ## 数据集
 
