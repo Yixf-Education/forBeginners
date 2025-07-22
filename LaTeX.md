@@ -93,6 +93,7 @@
 * [参考文献最新国标 GB/T 7714-2025 的 biblatex 实现](https://mp.weixin.qq.com/s/soh8bQpJ7zPXfzRWRHFEHA)
 * [告别繁琐！tikzfxgraph 如何让你的 LaTeX 函数绘图飙升效率！](https://mp.weixin.qq.com/s/kujq6aGHFqkq2Exyvc8yqw)
 * [simplexam：LaTeX 试卷神器，让试卷制作轻松到飞起！](https://mp.weixin.qq.com/s/tmO2jxsa42BFka97EPSKfw)
+* [为小学教师量身定制，适合儿童学习成长的可爱图标帮您创建引人入胜的教学活动](https://mp.weixin.qq.com/s/7_hb10DE3Jt8FBQaxnLqgw)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
