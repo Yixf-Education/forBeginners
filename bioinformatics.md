@@ -276,6 +276,7 @@
 * [8种构建系统发育进化树的软件！](https://mp.weixin.qq.com/s/tF7jQ74kl1HstNqbP3rlrQ)
 * [如何说清楚你的测序数据量呢](https://mp.weixin.qq.com/s/4gyMcjbUfrOmnQcLxETiPQ)
 * [GWAS分析效果好坏重点是看QQ图](https://mp.weixin.qq.com/s/RGfFUjnS0hKhWQzWRaGGIg)
+* [RNA-Seq差异表达分析 | 为什么要使用edgeR、DESeq2、limma等工具？](https://mp.weixin.qq.com/s/0oP8OtDuhILLSS2QyJjyaw)
 
 ## 基因组坐标系统
 
