@@ -524,6 +524,7 @@
 * [R语言教程|4用R语言预测乳腺癌：tidymodels全流程指南](https://mp.weixin.qq.com/s/MzKPz_YOJTm7fSL4Mq9C8A?poc_token=HEoka2ijHdtMWbMoM_d_gP9HjsRjGzda0bIse-OV)
 * [转录组WGCNA多分组设计第二弹！](https://mp.weixin.qq.com/s/iHkOSGRvob-1y6EeJ0X33Q)
 * [用R包原生数据玩转机器学习：7种算法轻松构建诊断模型](https://mp.weixin.qq.com/s/I01tkNaKPCMemv00D_uBig)
+* [告别重复劳动！R语言三剑客，轻松搞定多因素分析！](https://mp.weixin.qq.com/s/qA1L3gGgoYpXCwgf81-Q-Q)
 
 # R包
 
