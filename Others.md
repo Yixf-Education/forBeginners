@@ -85,6 +85,7 @@
 * [全网最实用搜索技巧合集：从“不会找”到“什么都能找到”](https://mp.weixin.qq.com/s/wFD8obFx456WGWLdhfpMEw)
 * [17. K-Means Clustering](https://mp.weixin.qq.com/s/xs6PTmOiBE879xz2c91d6Q)
 * [每日一R｜dplyr::rename()：变量名修改，就是这么简单！](https://mp.weixin.qq.com/s/-j0tdIUgLH3yEK_mYBQ3qQ)
+* [论文数据千万别瞎编！用这5个公开数据查找平台就够了](https://mp.weixin.qq.com/s/DJD8871owe3gQzM5aXNTvg)
 
 ## 统计
 
