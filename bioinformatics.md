@@ -59,6 +59,7 @@
 * [KEGG 数据库｜是，但绝不只是 pathway](https://mp.weixin.qq.com/s/xSgFmTfi2fhr1CHLXv8lIw)
 * [了解一些生信小众工具](https://mp.weixin.qq.com/s/1NIocahHeyt3Y-urwlPRsw)
 * [MsigDB 数据库](https://mp.weixin.qq.com/s/NW9_2q1_LhFswEdY3mXvng)
+* [genomepy：一行命令下载最新基因组（FASTA）和注释（GTF/GFF）](https://mp.weixin.qq.com/s/O4l-8un-kVZoZzQbz5bJmw)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
