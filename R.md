@@ -345,6 +345,9 @@
 * [tidyplots：一个全能绘图包(配色好看，一键式出图！可以取代ggplot2？)](https://mp.weixin.qq.com/s/ttdY4eOXDBqNmQtYdsmJZA)
 * [一文解锁随心所欲绘图：不要被ggplot2洗脑了，我们只要grid！！！](https://mp.weixin.qq.com/s/CWy91OQw9Z2A5xX3iARWig)
 * [顶刊杂志同款高颜值热图+文字注释框（IF=25.476）](https://mp.weixin.qq.com/s/_GYIDqrW4jrobyM3Ob5VFg)
+* [还原一张图究竟有多难？图表复现全流程揭秘](https://mp.weixin.qq.com/s/2S1_9OSlagjwcxaQn5vmpg)
+* [「人民币配色」拿捏审稿人，36 种高级色，轻松解决 95% 用色需求](https://mp.weixin.qq.com/s/V46-YdjJIwff3Q43eHdMaQ)
+* [如何获取韦恩图中的交集部分元素列表？](https://mp.weixin.qq.com/s/USGujbtUyFlRpEHGEYODqg)
 
 # Rmarkdown
 
