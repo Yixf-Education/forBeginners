@@ -175,3 +175,6 @@
 * [大佬William J. Greenleaf团队开发的scATAC-seq分析软件：ArchR（二）](https://mp.weixin.qq.com/s/xWWYWrVdpbGlYJz9E_5zlw)
 * [scATAC-seq分析ArchR（三）：使用模块打分注释细胞亚群](https://mp.weixin.qq.com/s/qHgm4ksKQ7v7kBo2Sgsugg)
 * [10X scATAC-seq的结果 fragment files 含义](https://mp.weixin.qq.com/s/1BpOFYLvGXh8rwY2gU8IdA)
+* [具有不同肿瘤阶段的胃癌单细胞与空转联合分析（2025年2月发表）](https://mp.weixin.qq.com/s/R2kgYplWyUf3xIIyuDQxfw)
+* [scRNA最常用的harmony整合（seurat v4 ）](https://mp.weixin.qq.com/s/zMb5loV6IcnCqydtxwyshA)
+* [monocle3推断发育轨迹](https://mp.weixin.qq.com/s/-EAaTE312J3Bnah7HDJDEA)
