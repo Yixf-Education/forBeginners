@@ -119,6 +119,7 @@
 * [告别 LaTeX 排版烦恼：TeXtidote，你的智能代码矫正写作伙伴！](https://mp.weixin.qq.com/s/qDA1qTcy6FymJHgPUYPGiQ)
 * [使用 Neovim 编写 LaTeX: 终极指南-带视频演示，极客首选，运笔如飞](https://mp.weixin.qq.com/s/Q4Y_ABrSTmYAbm0_EOdOdQ)
 * [中英文自动空格的盘古之白，texspace 工具发布了 - TeXHub 平台规则引擎来了](https://mp.weixin.qq.com/s/pEq2caQRbB023GncBlaOPg)
+* [用 llmk 轻松搞定 LaTeX 编译！告别多次编译，拥抱简洁智能！](https://mp.weixin.qq.com/s/xzarceW6i5lgnkcjvG2B8g)
 
 
 ## 教学
