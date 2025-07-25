@@ -278,6 +278,7 @@
 * [如何说清楚你的测序数据量呢](https://mp.weixin.qq.com/s/4gyMcjbUfrOmnQcLxETiPQ)
 * [GWAS分析效果好坏重点是看QQ图](https://mp.weixin.qq.com/s/RGfFUjnS0hKhWQzWRaGGIg)
 * [RNA-Seq差异表达分析 | 为什么要使用edgeR、DESeq2、limma等工具？](https://mp.weixin.qq.com/s/0oP8OtDuhILLSS2QyJjyaw)
+* [全网最全最新：ATAC-seq最佳实践和数据分析](https://mp.weixin.qq.com/s/QFWt0w-Q-Dq_JrB6PXq-PQ)
 
 ## 基因组坐标系统
 
