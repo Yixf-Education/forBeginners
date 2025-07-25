@@ -189,3 +189,7 @@
 * [重磅！中美两国同天发布生物学 AI 大模型，免费开源，更适合生物学领域科研工作者！](https://mp.weixin.qq.com/s/RsTAxRu8D2ZlU9odDamvQg)
 * [SciToolAgent：基于知识图谱的智能体，一键整合 500 + 科研工具](https://mp.weixin.qq.com/s/Vgs3hRZOImTiS-CODxP3dQ)
 * [基因组语言模型 | 基因组学大语言模型 Evo2 如何在线使用](https://mp.weixin.qq.com/s/JCdtWedpuOhmZ8zeUHipOg)
+
+## 学习资料
+
+* [HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
