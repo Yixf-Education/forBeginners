@@ -86,6 +86,7 @@
 * [17. K-Means Clustering](https://mp.weixin.qq.com/s/xs6PTmOiBE879xz2c91d6Q)
 * [每日一R｜dplyr::rename()：变量名修改，就是这么简单！](https://mp.weixin.qq.com/s/-j0tdIUgLH3yEK_mYBQ3qQ)
 * [论文数据千万别瞎编！用这5个公开数据查找平台就够了](https://mp.weixin.qq.com/s/DJD8871owe3gQzM5aXNTvg)
+* [JAMA Network Open (IF=9.7) |全套机器学习分析及代码--从一组最小的医学和背景信息预测自闭症谱系障碍](https://mp.weixin.qq.com/s/zyenY-I5R1ogYZEv4ZUPMg)
 
 ## 统计
 
