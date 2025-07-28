@@ -51,6 +51,7 @@
 * [做PPT还只会用KIMI？这两个AI智能体才是真正的效率神器！](https://mp.weixin.qq.com/s/N2c5XYtk7uGSdrRnT4yRNQ)
 * [gemini cli用上了，生物信息分析进入新时代](https://mp.weixin.qq.com/s/shQN_nNbqFAveEPUuCR3yQ)
 * [推荐 5 个超级 Nice 的 GitHub 项目。](https://mp.weixin.qq.com/s/QsT4Z998pfCgpLHkGX_0oA)
+* [无需魔法，Qwen Code命令行可以直接用](https://mp.weixin.qq.com/s/aiA7u5A0r1Y6-tFOsMZyYg)
 
 
 ## 变革思考
