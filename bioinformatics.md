@@ -477,6 +477,7 @@
 * [探索基因调控的钥匙：CUT&Tag、ATAC-seq 与 ChIP-seq 技术全解析](https://mp.weixin.qq.com/s/4IvLYvyqRKAWKGA0gl1KZQ)
 * [第四十期 一文看懂各种进化树-系统发育树](https://mp.weixin.qq.com/s/UrbZvYRNs2JSI7jodrOniQ)
 * [中心法则的诞生——分子生物学皇冠上的竞争 | 科学八卦史](https://mp.weixin.qq.com/s/aQSCDb1WcsY4gBpzmEA1Yg)
+* [都2024了再弄转录组的综述，有什么特别吗？](https://mp.weixin.qq.com/s/ZGc1HkMglVF7_FCsSRO_KQ)
 
 ## 系统课程
 
