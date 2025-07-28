@@ -159,6 +159,7 @@
 * [线性混合效应模型：基本理论](https://mp.weixin.qq.com/s/aJGN5ySiOBbTeQkrOodMPA)
 * [发现外星生命痕迹，确定度99.7%！——等等，这是怎么算出来的？](https://mp.weixin.qq.com/s/Ku9v3mf76TpxQW2Y1rj2LQ)
 * [SCI文章数据统计方法的选择](https://mp.weixin.qq.com/s/za4Te4NKUuCGyws1_guz5g)
+* [一种适用于小样本量组间统计学检验的神器](https://mp.weixin.qq.com/s/skmI-eB9PsxJm6w6M1hE_A)
 
 ## 统计学入门
 
