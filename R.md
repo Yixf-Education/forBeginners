@@ -528,6 +528,8 @@
 * [转录组WGCNA多分组设计第二弹！](https://mp.weixin.qq.com/s/iHkOSGRvob-1y6EeJ0X33Q)
 * [用R包原生数据玩转机器学习：7种算法轻松构建诊断模型](https://mp.weixin.qq.com/s/I01tkNaKPCMemv00D_uBig)
 * [告别重复劳动！R语言三剑客，轻松搞定多因素分析！](https://mp.weixin.qq.com/s/qA1L3gGgoYpXCwgf81-Q-Q)
+* [R语言Publish包：轻松搞定批量分析和敏感性分析的神器](https://mp.weixin.qq.com/s/q5TerT9BNY9chaRwgBLYIQ)
+* [模型"黑箱"终于有了钥匙：R语言explainer包详解](https://mp.weixin.qq.com/s/Ul-5uRsdu6avr3dUwNoWNQ)
 
 # R包
 
