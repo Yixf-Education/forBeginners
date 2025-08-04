@@ -407,6 +407,7 @@
 * [首次投稿和返修完投稿的Cover letter不一样！手把手教你分别怎么写](https://mp.weixin.qq.com/s/wEUV1dXmU30wdR982Or7Uw?poc_token=HEMka2ijGiTaN_HnbLt_gQobNDYPF8lyYCSS-Bf2)
 * [研究生必备的科研工具及科研方法](https://mp.weixin.qq.com/s/542lTdle1A4ovw3j7L3WfQ)
 * [为什么你的学位论文总被批“逻辑混乱”？这篇文章用一个理论讲明白了！](https://mp.weixin.qq.com/s/23PpTa6OVMlhqZ-m70gZQA)
+* [建议收藏！关于学术导航网站，看这篇就够了（内含11个亲测有效的宝藏网站）](https://mp.weixin.qq.com/s/7PGfsIa2Kx7JpHRqsMl15A)
 
 ## 数据集
 
