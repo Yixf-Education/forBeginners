@@ -532,6 +532,7 @@
 * [R语言Publish包：轻松搞定批量分析和敏感性分析的神器](https://mp.weixin.qq.com/s/q5TerT9BNY9chaRwgBLYIQ)
 * [模型"黑箱"终于有了钥匙：R语言explainer包详解](https://mp.weixin.qq.com/s/Ul-5uRsdu6avr3dUwNoWNQ)
 * [R语言神器来袭！compareGroups包让你的SCI论文表格"组间趋势"分析轻松上手](https://mp.weixin.qq.com/s/8XfoKAo7mwbYZpdrPFgQJg)
+* [探索性数据分析：数据科学家的必备技能](https://mp.weixin.qq.com/s/AIcdYehtcIvTPhXiRAgQ0g)
 
 # R包
 
