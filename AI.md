@@ -194,6 +194,7 @@
 * [重磅！中美两国同天发布生物学 AI 大模型，免费开源，更适合生物学领域科研工作者！](https://mp.weixin.qq.com/s/RsTAxRu8D2ZlU9odDamvQg)
 * [SciToolAgent：基于知识图谱的智能体，一键整合 500 + 科研工具](https://mp.weixin.qq.com/s/Vgs3hRZOImTiS-CODxP3dQ)
 * [基因组语言模型 | 基因组学大语言模型 Evo2 如何在线使用](https://mp.weixin.qq.com/s/JCdtWedpuOhmZ8zeUHipOg)
+* [生物大模型盘点 | 生物信息学中的基础模型有哪些？看这一篇就够了！](https://mp.weixin.qq.com/s/K3_GVL2svXTlBAxOdPnLOQ)
 
 ## 学习资料
 
