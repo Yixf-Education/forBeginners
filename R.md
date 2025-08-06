@@ -584,6 +584,7 @@
 * [Rstudio换皮：自定义彩虹括号与缩进线](https://mp.weixin.qq.com/s/mYWPPcjiM5Y75cbdIz_EJw)
 * [服务器安装R包终极大法！](https://mp.weixin.qq.com/s/WknM174iwOta5j03q_IU1g)
 * [每日一R｜dplyr::rename()：变量名修改，就是这么简单！](https://mp.weixin.qq.com/s/-j0tdIUgLH3yEK_mYBQ3qQ)
+* [关于排序那点事](https://mp.weixin.qq.com/s/N42HhSJ_vL_jh0Z3yQW9OA)
 
 # Shiny
 
