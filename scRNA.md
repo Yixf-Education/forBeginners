@@ -20,6 +20,7 @@
 * [不搞懂这“三步走”，别说你会单细胞分析！](https://mp.weixin.qq.com/s/_JtXZVHZYUbJWbsTXvizZg)
 * [**超详细T细胞亚群标记基因列表**](https://mp.weixin.qq.com/s/KXaf0DylvatrooYKlj49Xw)
 * [单细胞的marker基因整理示例](https://mp.weixin.qq.com/s/KQaGJuE4B6Mcdl4JZBo64g)
+* [别再盲目运行cellranger count！这些核心参数，决定了你单细胞数据的成败](https://mp.weixin.qq.com/s/8FKtv3kuvvzACu6CTBeB8w)
 
 ## 单细胞转录组高级分析
 
