@@ -283,6 +283,7 @@
 * [全网最全最新：ATAC-seq最佳实践和数据分析](https://mp.weixin.qq.com/s/QFWt0w-Q-Dq_JrB6PXq-PQ)
 * [自学生物信息学的详细路线图（新手版）](https://mp.weixin.qq.com/s/HMj9ug1gwxUxAyK4wyZIcg)
 * [批量爬取 UK Biobank 项目的科研文献](https://mp.weixin.qq.com/s/2eqKrXlSguqoUBwdnyseAg)
+* [为什么FPKM/RPKM逐渐被TPM取代？](https://mp.weixin.qq.com/s/lB9bhQsjb_aDWn7WYu7LIQ)
 
 ## 基因组坐标系统
 
