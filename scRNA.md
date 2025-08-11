@@ -169,6 +169,7 @@
 * [bulk RNA-seq反卷积新包：granulator，来看看！](https://mp.weixin.qq.com/s/fWieLGI-b5Y3HsDP1dVhIQ)
 * [转录因子分析中筛选关键Regulons及靶基因](https://mp.weixin.qq.com/s/E6yDX-_OpHCu7GHuov2RhA)
 * [一站式单细胞下游分析工具发布；AI大模型驱动分析自动化；使聚类更精准的新算法；单细胞揭示克罗恩病肠道纤维化之谜及致病脑瘤新机制等](https://mp.weixin.qq.com/s/prIA9-F4Jx53xDgnTB2yKQ?poc_token=HGAka2ij0mWpLviOXBGgr2UpLPUIw2HegFUTVR6h)
+* [单细胞水平的可变剪切与突变分析：寻因单细胞全序列转录组测序scFAST-seq](https://mp.weixin.qq.com/s/c4077yKlJcSaL7AXy-CFnQ)
 
 ## scATAC-seq
 
