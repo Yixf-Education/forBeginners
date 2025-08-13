@@ -586,6 +586,7 @@
 * [服务器安装R包终极大法！](https://mp.weixin.qq.com/s/WknM174iwOta5j03q_IU1g)
 * [每日一R｜dplyr::rename()：变量名修改，就是这么简单！](https://mp.weixin.qq.com/s/-j0tdIUgLH3yEK_mYBQ3qQ)
 * [关于排序那点事](https://mp.weixin.qq.com/s/N42HhSJ_vL_jh0Z3yQW9OA)
+* [每日一R｜dplyr::relocate(): 更改列顺序，从此更灵活](https://mp.weixin.qq.com/s/YBiRbKIQ8LLnQtGHzy5nEg)
 
 # Shiny
 
