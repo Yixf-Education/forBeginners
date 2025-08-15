@@ -187,6 +187,7 @@
 * [优秀学员笔记2：生信入门——Day1-2](https://mp.weixin.qq.com/s/1eTcpK8hR14HxDLy_pC1EA)
 * [R语言教程|1使用tidyverse进行葡萄酒质量数据的探索性分析(EDA)](https://mp.weixin.qq.com/s/Zba6l_3x6fxd5w-rkS2U0A)
 * [代码写得像诗一样？R语言大神都在用的4种管道符，快来收藏！](https://mp.weixin.qq.com/s/6ApRzW2exK8clfV2BXGeZA)
+* [Rstudio可以退役了？](https://mp.weixin.qq.com/s/bWsOrpQQ_COwooJSTJJVgg)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
