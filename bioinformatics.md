@@ -65,6 +65,7 @@
 * [第2018期｜vscode和它的兄弟姐妹们](https://mp.weixin.qq.com/s/9XAdYHXnnhL2MSRbufmdLQ)
 * [实用组学小工具——多序列比对可视化展示](https://mp.weixin.qq.com/s/OjSLlrhIGshT30FTiTL2EA)
 * [从ATAC-seq到转录因子结合分析：用TOBIAS解锁染色质“足迹”](https://mp.weixin.qq.com/s/a7oCGCQjIb22t9T7yLdzJQ)
+* [生信软件管理攻略：从 Mamba 到 Docker，告别依赖地狱](https://mp.weixin.qq.com/s/Vi5BS95pF3sAAMhE2PxB4A)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
