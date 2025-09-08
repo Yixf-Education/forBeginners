@@ -63,6 +63,7 @@
 * [基因组可视化工具——pyGenomeTracks](https://mp.weixin.qq.com/s/ilwbTCByMB8onBtANiP0PA)
 * [发育树可视化和美化工具](https://mp.weixin.qq.com/s/VdKOSML_iqBWgvlFepud2w)
 * [第2018期｜vscode和它的兄弟姐妹们](https://mp.weixin.qq.com/s/9XAdYHXnnhL2MSRbufmdLQ)
+* [实用组学小工具——多序列比对可视化展示](https://mp.weixin.qq.com/s/OjSLlrhIGshT30FTiTL2EA)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
