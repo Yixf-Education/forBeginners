@@ -188,6 +188,7 @@
 * [R语言教程|1使用tidyverse进行葡萄酒质量数据的探索性分析(EDA)](https://mp.weixin.qq.com/s/Zba6l_3x6fxd5w-rkS2U0A)
 * [代码写得像诗一样？R语言大神都在用的4种管道符，快来收藏！](https://mp.weixin.qq.com/s/6ApRzW2exK8clfV2BXGeZA)
 * [Rstudio可以退役了？](https://mp.weixin.qq.com/s/bWsOrpQQ_COwooJSTJJVgg)
+* [每日一R | 数据分析的第一步：理解整洁数据(tidy data)-tidyverse分析数据的基础](https://mp.weixin.qq.com/s/1Tnw_Gus0Z15Aa856PMG3w)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
