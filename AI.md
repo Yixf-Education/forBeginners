@@ -53,6 +53,8 @@
 * [推荐 5 个超级 Nice 的 GitHub 项目。](https://mp.weixin.qq.com/s/QsT4Z998pfCgpLHkGX_0oA)
 * [无需魔法，Qwen Code命令行可以直接用](https://mp.weixin.qq.com/s/aiA7u5A0r1Y6-tFOsMZyYg)
 * [R语言AI利器：tidyllm让数据分析师与大模型无缝协作](https://mp.weixin.qq.com/s/3N6faIJTFacM1XsZUDNkeQ)
+* [aristoteleo/pantheon-cli: Pantheon-CLI, our first release of PantheonOS, the AgentOS that re-imagines Science](https://github.com/aristoteleo/pantheon-cli)
+* [Claude Code: Deep coding at terminal velocity \ Anthropic](https://www.anthropic.com/claude-code)
 
 
 ## 变革思考
