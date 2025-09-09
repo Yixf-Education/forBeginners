@@ -50,6 +50,7 @@
 * [Markdown 语法及原理从入门到高级（可能是全网最全）](https://www.zhihu.com/tardis/zm/art/99319314?source_id=1003)
 * [Markdown 介绍与语法](https://mp.weixin.qq.com/s/hVBGgq_BesVbn1D1X9zmJg)
 * [Markdown + AI = 效率神器：10分钟就能学会的大模型文本格式！](https://mp.weixin.qq.com/s/G7JezDARfSnGQ_Md8DmDVg)
+* [31 Markdown 综合实例_Markdown 入门教程-慕课网](https://www.imooc.com/wiki/markdownlesson/markdowndemo.html)
 
 ## 工具
 * [4 个 Linux 命令行下的 Markdown 工具](https://zhuanlan.zhihu.com/p/120132098)
