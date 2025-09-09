@@ -89,6 +89,7 @@
 * [JAMA Network Open (IF=9.7) |全套机器学习分析及代码--从一组最小的医学和背景信息预测自闭症谱系障碍](https://mp.weixin.qq.com/s/zyenY-I5R1ogYZEv4ZUPMg)
 * [量表评价研究和论文中的常见8个问题](https://mp.weixin.qq.com/s/hzM3KOnpTLzO8bu4WfsJrA)
 * [生信学习者专属的电脑使用技巧和通用学习方法](https://mp.weixin.qq.com/s/5H_dDHqTGwRc9UZYbcHMxg)
+* [打破对教学方式的迷信：为大学“满堂灌”正名](https://mp.weixin.qq.com/s/thXVQAA8ACkSgVj5COj5Mw)
 
 ## 统计
 
