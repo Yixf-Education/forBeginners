@@ -166,6 +166,8 @@
 * [科研人神器，论文秒变海报！Paper2Poster：一键生成顶会级学术Poster，再也不用为赶会熬夜做PPT啦。](https://mp.weixin.qq.com/s/8-DBSqud9fI2b8j3BUyZUA)
 * [3分钟速通AlphaGenome！零基础、保姆级教程，普通电脑就能跑](https://mp.weixin.qq.com/s/Zgn7IFal6t1Toibri8y-TQ)
 * [斯坦福教授直言：大部分人用 AI 的方式完全是错误的！一个简单转变，让 AI 助你提升10倍学术创造力！](https://mp.weixin.qq.com/s/QR2Ahjoq7ko8EK7MYqk9pg)
+* [知网检索已死，手动找文献的苦日子被这款AI彻底终结了](https://mp.weixin.qq.com/s/Q2YsoCtxwiEPOyUwywixRA)
+* [AI Paper Summarizer - 网页版用户手册](https://mp.weixin.qq.com/s/9wbmMy-AnmwR7vpChLe9rg)
 
 
 ## 分析绘图
