@@ -190,6 +190,8 @@
 * [Rstudio可以退役了？](https://mp.weixin.qq.com/s/bWsOrpQQ_COwooJSTJJVgg)
 * [每日一R | 数据分析的第一步：理解整洁数据(tidy data)-tidyverse分析数据的基础](https://mp.weixin.qq.com/s/1Tnw_Gus0Z15Aa856PMG3w)
 * [【Tidyverse优雅编程】管道符：是时候用 |>替代 %>% 了吗？](https://mp.weixin.qq.com/s/Lh748i7GJKjdz5DfV2i7VQ)
+* [少即是多：R 代码也要断舍离](https://mp.weixin.qq.com/s/Tulr3U7tjfGjQ5OJf6vVvw)
+* [每日一R | 可重复性报告工具：Quarto 与 R Markdown 如何选择？](https://mp.weixin.qq.com/s/UcWcFdGojtK0VtaYXIDWXQ)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
