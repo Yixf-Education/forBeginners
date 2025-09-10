@@ -210,6 +210,7 @@
 * [**好物推荐之花样配色**](https://mp.weixin.qq.com/s/96JE3zG9hWn-_vqk_YQqMA)
 * [**R可视化宝藏库R-CHARTS：从基础绘图到高级配色**](https://mp.weixin.qq.com/s/TPS9cw-ET8zJU08UCp7RIg)
 * [**Fundamentals of Data Visualization**](https://clauswilke.com/dataviz/)
+* [CNScolor](https://tigerz.shinyapps.io/CNScolor/#%E9%A6%96%E9%A1%B5)
 * [clauswilke/dataviz: A book covering the fundamentals of data visualization](https://github.com/clauswilke/dataviz)
 * [译文｜如何为你的数据可视化设计一个有用的调色板](https://mp.weixin.qq.com/s/dlE5MChsUv01QdNetzd-5g)
 * [ggplot2 绘图基础功不扎实？看完这 5 个资源](https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247493699&idx=1&sn=99c2e5daf2bf572c0f2795d3a8d1426d&chksm=9b4ba8f8ac3c21eed6b4a8455f90c9d6794f36f290136738cc344f07f03797915975e8427a00&mpshare=1&scene=1&srcid=&sharer_sharetime=1588569639980&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=51cdf4316532766428f870eb004923e49361fcb9c7e3178140860167d3f977a47387e7bf743bbe454e13d21789346bb5ea6df677a2716d44dc967f6fefa89eb816528d9ab8d69945cdc540084a937554&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+XP&version=62060841&lang=zh_CN&exportkey=ARCuZxmr%2BTV%2BPkUH%2ByyEHe8%3D&pass_ticket=R9x4RUV9mg0JZUSvEqKl9BTh2srunriJ95xf%2Fxcg6%2FHg6xw3Io7RRjwBtyCrSHY4)
