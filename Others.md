@@ -414,6 +414,7 @@
 * [发了4篇SCI后明显感觉到信息差的恐怖](https://mp.weixin.qq.com/s/bAgwlyTopqjr_tEIaXea8A)
 * [IF 8.5纯生信文献复现(完结篇）](https://mp.weixin.qq.com/s/o8xUKGJEegV3zAssda9xSg)
 * [听学术报告该如何提问问题](https://mp.weixin.qq.com/s/gDxRmJOyvdq9C8W3rmlspg)
+* [（一）文献计量分析在医学领域的应用及常用工具](https://mp.weixin.qq.com/s/5tg7dtAPzZtTrkvrBcvLFA)
 
 ## 数据集
 
