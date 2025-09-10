@@ -61,6 +61,7 @@
 * [LaTeX中实现嵌套的公式编号，教你搞定带超链接的嵌套编号](https://mp.weixin.qq.com/s/oy2fN0MeiucJLdSMQP0HDg)
 * [一个简约清爽的 LaTeX 数学笔记模版制作](https://mp.weixin.qq.com/s/4bbmk_TtEmG5-NKe6k-MgA)
 * [这些对 LaTeX 的吐槽您有共鸣吗？LaTeX 真让排版变得简单了吗？](https://mp.weixin.qq.com/s/NhTsoq8LGoJe_s8EQzhDNg)
+* [【LaTeX】| LaTeX 入门第九步：长文档高效管理 —— 分文件、多级标题与索引，万字论文也轻松](https://mp.weixin.qq.com/s/zIR8CrBmHjcsuugWTHIk4A)
 
 ## 宏包
 * [enumitem 宏包中的长度设置](https://mp.weixin.qq.com/s/1x1Q_ucVSN9Ks9wRx1Bk8w)
@@ -124,6 +125,7 @@
 * [中英文自动空格的盘古之白，texspace 工具发布了 - TeXHub 平台规则引擎来了](https://mp.weixin.qq.com/s/pEq2caQRbB023GncBlaOPg)
 * [用 llmk 轻松搞定 LaTeX 编译！告别多次编译，拥抱简洁智能！](https://mp.weixin.qq.com/s/xzarceW6i5lgnkcjvG2B8g)
 * [OpenMoji 宏包让你的内容瞬间“活”起来！你还在用老掉牙的符号吗？](https://mp.weixin.qq.com/s/67MgdnoR4kaabuqnzBMfYQ)
+* [快速查找LaTeX数学环境里的中文标点，一键揪出 BUG 的字符](https://mp.weixin.qq.com/s/k_-Y4shoeV5thUrwqibqMg)
 
 
 ## 教学
