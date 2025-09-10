@@ -101,6 +101,7 @@
 * [AI做PPT完整攻略：12个工具10大场景，看这一篇全搞定](https://mp.weixin.qq.com/s/PUYVI8IPlJveMtYLXEAdbQ)
 * [借助AI一键下载网页中的所有数据，如此简单！](https://mp.weixin.qq.com/s/q70mgtGzzoubk_93QMJA2A)
 * [DeepSeek-0528生物信息能力测试](https://mp.weixin.qq.com/s/zPv2oJgK8glUsCYiD1adMA)
+* [使用Gemini的生图模型制作职业照](https://mp.weixin.qq.com/s/VSumDO1dh4R7y3kC9pB5gg)
 
 
 
