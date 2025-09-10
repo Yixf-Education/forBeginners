@@ -542,6 +542,7 @@
 * [R语言神器来袭！compareGroups包让你的SCI论文表格"组间趋势"分析轻松上手](https://mp.weixin.qq.com/s/8XfoKAo7mwbYZpdrPFgQJg)
 * [探索性数据分析：数据科学家的必备技能](https://mp.weixin.qq.com/s/AIcdYehtcIvTPhXiRAgQ0g)
 * [每日一R | 善用 RStudio 项目（Project）管理R语言数据分析项目：从此告别杂乱无章，提高工作效率，促进团队协作](https://mp.weixin.qq.com/s/uWdRrlgld3DFJGPu9O38mg)
+* [R包 msigdbr 下载基因集失败怎么办：分享一个新的可替换包！](https://mp.weixin.qq.com/s/8EDoIGefjwslWWX4w0nSdQ)
 
 # R包
 
