@@ -413,6 +413,7 @@
 * [建议收藏！关于学术导航网站，看这篇就够了（内含11个亲测有效的宝藏网站）](https://mp.weixin.qq.com/s/7PGfsIa2Kx7JpHRqsMl15A)
 * [发了4篇SCI后明显感觉到信息差的恐怖](https://mp.weixin.qq.com/s/bAgwlyTopqjr_tEIaXea8A)
 * [IF 8.5纯生信文献复现(完结篇）](https://mp.weixin.qq.com/s/o8xUKGJEegV3zAssda9xSg)
+* [听学术报告该如何提问问题](https://mp.weixin.qq.com/s/gDxRmJOyvdq9C8W3rmlspg)
 
 ## 数据集
 
