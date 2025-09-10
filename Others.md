@@ -415,6 +415,7 @@
 * [IF 8.5纯生信文献复现(完结篇）](https://mp.weixin.qq.com/s/o8xUKGJEegV3zAssda9xSg)
 * [听学术报告该如何提问问题](https://mp.weixin.qq.com/s/gDxRmJOyvdq9C8W3rmlspg)
 * [（一）文献计量分析在医学领域的应用及常用工具](https://mp.weixin.qq.com/s/5tg7dtAPzZtTrkvrBcvLFA)
+* [BMJ 重磅发布 13 步构建指南，医学预测模型开发全攻略](https://mp.weixin.qq.com/s/M_Ce7AAuonzFegtYX_omsQ)
 
 ## 数据集
 
