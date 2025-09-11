@@ -192,6 +192,7 @@
 * [【Tidyverse优雅编程】管道符：是时候用 |>替代 %>% 了吗？](https://mp.weixin.qq.com/s/Lh748i7GJKjdz5DfV2i7VQ)
 * [少即是多：R 代码也要断舍离](https://mp.weixin.qq.com/s/Tulr3U7tjfGjQ5OJf6vVvw)
 * [每日一R | 可重复性报告工具：Quarto 与 R Markdown 如何选择？](https://mp.weixin.qq.com/s/UcWcFdGojtK0VtaYXIDWXQ)
+* [【Tidyverse优雅编程】批量读取+合并+清洗：国家统计局数据](https://mp.weixin.qq.com/s/U9y71nZpe6bvJtAEHkkSIw)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
