@@ -290,6 +290,7 @@
 * [批量爬取 UK Biobank 项目的科研文献](https://mp.weixin.qq.com/s/2eqKrXlSguqoUBwdnyseAg)
 * [为什么FPKM/RPKM逐渐被TPM取代？](https://mp.weixin.qq.com/s/lB9bhQsjb_aDWn7WYu7LIQ)
 * [你对生信的这些误解，正在拖慢你的科研进度！](https://mp.weixin.qq.com/s/5SaTUmgjh2BVBgCD9Ov91Q)
+* [生物信息学中的常见数据格式及其处理方法](https://mp.weixin.qq.com/s/Y31s1EO0xTU3AtXjjz6hPg)
 
 ## 基因组坐标系统
 
