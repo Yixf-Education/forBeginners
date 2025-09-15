@@ -292,6 +292,7 @@
 * [你对生信的这些误解，正在拖慢你的科研进度！](https://mp.weixin.qq.com/s/5SaTUmgjh2BVBgCD9Ov91Q)
 * [生物信息学中的常见数据格式及其处理方法](https://mp.weixin.qq.com/s/Y31s1EO0xTU3AtXjjz6hPg)
 * [【自用推文】批量下载GEO数据库数据](https://mp.weixin.qq.com/s/HYO7UzjXudVkrmDDE2DnjA)
+* [高效生物信息学科研项目管理](https://mp.weixin.qq.com/s/DxXtwGNpvy593qNGx2Ok1g)
 
 ## 基因组坐标系统
 
