@@ -67,6 +67,7 @@
 * [从ATAC-seq到转录因子结合分析：用TOBIAS解锁染色质“足迹”](https://mp.weixin.qq.com/s/a7oCGCQjIb22t9T7yLdzJQ)
 * [生信软件管理攻略：从 Mamba 到 Docker，告别依赖地狱](https://mp.weixin.qq.com/s/Vi5BS95pF3sAAMhE2PxB4A)
 * [论文排图太累，于是我写了一个adobe illustrator插件](https://mp.weixin.qq.com/s/pgeuHe0TZGyOTBmozvRN5g)
+* [IntervalTree：让生信分析飞起来的神器！](https://mp.weixin.qq.com/s/NdNfm3vE0fjI5aibQoIs9w)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
