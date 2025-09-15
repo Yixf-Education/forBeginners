@@ -169,6 +169,7 @@
 * [斯坦福教授直言：大部分人用 AI 的方式完全是错误的！一个简单转变，让 AI 助你提升10倍学术创造力！](https://mp.weixin.qq.com/s/QR2Ahjoq7ko8EK7MYqk9pg)
 * [知网检索已死，手动找文献的苦日子被这款AI彻底终结了](https://mp.weixin.qq.com/s/Q2YsoCtxwiEPOyUwywixRA)
 * [AI Paper Summarizer - 网页版用户手册](https://mp.weixin.qq.com/s/9wbmMy-AnmwR7vpChLe9rg)
+* [斯坦福团队打造的一款科研利器，高质生成综述初稿，多视角提问+自动生成大纲，多一个神器选择](https://mp.weixin.qq.com/s/pSbMsV5cW0CSJwWXVPqqCg)
 
 
 ## 分析绘图
