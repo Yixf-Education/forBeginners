@@ -202,6 +202,7 @@
 * [SciToolAgent：基于知识图谱的智能体，一键整合 500 + 科研工具](https://mp.weixin.qq.com/s/Vgs3hRZOImTiS-CODxP3dQ)
 * [基因组语言模型 | 基因组学大语言模型 Evo2 如何在线使用](https://mp.weixin.qq.com/s/JCdtWedpuOhmZ8zeUHipOg)
 * [生物大模型盘点 | 生物信息学中的基础模型有哪些？看这一篇就够了！](https://mp.weixin.qq.com/s/K3_GVL2svXTlBAxOdPnLOQ)
+* [生物信息学中的深度学习框架](https://mp.weixin.qq.com/s/Gn_6AwVA6kzoqGZZkjO1Zw)
 
 ## 学习资料
 
