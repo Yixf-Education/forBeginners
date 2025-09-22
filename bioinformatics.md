@@ -68,6 +68,7 @@
 * [生信软件管理攻略：从 Mamba 到 Docker，告别依赖地狱](https://mp.weixin.qq.com/s/Vi5BS95pF3sAAMhE2PxB4A)
 * [论文排图太累，于是我写了一个adobe illustrator插件](https://mp.weixin.qq.com/s/pgeuHe0TZGyOTBmozvRN5g)
 * [IntervalTree：让生信分析飞起来的神器！](https://mp.weixin.qq.com/s/NdNfm3vE0fjI5aibQoIs9w)
+* [告别 Anaconda！10分钟搭建 2025 年终极数据科学环境](https://mp.weixin.qq.com/s/vKe9Gd88EUqVHec0BqiTOQ)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
