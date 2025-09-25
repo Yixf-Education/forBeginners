@@ -295,6 +295,7 @@
 * [生物信息学中的常见数据格式及其处理方法](https://mp.weixin.qq.com/s/Y31s1EO0xTU3AtXjjz6hPg)
 * [【自用推文】批量下载GEO数据库数据](https://mp.weixin.qq.com/s/HYO7UzjXudVkrmDDE2DnjA)
 * [高效生物信息学科研项目管理](https://mp.weixin.qq.com/s/DxXtwGNpvy593qNGx2Ok1g)
+* [生物信息学中最具争议的研究](https://mp.weixin.qq.com/s/iyX4qE6WgSYNSnjVE6TQ5w)
 
 ## 基因组坐标系统
 
