@@ -496,6 +496,7 @@
 * [揭秘加性、显性、上位性效应如何悄悄操控表型！QTL位点核心概念和遗传定位原理解析](https://mp.weixin.qq.com/s/tRHpYO7i8GA6LW1Jxl07lg)
 * [为什么长度差异如此大的染色体的基因数量反而差不多](https://mp.weixin.qq.com/s/1lQ1h0lOwtsWKTUxyqsN9Q)
 * [＂编码链、模板链、正链、正向链＂DNA双链这么多叫法，别再傻傻分不清](https://mp.weixin.qq.com/s/KlhaxbAsuu6gZ0fOPMMARg)
+* [干货来啦|基因名称知多少](https://mp.weixin.qq.com/s/5schK8hK6qUr0pQ4iQaz3g)
 
 ## 系统课程
 
