@@ -21,6 +21,7 @@
 * [**超详细T细胞亚群标记基因列表**](https://mp.weixin.qq.com/s/KXaf0DylvatrooYKlj49Xw)
 * [单细胞的marker基因整理示例](https://mp.weixin.qq.com/s/KQaGJuE4B6Mcdl4JZBo64g)
 * [别再盲目运行cellranger count！这些核心参数，决定了你单细胞数据的成败](https://mp.weixin.qq.com/s/8FKtv3kuvvzACu6CTBeB8w)
+* [单细胞 RNA-seq 分析保姆级教程：从数据到结论](https://mp.weixin.qq.com/s/HAD2OENT4Fs9PSJSvASEgg)
 
 ## 单细胞转录组高级分析
 
