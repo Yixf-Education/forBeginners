@@ -86,6 +86,7 @@
 * [5 种方式美化你的单细胞 umap 散点图](https://mp.weixin.qq.com/s/SJWwUVkfw1UNcM-WHZrbBQ)
 * [从装修的角度来看转录组技术](https://mp.weixin.qq.com/s/syqt2DieFT7dGpXT5Xg9LA)
 * [空间转录组共定位分析应用思路](https://mp.weixin.qq.com/s/h27SPdi3bsGw1v2xK3HNBg)
+* [单细胞测序数据分析标准流程详解](https://mp.weixin.qq.com/s/xLyrYAZKndGDG7aBkPW72A)
 
 ## 空间转录组
 
