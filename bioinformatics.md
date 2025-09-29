@@ -500,6 +500,9 @@
 * [为什么长度差异如此大的染色体的基因数量反而差不多](https://mp.weixin.qq.com/s/1lQ1h0lOwtsWKTUxyqsN9Q)
 * [＂编码链、模板链、正链、正向链＂DNA双链这么多叫法，别再傻傻分不清](https://mp.weixin.qq.com/s/KlhaxbAsuu6gZ0fOPMMARg)
 * [干货来啦|基因名称知多少](https://mp.weixin.qq.com/s/5schK8hK6qUr0pQ4iQaz3g)
+* [服务介绍│HiChIP: 3D水平的DNA与蛋白互作, 比Hi-C更精准, 比ChIP更立体](https://mp.weixin.qq.com/s/vxOV-VxMBZJNSTZ23jCYbg)
+* [服务介绍 | Hi-C：三维表观基因组学揭示DNA-DNA相互作用](https://mp.weixin.qq.com/s/MqZyOw82OZMM2I9qrC3oHA)
+* [常见16 种 RNA 结构及其功能介绍，为什么你的研究是某一类特定RNA](https://mp.weixin.qq.com/s/XpEHk6D9wFeXOTBo4S645g)
 
 ## 系统课程
 
