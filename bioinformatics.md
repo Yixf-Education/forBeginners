@@ -503,6 +503,7 @@
 * [服务介绍│HiChIP: 3D水平的DNA与蛋白互作, 比Hi-C更精准, 比ChIP更立体](https://mp.weixin.qq.com/s/vxOV-VxMBZJNSTZ23jCYbg)
 * [服务介绍 | Hi-C：三维表观基因组学揭示DNA-DNA相互作用](https://mp.weixin.qq.com/s/MqZyOw82OZMM2I9qrC3oHA)
 * [常见16 种 RNA 结构及其功能介绍，为什么你的研究是某一类特定RNA](https://mp.weixin.qq.com/s/XpEHk6D9wFeXOTBo4S645g)
+* [表观篇：ChIP-seq、CUT&Tag和ATAC-seq的区别](https://mp.weixin.qq.com/s/777LKZZN8T2TqR_stjI88g)
 
 ## 系统课程
 
