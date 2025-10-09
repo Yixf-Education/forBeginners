@@ -548,6 +548,7 @@
 * [每日一R | 善用 RStudio 项目（Project）管理R语言数据分析项目：从此告别杂乱无章，提高工作效率，促进团队协作](https://mp.weixin.qq.com/s/uWdRrlgld3DFJGPu9O38mg)
 * [R包 msigdbr 下载基因集失败怎么办：分享一个新的可替换包！](https://mp.weixin.qq.com/s/8EDoIGefjwslWWX4w0nSdQ)
 * [R语言可视化|利用trackViewer绘制基因结构图](https://mp.weixin.qq.com/s/9qeqVem-WtsP2Uaety35qQ)
+* [基于RIdeogram的基因组数据可视化系统——染色体分布图专业绘制工具](https://mp.weixin.qq.com/s/Txmv60Uju5ncrXLz9rbpBg)
 
 # R包
 

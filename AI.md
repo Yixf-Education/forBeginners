@@ -79,7 +79,7 @@
 * [“我没错！”GPT-4o嘴硬翻车，AI在黑天鹅事件面前集体宕机](https://mp.weixin.qq.com/s/Li-OD_CcudjxjpJIovjajA)
 * [看似加速，实则拖慢：AI 写代码让开发者效率倒退19%](https://mp.weixin.qq.com/s/kf60EL8S7ihw0Aw481CisQ)
 * [深度剖析：蛋白质与DNA语言模型，真的读懂了“进化之书”？](https://mp.weixin.qq.com/s/eEp1HjEdy81cNshlTDH6Yg)
-* [一文带你了解增强子如何激活基因](https://mp.weixin.qq.com/s/4H8CPbC2FDmvUcPFB2525A)
+* [我花10小时写的原创，被AI在10分钟内偷走了。](https://mp.weixin.qq.com/s/6yWlI1xG8cA_KK_afkNwuA)
 
 
 ## 基本使用
