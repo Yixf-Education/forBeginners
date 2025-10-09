@@ -505,6 +505,7 @@
 * [常见16 种 RNA 结构及其功能介绍，为什么你的研究是某一类特定RNA](https://mp.weixin.qq.com/s/XpEHk6D9wFeXOTBo4S645g)
 * [表观篇：ChIP-seq、CUT&Tag和ATAC-seq的区别](https://mp.weixin.qq.com/s/777LKZZN8T2TqR_stjI88g)
 * [Genom Proteom Bioinf：ATAC-seq与CUT&Tag数据分析深度解析：Tn5转座酶时代的工具选择与策略优化](https://mp.weixin.qq.com/s/DKW_K4fKpaj_yf01TpXdJQ)
+* [一文带你了解增强子如何激活基因](https://mp.weixin.qq.com/s/4H8CPbC2FDmvUcPFB2525A)
 
 ## 系统课程
 
