@@ -128,6 +128,7 @@
 * [【文本处理新秀】Choose：比 AWK 更轻盈，比 Cut 更直观的命令行工具！](https://mp.weixin.qq.com/s/PsX37Zr_jHnabNOr17VS6w)
 * [数据存储格式小知识：tar、gz、tar.gz、mtx、tsv、csv 大揭秘！](https://mp.weixin.qq.com/s/0h0XGMmSSEy7zAsFs2dNvA)
 * [EasyBashGUI：让 Bash 脚本秒变 GUI 神器](https://mp.weixin.qq.com/s/kP7RgIqtGBQLKMUkUZENuw)
+* [必备生产力工具 Tmux 与 Zellij](https://mp.weixin.qq.com/s/tDQ2PV6ampS9x6RkZVzdng)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
