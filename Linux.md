@@ -129,6 +129,7 @@
 * [数据存储格式小知识：tar、gz、tar.gz、mtx、tsv、csv 大揭秘！](https://mp.weixin.qq.com/s/0h0XGMmSSEy7zAsFs2dNvA)
 * [EasyBashGUI：让 Bash 脚本秒变 GUI 神器](https://mp.weixin.qq.com/s/kP7RgIqtGBQLKMUkUZENuw)
 * [必备生产力工具 Tmux 与 Zellij](https://mp.weixin.qq.com/s/tDQ2PV6ampS9x6RkZVzdng)
+* [是时候拥抱uv和pixi了，当然也不用扔掉venv和conda/mamba](https://mp.weixin.qq.com/s/tc6GiWcq_HMf_7Hs9zxcqg)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
