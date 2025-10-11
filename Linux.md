@@ -409,6 +409,7 @@
 * [用好history命令，极大提高敲命令效率](https://mp.weixin.qq.com/s/h_Vc41LLs-OdVLQfDxYogA)
 * [命令行用了这么多年，原来还有这么多冷门实用的命令](https://mp.weixin.qq.com/s/GcdAKVRVT6m4CEGt2OU6fQ)
 * [SSH一断，代码就白跑了？快试试这个Linux“保活”神技！](https://mp.weixin.qq.com/s/VZg4RTQoSL-Qg9Igk27-mg)
+* [用上shell-GPT，我们已经不需要懂linux命令了，已经可以用自然语言操作linux了](https://mp.weixin.qq.com/s/ZCVmflUW_qeyE3d9gwxLXQ)
 
 ## 运维
 
