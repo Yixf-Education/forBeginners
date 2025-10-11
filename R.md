@@ -549,6 +549,7 @@
 * [R包 msigdbr 下载基因集失败怎么办：分享一个新的可替换包！](https://mp.weixin.qq.com/s/8EDoIGefjwslWWX4w0nSdQ)
 * [R语言可视化|利用trackViewer绘制基因结构图](https://mp.weixin.qq.com/s/9qeqVem-WtsP2Uaety35qQ)
 * [基于RIdeogram的基因组数据可视化系统——染色体分布图专业绘制工具](https://mp.weixin.qq.com/s/Txmv60Uju5ncrXLz9rbpBg)
+* [Rstudio后台运行任务终极指南：告别转圈，高效运行大任务](https://mp.weixin.qq.com/s/H3DIR6r29k3Mi5x8JYni4Q)
 
 # R包
 
