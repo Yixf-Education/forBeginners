@@ -171,6 +171,7 @@
 * [知网检索已死，手动找文献的苦日子被这款AI彻底终结了](https://mp.weixin.qq.com/s/Q2YsoCtxwiEPOyUwywixRA)
 * [AI Paper Summarizer - 网页版用户手册](https://mp.weixin.qq.com/s/9wbmMy-AnmwR7vpChLe9rg)
 * [斯坦福团队打造的一款科研利器，高质生成综述初稿，多视角提问+自动生成大纲，多一个神器选择](https://mp.weixin.qq.com/s/pSbMsV5cW0CSJwWXVPqqCg)
+* [EvoPresent：一键美化您的学术报告](https://mp.weixin.qq.com/s/A5dkmLVmcpD_8DaPhO7bwg)
 
 
 ## 分析绘图
