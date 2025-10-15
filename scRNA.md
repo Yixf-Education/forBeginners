@@ -187,3 +187,7 @@
 * [scRNA最常用的harmony整合（seurat v4 ）](https://mp.weixin.qq.com/s/zMb5loV6IcnCqydtxwyshA)
 * [monocle3推断发育轨迹](https://mp.weixin.qq.com/s/-EAaTE312J3Bnah7HDJDEA)
 * [零代码绘制发表级scATAC高级分析图片](https://mp.weixin.qq.com/s/EndJwExBRuzAiDDXKqBG7Q)
+
+## 数据集
+
+* [单细胞测序相关数据库汇总](https://mp.weixin.qq.com/s/tDN-KnOhOeoQ3H3NOzV1Lw)
