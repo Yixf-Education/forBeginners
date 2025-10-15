@@ -91,6 +91,7 @@
 * [生信学习者专属的电脑使用技巧和通用学习方法](https://mp.weixin.qq.com/s/5H_dDHqTGwRc9UZYbcHMxg)
 * [打破对教学方式的迷信：为大学“满堂灌”正名](https://mp.weixin.qq.com/s/thXVQAA8ACkSgVj5COj5Mw)
 * [使用Adobe illustrator不那么卡顿的方法（附修图相关经验）](https://mp.weixin.qq.com/s/mlFvaAIOL2UPZqKa7VpGuQ)
+* [数据集网站集合](https://mp.weixin.qq.com/s/INL8mEU8pYqH9LemWIUN7w)
 
 ## 统计
 
