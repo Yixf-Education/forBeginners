@@ -507,6 +507,7 @@
 * [Genom Proteom Bioinf：ATAC-seq与CUT&Tag数据分析深度解析：Tn5转座酶时代的工具选择与策略优化](https://mp.weixin.qq.com/s/DKW_K4fKpaj_yf01TpXdJQ)
 * [一文带你了解增强子如何激活基因](https://mp.weixin.qq.com/s/4H8CPbC2FDmvUcPFB2525A)
 * [每个研究生都应该知道的“基因结构”](https://mp.weixin.qq.com/s/uduvvKBCm5x-IqkhmmzSzA)
+* [从 limma 到 DESeq2：RNA-seq 差异分析三剑客的进化史](https://mp.weixin.qq.com/s/bn3XRlrcFDhKati0Uf9_Yw)
 
 ## 系统课程
 
