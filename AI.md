@@ -172,6 +172,7 @@
 * [AI Paper Summarizer - 网页版用户手册](https://mp.weixin.qq.com/s/9wbmMy-AnmwR7vpChLe9rg)
 * [斯坦福团队打造的一款科研利器，高质生成综述初稿，多视角提问+自动生成大纲，多一个神器选择](https://mp.weixin.qq.com/s/pSbMsV5cW0CSJwWXVPqqCg)
 * [EvoPresent：一键美化您的学术报告](https://mp.weixin.qq.com/s/A5dkmLVmcpD_8DaPhO7bwg)
+* [后悔没早点发现这些DeepSeek润色指令！](https://mp.weixin.qq.com/s/t4ev3yHcmyfJ_vIE4DEEaQ)
 
 
 ## 分析绘图
