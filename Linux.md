@@ -423,3 +423,4 @@
 * [没有公网IP ? 这个工具太6了, 运维力荐](https://mp.weixin.qq.com/s/cGncPOLb9dOhVmkarwSZRw)
 * [使用frp进行内网穿透，在外也能访问服务器](https://mp.weixin.qq.com/s/dOuiGbK-n1_ajSJBvFaE7A?poc_token=HOikBWijAw8GUYU1lkLxvwN2dMhZ9zPPZ0dvmHnq)
 * [每一位Linux工程师都应刷过的100个shell脚本~](https://mp.weixin.qq.com/s/IiHqYQj3-lYu9JdUFkFQ9w)
+* [30 个 Linux 命令组合：解决 99% 日常运维需求，看完就能用！](https://mp.weixin.qq.com/s/Kf4HUUHe33gmqhA3kPa1zA)
