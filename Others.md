@@ -92,6 +92,7 @@
 * [打破对教学方式的迷信：为大学“满堂灌”正名](https://mp.weixin.qq.com/s/thXVQAA8ACkSgVj5COj5Mw)
 * [使用Adobe illustrator不那么卡顿的方法（附修图相关经验）](https://mp.weixin.qq.com/s/mlFvaAIOL2UPZqKa7VpGuQ)
 * [数据集网站集合](https://mp.weixin.qq.com/s/INL8mEU8pYqH9LemWIUN7w)
+* [科研文献分析工具](https://mp.weixin.qq.com/s/qGYsQPaQ20R5Nfxk1Kg-jw)
 
 ## 统计
 
