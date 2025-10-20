@@ -545,6 +545,7 @@
 * [生物信息学原理 -- 第九章 蛋白质结构和功能预测](https://mp.weixin.qq.com/s/djiApV5fN5IyFlA52wfNTw)
 * [quinlan-lab/applied-computational-genomics: Applied Computational Genomics Course at UU: Spring 2020](https://github.com/quinlan-lab/applied-computational-genomics?tab=readme-ov-file)
 * [Dr.Tom 简介](https://biosys.bgi.com/help/)
+* [想系统入门生信，快来看看这个代码资源！](https://mp.weixin.qq.com/s/LFy5_IrE90eoRzdaJperfg)
 
 ## Galaxy
 
