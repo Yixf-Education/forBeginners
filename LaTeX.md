@@ -126,6 +126,7 @@
 * [用 llmk 轻松搞定 LaTeX 编译！告别多次编译，拥抱简洁智能！](https://mp.weixin.qq.com/s/xzarceW6i5lgnkcjvG2B8g)
 * [OpenMoji 宏包让你的内容瞬间“活”起来！你还在用老掉牙的符号吗？](https://mp.weixin.qq.com/s/67MgdnoR4kaabuqnzBMfYQ)
 * [快速查找LaTeX数学环境里的中文标点，一键揪出 BUG 的字符](https://mp.weixin.qq.com/s/k_-Y4shoeV5thUrwqibqMg)
+* [IEEE-style BibTeX Modifier](https://mepeichun.github.io/ieee-bibtex-modifier/)
 
 
 ## 教学
