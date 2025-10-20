@@ -508,6 +508,7 @@
 * [一文带你了解增强子如何激活基因](https://mp.weixin.qq.com/s/4H8CPbC2FDmvUcPFB2525A)
 * [每个研究生都应该知道的“基因结构”](https://mp.weixin.qq.com/s/uduvvKBCm5x-IqkhmmzSzA)
 * [从 limma 到 DESeq2：RNA-seq 差异分析三剑客的进化史](https://mp.weixin.qq.com/s/bn3XRlrcFDhKati0Uf9_Yw)
+* [富集分析四兄弟：谁才是你的最佳选择？](https://mp.weixin.qq.com/s/GoHiujZbI6x6ehf0ELgpyg)
 
 ## 系统课程
 
