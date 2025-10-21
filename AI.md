@@ -55,6 +55,7 @@
 * [R语言AI利器：tidyllm让数据分析师与大模型无缝协作](https://mp.weixin.qq.com/s/3N6faIJTFacM1XsZUDNkeQ)
 * [aristoteleo/pantheon-cli: Pantheon-CLI, our first release of PantheonOS, the AgentOS that re-imagines Science](https://github.com/aristoteleo/pantheon-cli)
 * [Claude Code: Deep coding at terminal velocity \ Anthropic](https://www.anthropic.com/claude-code)
+* [18款AI PPT工具横评：哪款最适合做课件？](https://mp.weixin.qq.com/s/wUIwGU7UR--yfoPayL6InQ)
 
 
 ## 变革思考
