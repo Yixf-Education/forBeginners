@@ -56,6 +56,7 @@
 * [aristoteleo/pantheon-cli: Pantheon-CLI, our first release of PantheonOS, the AgentOS that re-imagines Science](https://github.com/aristoteleo/pantheon-cli)
 * [Claude Code: Deep coding at terminal velocity \ Anthropic](https://www.anthropic.com/claude-code)
 * [18款AI PPT工具横评：哪款最适合做课件？](https://mp.weixin.qq.com/s/wUIwGU7UR--yfoPayL6InQ)
+* [教师必备的9个人工智能Ai工具app](https://mp.weixin.qq.com/s/GN97D6J8UD4fmcBRF2i_IA)
 
 
 ## 变革思考
