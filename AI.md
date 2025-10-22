@@ -200,6 +200,7 @@
 * [如何使用DeepSeek绘制多种漂亮的韦恩图？](https://mp.weixin.qq.com/s/WcsqkKqKIb1nLKPVf8egdw)
 * [如何使用DeepSeek绘制漂亮的堆叠图？](https://mp.weixin.qq.com/s/CzczSBsCksYQDiYPe_DsHQ)
 * [如何使用DeepSeek绘制漂亮的网络弦图？](https://mp.weixin.qq.com/s/2oQPRaNWnMvv3NIsHit3uQ)
+* [为R语言添加AI功能](https://mp.weixin.qq.com/s/q1PhpAoVoRjY276r7F8AxA)
 
 ## 生物模型
 
