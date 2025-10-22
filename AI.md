@@ -81,6 +81,7 @@
 * [看似加速，实则拖慢：AI 写代码让开发者效率倒退19%](https://mp.weixin.qq.com/s/kf60EL8S7ihw0Aw481CisQ)
 * [深度剖析：蛋白质与DNA语言模型，真的读懂了“进化之书”？](https://mp.weixin.qq.com/s/eEp1HjEdy81cNshlTDH6Yg)
 * [我花10小时写的原创，被AI在10分钟内偷走了。](https://mp.weixin.qq.com/s/6yWlI1xG8cA_KK_afkNwuA)
+* [Nature杂志刊登一篇AI对生信分析影响的文章](https://mp.weixin.qq.com/s/7HoycHJcGnUqdL1pPlHpZg)
 
 
 ## 基本使用
