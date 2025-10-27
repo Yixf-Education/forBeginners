@@ -124,6 +124,8 @@
 * [甲状腺腺组织细胞已知marker基因](https://mp.weixin.qq.com/s/-XtspEgrdYayjGZqOr_Gsw)
 * [Nature杂志：内皮细胞亚群marker基因](https://mp.weixin.qq.com/s/6hObv7LtrowKj5LRiCvyNA)
 * [细胞类型映射到细胞本体论：让你的单细胞注释更专业！](https://mp.weixin.qq.com/s/2PqmjBJukaMvy5iGdN2MJw)
+* [T细胞的主要分类和功能（建议收藏）](https://mp.weixin.qq.com/s/FYmYApwaE652b8s_6fVIXQ)
+* [T 细胞亚群的表面标记物及其功能（建议收藏）](https://mp.weixin.qq.com/s/6KvB3iyFhS5X0MPK1moJVA)
 
 ## 其他
 
