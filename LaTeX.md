@@ -98,6 +98,7 @@
 * [为小学教师量身定制，适合儿童学习成长的可爱图标帮您创建引人入胜的教学活动](https://mp.weixin.qq.com/s/7_hb10DE3Jt8FBQaxnLqgw)
 * [OpenMoji 宏包让你的内容瞬间“活”起来！你还在用老掉牙的符号吗？](https://mp.weixin.qq.com/s/67MgdnoR4kaabuqnzBMfYQ)
 * [这款优化到极致的 arXiv 两栏 LaTeX 模板，科研党必备！](https://mp.weixin.qq.com/s/iR8wov3n_M2RUaeY4d0uzA)
+* [我用LaTeX画进度条时踩了坑，直到发现这个“全能工具”](https://mp.weixin.qq.com/s/L_MJ7gAUKy4O_EbuOoNcgg)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
