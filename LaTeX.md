@@ -128,6 +128,7 @@
 * [快速查找LaTeX数学环境里的中文标点，一键揪出 BUG 的字符](https://mp.weixin.qq.com/s/k_-Y4shoeV5thUrwqibqMg)
 * [IEEE-style BibTeX Modifier](https://mepeichun.github.io/ieee-bibtex-modifier/)
 * [AI-Powered LaTeX Editor：下一代智能协作 LaTeX 写作平台](https://mp.weixin.qq.com/s/4F6s5pzwy-JQaGe-iy1kNw)
+* [Vim/NeoVim + Kitty 用户狂喜：LaTeX 实时预览+双向同步直接封神！TeX 极客们的大玩具来了](https://mp.weixin.qq.com/s/iE_MtGo7WqjuI0Axzp9LMw)
 
 
 ## 教学
