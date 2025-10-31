@@ -202,6 +202,7 @@
 * [如何使用DeepSeek绘制漂亮的堆叠图？](https://mp.weixin.qq.com/s/CzczSBsCksYQDiYPe_DsHQ)
 * [如何使用DeepSeek绘制漂亮的网络弦图？](https://mp.weixin.qq.com/s/2oQPRaNWnMvv3NIsHit3uQ)
 * [为R语言添加AI功能](https://mp.weixin.qq.com/s/q1PhpAoVoRjY276r7F8AxA)
+* [科研人必备！用极客侧边栏轻松绘制论文Graphical Abstract](https://mp.weixin.qq.com/s/Rn2aK2uoGvrn2kclxRreJA)
 
 ## 生物模型
 
