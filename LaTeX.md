@@ -178,6 +178,7 @@
 * [Academic LaTeX 写作 & 投稿全流程清单，帮你全面提高论文质量与接收率](https://mp.weixin.qq.com/s/uV_jNua8MUyjYwehoAU1yg?poc_token=HEwka2ijfQhFfKtpTGEFAHaF_w3jfvpmBDiUt7a7)
 * [Luoyadan/Academic-LaTeX-Writing-Submission-Checklist-: This checklist is designed to help you systematically prepare and polish academic papers for top conferences and journals (e.g., ICML, NeurIPS, CVPR). It incorporates widely recommended best practices, formatting standards, and common reviewer expectations.](https://github.com/Luoyadan/Academic-LaTeX-Writing-Submission-Checklist-)
 * [利用 Tectonic (LaTeX/Beamer) 和 AI 快速生成学术海报](https://mp.weixin.qq.com/s/-2IlTsx5JdJGXymJ4RnKeg)
+* [别以为学术海报只能“将就”，Gemini：一个把 beamerposter 变成艺术的主题](https://mp.weixin.qq.com/s/d3C1u8aOP6nAsg25ZY1SGQ)
 
 ## 幻灯片
 * [R Markdown 制作 beamer 幻灯片](https://mp.weixin.qq.com/s/vnDD1Ovx1TaW4TdBnf56vQ)
