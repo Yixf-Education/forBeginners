@@ -84,6 +84,7 @@
 * [深度剖析：蛋白质与DNA语言模型，真的读懂了“进化之书”？](https://mp.weixin.qq.com/s/eEp1HjEdy81cNshlTDH6Yg)
 * [我花10小时写的原创，被AI在10分钟内偷走了。](https://mp.weixin.qq.com/s/6yWlI1xG8cA_KK_afkNwuA)
 * [Nature杂志刊登一篇AI对生信分析影响的文章](https://mp.weixin.qq.com/s/7HoycHJcGnUqdL1pPlHpZg)
+* [人工智能是终结所有泡沫的终极泡沫，它的崩盘路线将是这样的（重磅）](https://mp.weixin.qq.com/s/6qGqY1J9T5Qfn_XOm6xXYA)
 
 
 ## 基本使用
