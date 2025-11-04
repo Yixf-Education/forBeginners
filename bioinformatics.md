@@ -75,6 +75,7 @@
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
+* [**sandbox.bio - Interactive bioinformatics tutorials**](https://sandbox.bio/)
 * [生物信息学研究的思考](https://mp.weixin.qq.com/s/p7RKD_kVfK3ny6s7j_f8zg)
 * [该如何自学入门生物信息学](https://mp.weixin.qq.com/s/lDQ-WVaxlCl-Ku8t30UWKg)
 * [如何成为顶级生物信息学家](https://mp.weixin.qq.com/s/VPw9V_dXtOTN0mhbPWzlyQ)
