@@ -178,6 +178,7 @@
 * [斯坦福团队打造的一款科研利器，高质生成综述初稿，多视角提问+自动生成大纲，多一个神器选择](https://mp.weixin.qq.com/s/pSbMsV5cW0CSJwWXVPqqCg)
 * [EvoPresent：一键美化您的学术报告](https://mp.weixin.qq.com/s/A5dkmLVmcpD_8DaPhO7bwg)
 * [后悔没早点发现这些DeepSeek润色指令！](https://mp.weixin.qq.com/s/t4ev3yHcmyfJ_vIE4DEEaQ)
+* [告别手动查文献！用Claude Haiku 4.5一键帮你检索+插入参考文献，科研效率直接翻倍（附实操演示+AI提示词）](https://mp.weixin.qq.com/s/HKSgSteDkbgcVxVIPRlz4A)
 
 
 ## 分析绘图
