@@ -195,6 +195,7 @@
 * [【Tidyverse优雅编程】批量读取+合并+清洗：国家统计局数据](https://mp.weixin.qq.com/s/U9y71nZpe6bvJtAEHkkSIw)
 * [R语言如何给变量和变量值添加标签？](https://mp.weixin.qq.com/s/HXVQ0Hjd-E3X7jATfYkHcA)
 * [绘图函数不让你保存到电脑设备（没有人工智能大模型解决不了的bug）](https://mp.weixin.qq.com/s/jHy6enei8vvhGbVZsXjvgQ)
+* [使用rig轻松管理R语言](https://mp.weixin.qq.com/s/ST0qUhXQWoBr8ZKv2JLcXg)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
