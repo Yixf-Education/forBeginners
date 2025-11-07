@@ -130,6 +130,7 @@
 * [EasyBashGUI：让 Bash 脚本秒变 GUI 神器](https://mp.weixin.qq.com/s/kP7RgIqtGBQLKMUkUZENuw)
 * [必备生产力工具 Tmux 与 Zellij](https://mp.weixin.qq.com/s/tDQ2PV6ampS9x6RkZVzdng)
 * [是时候拥抱uv和pixi了，当然也不用扔掉venv和conda/mamba](https://mp.weixin.qq.com/s/tc6GiWcq_HMf_7Hs9zxcqg)
+* [SSH 工具有新选择了，手机也能用、还带 AI 助手](https://mp.weixin.qq.com/s/F8PV1gwIKkANbOeCY5a5yQ)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
