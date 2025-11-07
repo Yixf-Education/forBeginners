@@ -133,6 +133,7 @@
 * [告别手写代码！体验下 TikZGraphGenerator：交互式图形生成器的魔法](https://mp.weixin.qq.com/s/WjlmVK5uaQ3FKJfwkX1vyg)
 * [Octree-AI-Latex-Editor/tools: Octree - LaTeX Tools and Templates](https://github.com/Octree-AI-Latex-Editor/tools)
 * [Free LaTeX Tools - Convert Image to LaTeX, 57 Templates, PDF Preview | Octree](https://tools.useoctree.com/)
+* [TexSandbox：AI 驱动的 LaTeX 创作神器](https://mp.weixin.qq.com/s/NqQbDlAZgg8B4-1aX4HHig)
 
 
 ## 教学
