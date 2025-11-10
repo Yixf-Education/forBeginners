@@ -116,6 +116,7 @@
 * [空间转录组多组学关联分析总述](https://mp.weixin.qq.com/s/Vk40-vtMzt7x2jCM_bpVvA)
 * [第一篇正式见刊的HD高精度空间转录组文章做了什么？](https://mp.weixin.qq.com/s/PIPpwo6iO8vHS5LGsd6EzA)
 * [都2024了再弄转录组的综述，有什么特别吗？](https://mp.weixin.qq.com/s/ZGc1HkMglVF7_FCsSRO_KQ)
+* [R tips：VisiumHD的HE空间图绘制方法](https://mp.weixin.qq.com/s/qK4MzWo2u9sRl-6tQU8qWQ)
 
 ## Markers
 
