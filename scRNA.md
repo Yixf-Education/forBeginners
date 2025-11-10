@@ -178,6 +178,7 @@
 * [单细胞水平的可变剪切与突变分析：寻因单细胞全序列转录组测序scFAST-seq](https://mp.weixin.qq.com/s/c4077yKlJcSaL7AXy-CFnQ)
 * [Seurat升级必看：SeuratExtend助你轻松搞定单细胞可视化](https://mp.weixin.qq.com/s/IPGBT4Oiv6k8_RYkaKjXKg)
 * [单细胞CopyKAT包推断CNV变化](https://mp.weixin.qq.com/s/zN-zItKtV7ovaLUK7JxHtg)
+* [你真的了解RNA速率分析吗](https://mp.weixin.qq.com/s/DM6wlKjIg7SiqHwj0_xAtQ)
 
 ## scATAC-seq
 
