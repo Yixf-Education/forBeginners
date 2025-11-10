@@ -515,6 +515,7 @@
 * [富集分析四兄弟：谁才是你的最佳选择？](https://mp.weixin.qq.com/s/GoHiujZbI6x6ehf0ELgpyg)
 * [五分钟看懂系统进化树——结构、种类、分析方法、分析软件与可视化](https://mp.weixin.qq.com/s/SHyThX25mJ-9NZZMP9Ctpg)
 * [富集分析怎么选？GO、KEGG、GSEA、GSVA一次讲透！](https://mp.weixin.qq.com/s/2XDM-wLfpvbd0P3-ICrZcQ)
+* [生物拓展丨分子遗传中的各种“子”](https://mp.weixin.qq.com/s/btCBsdrmgYxpVYUKsqEtig)
 
 ## 系统课程
 
