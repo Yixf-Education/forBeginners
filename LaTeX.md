@@ -134,6 +134,7 @@
 * [Octree-AI-Latex-Editor/tools: Octree - LaTeX Tools and Templates](https://github.com/Octree-AI-Latex-Editor/tools)
 * [Free LaTeX Tools - Convert Image to LaTeX, 57 Templates, PDF Preview | Octree](https://tools.useoctree.com/)
 * [TexSandbox：AI 驱动的 LaTeX 创作神器](https://mp.weixin.qq.com/s/NqQbDlAZgg8B4-1aX4HHig)
+* [Tideflow：左写右排的 Markdown 工具，离线也能生成学术级 PDF](https://mp.weixin.qq.com/s/i5DlTosL56jUgrSkh8lwiw)
 
 
 ## 教学
