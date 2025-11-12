@@ -593,6 +593,8 @@
 * [tunisrusergroup/Introduction_to_GWAS_GAPIT](https://github.com/tunisrusergroup/Introduction_to_GWAS_GAPIT/tree/main)
 * [Genome-Wide Association Studies (GWAS) using R by Andy Chen | Tunis R User Group | Workshop #2 - YouTube](https://www.youtube.com/watch?v=Oq85Jff9i2U&t=707s)
 * [GWAS_GAPIT_Practical_AC - Google 云端硬盘](https://drive.google.com/drive/folders/11H_7CqzOWc7mlA2PsIgTe34zvh0lR5Ng)
+* [跟着东京大学镰谷研究室学习GWAS分析及可视化](https://mp.weixin.qq.com/s/5mL81nmJ4XnjC_7q2UWR8Q)
+* [Tutorial guide - GWASTutorial](https://cloufield.github.io/GWASTutorial/)
 
 ## 生物样本库
 
