@@ -421,6 +421,7 @@
 * [听学术报告该如何提问问题](https://mp.weixin.qq.com/s/gDxRmJOyvdq9C8W3rmlspg)
 * [（一）文献计量分析在医学领域的应用及常用工具](https://mp.weixin.qq.com/s/5tg7dtAPzZtTrkvrBcvLFA)
 * [BMJ 重磅发布 13 步构建指南，医学预测模型开发全攻略](https://mp.weixin.qq.com/s/M_Ce7AAuonzFegtYX_omsQ)
+* [能不能发顶刊取决于故事串联的角度和深度！](https://mp.weixin.qq.com/s/3sDyUaOBhkJcMxZr7murwQ)
 
 ## 数据集
 
