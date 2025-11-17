@@ -74,6 +74,7 @@
 * [蛋白互作数据库深度解析：STRING vs. BioGRID vs. IntAct，如何选择你的科研利器？](https://mp.weixin.qq.com/s/IsYBTfEJW3lWnkzDjspZmQ)
 * [分享12个好用的在线生信小工具！](https://mp.weixin.qq.com/s/lGsdKyS1K2feeXu9C28Gsw)
 * [分享12个好用的在线生信小工具！（2）](https://mp.weixin.qq.com/s/XJMGOddiCRVmbDj2bFBjWg)
+* [是时候学会用Snakemake来管理生信流程了](https://mp.weixin.qq.com/s/43A1wq_g_01hvKD9wSinMA)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
