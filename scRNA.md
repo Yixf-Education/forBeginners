@@ -193,6 +193,7 @@
 * [scRNA最常用的harmony整合（seurat v4 ）](https://mp.weixin.qq.com/s/zMb5loV6IcnCqydtxwyshA)
 * [monocle3推断发育轨迹](https://mp.weixin.qq.com/s/-EAaTE312J3Bnah7HDJDEA)
 * [零代码绘制发表级scATAC高级分析图片](https://mp.weixin.qq.com/s/EndJwExBRuzAiDDXKqBG7Q)
+* [基于Signac的motif分析流程学习](https://mp.weixin.qq.com/s/CAUlyjGJ9yz_aJrEc7WWOg)
 
 ## 数据集
 
