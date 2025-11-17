@@ -72,6 +72,8 @@
 * [最值得关注的Python生信工具：数据获取与数据库查询神器](https://mp.weixin.qq.com/s/fy7ByvnTup7IrBJZHA7e5A)
 * [nf-core：生信流程开发的"懒人神器"，让复杂变简单！](https://mp.weixin.qq.com/s/zi_6LbMZqGJJpfCfGykM1Q)
 * [蛋白互作数据库深度解析：STRING vs. BioGRID vs. IntAct，如何选择你的科研利器？](https://mp.weixin.qq.com/s/IsYBTfEJW3lWnkzDjspZmQ)
+* [分享12个好用的在线生信小工具！](https://mp.weixin.qq.com/s/lGsdKyS1K2feeXu9C28Gsw)
+* [分享12个好用的在线生信小工具！（2）](https://mp.weixin.qq.com/s/XJMGOddiCRVmbDj2bFBjWg)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
