@@ -74,6 +74,7 @@
 * [你应该停止相信的关于 Linux 的 7 个神话](https://mp.weixin.qq.com/s/pIhd1ZsJ25YKi4wRhHoJ-w)
 * [Linux 环境变量总结](https://mp.weixin.qq.com/s/2hOw6ZuqahyC3iaSvuyfJA)
 * [**veltman/clmystery: A command-line murder mystery**](https://github.com/veltman/clmystery)
+* [一图看懂Linux 根目录功能全览！](https://mp.weixin.qq.com/s/PAWR0IaxxDeOWPqXSm9dLQ)
 
 ## 杂烩
 * [2015年最弱的密码和最强的密码](https://linux.cn/article-6918-1.html)
