@@ -553,6 +553,7 @@
 * [基于RIdeogram的基因组数据可视化系统——染色体分布图专业绘制工具](https://mp.weixin.qq.com/s/Txmv60Uju5ncrXLz9rbpBg)
 * [Rstudio后台运行任务终极指南：告别转圈，高效运行大任务](https://mp.weixin.qq.com/s/H3DIR6r29k3Mi5x8JYni4Q)
 * [五花八门！各种回归分析要怎么实现？](https://mp.weixin.qq.com/s/B0O3Fx61MJu-xy5tU_GO3g)
+* [immunedeconv R 包估算免疫细胞比例--7种免疫浸润分析算法](https://mp.weixin.qq.com/s/JU68auyS3YGYC0TFiHNMNw)
 
 # R包
 
