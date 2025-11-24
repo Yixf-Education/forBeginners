@@ -137,6 +137,7 @@
 * [TexSandbox：AI 驱动的 LaTeX 创作神器](https://mp.weixin.qq.com/s/NqQbDlAZgg8B4-1aX4HHig)
 * [Tideflow：左写右排的 Markdown 工具，离线也能生成学术级 PDF](https://mp.weixin.qq.com/s/i5DlTosL56jUgrSkh8lwiw)
 * [颠覆传统！LaTeXWriter携“AI审阅”与“毫秒级编译”重塑学术写作，科研效率飙升100%！](https://mp.weixin.qq.com/s/oh0O2oQpougEZBAxYag8NA)
+* [公式截图转代码、一键润色、夜间模式：Overleaf 必备插件 Underleaf 全测评](https://mp.weixin.qq.com/s/kfj6fDPKRFDVe7J5IpUGsg)
 
 
 ## 教学
