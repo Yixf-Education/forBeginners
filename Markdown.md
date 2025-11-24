@@ -51,6 +51,7 @@
 * [Markdown 介绍与语法](https://mp.weixin.qq.com/s/hVBGgq_BesVbn1D1X9zmJg)
 * [Markdown + AI = 效率神器：10分钟就能学会的大模型文本格式！](https://mp.weixin.qq.com/s/G7JezDARfSnGQ_Md8DmDVg)
 * [31 Markdown 综合实例_Markdown 入门教程-慕课网](https://www.imooc.com/wiki/markdownlesson/markdowndemo.html)
+* [Markdown 语法规则及写作工具](https://mp.weixin.qq.com/s/Spdk7M2ttHZ0kajPocc_fg)
 
 ## 工具
 * [4 个 Linux 命令行下的 Markdown 工具](https://zhuanlan.zhihu.com/p/120132098)
@@ -58,4 +59,5 @@
 * [deckgo/deckdeckgo: The web open source editor for presentations](https://github.com/deckgo/deckdeckgo)
 * [Quarto](https://quarto.org/)
 * [Moffee：一键将 Markdown 转换为专业 PPT，支持多主题与实时预览](https://mp.weixin.qq.com/s/0itLAxijwX1qQVNhtrDm4w)
+* [微信 Markdown 编辑器 | Doocs 开源社区](https://md.doocs.org/)
 
