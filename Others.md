@@ -422,6 +422,7 @@
 * [（一）文献计量分析在医学领域的应用及常用工具](https://mp.weixin.qq.com/s/5tg7dtAPzZtTrkvrBcvLFA)
 * [BMJ 重磅发布 13 步构建指南，医学预测模型开发全攻略](https://mp.weixin.qq.com/s/M_Ce7AAuonzFegtYX_omsQ)
 * [能不能发顶刊取决于故事串联的角度和深度！](https://mp.weixin.qq.com/s/3sDyUaOBhkJcMxZr7murwQ)
+* [科研工作者的最佳电脑文件管理系统长什么样？](https://mp.weixin.qq.com/s/ej4J1D448OIkHw8uI7hdPw)
 
 ## 数据集
 
