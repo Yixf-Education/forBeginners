@@ -87,6 +87,7 @@
 * [我花10小时写的原创，被AI在10分钟内偷走了。](https://mp.weixin.qq.com/s/6yWlI1xG8cA_KK_afkNwuA)
 * [Nature杂志刊登一篇AI对生信分析影响的文章](https://mp.weixin.qq.com/s/7HoycHJcGnUqdL1pPlHpZg)
 * [人工智能是终结所有泡沫的终极泡沫，它的崩盘路线将是这样的（重磅）](https://mp.weixin.qq.com/s/6qGqY1J9T5Qfn_XOm6xXYA)
+* [仅用七个提示词，三大AI造出《反恐精英》简化版，网友深扒源码：它“偷”了别人的，连原作者的注释都搬过来了](https://mp.weixin.qq.com/s/b7xDmqOJl-zj0IEZR1BM6Q)
 
 
 ## 基本使用
