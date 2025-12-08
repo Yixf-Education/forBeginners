@@ -424,6 +424,7 @@
 * [能不能发顶刊取决于故事串联的角度和深度！](https://mp.weixin.qq.com/s/3sDyUaOBhkJcMxZr7murwQ)
 * [科研工作者的最佳电脑文件管理系统长什么样？](https://mp.weixin.qq.com/s/ej4J1D448OIkHw8uI7hdPw)
 * [《Nature Reviews》官方指南：如何绘制符合投稿要求的专业插图](https://mp.weixin.qq.com/s/w5Wyh6LfImBI9z_j9SdZdw)
+* [满血版 Zotero + Research Rabbit：打造 2025 最强科研文献工作流](https://mp.weixin.qq.com/s/2N-Qix-AdHN0WgoI_5-rpA)
 
 ## 数据集
 
