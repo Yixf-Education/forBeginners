@@ -94,6 +94,7 @@
 * [使用Adobe illustrator不那么卡顿的方法（附修图相关经验）](https://mp.weixin.qq.com/s/mlFvaAIOL2UPZqKa7VpGuQ)
 * [数据集网站集合](https://mp.weixin.qq.com/s/INL8mEU8pYqH9LemWIUN7w)
 * [科研文献分析工具](https://mp.weixin.qq.com/s/qGYsQPaQ20R5Nfxk1Kg-jw)
+* [GitHub - Atarity/deploy-your-own-saas: List of "only yours" cloud services for everyday needs :black_flag:](https://github.com/Atarity/deploy-your-own-saas)
 
 ## 统计
 
