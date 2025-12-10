@@ -75,6 +75,7 @@
 * [Linux 环境变量总结](https://mp.weixin.qq.com/s/2hOw6ZuqahyC3iaSvuyfJA)
 * [**veltman/clmystery: A command-line murder mystery**](https://github.com/veltman/clmystery)
 * [一图看懂Linux 根目录功能全览！](https://mp.weixin.qq.com/s/PAWR0IaxxDeOWPqXSm9dLQ)
+* [Linux · 第一章《一切皆是文件：看懂这件事，你才真正踏进 Linux》](https://mp.weixin.qq.com/s/aMBF2KJgp3ATsrwUZRLyFA)
 
 ## 杂烩
 * [2015年最弱的密码和最强的密码](https://linux.cn/article-6918-1.html)
@@ -412,6 +413,7 @@
 * [命令行用了这么多年，原来还有这么多冷门实用的命令](https://mp.weixin.qq.com/s/GcdAKVRVT6m4CEGt2OU6fQ)
 * [SSH一断，代码就白跑了？快试试这个Linux“保活”神技！](https://mp.weixin.qq.com/s/VZg4RTQoSL-Qg9Igk27-mg)
 * [用上shell-GPT，我们已经不需要懂linux命令了，已经可以用自然语言操作linux了](https://mp.weixin.qq.com/s/ZCVmflUW_qeyE3d9gwxLXQ)
+* [随手甩几个有意思的Linux脚本来看看](https://mp.weixin.qq.com/s/ry9bFngojOg_OCOje6xaiQ)
 
 ## 运维
 
