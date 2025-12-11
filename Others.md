@@ -95,6 +95,7 @@
 * [数据集网站集合](https://mp.weixin.qq.com/s/INL8mEU8pYqH9LemWIUN7w)
 * [科研文献分析工具](https://mp.weixin.qq.com/s/qGYsQPaQ20R5Nfxk1Kg-jw)
 * [GitHub - Atarity/deploy-your-own-saas: List of "only yours" cloud services for everyday needs :black_flag:](https://github.com/Atarity/deploy-your-own-saas)
+* [教授副教授职称答辩PPT模板（高校教师适用）](https://mp.weixin.qq.com/s/-bdWljuB69rb-8Euqom2hQ)
 
 ## 统计
 
