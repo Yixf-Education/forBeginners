@@ -208,6 +208,7 @@
 * [如何使用DeepSeek绘制漂亮的网络弦图？](https://mp.weixin.qq.com/s/2oQPRaNWnMvv3NIsHit3uQ)
 * [为R语言添加AI功能](https://mp.weixin.qq.com/s/q1PhpAoVoRjY276r7F8AxA)
 * [科研人必备！用极客侧边栏轻松绘制论文Graphical Abstract](https://mp.weixin.qq.com/s/Rn2aK2uoGvrn2kclxRreJA)
+* [Gemini 3解决ngs全流程数据分析（生信分析进化到我都不认识了）](https://mp.weixin.qq.com/s/u-wSyWpvJ2drYLL6p046ew)
 
 ## 生物模型
 
