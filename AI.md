@@ -60,6 +60,8 @@
 * [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects?tab=readme-ov-file): The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
 * [Underleaf](https://app.underleaf.ai/dashboard)
 * [四大AI编程神器（Cursor、阿里Qoder、字节Trae、腾讯CodeBuddy）的优缺点、费用](https://mp.weixin.qq.com/s/uMT3Pfk2Fu-lofUBn6vHAw)
+* [高效科研工具分享——geogpt](https://mp.weixin.qq.com/s/3w74IEhULbnpzdzbUIOUEw)
+* [投稿前的最强辅助：Stanford Agentic Reviewer](https://mp.weixin.qq.com/s/stAtW-jWfmM-m0WhNpDXnw)
 
 
 ## 变革思考
