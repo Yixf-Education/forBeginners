@@ -130,6 +130,8 @@
 * [最新单细胞marker数据库大盘点](https://mp.weixin.qq.com/s/p3tOv9l0mfN5okiEP51fyQ)
 * [小白如何选择单细胞注释软件？](https://mp.weixin.qq.com/s/v_bJSHS2dPciPGntfaMqiw)
 * [免疫细胞全家福（建议收藏）](https://mp.weixin.qq.com/s/EmQPVJIWmpP4zIsmOE3YzA)
+* [T Cell注释神器,《Nature Methods》发布T-CellAnnoTator，搞定你的TCell！](https://mp.weixin.qq.com/s/F9DzhpnUdb2o_hcd7MNnsA)
+* [全球72位免疫学权威发布T细胞分类与命名新规范](https://mp.weixin.qq.com/s/vRe-zys_OejW-i40QOW39g)
 
 ## 其他
 
