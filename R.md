@@ -558,6 +558,7 @@
 * [五花八门！各种回归分析要怎么实现？](https://mp.weixin.qq.com/s/B0O3Fx61MJu-xy5tU_GO3g)
 * [immunedeconv R 包估算免疫细胞比例--7种免疫浸润分析算法](https://mp.weixin.qq.com/s/JU68auyS3YGYC0TFiHNMNw)
 * [导师以为你知道的常用分析绘图R包](https://mp.weixin.qq.com/s/A_rLDlJ1RLhCrxqhwdry6A)
+* [转录组学 (RNA-seq)|（四）基因差异表达分析：基于DESeq2的详细代码流程](https://mp.weixin.qq.com/s/FfrLeqK8CMOufR-ZUsUWtg)
 
 # R包
 
