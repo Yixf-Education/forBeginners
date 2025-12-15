@@ -365,6 +365,7 @@
 * [合并两张ggplot图](https://mp.weixin.qq.com/s/d34d-Ub2BAX85n5Fw0aOFw?poc_token=HKUQ52ij32BCbDYlxisdbM7u-QCFcnc3moqPzCsL)
 * [导师认为你应该会画的10种科研图表](https://mp.weixin.qq.com/s/7EOM33LUptXVPovpmC_16w)
 * [万里挑一的功能富集结果玫瑰图](https://mp.weixin.qq.com/s/U2r-LjKr72jxQ7K5aKHzBw)
+* [基于ggalign的复杂图2](https://mp.weixin.qq.com/s/Yj1dFM9VqjTBh1QZXxX_Rg)
 
 # Rmarkdown
 
