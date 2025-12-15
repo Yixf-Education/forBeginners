@@ -306,6 +306,7 @@
 * [高效生物信息学科研项目管理](https://mp.weixin.qq.com/s/DxXtwGNpvy593qNGx2Ok1g)
 * [生物信息学中最具争议的研究](https://mp.weixin.qq.com/s/iyX4qE6WgSYNSnjVE6TQ5w)
 * [下载某一条通路的所有基因名字（KEGG）](https://mp.weixin.qq.com/s/sO7v7ZcmNvLwiHR0ZFT_LQ)
+* [GEO、ENA、SRA数据库科普与下载全攻略](https://mp.weixin.qq.com/s/SJRv-rQurwRX9xmLHt3CZg)
 
 ## 基因组坐标系统
 
