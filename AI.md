@@ -224,3 +224,4 @@
 
 * [HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
 * [这大概是我见过最通俗易懂的AI发展历程科普详文了](https://mp.weixin.qq.com/s/hFejZCXex_nw0Nrg-egP0g)
+* [卷积神经网络CNN](https://mp.weixin.qq.com/s/e3X--Adt47w0PMFFylU2Ng)
