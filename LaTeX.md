@@ -102,6 +102,7 @@
 * [我用LaTeX画进度条时踩了坑，直到发现这个“全能工具”](https://mp.weixin.qq.com/s/L_MJ7gAUKy4O_EbuOoNcgg)
 * [建议收藏！GitHub上最全的LaTeX数学绘图与数据可视化模板，论文颜值瞬间拉满！](https://mp.weixin.qq.com/s/9NFQmZsg9kGOLYDjGSVbDQ)
 * [写论文代码太丑？GitHub 官方“神级”字体 Monaspace 终于能用在 LaTeX 里了！](https://mp.weixin.qq.com/s/PfVdd5oSemLHMEi947a27A)
+* [一键切换校徽！全网最强高校定制Beamer模板库，毕业答辩/学术报告必备神器！](https://mp.weixin.qq.com/s/HiSAmd1ARmRar_tmzdfAjw)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
@@ -141,6 +142,7 @@
 * [颠覆传统！LaTeXWriter携“AI审阅”与“毫秒级编译”重塑学术写作，科研效率飙升100%！](https://mp.weixin.qq.com/s/oh0O2oQpougEZBAxYag8NA)
 * [公式截图转代码、一键润色、夜间模式：Overleaf 必备插件 Underleaf 全测评](https://mp.weixin.qq.com/s/kfj6fDPKRFDVe7J5IpUGsg)
 * [LaTeX Typeracer](https://www.typelatex.com/)
+* [LaTeX 科研的 9 大优势 + 7款顶级LaTeX编辑器介绍，碾压 Word 的论文神器推荐](https://mp.weixin.qq.com/s/3RgnmK-wK-uwp05AkKHPBQ)
 
 
 ## 教学
