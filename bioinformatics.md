@@ -521,6 +521,7 @@
 * [富集分析怎么选？GO、KEGG、GSEA、GSVA一次讲透！](https://mp.weixin.qq.com/s/2XDM-wLfpvbd0P3-ICrZcQ)
 * [生物拓展丨分子遗传中的各种“子”](https://mp.weixin.qq.com/s/btCBsdrmgYxpVYUKsqEtig)
 * [利用NCBI查找基因的启动子、5’UTR，3’UTR，CDS，mRNA序列](https://mp.weixin.qq.com/s/BZ8dtLACqvK3q4UfJWQKuQ)
+* [基因结构图解：外显子、内含子、UTR、CDS、ORF 之间到底是什么关系？](https://mp.weixin.qq.com/s/AVAIKEk0o2tEzmyhlRTi2g)
 
 ## 系统课程
 
