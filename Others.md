@@ -97,6 +97,7 @@
 * [GitHub - Atarity/deploy-your-own-saas: List of "only yours" cloud services for everyday needs :black_flag:](https://github.com/Atarity/deploy-your-own-saas)
 * [教授副教授职称答辩PPT模板（高校教师适用）](https://mp.weixin.qq.com/s/-bdWljuB69rb-8Euqom2hQ)
 * [号称全网最大的盗版资源网站合集](https://mp.weixin.qq.com/s/7HusXFzvPyXfGZ7nZTOdzA)
+* [BiblioVista——文献计量分析网页工具|用户指南](https://mp.weixin.qq.com/s/MIZDyTrlYFHb-GswiwU2GA)
 
 ## 统计
 
