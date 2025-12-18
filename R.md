@@ -197,6 +197,7 @@
 * [绘图函数不让你保存到电脑设备（没有人工智能大模型解决不了的bug）](https://mp.weixin.qq.com/s/jHy6enei8vvhGbVZsXjvgQ)
 * [使用rig轻松管理R语言](https://mp.weixin.qq.com/s/ST0qUhXQWoBr8ZKv2JLcXg)
 * [抛弃碎片化，系统生信入门之R：在线电子书籍推荐](https://mp.weixin.qq.com/s/zSgwz_lk6aLd3yHQP10BBA)
+* [使用rig轻松管理R语言](https://mp.weixin.qq.com/s/fMwXThGlmnQHJraI6StaJA)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
