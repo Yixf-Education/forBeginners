@@ -99,6 +99,7 @@
 * [号称全网最大的盗版资源网站合集](https://mp.weixin.qq.com/s/7HusXFzvPyXfGZ7nZTOdzA)
 * [BiblioVista——文献计量分析网页工具|用户指南](https://mp.weixin.qq.com/s/MIZDyTrlYFHb-GswiwU2GA)
 * [文件混乱终结者：用四位数和小数点驯服你的电脑](https://mp.weixin.qq.com/s/s-uN2MQ5AuEmeSJraOygJw)
+* [【工具】用zotero进行文献管理（一）—— 常用插件介绍](https://mp.weixin.qq.com/s/weoRvc7v11WQ592FM_B3Xg)
 
 ## 统计
 
