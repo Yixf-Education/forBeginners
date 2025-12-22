@@ -63,6 +63,8 @@
 * [这些对 LaTeX 的吐槽您有共鸣吗？LaTeX 真让排版变得简单了吗？](https://mp.weixin.qq.com/s/NhTsoq8LGoJe_s8EQzhDNg)
 * [【LaTeX】| LaTeX 入门第九步：长文档高效管理 —— 分文件、多级标题与索引，万字论文也轻松](https://mp.weixin.qq.com/s/zIR8CrBmHjcsuugWTHIk4A)
 * [Morimiue/latex-talk: 哈尔滨工业大学（威海）LaTeX 讲义](https://github.com/Morimiue/latex-talk)
+* [LaTeX 每日一学 · 11 LaTeX 就是控制的艺术](https://mp.weixin.qq.com/s/tPcrjYVo_ri6f_bB84Q_FA)
+* [LaTeX 每日一学 · 10 期，第一个 LaTeX 例子，理解 LaTeX 核心思想](https://mp.weixin.qq.com/s/RK_8EdtxpLXaAdo72whBLg)
 
 ## 宏包
 * [enumitem 宏包中的长度设置](https://mp.weixin.qq.com/s/1x1Q_ucVSN9Ks9wRx1Bk8w)
@@ -143,6 +145,7 @@
 * [公式截图转代码、一键润色、夜间模式：Overleaf 必备插件 Underleaf 全测评](https://mp.weixin.qq.com/s/kfj6fDPKRFDVe7J5IpUGsg)
 * [LaTeX Typeracer](https://www.typelatex.com/)
 * [LaTeX 科研的 9 大优势 + 7款顶级LaTeX编辑器介绍，碾压 Word 的论文神器推荐](https://mp.weixin.qq.com/s/3RgnmK-wK-uwp05AkKHPBQ)
+* [TeXworks 通关指南：快捷键 + 自动补全，LaTeX 写作效率翻倍](https://mp.weixin.qq.com/s/NsOAoLAzj2i0dMGg8V10kw)
 
 
 ## 教学
