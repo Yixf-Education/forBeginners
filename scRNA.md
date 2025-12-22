@@ -201,3 +201,7 @@
 ## 数据集
 
 * [单细胞测序相关数据库汇总](https://mp.weixin.qq.com/s/tDN-KnOhOeoQ3H3NOzV1Lw)
+
+## 工具集
+
+* [**seandavi/awesome-single-cell**](https://github.com/seandavi/awesome-single-cell): Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.
