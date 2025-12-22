@@ -22,6 +22,7 @@
 * [笔记 | 制作基于 markdown 的简易 slides](https://mp.weixin.qq.com/s/7sr7-wWuPRFfow6Fbp0Zag)
 * [腾讯出品！这款 Markdown 神器让你码字效率翻倍，双模式编辑太香了！](https://mp.weixin.qq.com/s/-p2ymoupze5Fuyykz9YbPw)
 * [Markdown编辑器，轻松搞定文档编写](https://mp.weixin.qq.com/s/fdKrTjHL959v238dYA2uww)
+* [Zendor - Markdown Editor](https://zendor.vercel.app/editor)
 
 ## 语法
 * [什么是 Markdown?](http://jingxuan.io/markdown/)
