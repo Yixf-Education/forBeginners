@@ -91,6 +91,9 @@
 * [Nature杂志刊登一篇AI对生信分析影响的文章](https://mp.weixin.qq.com/s/7HoycHJcGnUqdL1pPlHpZg)
 * [人工智能是终结所有泡沫的终极泡沫，它的崩盘路线将是这样的（重磅）](https://mp.weixin.qq.com/s/6qGqY1J9T5Qfn_XOm6xXYA)
 * [仅用七个提示词，三大AI造出《反恐精英》简化版，网友深扒源码：它“偷”了别人的，连原作者的注释都搬过来了](https://mp.weixin.qq.com/s/b7xDmqOJl-zj0IEZR1BM6Q)
+* [和AI聊天后，年轻女子得了精神病，AI还会贴心鼓励她：“你没疯”](https://mp.weixin.qq.com/s/EgGqlJV3-3KGjaY9oYlAaw)
+* [初学者实际上已经无法再进行编码](https://mp.weixin.qq.com/s/h9dp9nHntFT6JcQlgjHoWA)
+* [确诊了，AI 让我们都感染上「不是/而是」综合症](https://mp.weixin.qq.com/s/4lNpPsS6xsGZ1Gxhg0596A)
 
 
 ## 基本使用
