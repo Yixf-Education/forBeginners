@@ -368,6 +368,7 @@
 * [万里挑一的功能富集结果玫瑰图](https://mp.weixin.qq.com/s/U2r-LjKr72jxQ7K5aKHzBw)
 * [基于ggalign的复杂图2](https://mp.weixin.qq.com/s/Yj1dFM9VqjTBh1QZXxX_Rg)
 * [你可能不认识我，但你也许用过我的论文配色](https://mp.weixin.qq.com/s/OPWyAcCMmg69UO1AIKcfMQ)
+* [独属生信人的浪漫：送你一棵特别的圣诞树](https://mp.weixin.qq.com/s/ii-OZxHkc5g0-0w79SoS9Q)
 
 # Rmarkdown
 
