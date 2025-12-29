@@ -433,6 +433,7 @@
 * [《Nature Reviews》官方指南：如何绘制符合投稿要求的专业插图](https://mp.weixin.qq.com/s/w5Wyh6LfImBI9z_j9SdZdw)
 * [满血版 Zotero + Research Rabbit：打造 2025 最强科研文献工作流](https://mp.weixin.qq.com/s/2N-Qix-AdHN0WgoI_5-rpA)
 * [告别文献混乱！9个文献管理工具助你高效管理文献、一键生成参考文献](https://mp.weixin.qq.com/s/77HOI6AF5MHkY6VncJzqxA)
+* [30 亿基金砸向 35 岁以下学者，每人 200 万，不看论文不看背景，专为「异想天开」买单](https://mp.weixin.qq.com/s/JtqjsABk9lZ8fYkBZPPB8Q)
 
 ## 数据集
 
