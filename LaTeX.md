@@ -147,6 +147,8 @@
 * [LaTeX Typeracer](https://www.typelatex.com/)
 * [LaTeX 科研的 9 大优势 + 7款顶级LaTeX编辑器介绍，碾压 Word 的论文神器推荐](https://mp.weixin.qq.com/s/3RgnmK-wK-uwp05AkKHPBQ)
 * [TeXworks 通关指南：快捷键 + 自动补全，LaTeX 写作效率翻倍](https://mp.weixin.qq.com/s/NsOAoLAzj2i0dMGg8V10kw)
+* [Dashboard | Texpile](https://app.texpile.com/home)
+* [Lyra Editor](https://www.lyraeditor.com/)
 
 
 ## 教学
