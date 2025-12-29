@@ -201,6 +201,8 @@
 ## 数据集
 
 * [单细胞测序相关数据库汇总](https://mp.weixin.qq.com/s/tDN-KnOhOeoQ3H3NOzV1Lw)
+* [一篇顶一万篇 | 结直肠癌Bulk差异、单细胞、空转、Bulk生存数据集](https://mp.weixin.qq.com/s/6KxpzqkzM4cU5GokmIjw8Q)
+* [一篇顶一万篇栏目 | 乳腺癌Bulk RNA差异数据集、单细胞转录组、空间转录组、甲基化、生存分析数据集](https://mp.weixin.qq.com/s/KtA5O_sdr2VOrqCR8Bj93g)
 
 ## 工具集
 
