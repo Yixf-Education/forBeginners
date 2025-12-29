@@ -369,6 +369,8 @@
 * [基于ggalign的复杂图2](https://mp.weixin.qq.com/s/Yj1dFM9VqjTBh1QZXxX_Rg)
 * [你可能不认识我，但你也许用过我的论文配色](https://mp.weixin.qq.com/s/OPWyAcCMmg69UO1AIKcfMQ)
 * [独属生信人的浪漫：送你一棵特别的圣诞树](https://mp.weixin.qq.com/s/ii-OZxHkc5g0-0w79SoS9Q)
+* [用 R 语言把“屎”画出来：数据可视化的极端案例](https://mp.weixin.qq.com/s/PzeOFPNeqPxceitK-2PDBQ)
+* [R画的shit都比较好看！](https://mp.weixin.qq.com/s/LoetuXdzAFuOPA9qb_vc5A)
 
 # Rmarkdown
 
