@@ -198,6 +198,7 @@
 * [统计学入门](https://mp.weixin.qq.com/s/iAYh8oVxRE8bHtEE_QcHTw)
 * [爱教材 | 不容错过的统计学宝典 ——《Elementary Statistics》](https://mp.weixin.qq.com/s/5SFj7Kt0qUUa5Fw_sYgW5A)
 * [终于把统计学中的抽样方法搞懂了！！](https://mp.weixin.qq.com/s/cKlr15w9rwqR0T9PGeDiag)
+* [为什么 30 被当作大样本和小样本的分界线？](https://mp.weixin.qq.com/s/ZaHDkDIFczSzV7urhxvjvg)
 
 ## 科研
 
