@@ -65,6 +65,7 @@
 * [Morimiue/latex-talk: 哈尔滨工业大学（威海）LaTeX 讲义](https://github.com/Morimiue/latex-talk)
 * [LaTeX 每日一学 · 11 LaTeX 就是控制的艺术](https://mp.weixin.qq.com/s/tPcrjYVo_ri6f_bB84Q_FA)
 * [LaTeX 每日一学 · 10 期，第一个 LaTeX 例子，理解 LaTeX 核心思想](https://mp.weixin.qq.com/s/RK_8EdtxpLXaAdo72whBLg)
+* [LaTeX 每日一学 12 之 宏包与类 到底是个啥呀？百度，google Ai 说得都看不懂](https://mp.weixin.qq.com/s/HKS5d4emGlU8-rU3U_Ctcw)
 
 ## 宏包
 * [enumitem 宏包中的长度设置](https://mp.weixin.qq.com/s/1x1Q_ucVSN9Ks9wRx1Bk8w)
