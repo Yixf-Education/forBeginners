@@ -63,6 +63,10 @@
 * [四大AI编程神器（Cursor、阿里Qoder、字节Trae、腾讯CodeBuddy）的优缺点、费用](https://mp.weixin.qq.com/s/uMT3Pfk2Fu-lofUBn6vHAw)
 * [高效科研工具分享——geogpt](https://mp.weixin.qq.com/s/3w74IEhULbnpzdzbUIOUEw)
 * [投稿前的最强辅助：Stanford Agentic Reviewer](https://mp.weixin.qq.com/s/stAtW-jWfmM-m0WhNpDXnw)
+* [Claude code 保姆级入门教程，不用学命令行（2025.12 月更新）](https://mp.weixin.qq.com/s/27Ey5_XlHD_2RMII6Tp5HA?poc_token=HJJuVGmjRGafhs31P0y3zFmxYFZfbs7HGknQpBMO)
+* [DeepSeek R1 本地部署实战教程来了，带可视化界面，非常详细！](https://mp.weixin.qq.com/s/5gAIL0EsWpa1Vjl-Z51wcw)
+* [DeepSeek R1 + Ollama + Cherry Studio 实现本地化部署 + 可视化访问，真的太香了！](https://mp.weixin.qq.com/s/1BPbnOxnWkubua2Ta69XNA)
+* [DeepSeek-R1 本地部署配置清单，满血版配置逆天了。。。](https://mp.weixin.qq.com/s/mWo8Ix_gSFfPpPmva9hmOA)
 
 
 ## 变革思考
