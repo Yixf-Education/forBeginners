@@ -437,6 +437,7 @@
 * [30 亿基金砸向 35 岁以下学者，每人 200 万，不看论文不看背景，专为「异想天开」买单](https://mp.weixin.qq.com/s/JtqjsABk9lZ8fYkBZPPB8Q)
 * [中科院分区，如何改变学术游戏规则？](https://mp.weixin.qq.com/s/mkJq7c1i_N7jALxcNq_OCw)
 * [文献管理软件Zotero进阶必备：这7款插件神器，让你的科研效率飙升](https://mp.weixin.qq.com/s/ri7klBXYYxIW1gz382KK5w)
+* [【工具】zotero better notes插件指南：构建你的专属文献笔记系统](https://mp.weixin.qq.com/s/kOhjl-VquD0jPgLKVvzQyw)
 
 ## 数据集
 
