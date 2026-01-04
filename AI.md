@@ -121,6 +121,8 @@
 * [借助AI一键下载网页中的所有数据，如此简单！](https://mp.weixin.qq.com/s/q70mgtGzzoubk_93QMJA2A)
 * [DeepSeek-0528生物信息能力测试](https://mp.weixin.qq.com/s/zPv2oJgK8glUsCYiD1adMA)
 * [使用Gemini的生图模型制作职业照](https://mp.weixin.qq.com/s/VSumDO1dh4R7y3kC9pB5gg)
+* [Claude Code 安装、国内使用、权限配置、插件使用、可视化配置、生态工具等](https://mp.weixin.qq.com/s/vunXvRZteU10cxlIjZ1cUw)
+* [Claude Code + Minimax2.1初体验](https://mp.weixin.qq.com/s/R1nolgEHVc_tlsbf6FAdLQ)
 
 
 
