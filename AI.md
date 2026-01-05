@@ -139,6 +139,7 @@
 * [AI快要成精了，居然能做RNAseq了](https://mp.weixin.qq.com/s/_sfErkp43Gli2zCRUNx-7w)
 * [现在写日常代码基本上都靠人工智能大模型啦](https://mp.weixin.qq.com/s/rH3pyEljdbVCEx-c51qzqw)
 * [大模型帮我读取不规则的突变信息](https://mp.weixin.qq.com/s/gBL0b5QMHf4Ad9TOkX0oUA)
+* [Claude Code终于有了可视化界面](https://mp.weixin.qq.com/s/kYS2shbvSh8YWAM_Egoiyg)
 
 
 ## 论文课题
