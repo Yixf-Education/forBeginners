@@ -67,6 +67,7 @@
 * [DeepSeek R1 本地部署实战教程来了，带可视化界面，非常详细！](https://mp.weixin.qq.com/s/5gAIL0EsWpa1Vjl-Z51wcw)
 * [DeepSeek R1 + Ollama + Cherry Studio 实现本地化部署 + 可视化访问，真的太香了！](https://mp.weixin.qq.com/s/1BPbnOxnWkubua2Ta69XNA)
 * [DeepSeek-R1 本地部署配置清单，满血版配置逆天了。。。](https://mp.weixin.qq.com/s/mWo8Ix_gSFfPpPmva9hmOA)
+* [AI使用的一些心得，以及我现在的工作环境](https://mp.weixin.qq.com/s/F2UyXynlFfw9Qp6CG6rZoA)
 
 
 ## 变革思考
@@ -123,6 +124,7 @@
 * [使用Gemini的生图模型制作职业照](https://mp.weixin.qq.com/s/VSumDO1dh4R7y3kC9pB5gg)
 * [Claude Code 安装、国内使用、权限配置、插件使用、可视化配置、生态工具等](https://mp.weixin.qq.com/s/vunXvRZteU10cxlIjZ1cUw)
 * [Claude Code + Minimax2.1初体验](https://mp.weixin.qq.com/s/R1nolgEHVc_tlsbf6FAdLQ)
+* [别傻读注水AI论文！NoteBookLM又帮我节省几根头发](https://mp.weixin.qq.com/s/bJcHHKNhkERHsTV-QOKMjw)
 
 
 
