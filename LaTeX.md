@@ -108,6 +108,7 @@
 * [一键切换校徽！全网最强高校定制Beamer模板库，毕业答辩/学术报告必备神器！](https://mp.weixin.qq.com/s/HiSAmd1ARmRar_tmzdfAjw)
 * [还为 tcolorbox 的复杂参数头疼？CreationBoites 助你一键生成精美文本框！](https://mp.weixin.qq.com/s/J1dbSJNPjiWE1mLpVtzalQ)
 * [科研人狂喜！这款LaTeX神器一键搞定AI使用披露，14种语言适配+标准化模板直接套用](https://mp.weixin.qq.com/s/fJinR89Bnmy-Gkj4CJipXA)
+* [2026 国家自然基金项目 非官方LaTeX 模板更新了](https://mp.weixin.qq.com/s/xtZ3v9sNrkeU9UF_BwWcdw)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
