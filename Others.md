@@ -176,6 +176,7 @@
 * [一种适用于小样本量组间统计学检验的神器](https://mp.weixin.qq.com/s/skmI-eB9PsxJm6w6M1hE_A)
 * [一篇文章看懂机器学习算法XGBoost+SHAP的原理、SCI案例、0代码实现教程](https://mp.weixin.qq.com/s/Dfu9BE7APkLhJ8WzvzieGQ)
 * [p值的真相：为什么假设检验只说拒绝，不提接受？](https://mp.weixin.qq.com/s/WfXmHDdC2-1fRNSXD4pnxQ)
+* [【转载】为什么“统计显著性”毫无意义](https://mp.weixin.qq.com/s/Cp1WrBqSupqVjWXwDFrUmw)
 
 ## 统计学入门
 
