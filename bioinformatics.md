@@ -610,3 +610,4 @@
 * [Westlake BioBank for Chinese](https://wbbc.westlake.edu.cn/index.html)
 * [首个中国开源三万人多组学样本库：西湖生物样本库数据批量下载详细步骤，附完整代码](https://mp.weixin.qq.com/s/B4432pH8hG8G7aNGvfJsbw)
 * [西湖生物样本库（WBBC）数据批量下载指南](https://mp.weixin.qq.com/s/0dawm5im3WsBTnRZr3cOMg)
+* [史上最全的肠道菌群研究数据库，建议收藏！|微生物专题](https://mp.weixin.qq.com/s/6PKd7KG34B63leUJSz49kw)
