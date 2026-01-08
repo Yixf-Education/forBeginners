@@ -101,6 +101,7 @@
 * [文件混乱终结者：用四位数和小数点驯服你的电脑](https://mp.weixin.qq.com/s/s-uN2MQ5AuEmeSJraOygJw)
 * [【工具】用zotero进行文献管理（一）—— 常用插件介绍](https://mp.weixin.qq.com/s/weoRvc7v11WQ592FM_B3Xg)
 * [信息搜索术，一个互联网必备技能](https://mp.weixin.qq.com/s/M8yT7NcBc4iElSESnrkFQQ)
+* [**zhaoolee/ChromeAppHeroes**](https://github.com/zhaoolee/ChromeAppHeroes): 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 
 ## 统计
 
