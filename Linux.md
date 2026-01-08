@@ -76,6 +76,7 @@
 * [**veltman/clmystery: A command-line murder mystery**](https://github.com/veltman/clmystery)
 * [一图看懂Linux 根目录功能全览！](https://mp.weixin.qq.com/s/PAWR0IaxxDeOWPqXSm9dLQ)
 * [Linux · 第一章《一切皆是文件：看懂这件事，你才真正踏进 Linux》](https://mp.weixin.qq.com/s/aMBF2KJgp3ATsrwUZRLyFA)
+* [在Linux中的一个目录能存放多少文件？](https://mp.weixin.qq.com/s/wKlZokgobjGwGz12gMqjhA)
 
 ## 杂烩
 * [2015年最弱的密码和最强的密码](https://linux.cn/article-6918-1.html)
