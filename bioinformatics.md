@@ -311,6 +311,7 @@
 * [如何查找一个基因的所有转录本？](https://mp.weixin.qq.com/s/BS5xRE9naglTF83aL92uHA)
 * [别让“批次效应”毁了你的数据！导师可能都没讲透的概念](https://mp.weixin.qq.com/s/wuuXOFLGThugYKFTNNhHSQ)
 * [使用python一键下载网页中的全部数据！](https://mp.weixin.qq.com/s/t5G0rNZhZrBZce8aJevWpg)
+* [参考基因组序列下载方法总结](https://mp.weixin.qq.com/s/O_lm6TKVD-67ENyWnnoQmQ)
 
 ## 基因组坐标系统
 
