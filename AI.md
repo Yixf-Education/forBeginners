@@ -68,6 +68,8 @@
 * [DeepSeek R1 + Ollama + Cherry Studio 实现本地化部署 + 可视化访问，真的太香了！](https://mp.weixin.qq.com/s/1BPbnOxnWkubua2Ta69XNA)
 * [DeepSeek-R1 本地部署配置清单，满血版配置逆天了。。。](https://mp.weixin.qq.com/s/mWo8Ix_gSFfPpPmva9hmOA)
 * [AI使用的一些心得，以及我现在的工作环境](https://mp.weixin.qq.com/s/F2UyXynlFfw9Qp6CG6rZoA)
+* [9 个 yyds 的 AI 控制电脑 GitHub 开源项目。](https://mp.weixin.qq.com/s/BQ-WbK1KoHPxFbpiIUccGg)
+* [5 个很火火的个人 AI 知识库 GitHub 项目，收藏一波。](https://mp.weixin.qq.com/s/hTyteY9QbaLvrbJqAXSjkQ)
 
 
 ## 变革思考
@@ -99,6 +101,7 @@
 * [和AI聊天后，年轻女子得了精神病，AI还会贴心鼓励她：“你没疯”](https://mp.weixin.qq.com/s/EgGqlJV3-3KGjaY9oYlAaw)
 * [初学者实际上已经无法再进行编码](https://mp.weixin.qq.com/s/h9dp9nHntFT6JcQlgjHoWA)
 * [确诊了，AI 让我们都感染上「不是/而是」综合症](https://mp.weixin.qq.com/s/4lNpPsS6xsGZ1Gxhg0596A)
+* [人均不到3元！被AI作弊逼急的教授玩“邪修”：“花105元，给全班36人办了场AI口试”](https://mp.weixin.qq.com/s/3bAFzAqb_TXZch4idBN_9A)
 
 
 ## 基本使用
@@ -125,6 +128,7 @@
 * [Claude Code 安装、国内使用、权限配置、插件使用、可视化配置、生态工具等](https://mp.weixin.qq.com/s/vunXvRZteU10cxlIjZ1cUw)
 * [Claude Code + Minimax2.1初体验](https://mp.weixin.qq.com/s/R1nolgEHVc_tlsbf6FAdLQ)
 * [别傻读注水AI论文！NoteBookLM又帮我节省几根头发](https://mp.weixin.qq.com/s/bJcHHKNhkERHsTV-QOKMjw)
+* [从“打工人”到“指挥官”：AI 时代的终端生存指南](https://mp.weixin.qq.com/s/7WfOXPwjhelFi_jgHODWaQ)
 
 
 
