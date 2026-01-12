@@ -58,6 +58,7 @@
 ## 基本知识
 
 * [**Single-cell best practices — Single-cell best practices**](https://www.sc-best-practices.org/preamble.html)
+* [**Orchestrating Single-Cell Analysis with Bioconductor**](https://bioconductor.org/books/release/OSCA/)
 * [hbctraining/scRNA-seq_online](https://github.com/hbctraining/scRNA-seq_online/tree/master): [Single-cell RNA-seq data analysis workshop](https://github.com/hbctraining/scRNA-seq_online/tree/master#single-cell-rna-seq-data-analysis-workshop)
 * [单细胞测序 Q&A 之数据预处理](https://mp.weixin.qq.com/s/kuUbMwL_mWYeEzif_vi1zg)
 * [单细胞笔记系列 | 1 - 单细胞测序简介](https://mp.weixin.qq.com/s/lh6rdV5BwHeYAhkBF2EOXw)
@@ -90,6 +91,7 @@
 
 ## 空间转录组
 
+* [**Orchestrating Spatial Transcriptomics Analysis with Bioconductor**](https://bioconductor.org/books/release/OSTA/)
 * [空间转录组这么火，何不一起入个门](https://mp.weixin.qq.com/s/WhyjLu5YJ-nHSyZ1bB7jEw)
 * [Nature Methods | 空间转录组与单细胞转录组整合分析工具性能测试 - 知乎](https://zhuanlan.zhihu.com/p/521011013)
 * [空间转录组分析工具篇 4：stLearn（上）](https://mp.weixin.qq.com/s/ziRCUYWHAN_isoZryYMyIg)
