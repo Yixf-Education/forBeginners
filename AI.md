@@ -70,6 +70,7 @@
 * [AI使用的一些心得，以及我现在的工作环境](https://mp.weixin.qq.com/s/F2UyXynlFfw9Qp6CG6rZoA)
 * [9 个 yyds 的 AI 控制电脑 GitHub 开源项目。](https://mp.weixin.qq.com/s/BQ-WbK1KoHPxFbpiIUccGg)
 * [5 个很火火的个人 AI 知识库 GitHub 项目，收藏一波。](https://mp.weixin.qq.com/s/hTyteY9QbaLvrbJqAXSjkQ)
+* [Kiro：有了Kiro，还用什么Cursor](https://mp.weixin.qq.com/s/3vgQ7SkmZBdgFuu9ib8Ufw)
 
 
 ## 变革思考
