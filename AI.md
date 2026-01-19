@@ -202,6 +202,7 @@
 * [EvoPresent：一键美化您的学术报告](https://mp.weixin.qq.com/s/A5dkmLVmcpD_8DaPhO7bwg)
 * [后悔没早点发现这些DeepSeek润色指令！](https://mp.weixin.qq.com/s/t4ev3yHcmyfJ_vIE4DEEaQ)
 * [告别手动查文献！用Claude Haiku 4.5一键帮你检索+插入参考文献，科研效率直接翻倍（附实操演示+AI提示词）](https://mp.weixin.qq.com/s/HKSgSteDkbgcVxVIPRlz4A)
+* [数据不外泄：一个专门写国自然的AI工具](https://mp.weixin.qq.com/s/3_tglI9vHeLVLt4c8UwmYg)
 
 
 ## 分析绘图
