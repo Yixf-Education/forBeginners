@@ -152,6 +152,7 @@
 * [TeXworks 通关指南：快捷键 + 自动补全，LaTeX 写作效率翻倍](https://mp.weixin.qq.com/s/NsOAoLAzj2i0dMGg8V10kw)
 * [Dashboard | Texpile](https://app.texpile.com/home)
 * [Lyra Editor](https://www.lyraeditor.com/)
+* [比手动复制快 10 倍，这款 QuickBib 让你 1 秒搞定 BibTeX，写论文快到飞起！](https://mp.weixin.qq.com/s/aWmmpP8muALkOscEy89Dlw)
 
 
 ## 教学
