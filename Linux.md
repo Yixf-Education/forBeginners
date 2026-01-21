@@ -415,6 +415,7 @@
 * [SSH一断，代码就白跑了？快试试这个Linux“保活”神技！](https://mp.weixin.qq.com/s/VZg4RTQoSL-Qg9Igk27-mg)
 * [用上shell-GPT，我们已经不需要懂linux命令了，已经可以用自然语言操作linux了](https://mp.weixin.qq.com/s/ZCVmflUW_qeyE3d9gwxLXQ)
 * [随手甩几个有意思的Linux脚本来看看](https://mp.weixin.qq.com/s/ry9bFngojOg_OCOje6xaiQ)
+* [好用还好看的命令行工具，文本图形界面](https://mp.weixin.qq.com/s/wEvOiJjgwCThQLKUnmDKiQ)
 
 ## 运维
 
