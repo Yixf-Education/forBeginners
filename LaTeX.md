@@ -153,6 +153,7 @@
 * [Dashboard | Texpile](https://app.texpile.com/home)
 * [Lyra Editor](https://www.lyraeditor.com/)
 * [比手动复制快 10 倍，这款 QuickBib 让你 1 秒搞定 BibTeX，写论文快到飞起！](https://mp.weixin.qq.com/s/aWmmpP8muALkOscEy89Dlw)
+* [别再手动整理PDF笔记了！这个开源神工具，一键把高亮变成Markdown！](https://mp.weixin.qq.com/s/caJERUOFxGIABWioly1I7Q)
 
 
 ## 教学
