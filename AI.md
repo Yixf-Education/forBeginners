@@ -131,6 +131,7 @@
 * [Claude Code + Minimax2.1初体验](https://mp.weixin.qq.com/s/R1nolgEHVc_tlsbf6FAdLQ)
 * [别傻读注水AI论文！NoteBookLM又帮我节省几根头发](https://mp.weixin.qq.com/s/bJcHHKNhkERHsTV-QOKMjw)
 * [从“打工人”到“指挥官”：AI 时代的终端生存指南](https://mp.weixin.qq.com/s/7WfOXPwjhelFi_jgHODWaQ)
+* [你真的会使用AI吗？10种AI的正确打开方式](https://mp.weixin.qq.com/s/yOV9ZDHS3y3KKROtXilWYA)
 
 
 
@@ -204,6 +205,7 @@
 * [后悔没早点发现这些DeepSeek润色指令！](https://mp.weixin.qq.com/s/t4ev3yHcmyfJ_vIE4DEEaQ)
 * [告别手动查文献！用Claude Haiku 4.5一键帮你检索+插入参考文献，科研效率直接翻倍（附实操演示+AI提示词）](https://mp.weixin.qq.com/s/HKSgSteDkbgcVxVIPRlz4A)
 * [数据不外泄：一个专门写国自然的AI工具](https://mp.weixin.qq.com/s/3_tglI9vHeLVLt4c8UwmYg)
+* [只需提问，AI 完成实验？Scitex 曝光：从数据生成到论文写作、评审发表的全自动时代来了！](https://mp.weixin.qq.com/s/6cebOUmqDAnulLug0L7V2A)
 
 
 ## 分析绘图
@@ -232,6 +234,7 @@
 * [科研人必备！用极客侧边栏轻松绘制论文Graphical Abstract](https://mp.weixin.qq.com/s/Rn2aK2uoGvrn2kclxRreJA)
 * [Gemini 3解决ngs全流程数据分析（生信分析进化到我都不认识了）](https://mp.weixin.qq.com/s/u-wSyWpvJ2drYLL6p046ew)
 * [让AI来解读富集分析结果](https://mp.weixin.qq.com/s/NqXXyQgU3DfZzW25OOsevA)
+* [xiayh0107/aisdk: AI SDK for R - Unified Interface for AI Model Providers](https://github.com/xiayh0107/aisdk)
 
 ## 生物模型
 
