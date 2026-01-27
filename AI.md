@@ -105,6 +105,7 @@
 * [初学者实际上已经无法再进行编码](https://mp.weixin.qq.com/s/h9dp9nHntFT6JcQlgjHoWA)
 * [确诊了，AI 让我们都感染上「不是/而是」综合症](https://mp.weixin.qq.com/s/4lNpPsS6xsGZ1Gxhg0596A)
 * [人均不到3元！被AI作弊逼急的教授玩“邪修”：“花105元，给全班36人办了场AI口试”](https://mp.weixin.qq.com/s/3bAFzAqb_TXZch4idBN_9A)
+* [翻译：科学家如何利用 Claude 加速研究与发现](https://mp.weixin.qq.com/s/RWnsgLNQ8oyGmbUrEjSnvw)
 
 
 ## 基本使用
