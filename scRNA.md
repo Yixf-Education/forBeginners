@@ -88,6 +88,7 @@
 * [从装修的角度来看转录组技术](https://mp.weixin.qq.com/s/syqt2DieFT7dGpXT5Xg9LA)
 * [空间转录组共定位分析应用思路](https://mp.weixin.qq.com/s/h27SPdi3bsGw1v2xK3HNBg)
 * [单细胞测序数据分析标准流程详解](https://mp.weixin.qq.com/s/xLyrYAZKndGDG7aBkPW72A)
+* [SingleR：单细胞注释界的“自动导航仪”](https://mp.weixin.qq.com/s/zV2luxYZKvVqs8uwGJ-6-A)
 
 ## 空间转录组
 
