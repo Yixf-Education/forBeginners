@@ -72,6 +72,7 @@
 * [5 个很火火的个人 AI 知识库 GitHub 项目，收藏一波。](https://mp.weixin.qq.com/s/hTyteY9QbaLvrbJqAXSjkQ)
 * [Kiro：有了Kiro，还用什么Cursor](https://mp.weixin.qq.com/s/3vgQ7SkmZBdgFuu9ib8Ufw)
 * [无需联网，这款超级写作智能体，开源了！](https://mp.weixin.qq.com/s/9BCmXyYWvYJnP_f-t9wUSg)
+* [不用VPN，国内也能稳定使用了！](https://mp.weixin.qq.com/s/I9abyMOlSvqTPj9lltmw2A)
 
 
 ## 变革思考
@@ -149,6 +150,7 @@
 * [现在写日常代码基本上都靠人工智能大模型啦](https://mp.weixin.qq.com/s/rH3pyEljdbVCEx-c51qzqw)
 * [大模型帮我读取不规则的突变信息](https://mp.weixin.qq.com/s/gBL0b5QMHf4Ad9TOkX0oUA)
 * [Claude Code终于有了可视化界面](https://mp.weixin.qq.com/s/kYS2shbvSh8YWAM_Egoiyg)
+* [替代Claude Code，国内首款支持Skills的编程助手CodeBuddy Code，第一手测评来了！](https://mp.weixin.qq.com/s/TcdTqUau8z4P6LAV78gDFA)
 
 
 ## 论文课题
@@ -206,6 +208,9 @@
 * [告别手动查文献！用Claude Haiku 4.5一键帮你检索+插入参考文献，科研效率直接翻倍（附实操演示+AI提示词）](https://mp.weixin.qq.com/s/HKSgSteDkbgcVxVIPRlz4A)
 * [数据不外泄：一个专门写国自然的AI工具](https://mp.weixin.qq.com/s/3_tglI9vHeLVLt4c8UwmYg)
 * [只需提问，AI 完成实验？Scitex 曝光：从数据生成到论文写作、评审发表的全自动时代来了！](https://mp.weixin.qq.com/s/6cebOUmqDAnulLug0L7V2A)
+* [震惊！Nature Methods 的 AI 细胞注释，Prompt 竟然只有一句话？](https://mp.weixin.qq.com/s/DhgBezaaVjZopDN6AaZYcQ)
+* [手搓一个Agent: BioLitKG-生信文献分析神器,让AI帮你读文献!](https://mp.weixin.qq.com/s?__biz=Mzk1NzYxOTIwMg==&mid=2247483888&idx=1&sn=8be6daa278e3bac346b323857c3b7f88&scene=21&poc_token=HNsCeGmjkiytRtCAJmqpVPOGfuZSsHq18UXiKEod)
+* [BioWorkflow：用AI一键提取论文中的完整生信分析流程](https://mp.weixin.qq.com/s/Qoch-AkMADjeR6RrZA83iQ)
 
 
 ## 分析绘图
