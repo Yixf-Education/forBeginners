@@ -373,6 +373,7 @@
 * [独属生信人的浪漫：送你一棵特别的圣诞树](https://mp.weixin.qq.com/s/ii-OZxHkc5g0-0w79SoS9Q)
 * [用 R 语言把“屎”画出来：数据可视化的极端案例](https://mp.weixin.qq.com/s/PzeOFPNeqPxceitK-2PDBQ)
 * [R画的shit都比较好看！](https://mp.weixin.qq.com/s/LoetuXdzAFuOPA9qb_vc5A)
+* [拯救老土的热图，99套配色大全来了](https://mp.weixin.qq.com/s/fr0lmBfrnacV-K6e3_WMUw)
 
 # Rmarkdown
 
