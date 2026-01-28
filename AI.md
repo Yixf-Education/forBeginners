@@ -73,6 +73,8 @@
 * [Kiro：有了Kiro，还用什么Cursor](https://mp.weixin.qq.com/s/3vgQ7SkmZBdgFuu9ib8Ufw)
 * [无需联网，这款超级写作智能体，开源了！](https://mp.weixin.qq.com/s/9BCmXyYWvYJnP_f-t9wUSg)
 * [不用VPN，国内也能稳定使用了！](https://mp.weixin.qq.com/s/I9abyMOlSvqTPj9lltmw2A)
+* [2026年， 我使用最多的13款AI工具](https://mp.weixin.qq.com/s/d9vgpB-DeYmdbjfvKiunMg)
+* [挖到绝绝子！3 个能打的 GitHub 开源项目，效率直接拉满](https://mp.weixin.qq.com/s/3N4hHgkZiZkEMceBMP-gig)
 
 
 ## 变革思考
