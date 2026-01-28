@@ -137,6 +137,7 @@
 * [别傻读注水AI论文！NoteBookLM又帮我节省几根头发](https://mp.weixin.qq.com/s/bJcHHKNhkERHsTV-QOKMjw)
 * [从“打工人”到“指挥官”：AI 时代的终端生存指南](https://mp.weixin.qq.com/s/7WfOXPwjhelFi_jgHODWaQ)
 * [你真的会使用AI吗？10种AI的正确打开方式](https://mp.weixin.qq.com/s/yOV9ZDHS3y3KKROtXilWYA)
+* [**别再像聊天一样写代码了！掌握CO-STAR框架，让AI成你的R语言顶尖助手**](https://mp.weixin.qq.com/s/yC4kT91kSLCcwH0wXdMJ6Q)
 
 
 
