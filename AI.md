@@ -75,6 +75,11 @@
 * [不用VPN，国内也能稳定使用了！](https://mp.weixin.qq.com/s/I9abyMOlSvqTPj9lltmw2A)
 * [2026年， 我使用最多的13款AI工具](https://mp.weixin.qq.com/s/d9vgpB-DeYmdbjfvKiunMg)
 * [挖到绝绝子！3 个能打的 GitHub 开源项目，效率直接拉满](https://mp.weixin.qq.com/s/3N4hHgkZiZkEMceBMP-gig)
+* [一键把论文变PPT！港大团队开源神器 Paper2Slides，科研人终于不用熬夜做汇报了！](https://mp.weixin.qq.com/s/FjXS6HLnbUlGmxdvaJzKew)
+* [「一键生成」的学术PPT神器：Paper2Slides](https://mp.weixin.qq.com/s/9lh5ZjA1zY3C1molmOtQOQ)
+* [告别 Claude/GPT 订阅费！DeepSeek + ellmer：打造 R 程序员的最强本地大脑](https://mp.weixin.qq.com/s/Z_HuuzVGpp2wr_FrBgPSpA)
+* [编程新王 Kimi K2.5，审美简直逆天！](https://mp.weixin.qq.com/s/ZI2dWLCqoLsHd4Tyj-W_lA)
+* [在RStudio中使用GitHub Copilot：代码自动生成，从此告别手敲！](https://mp.weixin.qq.com/s/wERVRp2cbGFC2HAvMKbPRA)
 
 
 ## 变革思考
