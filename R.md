@@ -570,6 +570,7 @@
 * [转录组学 (RNA-seq)|（四）基因差异表达分析：基于DESeq2的详细代码流程](https://mp.weixin.qq.com/s/FfrLeqK8CMOufR-ZUsUWtg)
 * [RNA-seq差异表达分析教程（三）：结果导出与高级技巧](https://mp.weixin.qq.com/s/a1DYfjuMQIAv1GBFvH4UHg)
 * [23种免疫评分一键计算！tigeR包让Biomarker评估飞起来](https://mp.weixin.qq.com/s/tXAo4KGWSis5wyz9GLnPDw)
+* [如何获取KEGG数据库中与代谢相关的全部基因呢？](https://mp.weixin.qq.com/s/SmKglz4EW-Ig0VPBhpom1g)
 
 # R包
 
