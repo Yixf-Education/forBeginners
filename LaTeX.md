@@ -154,6 +154,8 @@
 * [Lyra Editor](https://www.lyraeditor.com/)
 * [比手动复制快 10 倍，这款 QuickBib 让你 1 秒搞定 BibTeX，写论文快到飞起！](https://mp.weixin.qq.com/s/aWmmpP8muALkOscEy89Dlw)
 * [别再手动整理PDF笔记了！这个开源神工具，一键把高亮变成Markdown！](https://mp.weixin.qq.com/s/caJERUOFxGIABWioly1I7Q)
+* [不只有 OpenAi 的 Prism，一个新平台 Bibby AI 居然把论文润色 + 查重 + LaTeX 自动排版几大功能合体了](https://mp.weixin.qq.com/s/FikAgisKntBy-zQ--4YLfg)
+* 
 
 
 ## 教学

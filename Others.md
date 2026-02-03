@@ -466,5 +466,10 @@
 * [Adobe Illustrator基础功能汇总篇](https://mp.weixin.qq.com/s/9UpRLQRmUiCvBTblMq7E5Q)
 * [Adobe Illustrator基础功能介绍](https://mp.weixin.qq.com/s/kpzdw92kFz83mcgG7CxtsQ)
 
+## NSFC
+
+* [2026 国自然申请书官方模板全解析 （文末免费下载模板）](https://mp.weixin.qq.com/s?src=11&timestamp=1770106156&ver=6519&signature=Z6l1KsY-pws288L1isjh3b9iNQySKpWnUVt2WnXKRiWPp1MdrpBsBQwn74bUzknWGPLO6jC04UtkSGR4k4N3F1Z-PIJQHcSU-CYEAR0IUN7KMA4zCwR9BzvI4x6bi6aT&new=1)
+* [从“无上限”到30页：2026国自然申请书改版全解读，本子撰写模板参考！](https://mp.weixin.qq.com/s?src=11&timestamp=1770106156&ver=6519&signature=1xhZbx2tbaAMD3e5kUTDdQej9yH5Ps1qUVPE1GqVM3toLOdcfgtEbK-w11RA9ixZGBGDfM06iOknT9Rwntm8*vvDA57EuatRVob1TxwEmvhr9GkDUhSn*GisDV3udXlX&new=1)
+
 
 
