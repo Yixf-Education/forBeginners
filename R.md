@@ -374,6 +374,7 @@
 * [用 R 语言把“屎”画出来：数据可视化的极端案例](https://mp.weixin.qq.com/s/PzeOFPNeqPxceitK-2PDBQ)
 * [R画的shit都比较好看！](https://mp.weixin.qq.com/s/LoetuXdzAFuOPA9qb_vc5A)
 * [拯救老土的热图，99套配色大全来了](https://mp.weixin.qq.com/s/fr0lmBfrnacV-K6e3_WMUw)
+* [如何使用ggplot2绘小提琴图、热图、散点图？](https://mp.weixin.qq.com/s/XF4fYIqNDdeqeBKHmgqp8A)
 
 # Rmarkdown
 
