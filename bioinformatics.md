@@ -313,6 +313,8 @@
 * [别让“批次效应”毁了你的数据！导师可能都没讲透的概念](https://mp.weixin.qq.com/s/wuuXOFLGThugYKFTNNhHSQ)
 * [使用python一键下载网页中的全部数据！](https://mp.weixin.qq.com/s/t5G0rNZhZrBZce8aJevWpg)
 * [参考基因组序列下载方法总结](https://mp.weixin.qq.com/s/O_lm6TKVD-67ENyWnnoQmQ)
+* [生物信息分析FAQ（一）](https://mp.weixin.qq.com/s/xFC0A4sYerTopN8b-z0blw)
+* [生物信息分析FAQ（二）](https://mp.weixin.qq.com/s/Ujv_WvtJQHv8p9dTTvOQRQ)
 
 ## 基因组坐标系统
 
