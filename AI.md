@@ -80,6 +80,7 @@
 * [告别 Claude/GPT 订阅费！DeepSeek + ellmer：打造 R 程序员的最强本地大脑](https://mp.weixin.qq.com/s/Z_HuuzVGpp2wr_FrBgPSpA)
 * [编程新王 Kimi K2.5，审美简直逆天！](https://mp.weixin.qq.com/s/ZI2dWLCqoLsHd4Tyj-W_lA)
 * [在RStudio中使用GitHub Copilot：代码自动生成，从此告别手敲！](https://mp.weixin.qq.com/s/wERVRp2cbGFC2HAvMKbPRA)
+* [火遍全网的Clawdbot，保姆级教程来了！](https://mp.weixin.qq.com/s/r6M0pGB7G-2-1H4SKTBk6w?poc_token=HICpgWmjvF_J6tUbuAh6rDCKUH4ZP0wCzFQ0oiNG)
 
 
 ## 变革思考
@@ -223,6 +224,7 @@
 * [BioWorkflow：用AI一键提取论文中的完整生信分析流程](https://mp.weixin.qq.com/s/Qoch-AkMADjeR6RrZA83iQ)
 * [AI生物学基础设施——HumanBase！6 万个组学实验撑起的 AI 平台！](https://mp.weixin.qq.com/s/S2bDsLuTpqbRwCugttVDUQ)
 * [Vibe Researching必备的科研MCP和Skills，实现10倍学术产出](https://mp.weixin.qq.com/s/TM_gi4JpEpZZCGnX9jZ84Q)
+* [6万个数据集训练出来的基因组分析平台，Nature Methods刚发的](https://mp.weixin.qq.com/s/DSiErE0kVtGsZ3nAhWOrDQ?poc_token=HH6pgWmjMmE9taiKTX99YthIh8HBAXKc6t20TpU_)
 * 
 
 

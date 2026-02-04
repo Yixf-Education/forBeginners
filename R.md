@@ -573,6 +573,7 @@
 * [如何获取KEGG数据库中与代谢相关的全部基因呢？](https://mp.weixin.qq.com/s/SmKglz4EW-Ig0VPBhpom1g)
 * [**tidymodels 再不学就废了：caret 已官宣「后继有人」**](https://mp.weixin.qq.com/s/UXu_wG5QUc94jkModRUfKw)
 * [clusterProfiler 也能做 PPI 网络分析了？没错，还能用 ggtangle 画出花来！](https://mp.weixin.qq.com/s/dpNPP7-KZPT0eYu9874LZQ)
+* [给Seurat默认的气泡图开个美颜！](https://mp.weixin.qq.com/s/ccEvSX72jD9lrXbzAmUcmw?poc_token=HIupgWmj49-OWoo5x6W8vl6hBpaJVTpRM51oXSol)
 
 # R包
 
