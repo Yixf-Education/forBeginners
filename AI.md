@@ -221,6 +221,9 @@
 * [震惊！Nature Methods 的 AI 细胞注释，Prompt 竟然只有一句话？](https://mp.weixin.qq.com/s/DhgBezaaVjZopDN6AaZYcQ)
 * [手搓一个Agent: BioLitKG-生信文献分析神器,让AI帮你读文献!](https://mp.weixin.qq.com/s?__biz=Mzk1NzYxOTIwMg==&mid=2247483888&idx=1&sn=8be6daa278e3bac346b323857c3b7f88&scene=21&poc_token=HNsCeGmjkiytRtCAJmqpVPOGfuZSsHq18UXiKEod)
 * [BioWorkflow：用AI一键提取论文中的完整生信分析流程](https://mp.weixin.qq.com/s/Qoch-AkMADjeR6RrZA83iQ)
+* [AI生物学基础设施——HumanBase！6 万个组学实验撑起的 AI 平台！](https://mp.weixin.qq.com/s/S2bDsLuTpqbRwCugttVDUQ)
+* [Vibe Researching必备的科研MCP和Skills，实现10倍学术产出](https://mp.weixin.qq.com/s/TM_gi4JpEpZZCGnX9jZ84Q)
+* 
 
 
 ## 分析绘图
