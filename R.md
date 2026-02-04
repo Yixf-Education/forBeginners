@@ -626,6 +626,7 @@
 * [关于排序那点事](https://mp.weixin.qq.com/s/N42HhSJ_vL_jh0Z3yQW9OA)
 * [每日一R｜dplyr::relocate(): 更改列顺序，从此更灵活](https://mp.weixin.qq.com/s/YBiRbKIQ8LLnQtGHzy5nEg)
 * [学了这么久R，那你知道R包为什么有这么多安装方式吗？](https://mp.weixin.qq.com/s/jeOe76SEfmrTifkue7Y5xg)
+* [R语言 | 包管理工具pak](https://mp.weixin.qq.com/s/d_tlWRefuh1tYRtjrgFDLA)
 
 # Shiny
 
