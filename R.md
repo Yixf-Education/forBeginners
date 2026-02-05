@@ -200,6 +200,7 @@
 * [使用rig轻松管理R语言](https://mp.weixin.qq.com/s/fMwXThGlmnQHJraI6StaJA)
 * [# 国自然申报必看！8个神仙查询网站，命中率直接翻倍](https://mp.weixin.qq.com/s/CgCq-9tZ1FGKmym7Hvhz-Q)
 * [30年进化之路：R语言如何成为生物信息学的"通用语"？](https://mp.weixin.qq.com/s/TNqdy7o6_jWNOKcrdvJWOw)
+* [一个时代的落幕，与一个 IDE 的加冕：Positron 深度测评](https://mp.weixin.qq.com/s/LNtB_McD29Zcp8Af7VVe8g)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
