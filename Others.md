@@ -444,6 +444,7 @@
 * [科学写作三条建议：给研究生的一份指南](https://mp.weixin.qq.com/s/UdW5KnV7savaYNuIqfoqvQ)
 * [关于SCIE 、ESCI数据库收录期刊的知识点以及辨别方式](https://mp.weixin.qq.com/s/7ThqK3sbrvXNgk9ZbYdydg)
 * [Zotero 8.0.1 生产力全开：2026 英文文献批量下载、自动化脚本与 AI 深度分析全攻略](https://mp.weixin.qq.com/s/un51lI1dBLLsGRIffs7iJA?poc_token=HIapgWmjTWONg2Q8ROUksblmkTk0I_c-N0hJJrod)
+* [毕业论文/顶会投稿必看：论文投稿前必跑！这款开源工具一键揪出参考文献“硬伤”，审稿人再也挑不出刺，格式错误一扫而光！](https://mp.weixin.qq.com/s/7XULduaHQhidIroHVuFSmQ)
 
 ## 数据集
 
