@@ -115,6 +115,8 @@
 * [人均不到3元！被AI作弊逼急的教授玩“邪修”：“花105元，给全班36人办了场AI口试”](https://mp.weixin.qq.com/s/3bAFzAqb_TXZch4idBN_9A)
 * [翻译：科学家如何利用 Claude 加速研究与发现](https://mp.weixin.qq.com/s/RWnsgLNQ8oyGmbUrEjSnvw)
 * [挑战用AI手搓100个生信agent（1/100）：让AI读了100篇Nature子刊总结出来生物信息的十大热点趋势](https://mp.weixin.qq.com/s/vassNY7xsn6C5OqPrYRRvQ)
+* [一个圆](https://mp.weixin.qq.com/s/vCf2z0HHzF1eHb27ReQR2g)
+* [关于我春节期间用AI写了个遗传力估计软件这件事](https://mp.weixin.qq.com/s/gZx04EUW7IHytfu1vQ5XrA)
 
 
 ## 基本使用
