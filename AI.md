@@ -81,6 +81,9 @@
 * [编程新王 Kimi K2.5，审美简直逆天！](https://mp.weixin.qq.com/s/ZI2dWLCqoLsHd4Tyj-W_lA)
 * [在RStudio中使用GitHub Copilot：代码自动生成，从此告别手敲！](https://mp.weixin.qq.com/s/wERVRp2cbGFC2HAvMKbPRA)
 * [火遍全网的Clawdbot，保姆级教程来了！](https://mp.weixin.qq.com/s/r6M0pGB7G-2-1H4SKTBk6w?poc_token=HICpgWmjvF_J6tUbuAh6rDCKUH4ZP0wCzFQ0oiNG)
+* [agent时代，一键在本地电脑安装openclaw，打造你的个人专属生信师](https://mp.weixin.qq.com/s/jLVkufknAzNycI0dXgA8sQ)
+* [从单一工具到「数字中枢」，写给普通人的 OpenClaw 使用指南](https://mp.weixin.qq.com/s/W3seu-m3PbGr7_vB_3MBRw)
+* [我花7.9试了阿里云的AI编程套餐，用完觉得以前的钱都白花了](https://mp.weixin.qq.com/s/ZW7yCJxhzsRudq8xnBKgpQ)
 
 
 ## 变革思考
@@ -117,6 +120,8 @@
 * [挑战用AI手搓100个生信agent（1/100）：让AI读了100篇Nature子刊总结出来生物信息的十大热点趋势](https://mp.weixin.qq.com/s/vassNY7xsn6C5OqPrYRRvQ)
 * [一个圆](https://mp.weixin.qq.com/s/vCf2z0HHzF1eHb27ReQR2g)
 * [关于我春节期间用AI写了个遗传力估计软件这件事](https://mp.weixin.qq.com/s/gZx04EUW7IHytfu1vQ5XrA)
+* [AI目前还取代不了生信 - 小红书](https://www.xiaohongshu.com/explore/699d258b000000000a031871?secondshare=weixin&share_from_user_hidden=true&appuid=&apptime=1771939708&share_id=a5b21869caa1439ba960fe1a4bf222c4&xsec_source=h5_share&xsec_token=CB29P63mRHexPSlC_QxhPZ-gGThXcmRFYZB9m1PFGTF44=)
+* [文科生 72 小时杀入 GitHub 全球榜：我没写一行代码，但指挥了一支 AI 军队](https://mp.weixin.qq.com/s/4SzXvWOchYSPRwz3XXOq1g)
 
 
 ## 基本使用
@@ -227,7 +232,7 @@
 * [AI生物学基础设施——HumanBase！6 万个组学实验撑起的 AI 平台！](https://mp.weixin.qq.com/s/S2bDsLuTpqbRwCugttVDUQ)
 * [Vibe Researching必备的科研MCP和Skills，实现10倍学术产出](https://mp.weixin.qq.com/s/TM_gi4JpEpZZCGnX9jZ84Q)
 * [6万个数据集训练出来的基因组分析平台，Nature Methods刚发的](https://mp.weixin.qq.com/s/DSiErE0kVtGsZ3nAhWOrDQ?poc_token=HH6pgWmjMmE9taiKTX99YthIh8HBAXKc6t20TpU_)
-* 
+* [手把手教你用AI做完单细胞分析全流程](https://mp.weixin.qq.com/s/flXmpweZ9xWJ9BXW9ZAx1w)
 
 
 ## 分析绘图
