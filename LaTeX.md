@@ -110,6 +110,7 @@
 * [还为 tcolorbox 的复杂参数头疼？CreationBoites 助你一键生成精美文本框！](https://mp.weixin.qq.com/s/J1dbSJNPjiWE1mLpVtzalQ)
 * [科研人狂喜！这款LaTeX神器一键搞定AI使用披露，14种语言适配+标准化模板直接套用](https://mp.weixin.qq.com/s/fJinR89Bnmy-Gkj4CJipXA)
 * [2026 国家自然基金项目 非官方LaTeX 模板更新了](https://mp.weixin.qq.com/s/xtZ3v9sNrkeU9UF_BwWcdw)
+* [最美中文 LaTeX 书稿模版 - Beautybook 的 2026 最新版来了](https://mp.weixin.qq.com/s/hQT8XuB_d51OcFsnE_5pXg)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
@@ -157,6 +158,8 @@
 * [别再手动整理PDF笔记了！这个开源神工具，一键把高亮变成Markdown！](https://mp.weixin.qq.com/s/caJERUOFxGIABWioly1I7Q)
 * [不只有 OpenAi 的 Prism，一个新平台 Bibby AI 居然把论文润色 + 查重 + LaTeX 自动排版几大功能合体了](https://mp.weixin.qq.com/s/FikAgisKntBy-zQ--4YLfg)
 * [GitHub 霸榜：Manim + Beamer，这才是未来演示文稿该有的样子！](https://mp.weixin.qq.com/s/Pc4_azEhkcBRZsiuWhH_1Q)
+* [assistant-ui/open-prism: Open-Source AI LaTeX writing workspace.](https://github.com/assistant-ui/open-prism)
+* [Overleaf 强力对手，Octree：输入文字/图片，自动生成完美论文排版，让 LaTeX 排版像写文档一样简单！](https://mp.weixin.qq.com/s/9KTP2j5MBJKl6HGAmDOO-g)
 
 
 ## 教学
