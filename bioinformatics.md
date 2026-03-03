@@ -535,6 +535,7 @@
 * [中国生物信息学行业市场调查研究报告丨探角](https://mp.weixin.qq.com/s/Xj_zCJ6Zt6HSHz18M9lLQg)
 * [10分钟读懂RNA测序：从实验设计测序到分析，非常重要！](https://mp.weixin.qq.com/s/IU2-E3j3q4TdpjuSVNwZbA)
 * [常规生物信息分析中的一些原理问题](https://mp.weixin.qq.com/s/12eNpqPwOCUUlrbEw1wDfw)
+* [生信，正在失去护城河](https://mp.weixin.qq.com/s/O1BfpHlWud1xGD_lmtCaNg)
 
 ## 系统课程
 
