@@ -85,6 +85,9 @@
 * [从单一工具到「数字中枢」，写给普通人的 OpenClaw 使用指南](https://mp.weixin.qq.com/s/W3seu-m3PbGr7_vB_3MBRw)
 * [我花7.9试了阿里云的AI编程套餐，用完觉得以前的钱都白花了](https://mp.weixin.qq.com/s/ZW7yCJxhzsRudq8xnBKgpQ)
 * [ResearAI/AutoFigure](https://github.com/ResearAI/AutoFigure)
+* [AgentAlphaAGI/Idea2Paper: Idea2Paper Offical Demo](https://github.com/AgentAlphaAGI/Idea2Paper)
+* [K-Dense-AI/claude-scientific-skills: A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main)
+* [利用codespaces使用AI工具](https://mp.weixin.qq.com/s/eUS15Lv82ZnKUU4uh-i2BA)
 
 
 ## 变革思考
@@ -174,6 +177,9 @@
 * [通过AI工具openCode生成自己的程序](https://mp.weixin.qq.com/s/9_umgvUausIB7EqNFo5gzQ)
 * [Positron + GithubCopilot：一键转换 base R 到 tidyverse，代码更优雅](https://mp.weixin.qq.com/s/uL5ZX7bfrLIwympHFfkg2A)
 * [R 语言 AI 编程的 10 个建议,我们团队常用](https://mp.weixin.qq.com/s/7S3D0_BbMyGm5W2ZWQpcUg)
+* [从工具分身乏术到丝滑切换：Positron 如何终结我的环境焦虑](https://mp.weixin.qq.com/s/q4Vcy_DTrcawLlFW4_O3Yg)
+* [数据团队统一 IDE 选型实录：为什么我们最终放弃 VS Code，全面拥抱 Positron](https://mp.weixin.qq.com/s/EMr49Q5uAs7R0Ue5zgnqGA)
+* [零基础 R 语言入门：使用Positron+GithubCopilot写中文注释，AI 帮你写代码，30 分钟见效](https://mp.weixin.qq.com/s/4bnJeuS6yhLWeBokGYvIfQ)
 
 
 ## 论文课题
@@ -239,6 +245,9 @@
 * [6万个数据集训练出来的基因组分析平台，Nature Methods刚发的](https://mp.weixin.qq.com/s/DSiErE0kVtGsZ3nAhWOrDQ?poc_token=HH6pgWmjMmE9taiKTX99YthIh8HBAXKc6t20TpU_)
 * [手把手教你用AI做完单细胞分析全流程](https://mp.weixin.qq.com/s/flXmpweZ9xWJ9BXW9ZAx1w)
 * [GitHub - hydrogenhy/AI-paper-pre-check: A Double-Blind Validation Web Tool for AI Research Submissions](https://github.com/hydrogenhy/AI-paper-pre-check)
+* [从一个灵感，到一篇论文：最近爆火的论文写作工具Idea2Paper介绍与上手指南](https://mp.weixin.qq.com/s/8bHihQOboqbokk15ayCUow)
+* [这个AI科研助手，从“想点子”到“写完稿”、再到“做系统综述/荟萃分析”，一条龙搞定，还能一键导出 LaTeX](https://mp.weixin.qq.com/s/BWcRVqcHsu4Nqbz1llxG3w)
+* [当我用skills做科研统计时，会发生什么？](https://mp.weixin.qq.com/s/rSxAKbF77ANTAe-sgLyz_w?scene=1&click_id=155)
 
 
 ## 分析绘图
