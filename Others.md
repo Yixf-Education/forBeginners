@@ -477,6 +477,9 @@
 * [关注！！！2026年申请书改版](https://mp.weixin.qq.com/s/GGNmWOSgbyjA1iW4EjAObA)
 * [重磅，2026国自然改革：青C(原青基)可报交叉学部，科研简历新增“硬核”要求，AI使用需规范(注明)!](https://mp.weixin.qq.com/s/0DlfdUwmGG0FnEO2S4y3OA)
 * [申请规定](https://www.nsfc.gov.cn/p1/2931/3971/3974/sqgd2.html)
+* [2026国自然新规：5篇代表作最佳选择与排序策略](https://mp.weixin.qq.com/s/BZvK2Ase8DhqPsjIqHjsOA)
+* [在基金评审会的茶歇，一位资深专家戳破了我国自然的幻想](https://mp.weixin.qq.com/s/kWLto9GM_w09xYxgd9SlHw)
+* [春运返乡途中改国自然本子，竟偶遇基金委评审，手把手教我改青基申报书](https://mp.weixin.qq.com/s/Sl7s4tCVAdUU1ydMf-qNTg)
 
 
 
