@@ -202,6 +202,7 @@
 * [30年进化之路：R语言如何成为生物信息学的"通用语"？](https://mp.weixin.qq.com/s/TNqdy7o6_jWNOKcrdvJWOw)
 * [一个时代的落幕，与一个 IDE 的加冕：Positron 深度测评](https://mp.weixin.qq.com/s/LNtB_McD29Zcp8Af7VVe8g)
 * [从 RStudio 到 Positron：一个 IDE 的进化论与你的生产力革命](https://mp.weixin.qq.com/s/ErCu0H3iXo2qLSjzYUBIHg)
+* [R语言特殊实战篇3：用R打造个人效率工具箱](https://mp.weixin.qq.com/s/kSr_dfKpipCxoyD8OgwRNw)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
