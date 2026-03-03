@@ -233,6 +233,7 @@
 * [Vibe Researching必备的科研MCP和Skills，实现10倍学术产出](https://mp.weixin.qq.com/s/TM_gi4JpEpZZCGnX9jZ84Q)
 * [6万个数据集训练出来的基因组分析平台，Nature Methods刚发的](https://mp.weixin.qq.com/s/DSiErE0kVtGsZ3nAhWOrDQ?poc_token=HH6pgWmjMmE9taiKTX99YthIh8HBAXKc6t20TpU_)
 * [手把手教你用AI做完单细胞分析全流程](https://mp.weixin.qq.com/s/flXmpweZ9xWJ9BXW9ZAx1w)
+* [GitHub - hydrogenhy/AI-paper-pre-check: A Double-Blind Validation Web Tool for AI Research Submissions](https://github.com/hydrogenhy/AI-paper-pre-check)
 
 
 ## 分析绘图
