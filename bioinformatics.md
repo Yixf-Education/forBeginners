@@ -533,6 +533,7 @@
 * [利用NCBI查找基因的启动子、5’UTR，3’UTR，CDS，mRNA序列](https://mp.weixin.qq.com/s/BZ8dtLACqvK3q4UfJWQKuQ)
 * [基因结构图解：外显子、内含子、UTR、CDS、ORF 之间到底是什么关系？](https://mp.weixin.qq.com/s/AVAIKEk0o2tEzmyhlRTi2g)
 * [中国生物信息学行业市场调查研究报告丨探角](https://mp.weixin.qq.com/s/Xj_zCJ6Zt6HSHz18M9lLQg)
+* [10分钟读懂RNA测序：从实验设计测序到分析，非常重要！](https://mp.weixin.qq.com/s/IU2-E3j3q4TdpjuSVNwZbA)
 
 ## 系统课程
 
