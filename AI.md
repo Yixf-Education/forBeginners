@@ -84,6 +84,7 @@
 * [agent时代，一键在本地电脑安装openclaw，打造你的个人专属生信师](https://mp.weixin.qq.com/s/jLVkufknAzNycI0dXgA8sQ)
 * [从单一工具到「数字中枢」，写给普通人的 OpenClaw 使用指南](https://mp.weixin.qq.com/s/W3seu-m3PbGr7_vB_3MBRw)
 * [我花7.9试了阿里云的AI编程套餐，用完觉得以前的钱都白花了](https://mp.weixin.qq.com/s/ZW7yCJxhzsRudq8xnBKgpQ)
+* [ResearAI/AutoFigure](https://github.com/ResearAI/AutoFigure)
 
 
 ## 变革思考
