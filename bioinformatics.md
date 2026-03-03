@@ -317,6 +317,8 @@
 * [生物信息分析FAQ（二）](https://mp.weixin.qq.com/s/Ujv_WvtJQHv8p9dTTvOQRQ)
 * [生物信息分析FAQ（三）](https://mp.weixin.qq.com/s/1QisW4oOUZtb8GkbHxAjCQ)
 * [生物数据下载之独孤九剑（一）：命令行下载工具](https://mp.weixin.qq.com/s/7sZfjmnDDCqEgx9ZjpJXXw)
+* [不会RNA-seq分析？一篇帮你理清所有步骤](https://mp.weixin.qq.com/s/aphtp8zEPVS8uazxySLC6w)
+* [生物数据下载之独孤九剑（二）：lftp下载ftp协议文件](https://mp.weixin.qq.com/s/IFftOw9TB64DpbLV4tx54w)
 
 ## 基因组坐标系统
 
