@@ -170,6 +170,10 @@
 * [大模型帮我读取不规则的突变信息](https://mp.weixin.qq.com/s/gBL0b5QMHf4Ad9TOkX0oUA)
 * [Claude Code终于有了可视化界面](https://mp.weixin.qq.com/s/kYS2shbvSh8YWAM_Egoiyg)
 * [替代Claude Code，国内首款支持Skills的编程助手CodeBuddy Code，第一手测评来了！](https://mp.weixin.qq.com/s/TcdTqUau8z4P6LAV78gDFA)
+* [少走弯路指南：Positron+GithubCopilot 如何帮你少踩 80% 的清洗坑](https://mp.weixin.qq.com/s/BdK_y6-uUZAlcHnoPqF2uQ)
+* [通过AI工具openCode生成自己的程序](https://mp.weixin.qq.com/s/9_umgvUausIB7EqNFo5gzQ)
+* [Positron + GithubCopilot：一键转换 base R 到 tidyverse，代码更优雅](https://mp.weixin.qq.com/s/uL5ZX7bfrLIwympHFfkg2A)
+* [R 语言 AI 编程的 10 个建议,我们团队常用](https://mp.weixin.qq.com/s/7S3D0_BbMyGm5W2ZWQpcUg)
 
 
 ## 论文课题
@@ -264,6 +268,9 @@
 * [Gemini 3解决ngs全流程数据分析（生信分析进化到我都不认识了）](https://mp.weixin.qq.com/s/u-wSyWpvJ2drYLL6p046ew)
 * [让AI来解读富集分析结果](https://mp.weixin.qq.com/s/NqXXyQgU3DfZzW25OOsevA)
 * [xiayh0107/aisdk: AI SDK for R - Unified Interface for AI Model Providers](https://github.com/xiayh0107/aisdk)
+* [刚刚！Gemini科研绘图教程发布！](https://mp.weixin.qq.com/s/_2CDFb5nOA20IT6xxkHmnw)
+* [科研党沸腾！AutoFigure让AI一键画出Nature级别的论文插图，告别PPT地狱](https://mp.weixin.qq.com/s/NoYJYPSy26sMLfC7ugA-UQ)
+* [被低估了！Gemini3的杀手锏不是写代码，而是教科书级科研绘图](https://mp.weixin.qq.com/s/EkPZ7oBiLUX0adXBoSJUDw)
 
 ## 生物模型
 
