@@ -126,6 +126,8 @@
 * [关于我春节期间用AI写了个遗传力估计软件这件事](https://mp.weixin.qq.com/s/gZx04EUW7IHytfu1vQ5XrA)
 * [AI目前还取代不了生信 - 小红书](https://www.xiaohongshu.com/explore/699d258b000000000a031871?secondshare=weixin&share_from_user_hidden=true&appuid=&apptime=1771939708&share_id=a5b21869caa1439ba960fe1a4bf222c4&xsec_source=h5_share&xsec_token=CB29P63mRHexPSlC_QxhPZ-gGThXcmRFYZB9m1PFGTF44=)
 * [文科生 72 小时杀入 GitHub 全球榜：我没写一行代码，但指挥了一支 AI 军队](https://mp.weixin.qq.com/s/4SzXvWOchYSPRwz3XXOq1g)
+* [TeX 之父-图灵奖得主高德纳亲自认证：AI不仅解开了我几周的难题，还顺手证明了猜想！](https://mp.weixin.qq.com/s/-sHLCRShPmat3gNBnPQ7Hw)
+* [按参数算，我们1300克的大脑相当于多大的AI模型？](https://mp.weixin.qq.com/s/k0oIHuXcQuUyHVHObS8Nsw)
 
 
 ## 基本使用
