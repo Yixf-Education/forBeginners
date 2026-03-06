@@ -250,6 +250,7 @@
 * [从一个灵感，到一篇论文：最近爆火的论文写作工具Idea2Paper介绍与上手指南](https://mp.weixin.qq.com/s/8bHihQOboqbokk15ayCUow)
 * [这个AI科研助手，从“想点子”到“写完稿”、再到“做系统综述/荟萃分析”，一条龙搞定，还能一键导出 LaTeX](https://mp.weixin.qq.com/s/BWcRVqcHsu4Nqbz1llxG3w)
 * [当我用skills做科研统计时，会发生什么？](https://mp.weixin.qq.com/s/rSxAKbF77ANTAe-sgLyz_w?scene=1&click_id=155)
+* [生物医学版小龙虾来了！BioClaw——一个能在群聊里做生物研究的AI！](https://mp.weixin.qq.com/s/5TKqeXPOFpdhicCujY87AA?poc_token=HAVHqmmjV2cHVVlbD-lHxUcdN-FamCHua9F5aiYl)
 
 
 ## 分析绘图
