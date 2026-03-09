@@ -180,6 +180,7 @@
 * [LaTeX 制作 2025 新版教案模板 - 爱上教案排版的模版](https://mp.weixin.qq.com/s/oUY3q7yOSY-KIF1jwZBWcw)
 * [还在为微积分出题发愁？这款基于 LaTeX 的出题系统拯救你！](https://mp.weixin.qq.com/s/5HzLDQrQ4hOLa5v4KTxS4w)
 * [轻松搞定试卷出题与答案管理！这款LaTeX试卷模版让教师效率翻倍](https://mp.weixin.qq.com/s/5-iFfi_wTgrYqvHO8sC4Vw)
+* [暨南大学er出卷福音｜专属LaTeX试卷模板-一份 tex 文件直接编译出A/B卷+对应答案卷，出卷效率拉满](https://mp.weixin.qq.com/s/ZnZGJVhOCjLdwva0PwSpHw)
 
 ## 科研
 * [学术写作注意事项 —— 格式问题](https://mp.weixin.qq.com/s/1eGN7jRRMIih_sDljN8Bpw)
