@@ -157,6 +157,9 @@
 * [从“打工人”到“指挥官”：AI 时代的终端生存指南](https://mp.weixin.qq.com/s/7WfOXPwjhelFi_jgHODWaQ)
 * [你真的会使用AI吗？10种AI的正确打开方式](https://mp.weixin.qq.com/s/yOV9ZDHS3y3KKROtXilWYA)
 * [**别再像聊天一样写代码了！掌握CO-STAR框架，让AI成你的R语言顶尖助手**](https://mp.weixin.qq.com/s/yC4kT91kSLCcwH0wXdMJ6Q)
+* [告别命令行！Cherry Studio一键解锁OpenClaw，小白也能玩转Agent](https://mp.weixin.qq.com/s/VGk06vKt_kSg1Xj7kEVSAQ)
+* [OpenClaw 安装和使用指南](https://mp.weixin.qq.com/s/ZBPAxxklpr9cQUyBQm0L-Q)
+* [小龙虾最受欢迎的 10 个插件，装上之后才明白它有多强大！](https://mp.weixin.qq.com/s/TGG6dzAel18kq7mGuK7EJg)
 
 
 
