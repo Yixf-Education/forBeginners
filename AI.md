@@ -286,6 +286,7 @@
 * [刚刚！Gemini科研绘图教程发布！](https://mp.weixin.qq.com/s/_2CDFb5nOA20IT6xxkHmnw)
 * [科研党沸腾！AutoFigure让AI一键画出Nature级别的论文插图，告别PPT地狱](https://mp.weixin.qq.com/s/NoYJYPSy26sMLfC7ugA-UQ)
 * [被低估了！Gemini3的杀手锏不是写代码，而是教科书级科研绘图](https://mp.weixin.qq.com/s/EkPZ7oBiLUX0adXBoSJUDw)
+* [AI生图工具怎么选？终极指南](https://mp.weixin.qq.com/s/AXp7W5wmFOJJfKoMqoxj5Q)
 
 ## 生物模型
 
