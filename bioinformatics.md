@@ -77,6 +77,7 @@
 * [是时候学会用Snakemake来管理生信流程了](https://mp.weixin.qq.com/s/43A1wq_g_01hvKD9wSinMA)
 * [susieR 进行 Fine-mapping 及可视化分析](https://mp.weixin.qq.com/s/MxYI-k4f1mkk5KEDt-iB9w)
 * [使用 Pixi 以项目为中心进行软件包管理 | Linux下使用GSAman矫正基因结构注释](https://mp.weixin.qq.com/s/ekymDe-461QQNikfOOt60w)
+* [SRA数据综合下载工具Kingfisher](https://mp.weixin.qq.com/s/jgUw_yYC1WX4k3M6JBg_SQ)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
