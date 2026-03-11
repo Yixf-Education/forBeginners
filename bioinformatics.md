@@ -78,6 +78,10 @@
 * [susieR 进行 Fine-mapping 及可视化分析](https://mp.weixin.qq.com/s/MxYI-k4f1mkk5KEDt-iB9w)
 * [使用 Pixi 以项目为中心进行软件包管理 | Linux下使用GSAman矫正基因结构注释](https://mp.weixin.qq.com/s/ekymDe-461QQNikfOOt60w)
 * [SRA数据综合下载工具Kingfisher](https://mp.weixin.qq.com/s/jgUw_yYC1WX4k3M6JBg_SQ)
+* [转录组数据分析套件BioinfoTalus](https://mp.weixin.qq.com/s/n4s5g60k_5qQn5HSya6T3A)
+* [BioConvolutionyt/BioinfoTalus: 转录组数据分析工具套件](https://github.com/BioConvolutionyt/BioinfoTalus)
+* [bioRxiv | geneSTRUCTURE：基因结构可视化工具，可以自主添加蛋白质结构域、SNP、插入/缺失等标记](https://mp.weixin.qq.com/s/QeiH6B4zX1MMJ56uNK1wIA)
+* [超级好用测序数据下载流程iseq](https://mp.weixin.qq.com/s/Wdk11wXMS93Ektflpljq9Q)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
@@ -321,6 +325,8 @@
 * [不会RNA-seq分析？一篇帮你理清所有步骤](https://mp.weixin.qq.com/s/aphtp8zEPVS8uazxySLC6w)
 * [生物数据下载之独孤九剑（二）：lftp下载ftp协议文件](https://mp.weixin.qq.com/s/IFftOw9TB64DpbLV4tx54w)
 * [干货 | KEGG通路图着色指南](https://mp.weixin.qq.com/s/oiIeUCD3C8P6egiZP4sfcQ)
+* [GTExV11全流程详解](https://mp.weixin.qq.com/s/9NS9GcNPucMwmvbQLV8Hcg)
+* [2026最新！！！TCGA下载方法大全](https://mp.weixin.qq.com/s/ZaUhkwXCtUhaov4SkXKOmw)
 
 ## 基因组坐标系统
 
