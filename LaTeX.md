@@ -160,6 +160,7 @@
 * [GitHub 霸榜：Manim + Beamer，这才是未来演示文稿该有的样子！](https://mp.weixin.qq.com/s/Pc4_azEhkcBRZsiuWhH_1Q)
 * [assistant-ui/open-prism: Open-Source AI LaTeX writing workspace.](https://github.com/assistant-ui/open-prism)
 * [Overleaf 强力对手，Octree：输入文字/图片，自动生成完美论文排版，让 LaTeX 排版像写文档一样简单！](https://mp.weixin.qq.com/s/9KTP2j5MBJKl6HGAmDOO-g)
+* [这款神器让Excel与LaTeX表格“双向奔赴”，一键生成出版级论文图表，效率提升10倍！](https://mp.weixin.qq.com/s/NV3Q8TH-2vJnsJfZ98TaBg)
 
 
 ## 教学
