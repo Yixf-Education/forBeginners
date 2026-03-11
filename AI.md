@@ -88,6 +88,7 @@
 * [AgentAlphaAGI/Idea2Paper: Idea2Paper Offical Demo](https://github.com/AgentAlphaAGI/Idea2Paper)
 * [K-Dense-AI/claude-scientific-skills: A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main)
 * [利用codespaces使用AI工具](https://mp.weixin.qq.com/s/eUS15Lv82ZnKUU4uh-i2BA)
+* [汇总一下，国内各大OpenClaw一站式部署平台](https://mp.weixin.qq.com/s/7JJ6L2rkrTSP0m7bTfrY1Q)
 
 
 ## 变革思考
@@ -128,6 +129,9 @@
 * [文科生 72 小时杀入 GitHub 全球榜：我没写一行代码，但指挥了一支 AI 军队](https://mp.weixin.qq.com/s/4SzXvWOchYSPRwz3XXOq1g)
 * [TeX 之父-图灵奖得主高德纳亲自认证：AI不仅解开了我几周的难题，还顺手证明了猜想！](https://mp.weixin.qq.com/s/-sHLCRShPmat3gNBnPQ7Hw)
 * [按参数算，我们1300克的大脑相当于多大的AI模型？](https://mp.weixin.qq.com/s/k0oIHuXcQuUyHVHObS8Nsw)
+* [一只龙虾闯进了生物信息学：25万星AI平台上的第一个生信项目](https://mp.weixin.qq.com/s/2k_V9BLlv2rzkPxNnyM2qA)
+* [OpenAI员工教小龙虾自动赚钱，2天后它给网友转了44万美元](https://mp.weixin.qq.com/s/sLAt5P476v-Im3wwb5qA_w)
+* 
 
 
 ## 基本使用
