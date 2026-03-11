@@ -136,6 +136,7 @@
 * [免疫细胞全家福（建议收藏）](https://mp.weixin.qq.com/s/EmQPVJIWmpP4zIsmOE3YzA)
 * [T Cell注释神器,《Nature Methods》发布T-CellAnnoTator，搞定你的TCell！](https://mp.weixin.qq.com/s/F9DzhpnUdb2o_hcd7MNnsA)
 * [全球72位免疫学权威发布T细胞分类与命名新规范](https://mp.weixin.qq.com/s/vRe-zys_OejW-i40QOW39g)
+* [单细胞神器-CellTypist-让细胞类型鉴定/注释又快又准！](https://mp.weixin.qq.com/s/_eAgJPFRe71vmz7srcGYVA)
 
 ## 其他
 
