@@ -131,7 +131,7 @@
 * [按参数算，我们1300克的大脑相当于多大的AI模型？](https://mp.weixin.qq.com/s/k0oIHuXcQuUyHVHObS8Nsw)
 * [一只龙虾闯进了生物信息学：25万星AI平台上的第一个生信项目](https://mp.weixin.qq.com/s/2k_V9BLlv2rzkPxNnyM2qA)
 * [OpenAI员工教小龙虾自动赚钱，2天后它给网友转了44万美元](https://mp.weixin.qq.com/s/sLAt5P476v-Im3wwb5qA_w)
-* 
+* [从clusterProfiler更新中学习Prompt设计思路](https://mp.weixin.qq.com/s/S77on1FvIOeFdBojiHlZuQ?poc_token=HPe_s2mju1VRD9zjhw0Z57LmXNjPMBPXvt1S9eFb)
 
 
 ## 基本使用
@@ -258,6 +258,7 @@
 * [这个AI科研助手，从“想点子”到“写完稿”、再到“做系统综述/荟萃分析”，一条龙搞定，还能一键导出 LaTeX](https://mp.weixin.qq.com/s/BWcRVqcHsu4Nqbz1llxG3w)
 * [当我用skills做科研统计时，会发生什么？](https://mp.weixin.qq.com/s/rSxAKbF77ANTAe-sgLyz_w?scene=1&click_id=155)
 * [生物医学版小龙虾来了！BioClaw——一个能在群聊里做生物研究的AI！](https://mp.weixin.qq.com/s/5TKqeXPOFpdhicCujY87AA?poc_token=HAVHqmmjV2cHVVlbD-lHxUcdN-FamCHua9F5aiYl)
+* [我用OpenClaw + Discord搭建了一个AI科研团队，7x24在线干活](https://mp.weixin.qq.com/s/sDT2I9aGKmZ6J7mz5cbanQ?poc_token=HPK_s2mjzBifT5Y4dIU4AblXovgUoFHm8Ommz8jo)
 
 
 ## 分析绘图
@@ -301,6 +302,10 @@
 * [生物大模型盘点 | 生物信息学中的基础模型有哪些？看这一篇就够了！](https://mp.weixin.qq.com/s/K3_GVL2svXTlBAxOdPnLOQ)
 * [生物信息学中的深度学习框架](https://mp.weixin.qq.com/s/Gn_6AwVA6kzoqGZZkjO1Zw)
 * [LLM Leaderboard - Cell Type Annotation](https://singlecellgpt.com/celltype-annotation-leaderboard/)
+
+## 教育教学
+
+* [【AI实践】当AI走进课堂，教学竟然可以这样玩？](https://mp.weixin.qq.com/s/oVSNa74Jew8udidB2AupHw?poc_token=HETAs2mjcj9YNC7w9DmrSDqdNL8rpV_IMqt-2e7f)
 
 ## 学习资料
 
