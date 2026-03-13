@@ -635,3 +635,7 @@
 ## AI应用
 
 * [使用 AlphaGenome 预测人类基因组启动子：从安装到分析的完整教程](https://mp.weixin.qq.com/s/uZTlTvVrkrIKRKitguJUCg?poc_token=HN6_s2mjuuEIU4vDUlr0HZha3X50AQdcM3eHJvZW)
+
+## 肿瘤分析
+
+* [在线泛癌分析工具 - GSCA](https://mp.weixin.qq.com/s/8GPeabEMg61hsWGHmUmupQ?poc_token=HPC_s2mjDTULGwQVjYn3dMdnkc-mJZnXyMmHG6FY)
