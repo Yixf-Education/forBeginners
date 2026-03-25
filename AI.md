@@ -303,6 +303,7 @@
 * [生物大模型盘点 | 生物信息学中的基础模型有哪些？看这一篇就够了！](https://mp.weixin.qq.com/s/K3_GVL2svXTlBAxOdPnLOQ)
 * [生物信息学中的深度学习框架](https://mp.weixin.qq.com/s/Gn_6AwVA6kzoqGZZkjO1Zw)
 * [LLM Leaderboard - Cell Type Annotation](https://singlecellgpt.com/celltype-annotation-leaderboard/)
+* [一个更适合Agent调用的生信资源：bioSkills介绍](https://mp.weixin.qq.com/s/IuoIroIshfD4JQBI_ZpKTg)
 
 ## 教育教学
 
