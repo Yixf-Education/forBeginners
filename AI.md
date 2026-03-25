@@ -304,6 +304,7 @@
 * [生物信息学中的深度学习框架](https://mp.weixin.qq.com/s/Gn_6AwVA6kzoqGZZkjO1Zw)
 * [LLM Leaderboard - Cell Type Annotation](https://singlecellgpt.com/celltype-annotation-leaderboard/)
 * [一个更适合Agent调用的生信资源：bioSkills介绍](https://mp.weixin.qq.com/s/IuoIroIshfD4JQBI_ZpKTg)
+* [在Linux中安装omicverse / OmicClaw，Bulk RNA和单细胞分析“信手捏来”？](https://mp.weixin.qq.com/s/lRvGd8jEwuYdhKb_nXRnxw)
 
 ## 教育教学
 
