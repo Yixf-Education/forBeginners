@@ -189,6 +189,7 @@
 * [从工具分身乏术到丝滑切换：Positron 如何终结我的环境焦虑](https://mp.weixin.qq.com/s/q4Vcy_DTrcawLlFW4_O3Yg)
 * [数据团队统一 IDE 选型实录：为什么我们最终放弃 VS Code，全面拥抱 Positron](https://mp.weixin.qq.com/s/EMr49Q5uAs7R0Ue5zgnqGA)
 * [零基础 R 语言入门：使用Positron+GithubCopilot写中文注释，AI 帮你写代码，30 分钟见效](https://mp.weixin.qq.com/s/4bnJeuS6yhLWeBokGYvIfQ)
+* [驯龙高手，利用claude code进行生物信息分析（六）：四种运行模式](https://mp.weixin.qq.com/s/0E2rmkSK6xPs3D93bDNB4A)
 
 
 ## 论文课题
