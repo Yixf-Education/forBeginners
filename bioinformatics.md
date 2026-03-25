@@ -82,6 +82,7 @@
 * [BioConvolutionyt/BioinfoTalus: 转录组数据分析工具套件](https://github.com/BioConvolutionyt/BioinfoTalus)
 * [bioRxiv | geneSTRUCTURE：基因结构可视化工具，可以自主添加蛋白质结构域、SNP、插入/缺失等标记](https://mp.weixin.qq.com/s/QeiH6B4zX1MMJ56uNK1wIA)
 * [超级好用测序数据下载流程iseq](https://mp.weixin.qq.com/s/Wdk11wXMS93Ektflpljq9Q)
+* [OmicVerse Web｜完全开源的云分析系统 谁用谁知](https://mp.weixin.qq.com/s/46ud11G97YHnruc2o4Ts4A)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
