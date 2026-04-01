@@ -260,6 +260,7 @@
 * [当我用skills做科研统计时，会发生什么？](https://mp.weixin.qq.com/s/rSxAKbF77ANTAe-sgLyz_w?scene=1&click_id=155)
 * [生物医学版小龙虾来了！BioClaw——一个能在群聊里做生物研究的AI！](https://mp.weixin.qq.com/s/5TKqeXPOFpdhicCujY87AA?poc_token=HAVHqmmjV2cHVVlbD-lHxUcdN-FamCHua9F5aiYl)
 * [我用OpenClaw + Discord搭建了一个AI科研团队，7x24在线干活](https://mp.weixin.qq.com/s/sDT2I9aGKmZ6J7mz5cbanQ?poc_token=HPK_s2mjzBifT5Y4dIU4AblXovgUoFHm8Ommz8jo)
+* [配置医生的AI工具箱：从找文献到定选题，效率提升好几倍丨协和八](https://mp.weixin.qq.com/s/nxpLSBp7CqP3G7pQelBhUw)
 
 
 ## 分析绘图
