@@ -306,6 +306,7 @@
 * [LLM Leaderboard - Cell Type Annotation](https://singlecellgpt.com/celltype-annotation-leaderboard/)
 * [一个更适合Agent调用的生信资源：bioSkills介绍](https://mp.weixin.qq.com/s/IuoIroIshfD4JQBI_ZpKTg)
 * [在Linux中安装omicverse / OmicClaw，Bulk RNA和单细胞分析“信手捏来”？](https://mp.weixin.qq.com/s/lRvGd8jEwuYdhKb_nXRnxw)
+* [毫秒级搜索10亿生物序列！腾讯×浙大合作推出最强生物序列搜索AI工具——ERAST](https://mp.weixin.qq.com/s/Vjhn83AYvW5vn3j0duJfOQ)
 
 ## 教育教学
 
