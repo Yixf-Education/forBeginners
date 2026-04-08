@@ -640,3 +640,7 @@
 ## 肿瘤分析
 
 * [在线泛癌分析工具 - GSCA](https://mp.weixin.qq.com/s/8GPeabEMg61hsWGHmUmupQ?poc_token=HPC_s2mjDTULGwQVjYn3dMdnkc-mJZnXyMmHG6FY)
+
+## QTL
+
+* [单细胞多组学+GWAS：终于打通基因功能解析的“最后一公里”（上）](https://mp.weixin.qq.com/s/B9EM_SDqp9bbL-1qdLqUng)
