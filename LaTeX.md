@@ -112,6 +112,7 @@
 * [科研人狂喜！这款LaTeX神器一键搞定AI使用披露，14种语言适配+标准化模板直接套用](https://mp.weixin.qq.com/s/fJinR89Bnmy-Gkj4CJipXA)
 * [2026 国家自然基金项目 非官方LaTeX 模板更新了](https://mp.weixin.qq.com/s/xtZ3v9sNrkeU9UF_BwWcdw)
 * [最美中文 LaTeX 书稿模版 - Beautybook 的 2026 最新版来了](https://mp.weixin.qq.com/s/hQT8XuB_d51OcFsnE_5pXg)
+* [LaTeX 排版质变指南：用了 microtype，导师都说我的论文看起来像“出版级”](https://mp.weixin.qq.com/s/ZcEMEpuo0kKZJ7HLRN7MXg?poc_token=HEWc1WmjoO_wpOBzuDFJZ9qLi109AHFd2odFWsFT)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
