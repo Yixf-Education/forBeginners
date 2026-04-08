@@ -166,6 +166,7 @@
 * [抛弃 DOCX 臃肿，拥抱 Typst 与 LaTeX：Shoulders 深度集成的 AI 编辑器来了！](https://mp.weixin.qq.com/s/b4Lht9YRyUsooDTqxBNBhg?poc_token=HOy_s2mjiZ5Njv12qtpo95MNO8sz34oMzPlEbBIK)
 * [LaTeX 门外汉也能写顶刊，Murfy.ai：5.4 亿篇论文喂出的 AI 导师，比 Overleaf 更懂科研的 AI LaTeX 编辑器来了，科研论文写得又快又稳](https://mp.weixin.qq.com/s/ibvY4cn0yMv3lLrSqqV-Gw)
 * [Murfy, Free Online LaTeX Editor & Overleaf Alternative](https://www.murfy.ai/)
+* [还在手动敲 pdflatex？2026 年硬核 LaTeX 工具 AutoLaTeX：让复杂文档像全自动生产线”一样简单！](https://mp.weixin.qq.com/s/ZmhgaeOR8bgL69T1dKJC7A)
 
 
 ## 教学
