@@ -261,6 +261,7 @@
 * [生物医学版小龙虾来了！BioClaw——一个能在群聊里做生物研究的AI！](https://mp.weixin.qq.com/s/5TKqeXPOFpdhicCujY87AA?poc_token=HAVHqmmjV2cHVVlbD-lHxUcdN-FamCHua9F5aiYl)
 * [我用OpenClaw + Discord搭建了一个AI科研团队，7x24在线干活](https://mp.weixin.qq.com/s/sDT2I9aGKmZ6J7mz5cbanQ?poc_token=HPK_s2mjzBifT5Y4dIU4AblXovgUoFHm8Ommz8jo)
 * [配置医生的AI工具箱：从找文献到定选题，效率提升好几倍丨协和八](https://mp.weixin.qq.com/s/nxpLSBp7CqP3G7pQelBhUw)
+* [Darwin：开源的生物医学研究AI智能助手](https://mp.weixin.qq.com/s/TptQ-Ldkxb49JY0XAg2yVA)
 
 
 ## 分析绘图
@@ -307,6 +308,7 @@
 * [一个更适合Agent调用的生信资源：bioSkills介绍](https://mp.weixin.qq.com/s/IuoIroIshfD4JQBI_ZpKTg)
 * [在Linux中安装omicverse / OmicClaw，Bulk RNA和单细胞分析“信手捏来”？](https://mp.weixin.qq.com/s/lRvGd8jEwuYdhKb_nXRnxw)
 * [毫秒级搜索10亿生物序列！腾讯×浙大合作推出最强生物序列搜索AI工具——ERAST](https://mp.weixin.qq.com/s/Vjhn83AYvW5vn3j0duJfOQ)
+* [hugohe3/ppt-master: AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He](https://github.com/hugohe3/ppt-master)
 
 ## 教育教学
 
