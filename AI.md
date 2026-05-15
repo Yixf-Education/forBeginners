@@ -314,6 +314,10 @@
 
 * [【AI实践】当AI走进课堂，教学竟然可以这样玩？](https://mp.weixin.qq.com/s/oVSNa74Jew8udidB2AupHw?poc_token=HETAs2mjcj9YNC7w9DmrSDqdNL8rpV_IMqt-2e7f)
 
+## Skills
+
+* [GPTomics/bioSkills: a set of SKILLS.md for doing bioinformatics with agents like claude code](https://github.com/GPTomics/bioSkills)
+
 ## 学习资料
 
 * [HandsOnLLM/Hands-On-Large-Language-Models: Official code repo for the O'Reilly Book - "Hands-On Large Language Models"](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models)
