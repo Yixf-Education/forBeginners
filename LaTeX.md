@@ -113,6 +113,7 @@
 * [2026 国家自然基金项目 非官方LaTeX 模板更新了](https://mp.weixin.qq.com/s/xtZ3v9sNrkeU9UF_BwWcdw)
 * [最美中文 LaTeX 书稿模版 - Beautybook 的 2026 最新版来了](https://mp.weixin.qq.com/s/hQT8XuB_d51OcFsnE_5pXg)
 * [LaTeX 排版质变指南：用了 microtype，导师都说我的论文看起来像“出版级”](https://mp.weixin.qq.com/s/ZcEMEpuo0kKZJ7HLRN7MXg?poc_token=HEWc1WmjoO_wpOBzuDFJZ9qLi109AHFd2odFWsFT)
+* [告别繁琐代码：tabular² 宏包，重新定义 LaTeX 表格排版 - 一中文作者开发的宏包，赞！](https://mp.weixin.qq.com/s/5ia95eoPDzvBmQ46F3oD1w)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
@@ -188,6 +189,7 @@
 * [还在为微积分出题发愁？这款基于 LaTeX 的出题系统拯救你！](https://mp.weixin.qq.com/s/5HzLDQrQ4hOLa5v4KTxS4w)
 * [轻松搞定试卷出题与答案管理！这款LaTeX试卷模版让教师效率翻倍](https://mp.weixin.qq.com/s/5-iFfi_wTgrYqvHO8sC4Vw)
 * [暨南大学er出卷福音｜专属LaTeX试卷模板-一份 tex 文件直接编译出A/B卷+对应答案卷，出卷效率拉满](https://mp.weixin.qq.com/s/ZnZGJVhOCjLdwva0PwSpHw)
+* [高中数学题库管理与组卷系统-基于 Streamlit 和 LaTeX 自动化高中数学题库管理与智能组卷系统](https://mp.weixin.qq.com/s/govpfx6Hzxc1UF-uygmSBA)
 
 ## 科研
 * [学术写作注意事项 —— 格式问题](https://mp.weixin.qq.com/s/1eGN7jRRMIih_sDljN8Bpw)
