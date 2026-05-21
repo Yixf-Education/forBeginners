@@ -164,6 +164,7 @@
 * [告别命令行！Cherry Studio一键解锁OpenClaw，小白也能玩转Agent](https://mp.weixin.qq.com/s/VGk06vKt_kSg1Xj7kEVSAQ)
 * [OpenClaw 安装和使用指南](https://mp.weixin.qq.com/s/ZBPAxxklpr9cQUyBQm0L-Q)
 * [小龙虾最受欢迎的 10 个插件，装上之后才明白它有多强大！](https://mp.weixin.qq.com/s/TGG6dzAel18kq7mGuK7EJg)
+* [全网最全！60分钟全面掌握Claude Code~【附完整文档】](https://mp.weixin.qq.com/s/0Se4i8RHrtQc-wgGmUkfvw)
 
 
 
