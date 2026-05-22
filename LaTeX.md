@@ -168,6 +168,7 @@
 * [LaTeX 门外汉也能写顶刊，Murfy.ai：5.4 亿篇论文喂出的 AI 导师，比 Overleaf 更懂科研的 AI LaTeX 编辑器来了，科研论文写得又快又稳](https://mp.weixin.qq.com/s/ibvY4cn0yMv3lLrSqqV-Gw)
 * [Murfy, Free Online LaTeX Editor & Overleaf Alternative](https://www.murfy.ai/)
 * [还在手动敲 pdflatex？2026 年硬核 LaTeX 工具 AutoLaTeX：让复杂文档像全自动生产线”一样简单！](https://mp.weixin.qq.com/s/ZmhgaeOR8bgL69T1dKJC7A)
+* [告别手写 Preamble！这款神仙工具，让你像做 PPT 一样可视化调 LaTeX 样式！](https://mp.weixin.qq.com/s/5jnVnwmHy5xVCnjl2bCHJQ)
 
 
 ## 教学
