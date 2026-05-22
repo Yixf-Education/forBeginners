@@ -447,6 +447,7 @@
 * [关于SCIE 、ESCI数据库收录期刊的知识点以及辨别方式](https://mp.weixin.qq.com/s/7ThqK3sbrvXNgk9ZbYdydg)
 * [Zotero 8.0.1 生产力全开：2026 英文文献批量下载、自动化脚本与 AI 深度分析全攻略](https://mp.weixin.qq.com/s/un51lI1dBLLsGRIffs7iJA?poc_token=HIapgWmjTWONg2Q8ROUksblmkTk0I_c-N0hJJrod)
 * [毕业论文/顶会投稿必看：论文投稿前必跑！这款开源工具一键揪出参考文献“硬伤”，审稿人再也挑不出刺，格式错误一扫而光！](https://mp.weixin.qq.com/s/7XULduaHQhidIroHVuFSmQ)
+* [如果你使用 Zotero 看文献，那这9个亲测必备插件你绝不能错过！](https://mp.weixin.qq.com/s/--m0R2UN5rGbDKA9ujQuRA)
 
 ## 数据集
 
