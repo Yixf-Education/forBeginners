@@ -167,6 +167,10 @@
 * [全网最全！60分钟全面掌握Claude Code~【附完整文档】](https://mp.weixin.qq.com/s/0Se4i8RHrtQc-wgGmUkfvw)
 * [2026年了，我强烈推荐你用一用Codex，功能太全面了！附使用指南](https://mp.weixin.qq.com/s/CVdWc0FIWeGf1zWpsGz-bQ)
 * [Codex最全使用教程：从安装到使用精通](https://mp.weixin.qq.com/s/pOF5IqIj9i8iNml9GjXvcw)
+* [Claude Code 大型代码库最佳实践：从入门到精通的完整指南](https://mp.weixin.qq.com/s/3k5QTEXe6Db4DXkXAIfXsA)
+* [Claude Code工作流选型指南：5套主流方案，哪套适合你？](https://mp.weixin.qq.com/s/OqvMlDdk5Q-tdJH0sN3RbQ)
+* [Claude Code 最系统手把手教程，从入门到精通（附完整 PDF）](https://mp.weixin.qq.com/s/TG0wZHuujCE9TsBmvsLy9w)
+* [在Claude Code里面用好DeepSeek V4的百万上下文](https://mp.weixin.qq.com/s/lFkcNjdY9_Zzgnd03um3xg)
 
 
 
