@@ -165,6 +165,8 @@
 * [OpenClaw 安装和使用指南](https://mp.weixin.qq.com/s/ZBPAxxklpr9cQUyBQm0L-Q)
 * [小龙虾最受欢迎的 10 个插件，装上之后才明白它有多强大！](https://mp.weixin.qq.com/s/TGG6dzAel18kq7mGuK7EJg)
 * [全网最全！60分钟全面掌握Claude Code~【附完整文档】](https://mp.weixin.qq.com/s/0Se4i8RHrtQc-wgGmUkfvw)
+* [2026年了，我强烈推荐你用一用Codex，功能太全面了！附使用指南](https://mp.weixin.qq.com/s/CVdWc0FIWeGf1zWpsGz-bQ)
+* [Codex最全使用教程：从安装到使用精通](https://mp.weixin.qq.com/s/pOF5IqIj9i8iNml9GjXvcw)
 
 
 
