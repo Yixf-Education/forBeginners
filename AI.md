@@ -318,6 +318,7 @@
 ## Skills
 
 * [GPTomics/bioSkills: a set of SKILLS.md for doing bioinformatics with agents like claude code](https://github.com/GPTomics/bioSkills)
+* [32个AI Agent组队帮你写论文](https://mp.weixin.qq.com/s/2qeXCJjmgKaqQZlv0byanA)
 
 ## 学习资料
 
