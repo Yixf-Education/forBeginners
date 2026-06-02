@@ -89,6 +89,7 @@
 * [K-Dense-AI/claude-scientific-skills: A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.](https://github.com/K-Dense-AI/claude-scientific-skills/tree/main)
 * [利用codespaces使用AI工具](https://mp.weixin.qq.com/s/eUS15Lv82ZnKUU4uh-i2BA)
 * [汇总一下，国内各大OpenClaw一站式部署平台](https://mp.weixin.qq.com/s/7JJ6L2rkrTSP0m7bTfrY1Q)
+* [再见了CodeX！OmniWork让我自己就是一个团队](https://mp.weixin.qq.com/s/34zBe8GQnszO9ZOaVLsC6w)
 
 
 ## 变革思考
@@ -316,6 +317,7 @@
 
 * [GPTomics/bioSkills: a set of SKILLS.md for doing bioinformatics with agents like claude code](https://github.com/GPTomics/bioSkills)
 * [32个AI Agent组队帮你写论文](https://mp.weixin.qq.com/s/2qeXCJjmgKaqQZlv0byanA)
+* [科研Skills更新了，Claude Code，Codex和小龙虾都能用](https://mp.weixin.qq.com/s/SLX8PNTXQDjTRqYCmfWBew)
 
 ## Claude & Codex
 
@@ -331,6 +333,11 @@
 * [Claude Code工作流选型指南：5套主流方案，哪套适合你？](https://mp.weixin.qq.com/s/OqvMlDdk5Q-tdJH0sN3RbQ)
 * [Claude Code 最系统手把手教程，从入门到精通（附完整 PDF）](https://mp.weixin.qq.com/s/TG0wZHuujCE9TsBmvsLy9w)
 * [在Claude Code里面用好DeepSeek V4的百万上下文](https://mp.weixin.qq.com/s/lFkcNjdY9_Zzgnd03um3xg)
+* [Codex 的 /goal 命令把 AI 编程从「告诉它做什么」变成「告诉它什么叫完成」。 6 种必踩的坑。](https://mp.weixin.qq.com/s/BI79qfRekxNh_5Na333eMg)
+* [面向学术研究人员的 Claude Code 入门指南](https://mp.weixin.qq.com/s/s8WUBiML_Kk7QUm4mcLoew)
+* [90%的人都在裸奔Claude Code，10大必装MCP推荐](https://mp.weixin.qq.com/s/QhnEAeMgm4h4Ck7jlNsnmQ)
+* [一个 Claude Code 插件，狂揽 20 万 Star！](https://mp.weixin.qq.com/s/EWfhQMrfHJXyZ-MjfxybNA)
+* [Claude Code实战：比Cursor更适合我的AI编程方式](https://mp.weixin.qq.com/s/TH2R98RhINeQSLhlyIfayQ)
 
 ## 学习资料
 
