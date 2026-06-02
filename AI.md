@@ -164,6 +164,7 @@
 * [告别命令行！Cherry Studio一键解锁OpenClaw，小白也能玩转Agent](https://mp.weixin.qq.com/s/VGk06vKt_kSg1Xj7kEVSAQ)
 * [OpenClaw 安装和使用指南](https://mp.weixin.qq.com/s/ZBPAxxklpr9cQUyBQm0L-Q)
 * [小龙虾最受欢迎的 10 个插件，装上之后才明白它有多强大！](https://mp.weixin.qq.com/s/TGG6dzAel18kq7mGuK7EJg)
+* [发现了一个用 AI 画图的新方式，出来的图是活的](https://mp.weixin.qq.com/s/QYS7xgMwWZriKanMyX-cfA)
 
 
 
@@ -262,6 +263,7 @@
 * [我用OpenClaw + Discord搭建了一个AI科研团队，7x24在线干活](https://mp.weixin.qq.com/s/sDT2I9aGKmZ6J7mz5cbanQ?poc_token=HPK_s2mjzBifT5Y4dIU4AblXovgUoFHm8Ommz8jo)
 * [配置医生的AI工具箱：从找文献到定选题，效率提升好几倍丨协和八](https://mp.weixin.qq.com/s/nxpLSBp7CqP3G7pQelBhUw)
 * [Darwin：开源的生物医学研究AI智能助手](https://mp.weixin.qq.com/s/TptQ-Ldkxb49JY0XAg2yVA)
+* [横评 5 款 AI 工具做生信分析：谁才是科研搬砖之王](https://mp.weixin.qq.com/s/jhghGlfL0wmSFMYBuvsrZQ)
 
 
 ## 分析绘图
@@ -340,6 +342,12 @@
 * [90%的人都在裸奔Claude Code，10大必装MCP推荐](https://mp.weixin.qq.com/s/QhnEAeMgm4h4Ck7jlNsnmQ)
 * [一个 Claude Code 插件，狂揽 20 万 Star！](https://mp.weixin.qq.com/s/EWfhQMrfHJXyZ-MjfxybNA)
 * [Claude Code实战：比Cursor更适合我的AI编程方式](https://mp.weixin.qq.com/s/TH2R98RhINeQSLhlyIfayQ)
+* [Codex 零基础实战教程，夯爆了！带你速通 15 种玩法](https://mp.weixin.qq.com/s/Zlkom9qPhTxnW4WcroCxmg)
+* [OpenAI超级应用Codex 的纯小白入门指南，我奶奶看了都说好。](https://mp.weixin.qq.com/s/rOnvAP3tQw2e9WPk-tlyIQ)
+* [什么是AI智能体？这篇5000字长文为你讲清楚](https://mp.weixin.qq.com/s/XZHdrGfFxKzUYku8arXv_A)
+* [Codex 保姆级入门：从安装、权限到第一次让 AI 真正替你干活](https://mp.weixin.qq.com/s/RYUsb0yQiVN5waA6_pONWg)
+* [Codex 官方团队：如何把 Codex 用到极致](https://mp.weixin.qq.com/s/6t8hu_XU48jC3T-fc_B5FQ)
+* [codex给新macbook一口气安装1400+的R包：不费吹灰之力！](https://mp.weixin.qq.com/s/HLjcZn2T3H9ELqa7xuGiSg)
 
 ## 学习资料
 
