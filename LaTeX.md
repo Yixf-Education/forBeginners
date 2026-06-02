@@ -115,6 +115,9 @@
 * [LaTeX 排版质变指南：用了 microtype，导师都说我的论文看起来像“出版级”](https://mp.weixin.qq.com/s/ZcEMEpuo0kKZJ7HLRN7MXg?poc_token=HEWc1WmjoO_wpOBzuDFJZ9qLi109AHFd2odFWsFT)
 * [告别繁琐代码：tabular² 宏包，重新定义 LaTeX 表格排版 - 一中文作者开发的宏包，赞！](https://mp.weixin.qq.com/s/5ia95eoPDzvBmQ46F3oD1w)
 * [拒绝格式崩溃！这款开源神器让 LaTeX Beamer 完美变身 PowerPoint](https://mp.weixin.qq.com/s/RnaiUzVrfKi2XvbX9KbqTA)
+* [一键统一印刷与屏幕色彩：LaTeX printcolormanager 包使用指南](https://mp.weixin.qq.com/s/kBfoOm0c5_cb2HhuC0mFzg)
+* [前端代码太重？来瞅瞅 LaTeX 圈的新面孔：hawkdraw 如何用现代 LaTeX3 语法优雅画图](https://mp.weixin.qq.com/s/WCoAoon7NZOJ-gVLQ-sVgA)
+* 
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
@@ -225,6 +228,7 @@
 * [利用 Tectonic (LaTeX/Beamer) 和 AI 快速生成学术海报](https://mp.weixin.qq.com/s/-2IlTsx5JdJGXymJ4RnKeg)
 * [别以为学术海报只能“将就”，Gemini：一个把 beamerposter 变成艺术的主题](https://mp.weixin.qq.com/s/d3C1u8aOP6nAsg25ZY1SGQ)
 * [arcAman07/TexGuardian: AI-powered terminal assistant for LaTeX academic papers — verifies, fixes, and polishes your paper for conference submission with reviewable diff patches and checkpoint safety.](https://github.com/arcAman07/TexGuardian)
+* [arXiv最新论文：让 LaTeX 代码成为AI的高质量知识源，教你用 LaTeX 自动化生成语义增强知识库！科研/教学辅助效率翻倍！](https://mp.weixin.qq.com/s/6uHkwx8nNpZjGOUoZbv_Cg)
 
 ## 幻灯片
 * [R Markdown 制作 beamer 幻灯片](https://mp.weixin.qq.com/s/vnDD1Ovx1TaW4TdBnf56vQ)
