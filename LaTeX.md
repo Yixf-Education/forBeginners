@@ -114,6 +114,7 @@
 * [最美中文 LaTeX 书稿模版 - Beautybook 的 2026 最新版来了](https://mp.weixin.qq.com/s/hQT8XuB_d51OcFsnE_5pXg)
 * [LaTeX 排版质变指南：用了 microtype，导师都说我的论文看起来像“出版级”](https://mp.weixin.qq.com/s/ZcEMEpuo0kKZJ7HLRN7MXg?poc_token=HEWc1WmjoO_wpOBzuDFJZ9qLi109AHFd2odFWsFT)
 * [告别繁琐代码：tabular² 宏包，重新定义 LaTeX 表格排版 - 一中文作者开发的宏包，赞！](https://mp.weixin.qq.com/s/5ia95eoPDzvBmQ46F3oD1w)
+* [拒绝格式崩溃！这款开源神器让 LaTeX Beamer 完美变身 PowerPoint](https://mp.weixin.qq.com/s/RnaiUzVrfKi2XvbX9KbqTA)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
@@ -169,6 +170,8 @@
 * [Murfy, Free Online LaTeX Editor & Overleaf Alternative](https://www.murfy.ai/)
 * [还在手动敲 pdflatex？2026 年硬核 LaTeX 工具 AutoLaTeX：让复杂文档像全自动生产线”一样简单！](https://mp.weixin.qq.com/s/ZmhgaeOR8bgL69T1dKJC7A)
 * [告别手写 Preamble！这款神仙工具，让你像做 PPT 一样可视化调 LaTeX 样式！](https://mp.weixin.qq.com/s/5jnVnwmHy5xVCnjl2bCHJQ)
+* [拒绝格式崩溃！这款开源神器让 LaTeX Beamer 完美变身 PowerPoint](https://mp.weixin.qq.com/s/RnaiUzVrfKi2XvbX9KbqTA)
+* [LaTeXSnipper 用户手册 v2.3.2](https://latexsnipper.interknot.dpdns.org/user_manual.html)
 
 
 ## 教学
