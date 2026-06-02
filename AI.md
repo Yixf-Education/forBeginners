@@ -155,8 +155,6 @@
 * [借助AI一键下载网页中的所有数据，如此简单！](https://mp.weixin.qq.com/s/q70mgtGzzoubk_93QMJA2A)
 * [DeepSeek-0528生物信息能力测试](https://mp.weixin.qq.com/s/zPv2oJgK8glUsCYiD1adMA)
 * [使用Gemini的生图模型制作职业照](https://mp.weixin.qq.com/s/VSumDO1dh4R7y3kC9pB5gg)
-* [Claude Code 安装、国内使用、权限配置、插件使用、可视化配置、生态工具等](https://mp.weixin.qq.com/s/vunXvRZteU10cxlIjZ1cUw)
-* [Claude Code + Minimax2.1初体验](https://mp.weixin.qq.com/s/R1nolgEHVc_tlsbf6FAdLQ)
 * [别傻读注水AI论文！NoteBookLM又帮我节省几根头发](https://mp.weixin.qq.com/s/bJcHHKNhkERHsTV-QOKMjw)
 * [从“打工人”到“指挥官”：AI 时代的终端生存指南](https://mp.weixin.qq.com/s/7WfOXPwjhelFi_jgHODWaQ)
 * [你真的会使用AI吗？10种AI的正确打开方式](https://mp.weixin.qq.com/s/yOV9ZDHS3y3KKROtXilWYA)
@@ -164,13 +162,6 @@
 * [告别命令行！Cherry Studio一键解锁OpenClaw，小白也能玩转Agent](https://mp.weixin.qq.com/s/VGk06vKt_kSg1Xj7kEVSAQ)
 * [OpenClaw 安装和使用指南](https://mp.weixin.qq.com/s/ZBPAxxklpr9cQUyBQm0L-Q)
 * [小龙虾最受欢迎的 10 个插件，装上之后才明白它有多强大！](https://mp.weixin.qq.com/s/TGG6dzAel18kq7mGuK7EJg)
-* [全网最全！60分钟全面掌握Claude Code~【附完整文档】](https://mp.weixin.qq.com/s/0Se4i8RHrtQc-wgGmUkfvw)
-* [2026年了，我强烈推荐你用一用Codex，功能太全面了！附使用指南](https://mp.weixin.qq.com/s/CVdWc0FIWeGf1zWpsGz-bQ)
-* [Codex最全使用教程：从安装到使用精通](https://mp.weixin.qq.com/s/pOF5IqIj9i8iNml9GjXvcw)
-* [Claude Code 大型代码库最佳实践：从入门到精通的完整指南](https://mp.weixin.qq.com/s/3k5QTEXe6Db4DXkXAIfXsA)
-* [Claude Code工作流选型指南：5套主流方案，哪套适合你？](https://mp.weixin.qq.com/s/OqvMlDdk5Q-tdJH0sN3RbQ)
-* [Claude Code 最系统手把手教程，从入门到精通（附完整 PDF）](https://mp.weixin.qq.com/s/TG0wZHuujCE9TsBmvsLy9w)
-* [在Claude Code里面用好DeepSeek V4的百万上下文](https://mp.weixin.qq.com/s/lFkcNjdY9_Zzgnd03um3xg)
 
 
 
@@ -325,6 +316,21 @@
 
 * [GPTomics/bioSkills: a set of SKILLS.md for doing bioinformatics with agents like claude code](https://github.com/GPTomics/bioSkills)
 * [32个AI Agent组队帮你写论文](https://mp.weixin.qq.com/s/2qeXCJjmgKaqQZlv0byanA)
+
+## Claude & Codex
+
+* [Claude Code Workflow 隐藏功能首测：export 开启 + JS 脚本编排 97 个 Agent 跑 PR 审查](https://mp.weixin.qq.com/s/nrn2Btrx2MkGok2W7y_nJw)
+* [Zero to Claude Code — Learn Terminal & AI Pair Programming](https://zero2claude.dev/)
+* [Claude Code 辅助工具清单：从裸用到好用就差这几步](https://mp.weixin.qq.com/s/AV4Z2IKvepC307HCkj8GOQ)
+* [Claude Code 安装、国内使用、权限配置、插件使用、可视化配置、生态工具等](https://mp.weixin.qq.com/s/vunXvRZteU10cxlIjZ1cUw)
+* [Claude Code + Minimax2.1初体验](https://mp.weixin.qq.com/s/R1nolgEHVc_tlsbf6FAdLQ)
+* [全网最全！60分钟全面掌握Claude Code~【附完整文档】](https://mp.weixin.qq.com/s/0Se4i8RHrtQc-wgGmUkfvw)
+* [2026年了，我强烈推荐你用一用Codex，功能太全面了！附使用指南](https://mp.weixin.qq.com/s/CVdWc0FIWeGf1zWpsGz-bQ)
+* [Codex最全使用教程：从安装到使用精通](https://mp.weixin.qq.com/s/pOF5IqIj9i8iNml9GjXvcw)
+* [Claude Code 大型代码库最佳实践：从入门到精通的完整指南](https://mp.weixin.qq.com/s/3k5QTEXe6Db4DXkXAIfXsA)
+* [Claude Code工作流选型指南：5套主流方案，哪套适合你？](https://mp.weixin.qq.com/s/OqvMlDdk5Q-tdJH0sN3RbQ)
+* [Claude Code 最系统手把手教程，从入门到精通（附完整 PDF）](https://mp.weixin.qq.com/s/TG0wZHuujCE9TsBmvsLy9w)
+* [在Claude Code里面用好DeepSeek V4的百万上下文](https://mp.weixin.qq.com/s/lFkcNjdY9_Zzgnd03um3xg)
 
 ## 学习资料
 
