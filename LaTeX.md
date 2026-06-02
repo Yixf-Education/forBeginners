@@ -198,6 +198,7 @@
 * [暨南大学er出卷福音｜专属LaTeX试卷模板-一份 tex 文件直接编译出A/B卷+对应答案卷，出卷效率拉满](https://mp.weixin.qq.com/s/ZnZGJVhOCjLdwva0PwSpHw)
 * [高中数学题库管理与组卷系统-基于 Streamlit 和 LaTeX 自动化高中数学题库管理与智能组卷系统](https://mp.weixin.qq.com/s/govpfx6Hzxc1UF-uygmSBA)
 * [别再手动凑数了！这款开源 LaTeX 自动化出卷神器，助你一键生成期末试卷！](https://mp.weixin.qq.com/s/Wx3OY0tcg25nOEsDAf66YQ)
+* [一份源文件可一键编译出 A 卷、B 卷、A 卷答案、B 卷答案，这个试卷模版不一般](https://mp.weixin.qq.com/s/atRXYIBgJLNPPfS-Z3d5sw)
 
 ## 科研
 * [学术写作注意事项 —— 格式问题](https://mp.weixin.qq.com/s/1eGN7jRRMIih_sDljN8Bpw)
