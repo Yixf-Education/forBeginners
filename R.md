@@ -223,6 +223,7 @@
 * [**好物推荐之花样配色**](https://mp.weixin.qq.com/s/96JE3zG9hWn-_vqk_YQqMA)
 * [**R可视化宝藏库R-CHARTS：从基础绘图到高级配色**](https://mp.weixin.qq.com/s/TPS9cw-ET8zJU08UCp7RIg)
 * [**Fundamentals of Data Visualization**](https://clauswilke.com/dataviz/)
+* [科研配色 | 第54期.闭眼抄顶刊科研箱线图配色](https://mp.weixin.qq.com/s/H3Ae5-rTaFlfgF38JpRLQA)
 * [CNScolor](https://tigerz.shinyapps.io/CNScolor/#%E9%A6%96%E9%A1%B5)
 * [科研工具箱 | 开源免费的顶刊配色项目CNScolor](https://mp.weixin.qq.com/s/bBQCgf-HuJ7nXJs7RSSUMA)
 * [clauswilke/dataviz: A book covering the fundamentals of data visualization](https://github.com/clauswilke/dataviz)
