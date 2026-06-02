@@ -448,6 +448,7 @@
 * [Zotero 8.0.1 生产力全开：2026 英文文献批量下载、自动化脚本与 AI 深度分析全攻略](https://mp.weixin.qq.com/s/un51lI1dBLLsGRIffs7iJA?poc_token=HIapgWmjTWONg2Q8ROUksblmkTk0I_c-N0hJJrod)
 * [毕业论文/顶会投稿必看：论文投稿前必跑！这款开源工具一键揪出参考文献“硬伤”，审稿人再也挑不出刺，格式错误一扫而光！](https://mp.weixin.qq.com/s/7XULduaHQhidIroHVuFSmQ)
 * [如果你使用 Zotero 看文献，那这9个亲测必备插件你绝不能错过！](https://mp.weixin.qq.com/s/--m0R2UN5rGbDKA9ujQuRA)
+* [从选题到投稿：拆解论文发表流程 从容应对不犯难](https://mp.weixin.qq.com/s/9BKBjVj9nbqRYCmKhs-mTw?poc_token=HNwrHmqjKOZpAvOF3xJZT4WME5i79MS7ttFwdwCv)
 
 ## 数据集
 
