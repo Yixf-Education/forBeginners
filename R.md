@@ -379,6 +379,7 @@
 * [拯救老土的热图，99套配色大全来了](https://mp.weixin.qq.com/s/fr0lmBfrnacV-K6e3_WMUw)
 * [如何使用ggplot2绘小提琴图、热图、散点图？](https://mp.weixin.qq.com/s/XF4fYIqNDdeqeBKHmgqp8A)
 * [R语言绘图神器，1分钟带你画出各种图表~](https://mp.weixin.qq.com/s/NjUweHiBZ56xFH1rHax9rQ)
+* [某单位因使用“问题地图”被罚款+立案！自然资源部标准地图的正确用法（附2026年最新链接）](https://mp.weixin.qq.com/s/OaWM7dDeeN_ilaXUD5juvw)
 
 # Rmarkdown
 
