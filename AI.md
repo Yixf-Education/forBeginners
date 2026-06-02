@@ -133,6 +133,7 @@
 * [一只龙虾闯进了生物信息学：25万星AI平台上的第一个生信项目](https://mp.weixin.qq.com/s/2k_V9BLlv2rzkPxNnyM2qA)
 * [OpenAI员工教小龙虾自动赚钱，2天后它给网友转了44万美元](https://mp.weixin.qq.com/s/sLAt5P476v-Im3wwb5qA_w)
 * [从clusterProfiler更新中学习Prompt设计思路](https://mp.weixin.qq.com/s/S77on1FvIOeFdBojiHlZuQ?poc_token=HPe_s2mju1VRD9zjhw0Z57LmXNjPMBPXvt1S9eFb)
+* [北大教授：现在的课堂已经死了](https://mp.weixin.qq.com/s/QT1q0gsSzZLV0XoTmGPCJA)
 
 
 ## 基本使用
