@@ -317,8 +317,9 @@
 ## Skills
 
 * [GPTomics/bioSkills: a set of SKILLS.md for doing bioinformatics with agents like claude code](https://github.com/GPTomics/bioSkills)
+* [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills): Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.
 * [32个AI Agent组队帮你写论文](https://mp.weixin.qq.com/s/2qeXCJjmgKaqQZlv0byanA)
-* [科研Skills更新了，Claude Code，Codex和小龙虾都能用](https://mp.weixin.qq.com/s/SLX8PNTXQDjTRqYCmfWBew)
+* [**科研Skills更新了，Claude Code，Codex和小龙虾都能用**](https://mp.weixin.qq.com/s/SLX8PNTXQDjTRqYCmfWBew)
 
 ## Claude & Codex
 
