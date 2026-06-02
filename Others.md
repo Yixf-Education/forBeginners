@@ -180,6 +180,7 @@
 * [p值的真相：为什么假设检验只说拒绝，不提接受？](https://mp.weixin.qq.com/s/WfXmHDdC2-1fRNSXD4pnxQ)
 * [【转载】为什么“统计显著性”毫无意义](https://mp.weixin.qq.com/s/Cp1WrBqSupqVjWXwDFrUmw)
 * [Pearson还是Spearman？一文讲透相关性算法选择](https://mp.weixin.qq.com/s/enWe6KRa9BDCSdmYgHTVEA)
+* [数据不显著千万别改！80%的硕博不知道：换个方法，p 值瞬间从 0.08 变 0.02](https://mp.weixin.qq.com/s/5gn9JgZfORgq-5P8hnBhnQ)
 
 ## 统计学入门
 
@@ -450,6 +451,9 @@
 * [如果你使用 Zotero 看文献，那这9个亲测必备插件你绝不能错过！](https://mp.weixin.qq.com/s/--m0R2UN5rGbDKA9ujQuRA)
 * [从选题到投稿：拆解论文发表流程 从容应对不犯难](https://mp.weixin.qq.com/s/9BKBjVj9nbqRYCmKhs-mTw?poc_token=HNwrHmqjKOZpAvOF3xJZT4WME5i79MS7ttFwdwCv)
 * [《Nature》不会公开的写作内幕：你的论文差的从来不是数据](https://mp.weixin.qq.com/s/2MsuuYwQBrvuXmGUY7NPOg)
+* [为什么科学需要“局外人”](https://mp.weixin.qq.com/s/p9S6-rhLvArrnie7cLNzeg)
+* [研究方法 | 如何制定“可研究的问题”](https://mp.weixin.qq.com/s/2LZPXDmJwQjqJQGBIqAv0A)
+* [科研人员怎么参加学术会议](https://mp.weixin.qq.com/s/YCpjYLbEnANEhTo9SlVKHQ)
 
 ## 数据集
 
