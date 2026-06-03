@@ -363,6 +363,7 @@
 * [Claude Code 最强 Agent，配上 DeepSeek V4，性价比炸了（附保姆级教程）](https://mp.weixin.qq.com/s/aKbDgxgacL455kw4LmaRTw)
 * [一个Codex凭什么覆盖我的所有办公场景？从安装到上手，这篇全讲明白](https://mp.weixin.qq.com/s/NI6BRWCEVaGE-YbarSAgYA)
 * [只需3句话让WorkBuddy帮你安装设置好Claude code+deepseek V4 pro](https://mp.weixin.qq.com/s/KjDagKgIM793qZWmqkGJew)
+* [我真正推荐的 7 个 Claude Code 工作流：每个都附固定问法](https://mp.weixin.qq.com/s/i0dNm-BTrsrJnzP2JGfu3w)
 
 ## 学习资料
 
