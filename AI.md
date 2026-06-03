@@ -320,8 +320,12 @@
 
 * [GPTomics/bioSkills: a set of SKILLS.md for doing bioinformatics with agents like claude code](https://github.com/GPTomics/bioSkills)
 * [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills): Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.
+* [Imbad0202/academic-research-skills: Academic Research Skills for Claude Code: research → write → review → revise → finalize](https://github.com/imbad0202/academic-research-skills)
 * [32个AI Agent组队帮你写论文](https://mp.weixin.qq.com/s/2qeXCJjmgKaqQZlv0byanA)
 * [**科研Skills更新了，Claude Code，Codex和小龙虾都能用**](https://mp.weixin.qq.com/s/SLX8PNTXQDjTRqYCmfWBew)
+* [GitHub 6.4k Stars！用 Claude Code 写论文的全套流水线，有人打包开源了](https://mp.weixin.qq.com/s/A03zTmo_oGsUC74FUhGMUw)
+* [Claude Code十一个常用Skill推荐（含各职业最佳Skill）](https://mp.weixin.qq.com/s/1UwdUwLYhAOPZ2jyNUjfJA)
+* [学习AI，就是学习Agent Skills](https://mp.weixin.qq.com/s/psW1Sk2rgMF1ISZWKxakNg)
 
 ## Claude & Codex
 
@@ -348,6 +352,16 @@
 * [Codex 保姆级入门：从安装、权限到第一次让 AI 真正替你干活](https://mp.weixin.qq.com/s/RYUsb0yQiVN5waA6_pONWg)
 * [Codex 官方团队：如何把 Codex 用到极致](https://mp.weixin.qq.com/s/6t8hu_XU48jC3T-fc_B5FQ)
 * [codex给新macbook一口气安装1400+的R包：不费吹灰之力！](https://mp.weixin.qq.com/s/HLjcZn2T3H9ELqa7xuGiSg)
+* [Claude Code + DeepSeek-V4 接入指南！百万上下文 + 2.5 折，3 分钟搞定](https://mp.weixin.qq.com/s/-PYOfDmYdm-nJMfUrLf2BQ)
+* [新手必看：无需Claude账号也能使用Claude Code完整指南](https://mp.weixin.qq.com/s/mK_s-mzEyuo7f61ZdHSuRg)
+* [在Claude Code里面用好DeepSeek V4的百万上下文](https://mp.weixin.qq.com/s/lFkcNjdY9_Zzgnd03um3xg)
+* [又一个 Claude Code 接 DeepSeek 的利器，更稳了。](https://mp.weixin.qq.com/s/xWkXMgCnVFvrJ_vevPr7cg)
+* [一路飙到 3.4 万 Star 的 Claude Code 最佳实践，真有东西。](https://mp.weixin.qq.com/s/HNFhpKEkQWQQsREUsp-OWg)
+* [shanraisshan/claude-code-best-practice: from vibe coding to agentic engineering - practice makes claude perfect](https://github.com/shanraisshan/claude-code-best-practice)
+* [让codex帮我配置新买的一台生信人专属的Mac电脑，效果如何呢？](https://mp.weixin.qq.com/s/u2czy5jgmYwe_7ZBAoLV6g)
+* [Claude Code 最强 Agent，配上 DeepSeek V4，性价比炸了（附保姆级教程）](https://mp.weixin.qq.com/s/aKbDgxgacL455kw4LmaRTw)
+* [一个Codex凭什么覆盖我的所有办公场景？从安装到上手，这篇全讲明白](https://mp.weixin.qq.com/s/NI6BRWCEVaGE-YbarSAgYA)
+* [只需3句话让WorkBuddy帮你安装设置好Claude code+deepseek V4 pro](https://mp.weixin.qq.com/s/KjDagKgIM793qZWmqkGJew)
 
 ## 学习资料
 
