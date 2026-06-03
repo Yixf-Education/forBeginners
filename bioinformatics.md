@@ -625,6 +625,7 @@
 * [GWAS_GAPIT_Practical_AC - Google 云端硬盘](https://drive.google.com/drive/folders/11H_7CqzOWc7mlA2PsIgTe34zvh0lR5Ng)
 * [跟着东京大学镰谷研究室学习GWAS分析及可视化](https://mp.weixin.qq.com/s/5mL81nmJ4XnjC_7q2UWR8Q)
 * [Tutorial guide - GWASTutorial](https://cloufield.github.io/GWASTutorial/)
+* [Journal Club（第055期）：从 lead SNP 到 causal variant 聊 fine-mapping 的历史逻辑、边界与进展](https://mp.weixin.qq.com/s/V3OQNEVj_GZP21bTQ-EY6Q)
 
 ## 生物样本库
 
