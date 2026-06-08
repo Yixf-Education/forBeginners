@@ -364,6 +364,10 @@
 * [一个Codex凭什么覆盖我的所有办公场景？从安装到上手，这篇全讲明白](https://mp.weixin.qq.com/s/NI6BRWCEVaGE-YbarSAgYA)
 * [只需3句话让WorkBuddy帮你安装设置好Claude code+deepseek V4 pro](https://mp.weixin.qq.com/s/KjDagKgIM793qZWmqkGJew)
 * [我真正推荐的 7 个 Claude Code 工作流：每个都附固定问法](https://mp.weixin.qq.com/s/i0dNm-BTrsrJnzP2JGfu3w)
+* [Claude Code 只装2个插件就够了：3个月踩坑后的终极配置方案](https://mp.weixin.qq.com/s/qNbrMRcZbnGtgsdDuNo3KQ?poc_token=HJV5JmqjWPf4vKrnpZE-ZVRxjMpirecX2sbVP5ON)
+* [Claude Code 插件系统全解析，一个人的 AI 工作流如何变成整个团队的生产力](https://mp.weixin.qq.com/s/0QlAxwGuxy-FItv38k6j9Q?poc_token=HJh5JmqjBoCWrtDI5lzXAAayfTFBH_FLytuW5BHL)
+* [利用AI编程工具Codex，我制作了一款中国风文字冒险游戏](https://mp.weixin.qq.com/s/LUptNa-vAM4p2OJxImquuA)
+* [Claude Code实战5技巧](https://mp.weixin.qq.com/s/DdceutuOWGprQqZ2gUY4Sw)
 
 ## 学习资料
 
