@@ -369,6 +369,8 @@
 * [利用AI编程工具Codex，我制作了一款中国风文字冒险游戏](https://mp.weixin.qq.com/s/LUptNa-vAM4p2OJxImquuA)
 * [Claude Code实战5技巧](https://mp.weixin.qq.com/s/DdceutuOWGprQqZ2gUY4Sw)
 * [跟着菜鸟新叶上道：codex也能接入deepseek了！](https://mp.weixin.qq.com/s/3buMG6_YLc7v63JgNInNUw)
+* [我发现一个 26.5k 星的开源 Claude Skill——它把博士整个研究流程做完了](https://mp.weixin.qq.com/s/85h9X36HDrFRQS91raQ62g)
+* [在生信工作中使用 agent](https://mp.weixin.qq.com/s/SOL1zV9ledDwOQ3gDQISJw)
 
 ## 学习资料
 
