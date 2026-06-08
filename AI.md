@@ -368,6 +368,7 @@
 * [Claude Code 插件系统全解析，一个人的 AI 工作流如何变成整个团队的生产力](https://mp.weixin.qq.com/s/0QlAxwGuxy-FItv38k6j9Q?poc_token=HJh5JmqjBoCWrtDI5lzXAAayfTFBH_FLytuW5BHL)
 * [利用AI编程工具Codex，我制作了一款中国风文字冒险游戏](https://mp.weixin.qq.com/s/LUptNa-vAM4p2OJxImquuA)
 * [Claude Code实战5技巧](https://mp.weixin.qq.com/s/DdceutuOWGprQqZ2gUY4Sw)
+* [跟着菜鸟新叶上道：codex也能接入deepseek了！](https://mp.weixin.qq.com/s/3buMG6_YLc7v63JgNInNUw)
 
 ## 学习资料
 
