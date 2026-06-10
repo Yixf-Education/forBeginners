@@ -376,6 +376,7 @@
 * [Claude Code 必备 skill，10 分钟做出专业 PPT、Excel 分析和 Word 报告](https://mp.weixin.qq.com/s/9NkryQExMAcFA_8985howA)
 * [10 个顶级 Claude Code Skills，装上就删不掉！附真实使用场景和效果对比](https://mp.weixin.qq.com/s/_04FWvqJwDfPhOcNJr__hQ)
 * [Claude Code 该怎么配，才越用越顺？推荐这 8 个 MCP](https://mp.weixin.qq.com/s/965XeYZh4ODszdjqgDaBwQ)
+* [185000 星的 Superpowers 插件，90% 的人只用了它 10% 的功能](https://mp.weixin.qq.com/s/qKyqvKkz1-KKwKEXbZFWlA)
 
 ## 学习资料
 
