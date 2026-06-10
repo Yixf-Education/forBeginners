@@ -374,6 +374,7 @@
 * [Claude Code 最强配置指南：12 插件 + 20 技能 + 3 省 Token 神器，让你的 AI 编程效率翻 10 倍](https://mp.weixin.qq.com/s/EWplLDdiv9RYxPwXuxbr5g)
 * [Claude Code 用到这个程度，我算是开眼了](https://mp.weixin.qq.com/s/IbGXMYsRRLowEqr00su-Dw)
 * [Claude Code 必备 skill，10 分钟做出专业 PPT、Excel 分析和 Word 报告](https://mp.weixin.qq.com/s/9NkryQExMAcFA_8985howA)
+* [10 个顶级 Claude Code Skills，装上就删不掉！附真实使用场景和效果对比](https://mp.weixin.qq.com/s/_04FWvqJwDfPhOcNJr__hQ)
 
 ## 学习资料
 
