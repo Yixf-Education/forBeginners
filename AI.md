@@ -371,6 +371,9 @@
 * [跟着菜鸟新叶上道：codex也能接入deepseek了！](https://mp.weixin.qq.com/s/3buMG6_YLc7v63JgNInNUw)
 * [我发现一个 26.5k 星的开源 Claude Skill——它把博士整个研究流程做完了](https://mp.weixin.qq.com/s/85h9X36HDrFRQS91raQ62g)
 * [在生信工作中使用 agent](https://mp.weixin.qq.com/s/SOL1zV9ledDwOQ3gDQISJw)
+* [Claude Code 最强配置指南：12 插件 + 20 技能 + 3 省 Token 神器，让你的 AI 编程效率翻 10 倍](https://mp.weixin.qq.com/s/EWplLDdiv9RYxPwXuxbr5g)
+* [Claude Code 用到这个程度，我算是开眼了](https://mp.weixin.qq.com/s/IbGXMYsRRLowEqr00su-Dw)
+* [Claude Code 必备 skill，10 分钟做出专业 PPT、Excel 分析和 Word 报告](https://mp.weixin.qq.com/s/9NkryQExMAcFA_8985howA)
 
 ## 学习资料
 
