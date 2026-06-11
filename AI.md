@@ -165,6 +165,7 @@
 * [OpenClaw 安装和使用指南](https://mp.weixin.qq.com/s/ZBPAxxklpr9cQUyBQm0L-Q)
 * [小龙虾最受欢迎的 10 个插件，装上之后才明白它有多强大！](https://mp.weixin.qq.com/s/TGG6dzAel18kq7mGuK7EJg)
 * [发现了一个用 AI 画图的新方式，出来的图是活的](https://mp.weixin.qq.com/s/QYS7xgMwWZriKanMyX-cfA)
+* [选大模型还在看参数量？4k Stars 的开源工具帮你找到最适合你电脑的那个](https://mp.weixin.qq.com/s/yDvr8bg236qM1_f4ZD3hLQ)
 
 
 
