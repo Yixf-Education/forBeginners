@@ -378,6 +378,9 @@
 * [10 个顶级 Claude Code Skills，装上就删不掉！附真实使用场景和效果对比](https://mp.weixin.qq.com/s/_04FWvqJwDfPhOcNJr__hQ)
 * [Claude Code 该怎么配，才越用越顺？推荐这 8 个 MCP](https://mp.weixin.qq.com/s/965XeYZh4ODszdjqgDaBwQ)
 * [185000 星的 Superpowers 插件，90% 的人只用了它 10% 的功能](https://mp.weixin.qq.com/s/qKyqvKkz1-KKwKEXbZFWlA)
+* [完全免费，一键在服务器中部署antigravity cli](https://mp.weixin.qq.com/s/DTnLlIea_mxp_MVt_AKcEQ)
+* [Claude Code 接管科研全流程 Skills ：从文献检索到论文返修！](https://mp.weixin.qq.com/s/hHDijTHjeglsZcxTGK6Uow)
+* [别纠结Codex还是Claude Code了，决定上限的是这个（8 个必装 Skill，让你拥有顶级AI生产力）](https://mp.weixin.qq.com/s/-uYy9QDFEyUD1BJAsW-MIA)
 
 ## 学习资料
 
