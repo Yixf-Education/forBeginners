@@ -176,6 +176,7 @@
 * [告别手写 Preamble！这款神仙工具，让你像做 PPT 一样可视化调 LaTeX 样式！](https://mp.weixin.qq.com/s/5jnVnwmHy5xVCnjl2bCHJQ)
 * [拒绝格式崩溃！这款开源神器让 LaTeX Beamer 完美变身 PowerPoint](https://mp.weixin.qq.com/s/RnaiUzVrfKi2XvbX9KbqTA)
 * [LaTeXSnipper 用户手册 v2.3.2](https://latexsnipper.interknot.dpdns.org/user_manual.html)
+* [LaTeXSnipper：开源全平台 LaTeX 公式工作台与 Office 插件](https://mp.weixin.qq.com/s/WLdbiEnbGlc3pnJXKDYZJg)
 
 
 ## 教学
