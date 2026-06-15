@@ -118,6 +118,7 @@
 * [一键统一印刷与屏幕色彩：LaTeX printcolormanager 包使用指南](https://mp.weixin.qq.com/s/kBfoOm0c5_cb2HhuC0mFzg)
 * [前端代码太重？来瞅瞅 LaTeX 圈的新面孔：hawkdraw 如何用现代 LaTeX3 语法优雅画图](https://mp.weixin.qq.com/s/WCoAoon7NZOJ-gVLQ-sVgA)
 * [告别财务报表排版焦虑！这个“自动算账”宏包，让计算和数字对齐从此不再头疼](https://mp.weixin.qq.com/s/9T0JaxjecIB2GQkzgOOaKA)
+* [别再用死板的文本了！这个炫酷的 LaTeX 提示框宏包，闭眼入，拯救审美疲劳！](https://mp.weixin.qq.com/s/8nDcVniKCIMi4OoB-yZE_g)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
