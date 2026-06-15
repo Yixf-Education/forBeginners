@@ -134,6 +134,7 @@
 * [OpenAI员工教小龙虾自动赚钱，2天后它给网友转了44万美元](https://mp.weixin.qq.com/s/sLAt5P476v-Im3wwb5qA_w)
 * [从clusterProfiler更新中学习Prompt设计思路](https://mp.weixin.qq.com/s/S77on1FvIOeFdBojiHlZuQ?poc_token=HPe_s2mju1VRD9zjhw0Z57LmXNjPMBPXvt1S9eFb)
 * [北大教授：现在的课堂已经死了](https://mp.weixin.qq.com/s/QT1q0gsSzZLV0XoTmGPCJA)
+* [利用AI编程工具Codex，我制作了一款仙侠风格塔防游戏](https://mp.weixin.qq.com/s/5TMjq22q_MpmP0eqDbp8GQ)
 
 
 ## 基本使用
