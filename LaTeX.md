@@ -68,6 +68,7 @@
 * [LaTeX 每日一学 12 之 宏包与类 到底是个啥呀？百度，google Ai 说得都看不懂](https://mp.weixin.qq.com/s/HKS5d4emGlU8-rU3U_Ctcw)
 * [LaTeX 每日一学第 15 篇，LaTeX 字符输入](https://mp.weixin.qq.com/s/GsyB4pZbJeuvWTT5oPkn2g)
 * [告别 10GB 臃肿！TeX Live 极简安装指南：让你的 LaTeX 瘦身 90%](https://mp.weixin.qq.com/s/QxW6dZfCWUtKZ9xYE5f06w)
+* [博雅｜我常用的LaTeX快捷键](https://mp.weixin.qq.com/s/FxwxK8nLSHORyoanevbQ8Q)
 
 ## 宏包
 * [enumitem 宏包中的长度设置](https://mp.weixin.qq.com/s/1x1Q_ucVSN9Ks9wRx1Bk8w)
