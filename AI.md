@@ -328,6 +328,7 @@
 * [GitHub 6.4k Stars！用 Claude Code 写论文的全套流水线，有人打包开源了](https://mp.weixin.qq.com/s/A03zTmo_oGsUC74FUhGMUw)
 * [Claude Code十一个常用Skill推荐（含各职业最佳Skill）](https://mp.weixin.qq.com/s/1UwdUwLYhAOPZ2jyNUjfJA)
 * [学习AI，就是学习Agent Skills](https://mp.weixin.qq.com/s/psW1Sk2rgMF1ISZWKxakNg)
+* [打开AI时代的学习方式，公众号专辑蒸馏为skills：想蒸馏哪个就蒸馏哪个！](https://mp.weixin.qq.com/s/Clk-sPnWBKITAGykNN43CA)
 
 ## Claude & Codex
 
