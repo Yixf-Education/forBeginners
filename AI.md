@@ -135,6 +135,8 @@
 * [从clusterProfiler更新中学习Prompt设计思路](https://mp.weixin.qq.com/s/S77on1FvIOeFdBojiHlZuQ?poc_token=HPe_s2mju1VRD9zjhw0Z57LmXNjPMBPXvt1S9eFb)
 * [北大教授：现在的课堂已经死了](https://mp.weixin.qq.com/s/QT1q0gsSzZLV0XoTmGPCJA)
 * [利用AI编程工具Codex，我制作了一款仙侠风格塔防游戏](https://mp.weixin.qq.com/s/5TMjq22q_MpmP0eqDbp8GQ)
+* [从“写代码”到“兜得住”：普通人 AI 编程完全指南（2万字）](https://mp.weixin.qq.com/s/y1TLdIwnHiV2uY8PRXGdOw)
+* [让5个AI文明自己活15天，Claude建成了乌托邦，Grok四天团灭。](https://mp.weixin.qq.com/s/liui5Snk-WruCsxS5jywSw)
 
 
 ## 基本使用
@@ -383,6 +385,7 @@
 * [完全免费，一键在服务器中部署antigravity cli](https://mp.weixin.qq.com/s/DTnLlIea_mxp_MVt_AKcEQ)
 * [Claude Code 接管科研全流程 Skills ：从文献检索到论文返修！](https://mp.weixin.qq.com/s/hHDijTHjeglsZcxTGK6Uow)
 * [别纠结Codex还是Claude Code了，决定上限的是这个（8 个必装 Skill，让你拥有顶级AI生产力）](https://mp.weixin.qq.com/s/-uYy9QDFEyUD1BJAsW-MIA)
+* [让 Codex 自己装插件，才是它一战封神的最短路径](https://mp.weixin.qq.com/s/oYvt1ubo4iIUgk6N3bG0tw)
 
 ## 学习资料
 
