@@ -582,6 +582,8 @@
 * [clusterProfiler 也能做 PPI 网络分析了？没错，还能用 ggtangle 画出花来！](https://mp.weixin.qq.com/s/dpNPP7-KZPT0eYu9874LZQ)
 * [给Seurat默认的气泡图开个美颜！](https://mp.weixin.qq.com/s/ccEvSX72jD9lrXbzAmUcmw?poc_token=HIupgWmj49-OWoo5x6W8vl6hBpaJVTpRM51oXSol)
 * [如何从差异分析结果中筛选lnc或者miRNA](https://mp.weixin.qq.com/s/cRcRxZ19oD68ZlSHcHDYdw)
+* [从冗长到优雅：绘图代码简化实践](https://mp.weixin.qq.com/s/zbsaitDXdWSE9DKo7zJqmg)
+* [FeatureHeatmap解锁自带通路注释的神仙热图](https://mp.weixin.qq.com/s/MmlVlXpIjVpZXfUcCg9-GQ)
 
 # R包
 
