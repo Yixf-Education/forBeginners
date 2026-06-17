@@ -90,6 +90,7 @@
 * [利用codespaces使用AI工具](https://mp.weixin.qq.com/s/eUS15Lv82ZnKUU4uh-i2BA)
 * [汇总一下，国内各大OpenClaw一站式部署平台](https://mp.weixin.qq.com/s/7JJ6L2rkrTSP0m7bTfrY1Q)
 * [再见了CodeX！OmniWork让我自己就是一个团队](https://mp.weixin.qq.com/s/34zBe8GQnszO9ZOaVLsC6w)
+* [aweswitch更新：启动即记录，升级不操心](https://mp.weixin.qq.com/s/o3tEmFJuW7k3GFN0SqbuWg)
 
 
 ## 变革思考
@@ -137,6 +138,7 @@
 * [利用AI编程工具Codex，我制作了一款仙侠风格塔防游戏](https://mp.weixin.qq.com/s/5TMjq22q_MpmP0eqDbp8GQ)
 * [从“写代码”到“兜得住”：普通人 AI 编程完全指南（2万字）](https://mp.weixin.qq.com/s/y1TLdIwnHiV2uY8PRXGdOw)
 * [让5个AI文明自己活15天，Claude建成了乌托邦，Grok四天团灭。](https://mp.weixin.qq.com/s/liui5Snk-WruCsxS5jywSw)
+* ["为了醋包了一顿饺子"：科研与AI圈的虚火该降降了，一起看看大模型的7个错误方向](https://mp.weixin.qq.com/s/2dFMACf8jRnZ62ViFqvVRg)
 
 
 ## 基本使用
@@ -268,6 +270,8 @@
 * [配置医生的AI工具箱：从找文献到定选题，效率提升好几倍丨协和八](https://mp.weixin.qq.com/s/nxpLSBp7CqP3G7pQelBhUw)
 * [Darwin：开源的生物医学研究AI智能助手](https://mp.weixin.qq.com/s/TptQ-Ldkxb49JY0XAg2yVA)
 * [横评 5 款 AI 工具做生信分析：谁才是科研搬砖之王](https://mp.weixin.qq.com/s/jhghGlfL0wmSFMYBuvsrZQ)
+* [Cursor/Claude 梦幻联动：一键生成完美 LaTeX 代码，导师看完都以为我开挂了，让 AI 变成你的顶级学术秘书](https://mp.weixin.qq.com/s/vYD3RV2lkRkpTi4B8MjioQ)
+* [把你研究生导师十年经验塞进 Claude，这件事比我想象的有意思](https://mp.weixin.qq.com/s/v_h1JKqOqtEraQap-evHOQ)
 
 
 ## 分析绘图
