@@ -171,6 +171,7 @@
 * [小龙虾最受欢迎的 10 个插件，装上之后才明白它有多强大！](https://mp.weixin.qq.com/s/TGG6dzAel18kq7mGuK7EJg)
 * [发现了一个用 AI 画图的新方式，出来的图是活的](https://mp.weixin.qq.com/s/QYS7xgMwWZriKanMyX-cfA)
 * [选大模型还在看参数量？4k Stars 的开源工具帮你找到最适合你电脑的那个](https://mp.weixin.qq.com/s/yDvr8bg236qM1_f4ZD3hLQ)
+* [跟着新叶上道AI工具OpenCode：配置GLM-5.2模型（与Claude Fable 5一争高下）](https://mp.weixin.qq.com/s/Ot3CQxXNoK3FhjHPWa_hwA)
 
 
 
@@ -336,6 +337,8 @@
 * [Claude Code十一个常用Skill推荐（含各职业最佳Skill）](https://mp.weixin.qq.com/s/1UwdUwLYhAOPZ2jyNUjfJA)
 * [学习AI，就是学习Agent Skills](https://mp.weixin.qq.com/s/psW1Sk2rgMF1ISZWKxakNg)
 * [打开AI时代的学习方式，公众号专辑蒸馏为skills：想蒸馏哪个就蒸馏哪个！](https://mp.weixin.qq.com/s/Clk-sPnWBKITAGykNN43CA)
+* [80行文字，10万颗星——这个 CLAUDE.md 到底解决了什么问题](https://mp.weixin.qq.com/s/0ZzoDhJIj_KiJdDy1Jx9lQ)
+* 
 
 ## Claude & Codex
 
@@ -390,6 +393,7 @@
 * [Claude Code 接管科研全流程 Skills ：从文献检索到论文返修！](https://mp.weixin.qq.com/s/hHDijTHjeglsZcxTGK6Uow)
 * [别纠结Codex还是Claude Code了，决定上限的是这个（8 个必装 Skill，让你拥有顶级AI生产力）](https://mp.weixin.qq.com/s/-uYy9QDFEyUD1BJAsW-MIA)
 * [让 Codex 自己装插件，才是它一战封神的最短路径](https://mp.weixin.qq.com/s/oYvt1ubo4iIUgk6N3bG0tw)
+* [盘点 Claude Code 插件市场 Top 20：排行第一有 76 万安装量](https://mp.weixin.qq.com/s/9twMItUyQEh63uegeRzHew)
 
 ## 学习资料
 
