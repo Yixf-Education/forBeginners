@@ -478,6 +478,7 @@
 * [如何绘制惊艳审稿人的科研示意图？](https://mp.weixin.qq.com/s/Urlbq3qRRCHOWHuLSehaqg)
 * [Adobe Illustrator基础功能汇总篇](https://mp.weixin.qq.com/s/9UpRLQRmUiCvBTblMq7E5Q)
 * [Adobe Illustrator基础功能介绍](https://mp.weixin.qq.com/s/kpzdw92kFz83mcgG7CxtsQ)
+* [科研绘图不纠结:这个2.5d风格刚刚好](https://mp.weixin.qq.com/s/V1YgRgsIYSgbQDNcdFmq9Q)
 
 ## NSFC
 
