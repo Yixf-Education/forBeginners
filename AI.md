@@ -172,6 +172,7 @@
 * [发现了一个用 AI 画图的新方式，出来的图是活的](https://mp.weixin.qq.com/s/QYS7xgMwWZriKanMyX-cfA)
 * [选大模型还在看参数量？4k Stars 的开源工具帮你找到最适合你电脑的那个](https://mp.weixin.qq.com/s/yDvr8bg236qM1_f4ZD3hLQ)
 * [跟着新叶上道AI工具OpenCode：配置GLM-5.2模型（与Claude Fable 5一争高下）](https://mp.weixin.qq.com/s/Ot3CQxXNoK3FhjHPWa_hwA)
+* [白嫖大模型，做用ai新新人类](https://mp.weixin.qq.com/s/djNqSS4LMEPiuFFPOVK2YA)
 
 
 
