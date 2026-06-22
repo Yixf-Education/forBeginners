@@ -419,6 +419,7 @@
 * [随手甩几个有意思的Linux脚本来看看](https://mp.weixin.qq.com/s/ry9bFngojOg_OCOje6xaiQ)
 * [好用还好看的命令行工具，文本图形界面](https://mp.weixin.qq.com/s/wEvOiJjgwCThQLKUnmDKiQ)
 * [终端党的武器库：这些工具让我效率起飞](https://mp.weixin.qq.com/s/kRwuJtaOi5jFrSY6KHLOzw)
+* [10个Linux高效操作命令](https://mp.weixin.qq.com/s/JX8qh0Mx5UzBB6jA8pN1gg)
 
 ## 运维
 
