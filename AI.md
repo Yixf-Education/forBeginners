@@ -308,6 +308,7 @@
 * [被低估了！Gemini3的杀手锏不是写代码，而是教科书级科研绘图](https://mp.weixin.qq.com/s/EkPZ7oBiLUX0adXBoSJUDw)
 * [AI生图工具怎么选？终极指南](https://mp.weixin.qq.com/s/AXp7W5wmFOJJfKoMqoxj5Q)
 * [用DeepSeek V4做R语言临床预测模型全流程：LASSO筛变量→建模→三件套图，一篇文章全搞定](https://mp.weixin.qq.com/s/xum2ErPDxa7x7Z0ws7gV-Q)
+* [同一份RNA-seq数据，8个大模型跑出的结果一致吗？](https://mp.weixin.qq.com/s/q3tWxD_g1tbyL1kAeBfpOw)
 
 ## 生物模型
 
@@ -322,6 +323,7 @@
 * [在Linux中安装omicverse / OmicClaw，Bulk RNA和单细胞分析“信手捏来”？](https://mp.weixin.qq.com/s/lRvGd8jEwuYdhKb_nXRnxw)
 * [毫秒级搜索10亿生物序列！腾讯×浙大合作推出最强生物序列搜索AI工具——ERAST](https://mp.weixin.qq.com/s/Vjhn83AYvW5vn3j0duJfOQ)
 * [hugohe3/ppt-master: AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He](https://github.com/hugohe3/ppt-master)
+* [Carbon：一半参数打平 Evo2，275 倍速的 DNA 大模型](https://mp.weixin.qq.com/s/Q3sFH99w1F7xh4iqrsJUkA)
 
 ## 教育教学
 
