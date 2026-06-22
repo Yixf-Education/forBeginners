@@ -382,6 +382,7 @@
 * [R语言绘图神器，1分钟带你画出各种图表~](https://mp.weixin.qq.com/s/NjUweHiBZ56xFH1rHax9rQ)
 * [某单位因使用“问题地图”被罚款+立案！自然资源部标准地图的正确用法（附2026年最新链接）](https://mp.weixin.qq.com/s/OaWM7dDeeN_ilaXUD5juvw)
 * [用DeepSeek V4做R语言科研图表配色：这10个配色方案让你的图从能看变成好看，一学就会](https://mp.weixin.qq.com/s/TKL7bOVCZRyKRS8fN_MSZg)
+* [科研配色 | 别让配色拖后腿：8组顶刊级 SCI 科研配色，论文作图直接用](https://mp.weixin.qq.com/s/cWiXGTZjCIveBg7hC4bwZg)
 
 # Rmarkdown
 
