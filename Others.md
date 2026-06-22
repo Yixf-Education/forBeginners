@@ -455,6 +455,10 @@
 * [为什么科学需要“局外人”](https://mp.weixin.qq.com/s/p9S6-rhLvArrnie7cLNzeg)
 * [研究方法 | 如何制定“可研究的问题”](https://mp.weixin.qq.com/s/2LZPXDmJwQjqJQGBIqAv0A)
 * [科研人员怎么参加学术会议](https://mp.weixin.qq.com/s/YCpjYLbEnANEhTo9SlVKHQ)
+* [别再乱写Cover Letter！资深主编：核心三段拿捏编辑，审稿一路绿灯！](https://mp.weixin.qq.com/s/2XUpcLuZJM7ft8pwN7u77A)
+* [《Nature》| 如何做演讲汇报：一份小抄送给你~](https://mp.weixin.qq.com/s/iXpI3Sll0SYU8nW9TNWOsQ)
+* [Scientific presentations: A cheat sheet | Naturejobs Blog](https://blogs.nature.com/naturejobs/2017/01/11/scientific-presentations-a-cheat-sheet/)
+* [Nature发文指南：6位顶级专家教你写出“一等一”的论文](https://mp.weixin.qq.com/s/4manqOYTSXs3lY9Tfn0lsA)
 
 ## 数据集
 
