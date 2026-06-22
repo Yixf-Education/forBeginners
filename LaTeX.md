@@ -179,6 +179,7 @@
 * [LaTeXSnipper 用户手册 v2.3.2](https://latexsnipper.interknot.dpdns.org/user_manual.html)
 * [LaTeXSnipper：开源全平台 LaTeX 公式工作台与 Office 插件](https://mp.weixin.qq.com/s/WLdbiEnbGlc3pnJXKDYZJg)
 * [LaTeX引文神器 OverCite，写论文全程不用离开编辑器](https://mp.weixin.qq.com/s/HbKHK0_uPMbwl8gw-Edvug)
+* [告别繁琐编译！一行代码，让你的 LaTeX 论文排版自动化飞起！](https://mp.weixin.qq.com/s/5HOBzGmrvyYrMH74-zVqNA)
 
 
 ## 教学
