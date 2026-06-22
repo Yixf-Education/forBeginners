@@ -139,6 +139,7 @@
 * [从“写代码”到“兜得住”：普通人 AI 编程完全指南（2万字）](https://mp.weixin.qq.com/s/y1TLdIwnHiV2uY8PRXGdOw)
 * [让5个AI文明自己活15天，Claude建成了乌托邦，Grok四天团灭。](https://mp.weixin.qq.com/s/liui5Snk-WruCsxS5jywSw)
 * ["为了醋包了一顿饺子"：科研与AI圈的虚火该降降了，一起看看大模型的7个错误方向](https://mp.weixin.qq.com/s/2dFMACf8jRnZ62ViFqvVRg)
+* [DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时](https://mp.weixin.qq.com/s/u8RZZ3_PgaxAXmH-quV0wg)
 
 
 ## 基本使用
@@ -274,6 +275,9 @@
 * [横评 5 款 AI 工具做生信分析：谁才是科研搬砖之王](https://mp.weixin.qq.com/s/jhghGlfL0wmSFMYBuvsrZQ)
 * [Cursor/Claude 梦幻联动：一键生成完美 LaTeX 代码，导师看完都以为我开挂了，让 AI 变成你的顶级学术秘书](https://mp.weixin.qq.com/s/vYD3RV2lkRkpTi4B8MjioQ)
 * [把你研究生导师十年经验塞进 Claude，这件事比我想象的有意思](https://mp.weixin.qq.com/s/v_h1JKqOqtEraQap-evHOQ)
+* [第一作者解读｜OmicOS：突破现有生物学Agent的瓶颈，任何人都能在自己的电脑上完成分析](https://mp.weixin.qq.com/s/jN5ee9sacOCvY6XyLpD0og)
+* [一句话下载国家基金结题报告：我把繁琐的网页翻页整理成了一个自动化工具](https://mp.weixin.qq.com/s/u19br9ZIPb-L03KWkL7JGQ)
+* [我开源了自己的文献检索工作流：PaperSeek](https://mp.weixin.qq.com/s/EDjSVFFVnXN2OPU5sVJuNQ)
 
 
 ## 分析绘图
@@ -341,7 +345,8 @@
 * [学习AI，就是学习Agent Skills](https://mp.weixin.qq.com/s/psW1Sk2rgMF1ISZWKxakNg)
 * [打开AI时代的学习方式，公众号专辑蒸馏为skills：想蒸馏哪个就蒸馏哪个！](https://mp.weixin.qq.com/s/Clk-sPnWBKITAGykNN43CA)
 * [80行文字，10万颗星——这个 CLAUDE.md 到底解决了什么问题](https://mp.weixin.qq.com/s/0ZzoDhJIj_KiJdDy1Jx9lQ)
-* 
+* [1984个Agent Skill，122个期刊包：斯坦福团队把“论文发表”变成了一套可安装的AI工作流](https://mp.weixin.qq.com/s/Tw3EVSeaaz6al0qSTksPwQ)
+* [分享8个codex必装的skill，让你的AI能力起飞！](https://mp.weixin.qq.com/s/_Mc5H3vcntXQ61ks9zE2Rg)
 
 ## Claude & Codex
 
@@ -397,6 +402,7 @@
 * [别纠结Codex还是Claude Code了，决定上限的是这个（8 个必装 Skill，让你拥有顶级AI生产力）](https://mp.weixin.qq.com/s/-uYy9QDFEyUD1BJAsW-MIA)
 * [让 Codex 自己装插件，才是它一战封神的最短路径](https://mp.weixin.qq.com/s/oYvt1ubo4iIUgk6N3bG0tw)
 * [盘点 Claude Code 插件市场 Top 20：排行第一有 76 万安装量](https://mp.weixin.qq.com/s/9twMItUyQEh63uegeRzHew)
+* [5分钟上手 ECC：让你的 Claude Code 提速 10 倍](https://mp.weixin.qq.com/s/ZrxQHVwaBvdqBY6-eum2lg)
 
 ## 学习资料
 
