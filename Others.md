@@ -104,6 +104,7 @@
 * [**zhaoolee/ChromeAppHeroes**](https://github.com/zhaoolee/ChromeAppHeroes): 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 * [父亲的孕前行为，已经悄悄改变了孩子的未来](https://mp.weixin.qq.com/s/7fn2YBekJ6x8a_wYx0lW4A)
 * [万字长文｜生命是大模型，但不仅仅是大语言模型](https://mp.weixin.qq.com/s/Bu562wdV9tBYpv91lkiUcQ)
+* [图书馆刘大妈除了要帮我找对象，还教我排序算法](https://mp.weixin.qq.com/s/vOyoYNKHGPR_8ygAJL893w)
 
 ## 统计
 
