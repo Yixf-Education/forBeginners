@@ -141,6 +141,7 @@
 * ["为了醋包了一顿饺子"：科研与AI圈的虚火该降降了，一起看看大模型的7个错误方向](https://mp.weixin.qq.com/s/2dFMACf8jRnZ62ViFqvVRg)
 * [DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时](https://mp.weixin.qq.com/s/u8RZZ3_PgaxAXmH-quV0wg)
 * [从全民追捧的技术红利到毕业典礼现场的集体唏嘘：教育技术的三重伦理困境](https://mp.weixin.qq.com/s/FMLtIGmHpVBHfof_Pl3cfw)
+* [中国科学家提出“AI语言”：人类难懂但模型能懂；挪威将禁止6到13岁小学生使用生成式人工智能 | 环球科学要闻](https://mp.weixin.qq.com/s/ScfybThcliu2OPwmtkk2MA)
 
 
 ## 基本使用
