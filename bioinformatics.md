@@ -646,3 +646,4 @@
 ## QTL
 
 * [单细胞多组学+GWAS：终于打通基因功能解析的“最后一公里”（上）](https://mp.weixin.qq.com/s/B9EM_SDqp9bbL-1qdLqUng)
+* [笔记：从 SNP 到 GWAS、eQTL 与 TWAS](https://mp.weixin.qq.com/s/EMUHxCMOB-4mYfjYs8RthA)
