@@ -280,6 +280,7 @@
 * [第一作者解读｜OmicOS：突破现有生物学Agent的瓶颈，任何人都能在自己的电脑上完成分析](https://mp.weixin.qq.com/s/jN5ee9sacOCvY6XyLpD0og)
 * [一句话下载国家基金结题报告：我把繁琐的网页翻页整理成了一个自动化工具](https://mp.weixin.qq.com/s/u19br9ZIPb-L03KWkL7JGQ)
 * [我开源了自己的文献检索工作流：PaperSeek](https://mp.weixin.qq.com/s/EDjSVFFVnXN2OPU5sVJuNQ)
+* [Paper2Any：论文丢进去，PPT、架构图、海报都能往外吐](https://mp.weixin.qq.com/s/wV3mmcdWrpI6zk3oqltnbQ)
 
 
 ## 分析绘图
