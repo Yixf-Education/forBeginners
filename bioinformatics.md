@@ -627,6 +627,8 @@
 * [跟着东京大学镰谷研究室学习GWAS分析及可视化](https://mp.weixin.qq.com/s/5mL81nmJ4XnjC_7q2UWR8Q)
 * [Tutorial guide - GWASTutorial](https://cloufield.github.io/GWASTutorial/)
 * [Journal Club（第055期）：从 lead SNP 到 causal variant 聊 fine-mapping 的历史逻辑、边界与进展](https://mp.weixin.qq.com/s/V3OQNEVj_GZP21bTQ-EY6Q)
+* [统计精细定位：从关联位点到候选因果变异](https://mp.weixin.qq.com/s/QQWzSp8J1IkCyAcyZ5jfug)
+* [笔记: 遗传工具选择、LD clumping 与 harmonization](https://mp.weixin.qq.com/s/6Ei-yFpl9cpZUiUsXYRy6w)
 
 ## 生物样本库
 
