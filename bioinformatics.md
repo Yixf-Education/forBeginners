@@ -630,6 +630,7 @@
 * [Journal Club（第055期）：从 lead SNP 到 causal variant 聊 fine-mapping 的历史逻辑、边界与进展](https://mp.weixin.qq.com/s/V3OQNEVj_GZP21bTQ-EY6Q)
 * [统计精细定位：从关联位点到候选因果变异](https://mp.weixin.qq.com/s/QQWzSp8J1IkCyAcyZ5jfug)
 * [笔记: 遗传工具选择、LD clumping 与 harmonization](https://mp.weixin.qq.com/s/6Ei-yFpl9cpZUiUsXYRy6w)
+* [【DNA基础】GWAS、GS、双生子研究、Fine mapping、性状、遗传力（遗传度）](https://mp.weixin.qq.com/s/vfbFSyedRv_QM0KkqGOdLQ)
 
 ## 生物样本库
 
