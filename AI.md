@@ -281,6 +281,8 @@
 * [一句话下载国家基金结题报告：我把繁琐的网页翻页整理成了一个自动化工具](https://mp.weixin.qq.com/s/u19br9ZIPb-L03KWkL7JGQ)
 * [我开源了自己的文献检索工作流：PaperSeek](https://mp.weixin.qq.com/s/EDjSVFFVnXN2OPU5sVJuNQ)
 * [Paper2Any：论文丢进去，PPT、架构图、海报都能往外吐](https://mp.weixin.qq.com/s/wV3mmcdWrpI6zk3oqltnbQ)
+* [Claude Science几周干完两年活，10倍科研提速真来了？](https://mp.weixin.qq.com/s/8DMcQvJoN_l106DeKD2gPA?scene=1&click_id=113)
+* [Anthropic团队发布面向科学家的AI工作台Claude Science，多维集成的科研工具](https://mp.weixin.qq.com/s/1XcLD-T9cs_bYJN3spmI3w)
 
 
 ## 分析绘图
