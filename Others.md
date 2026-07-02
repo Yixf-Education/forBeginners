@@ -495,6 +495,7 @@
 * [2026国自然新规：5篇代表作最佳选择与排序策略](https://mp.weixin.qq.com/s/BZvK2Ase8DhqPsjIqHjsOA)
 * [在基金评审会的茶歇，一位资深专家戳破了我国自然的幻想](https://mp.weixin.qq.com/s/kWLto9GM_w09xYxgd9SlHw)
 * [春运返乡途中改国自然本子，竟偶遇基金委评审，手把手教我改青基申报书](https://mp.weixin.qq.com/s/Sl7s4tCVAdUU1ydMf-qNTg)
+* [26国自然函评“潜规则”曝光：评审生态变了，这些信号值得关注](https://mp.weixin.qq.com/s/Qn_WwOrDVcB56OunNhqzmA)
 
 
 
