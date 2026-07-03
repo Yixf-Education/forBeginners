@@ -69,6 +69,8 @@
 * [LaTeX 每日一学第 15 篇，LaTeX 字符输入](https://mp.weixin.qq.com/s/GsyB4pZbJeuvWTT5oPkn2g)
 * [告别 10GB 臃肿！TeX Live 极简安装指南：让你的 LaTeX 瘦身 90%](https://mp.weixin.qq.com/s/QxW6dZfCWUtKZ9xYE5f06w)
 * [博雅｜我常用的LaTeX快捷键](https://mp.weixin.qq.com/s/FxwxK8nLSHORyoanevbQ8Q)
+* [2026 最全 LaTeX 编译工具基准测试：速度、易用性、输出全维度打分](chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=2026%20%E6%9C%80%E5%85%A8%20LaTeX%20%E7%BC%96%E8%AF%91%E5%B7%A5%E5%85%B7%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%EF%BC%9A%E9%80%9F%E5%BA%A6%E3%80%81%E6%98%93%E7%94%A8%E6%80%A7%E3%80%81%E8%BE%93%E5%87%BA%E5%85%A8%E7%BB%B4%E5%BA%A6%E6%89%93%E5%88%86&pos=14662.400390625&uri=https://mp.weixin.qq.com/s/iJZbH3Gl8AjyNrbao5ygmg)
+* [Which LaTeX Build System Is Fastest? A Benchmark | Martin’s blog](https://blog.martisak.se/latex-build-systems-comparison/)
 
 ## 宏包
 * [enumitem 宏包中的长度设置](https://mp.weixin.qq.com/s/1x1Q_ucVSN9Ks9wRx1Bk8w)
