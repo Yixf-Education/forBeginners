@@ -284,6 +284,8 @@
 * [Paper2Any：论文丢进去，PPT、架构图、海报都能往外吐](https://mp.weixin.qq.com/s/wV3mmcdWrpI6zk3oqltnbQ)
 * [Claude Science几周干完两年活，10倍科研提速真来了？](https://mp.weixin.qq.com/s/8DMcQvJoN_l106DeKD2gPA?scene=1&click_id=113)
 * [Anthropic团队发布面向科学家的AI工作台Claude Science，多维集成的科研工具](https://mp.weixin.qq.com/s/1XcLD-T9cs_bYJN3spmI3w)
+* [OmicOS Science 正式发布｜国产大模型与AI4S的时代来临](https://mp.weixin.qq.com/s/9Z_-4crI6wPxl3ePe3wjaA)
+* [Claude Science 发布后，我让它在服务器上跑了一次 RNA-seq 定量](https://mp.weixin.qq.com/s/zKzTZQR3GvFGNEFSqbYTDg)
 
 
 ## 分析绘图
