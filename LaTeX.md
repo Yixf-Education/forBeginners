@@ -122,6 +122,7 @@
 * [前端代码太重？来瞅瞅 LaTeX 圈的新面孔：hawkdraw 如何用现代 LaTeX3 语法优雅画图](https://mp.weixin.qq.com/s/WCoAoon7NZOJ-gVLQ-sVgA)
 * [告别财务报表排版焦虑！这个“自动算账”宏包，让计算和数字对齐从此不再头疼](https://mp.weixin.qq.com/s/9T0JaxjecIB2GQkzgOOaKA)
 * [别再用死板的文本了！这个炫酷的 LaTeX 提示框宏包，闭眼入，拯救审美疲劳！](https://mp.weixin.qq.com/s/8nDcVniKCIMi4OoB-yZE_g)
+* [zhlineskip宏包——解决LaTeX中文行距所有痛点的全能排版工具](chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=zhlineskip%E5%AE%8F%E5%8C%85%E2%80%94%E2%80%94%E8%A7%A3%E5%86%B3LaTeX%E4%B8%AD%E6%96%87%E8%A1%8C%E8%B7%9D%E6%89%80%E6%9C%89%E7%97%9B%E7%82%B9%E7%9A%84%E5%85%A8%E8%83%BD%E6%8E%92%E7%89%88%E5%B7%A5%E5%85%B7&pos=0&uri=https://mp.weixin.qq.com/s/QiK1wowUULFAwnqTEKtCrw)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
@@ -182,6 +183,7 @@
 * [LaTeXSnipper：开源全平台 LaTeX 公式工作台与 Office 插件](https://mp.weixin.qq.com/s/WLdbiEnbGlc3pnJXKDYZJg)
 * [LaTeX引文神器 OverCite，写论文全程不用离开编辑器](https://mp.weixin.qq.com/s/HbKHK0_uPMbwl8gw-Edvug)
 * [告别繁琐编译！一行代码，让你的 LaTeX 论文排版自动化飞起！](https://mp.weixin.qq.com/s/5HOBzGmrvyYrMH74-zVqNA)
+* [告别TikZ噩梦！开源 OpenTikZ，AI 一键产出顶会标准论文插图](chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=%E5%91%8A%E5%88%ABTikZ%E5%99%A9%E6%A2%A6%EF%BC%81%E5%BC%80%E6%BA%90%20OpenTikZ%EF%BC%8CAI%20%E4%B8%80%E9%94%AE%E4%BA%A7%E5%87%BA%E9%A1%B6%E4%BC%9A%E6%A0%87%E5%87%86%E8%AE%BA%E6%96%87%E6%8F%92%E5%9B%BE&pos=672.4571533203125&uri=https://mp.weixin.qq.com/s/ZbMc0rjhkIXnQRQedIrKPQ)
 
 
 ## 教学
