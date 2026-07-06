@@ -286,6 +286,7 @@
 * [Anthropic团队发布面向科学家的AI工作台Claude Science，多维集成的科研工具](https://mp.weixin.qq.com/s/1XcLD-T9cs_bYJN3spmI3w)
 * [OmicOS Science 正式发布｜国产大模型与AI4S的时代来临](https://mp.weixin.qq.com/s/9Z_-4crI6wPxl3ePe3wjaA)
 * [Claude Science 发布后，我让它在服务器上跑了一次 RNA-seq 定量](https://mp.weixin.qq.com/s/zKzTZQR3GvFGNEFSqbYTDg)
+* [推倒生信分析这道高墙 | 百奥智汇推出AI生物医学研究平台C2R](https://mp.weixin.qq.com/s/trbmCSmHzdwvpxlFujl05w)
 
 
 ## 分析绘图
