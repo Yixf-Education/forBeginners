@@ -413,6 +413,8 @@
 * [让 Codex 自己装插件，才是它一战封神的最短路径](https://mp.weixin.qq.com/s/oYvt1ubo4iIUgk6N3bG0tw)
 * [盘点 Claude Code 插件市场 Top 20：排行第一有 76 万安装量](https://mp.weixin.qq.com/s/9twMItUyQEh63uegeRzHew)
 * [5分钟上手 ECC：让你的 Claude Code 提速 10 倍](https://mp.weixin.qq.com/s/ZrxQHVwaBvdqBY6-eum2lg)
+* [我用刚火遍外网的 Claude Science 做了份研究综述，结果有点不敢信](https://mp.weixin.qq.com/s/2YFNj4tWI_fTkfTuxIl_lQ)
+* [实测Claude Science，搞科研的人有福了](https://mp.weixin.qq.com/s/2MGX3M9ZhoFBdru9085w4A)
 
 ## 学习资料
 
