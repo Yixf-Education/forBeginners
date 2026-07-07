@@ -123,6 +123,7 @@
 * [告别财务报表排版焦虑！这个“自动算账”宏包，让计算和数字对齐从此不再头疼](https://mp.weixin.qq.com/s/9T0JaxjecIB2GQkzgOOaKA)
 * [别再用死板的文本了！这个炫酷的 LaTeX 提示框宏包，闭眼入，拯救审美疲劳！](https://mp.weixin.qq.com/s/8nDcVniKCIMi4OoB-yZE_g)
 * [zhlineskip宏包——解决LaTeX中文行距所有痛点的全能排版工具](chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=zhlineskip%E5%AE%8F%E5%8C%85%E2%80%94%E2%80%94%E8%A7%A3%E5%86%B3LaTeX%E4%B8%AD%E6%96%87%E8%A1%8C%E8%B7%9D%E6%89%80%E6%9C%89%E7%97%9B%E7%82%B9%E7%9A%84%E5%85%A8%E8%83%BD%E6%8E%92%E7%89%88%E5%B7%A5%E5%85%B7&pos=0&uri=https://mp.weixin.qq.com/s/QiK1wowUULFAwnqTEKtCrw)
+* [2026 年最新结构化教案模板](https://mp.weixin.qq.com/s/VLO4QWfNxgztq3Yaiy95nw)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
