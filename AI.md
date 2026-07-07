@@ -91,6 +91,7 @@
 * [汇总一下，国内各大OpenClaw一站式部署平台](https://mp.weixin.qq.com/s/7JJ6L2rkrTSP0m7bTfrY1Q)
 * [再见了CodeX！OmniWork让我自己就是一个团队](https://mp.weixin.qq.com/s/34zBe8GQnszO9ZOaVLsC6w)
 * [aweswitch更新：启动即记录，升级不操心](https://mp.weixin.qq.com/s/o3tEmFJuW7k3GFN0SqbuWg)
+* [NB！才发现这几个非常好用的AI科研工具网站](https://mp.weixin.qq.com/s/OC4Jya_F5t8tufI-7Fmgcw)
 
 
 ## 变革思考
