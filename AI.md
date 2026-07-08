@@ -178,6 +178,7 @@
 * [选大模型还在看参数量？4k Stars 的开源工具帮你找到最适合你电脑的那个](https://mp.weixin.qq.com/s/yDvr8bg236qM1_f4ZD3hLQ)
 * [跟着新叶上道AI工具OpenCode：配置GLM-5.2模型（与Claude Fable 5一争高下）](https://mp.weixin.qq.com/s/Ot3CQxXNoK3FhjHPWa_hwA)
 * [白嫖大模型，做用ai新新人类](https://mp.weixin.qq.com/s/djNqSS4LMEPiuFFPOVK2YA)
+* [过去调半天的 GSEA 富集分析图，现在Codex 5 分钟复现 Nature 同款](https://mp.weixin.qq.com/s/71A0gsRGBicguepf16l4jw)
 
 
 
@@ -416,6 +417,7 @@
 * [5分钟上手 ECC：让你的 Claude Code 提速 10 倍](https://mp.weixin.qq.com/s/ZrxQHVwaBvdqBY6-eum2lg)
 * [我用刚火遍外网的 Claude Science 做了份研究综述，结果有点不敢信](https://mp.weixin.qq.com/s/2YFNj4tWI_fTkfTuxIl_lQ)
 * [实测Claude Science，搞科研的人有福了](https://mp.weixin.qq.com/s/2MGX3M9ZhoFBdru9085w4A)
+* [首个开源版 Claude Science来了，250+科研skills，中国科学家也能用！](https://mp.weixin.qq.com/s/nGb64Owe63qEugAtxWl27A)
 
 ## 学习资料
 
