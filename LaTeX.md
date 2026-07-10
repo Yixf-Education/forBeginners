@@ -267,6 +267,7 @@
 * [拒绝平庸排版！这款“极客”LaTeX 模版，一键搞定论文与 PPT 的颜值革命](https://mp.weixin.qq.com/s/i9Rk301mXMVvwnrkisSnWw)
 * [40+款内置 LaTeX 幻灯片主题全景预览，治好你的选择困难症](https://mp.weixin.qq.com/s/7NinX2pXj7iV57z0TmJ4Vg)
 * [西湖大学专属 LaTeX 模板 westlakethesis](https://mp.weixin.qq.com/s/Aj8DXC-Ku25amRHR8YGHTA)
+* [NovaBeamer：让你的 LaTeX PPT 瞬间拥有顶级学术范](https://mp.weixin.qq.com/s/UyU-XxkAu90kpoRlBMxADA)
 
 ## 简历
 * [R 沟通｜使用 latex 模板构建个人履历](https://mp.weixin.qq.com/s?__biz=MzI1NjUwMjQxMQ==&mid=2247493793&idx=1&sn=ac5653d10a318d71885e6b1ff3ed3a67&chksm=ea271745dd509e53173998508ab53dad55d4e2acb22c78afee57ea57bc9950503fdb22bc00d7&mpshare=1&scene=1&srcid=0409FLWNIC803gsQy2MCRHf3&sharer_sharetime=1617972203672&sharer_shareid=49bb68e4d4ad9f65af077f4e54025da0&key=054fa246941644a431b792a8e22c73ab9d7c60512aca171e13bd557f42e82831fad8cfddcaa95b25726a60b777aaba41b1c5199afb1e119e1aef81f77abb58a4f35327647aa91ab66d7497f84e26ce8b25674d208507c1d155c14d616280315aa26808a28f64cfea04527ec0914c8fbed78b4343cf9bd81b2b16ae3b9fa837e4&ascene=1&uin=MjEyMzUzNDk2MQ%3D%3D&devicetype=Windows+7&version=62090529&lang=en&exportkey=AfIcxQXUATRgT3HhKjc%2Bp1I%3D&pass_ticket=ImYROlKpE89PONWRsTgVS7DYqyOUm2qljbwpNZVrorxesYR471emvwoCKO3RPS2w&wx_header=0)
