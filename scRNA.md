@@ -190,6 +190,7 @@
 * [Seurat升级必看：SeuratExtend助你轻松搞定单细胞可视化](https://mp.weixin.qq.com/s/IPGBT4Oiv6k8_RYkaKjXKg)
 * [单细胞CopyKAT包推断CNV变化](https://mp.weixin.qq.com/s/zN-zItKtV7ovaLUK7JxHtg)
 * [你真的了解RNA速率分析吗](https://mp.weixin.qq.com/s/DM6wlKjIg7SiqHwj0_xAtQ)
+* [八年老兵，万字长文，国产单细胞通鉴2026](https://mp.weixin.qq.com/s/fSFLdVQg4HCbseoZaUE25A)
 
 ## scATAC-seq
 
