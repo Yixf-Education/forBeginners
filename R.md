@@ -203,6 +203,8 @@
 * [一个时代的落幕，与一个 IDE 的加冕：Positron 深度测评](https://mp.weixin.qq.com/s/LNtB_McD29Zcp8Af7VVe8g)
 * [从 RStudio 到 Positron：一个 IDE 的进化论与你的生产力革命](https://mp.weixin.qq.com/s/ErCu0H3iXo2qLSjzYUBIHg)
 * [R语言特殊实战篇3：用R打造个人效率工具箱](https://mp.weixin.qq.com/s/kSr_dfKpipCxoyD8OgwRNw)
+* [RStudio 优化设置](https://mp.weixin.qq.com/s/RFxyYVpCrnzFip7wJUSNtQ)
+* [我劝你换 Positron，但有话要先说清楚](https://mp.weixin.qq.com/s/_UhKWqdBjrFvVfl6A7oVZA)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
