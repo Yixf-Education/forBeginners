@@ -92,6 +92,7 @@
 * [再见了CodeX！OmniWork让我自己就是一个团队](https://mp.weixin.qq.com/s/34zBe8GQnszO9ZOaVLsC6w)
 * [aweswitch更新：启动即记录，升级不操心](https://mp.weixin.qq.com/s/o3tEmFJuW7k3GFN0SqbuWg)
 * [NB！才发现这几个非常好用的AI科研工具网站](https://mp.weixin.qq.com/s/OC4Jya_F5t8tufI-7Fmgcw)
+* [生信智能体 OmicOS 初体验：易上手，但还不能放心交给它全自动分析！](https://mp.weixin.qq.com/s/CmfzRw1GNm-K8z85O7TWRg)
 
 
 ## 变革思考
@@ -289,6 +290,8 @@
 * [OmicOS Science 正式发布｜国产大模型与AI4S的时代来临](https://mp.weixin.qq.com/s/9Z_-4crI6wPxl3ePe3wjaA)
 * [Claude Science 发布后，我让它在服务器上跑了一次 RNA-seq 定量](https://mp.weixin.qq.com/s/zKzTZQR3GvFGNEFSqbYTDg)
 * [推倒生信分析这道高墙 | 百奥智汇推出AI生物医学研究平台C2R](https://mp.weixin.qq.com/s/trbmCSmHzdwvpxlFujl05w)
+* [AI 一键将论文转换成 PPT、演讲视频，微软这个开源太爽了！](https://mp.weixin.qq.com/s/Mi12nm8s7jtZjyGtPGOpMA)
+* 
 
 
 ## 分析绘图
