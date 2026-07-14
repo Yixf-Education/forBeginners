@@ -422,6 +422,7 @@
 * [我用刚火遍外网的 Claude Science 做了份研究综述，结果有点不敢信](https://mp.weixin.qq.com/s/2YFNj4tWI_fTkfTuxIl_lQ)
 * [实测Claude Science，搞科研的人有福了](https://mp.weixin.qq.com/s/2MGX3M9ZhoFBdru9085w4A)
 * [首个开源版 Claude Science来了，250+科研skills，中国科学家也能用！](https://mp.weixin.qq.com/s/nGb64Owe63qEugAtxWl27A)
+* [开源免费，这款中科院顶刊作者开发的 ai 科研工作台太香了](https://mp.weixin.qq.com/s/MtIcceN2uXVIe4Ya9nzyuw)
 
 ## 学习资料
 
