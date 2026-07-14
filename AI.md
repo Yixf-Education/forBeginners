@@ -145,6 +145,7 @@
 * [从全民追捧的技术红利到毕业典礼现场的集体唏嘘：教育技术的三重伦理困境](https://mp.weixin.qq.com/s/FMLtIGmHpVBHfof_Pl3cfw)
 * [中国科学家提出“AI语言”：人类难懂但模型能懂；挪威将禁止6到13岁小学生使用生成式人工智能 | 环球科学要闻](https://mp.weixin.qq.com/s/ScfybThcliu2OPwmtkk2MA)
 * [AI 正在悄悄"改写"生信工程师的命运：你是被放大，还是被淘汰？](https://mp.weixin.qq.com/s/2w8hFl8_Aa5QAxuiIFPQNA)
+* [数学害怕AI造出假证明，而生物学担心的问题更加棘手](https://mp.weixin.qq.com/s/TfdFFyBugrHVxgJuH5g60g)
 
 
 ## 基本使用
@@ -423,6 +424,7 @@
 * [实测Claude Science，搞科研的人有福了](https://mp.weixin.qq.com/s/2MGX3M9ZhoFBdru9085w4A)
 * [首个开源版 Claude Science来了，250+科研skills，中国科学家也能用！](https://mp.weixin.qq.com/s/nGb64Owe63qEugAtxWl27A)
 * [开源免费，这款中科院顶刊作者开发的 ai 科研工作台太香了](https://mp.weixin.qq.com/s/MtIcceN2uXVIe4Ya9nzyuw)
+* [科研智能体C2R：聊个天，就把单细胞分析搞定了](https://mp.weixin.qq.com/s/Zs7u6mmONRTWm_wvl0FU5A?scene=1&click_id=406)
 
 ## 学习资料
 
