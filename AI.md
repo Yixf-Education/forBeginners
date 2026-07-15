@@ -328,6 +328,7 @@
 * [AI生图工具怎么选？终极指南](https://mp.weixin.qq.com/s/AXp7W5wmFOJJfKoMqoxj5Q)
 * [用DeepSeek V4做R语言临床预测模型全流程：LASSO筛变量→建模→三件套图，一篇文章全搞定](https://mp.weixin.qq.com/s/xum2ErPDxa7x7Z0ws7gV-Q)
 * [同一份RNA-seq数据，8个大模型跑出的结果一致吗？](https://mp.weixin.qq.com/s/q3tWxD_g1tbyL1kAeBfpOw)
+* [Positron + DeepSeek V4：我用AI复现了一篇SCI论文](https://mp.weixin.qq.com/s/3alPVggYWDBKhmNdopJ6RA)
 
 ## 生物模型
 
