@@ -210,6 +210,7 @@
 * [高中数学题库管理与组卷系统-基于 Streamlit 和 LaTeX 自动化高中数学题库管理与智能组卷系统](https://mp.weixin.qq.com/s/govpfx6Hzxc1UF-uygmSBA)
 * [别再手动凑数了！这款开源 LaTeX 自动化出卷神器，助你一键生成期末试卷！](https://mp.weixin.qq.com/s/Wx3OY0tcg25nOEsDAf66YQ)
 * [一份源文件可一键编译出 A 卷、B 卷、A 卷答案、B 卷答案，这个试卷模版不一般](https://mp.weixin.qq.com/s/atRXYIBgJLNPPfS-Z3d5sw)
+* [这个国人开发的试卷更适合中国老师体质，真正终结试卷排版噩梦，新版本更优秀](chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=%E8%BF%99%E4%B8%AA%E5%9B%BD%E4%BA%BA%E5%BC%80%E5%8F%91%E7%9A%84%E8%AF%95%E5%8D%B7%E6%9B%B4%E9%80%82%E5%90%88%E4%B8%AD%E5%9B%BD%E8%80%81%E5%B8%88%E4%BD%93%E8%B4%A8%EF%BC%8C%E7%9C%9F%E6%AD%A3%E7%BB%88%E7%BB%93%E8%AF%95%E5%8D%B7%E6%8E%92%E7%89%88%E5%99%A9%E6%A2%A6%EF%BC%8C%E6%96%B0%E7%89%88%E6%9C%AC%E6%9B%B4%E4%BC%98%E7%A7%80&pos=13789.2568359375&uri=https://mp.weixin.qq.com/s/hJBKTckPMwCSweDx8WzbAg)
 
 ## 科研
 * [学术写作注意事项 —— 格式问题](https://mp.weixin.qq.com/s/1eGN7jRRMIih_sDljN8Bpw)
