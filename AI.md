@@ -426,6 +426,7 @@
 * [首个开源版 Claude Science来了，250+科研skills，中国科学家也能用！](https://mp.weixin.qq.com/s/nGb64Owe63qEugAtxWl27A)
 * [开源免费，这款中科院顶刊作者开发的 ai 科研工作台太香了](https://mp.weixin.qq.com/s/MtIcceN2uXVIe4Ya9nzyuw)
 * [科研智能体C2R：聊个天，就把单细胞分析搞定了](https://mp.weixin.qq.com/s/Zs7u6mmONRTWm_wvl0FU5A?scene=1&click_id=406)
+* [一篇讲清楚 Claude Code 和 Codex，到底选哪个（附实操建议）。](chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=%E4%B8%80%E7%AF%87%E8%AE%B2%E6%B8%85%E6%A5%9A%20Claude%20Code%20%E5%92%8C%20Codex%EF%BC%8C%E5%88%B0%E5%BA%95%E9%80%89%E5%93%AA%E4%B8%AA%EF%BC%88%E9%99%84%E5%AE%9E%E6%93%8D%E5%BB%BA%E8%AE%AE%EF%BC%89%E3%80%82&pos=6682.97119140625&uri=https://mp.weixin.qq.com/s/7-AWCx5Vr4NGvHA3Zmfupw)
 
 ## 学习资料
 
