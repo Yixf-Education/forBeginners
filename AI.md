@@ -367,6 +367,7 @@
 * [aweskill: 让 AI Agent 学会自己管理 skills](https://mp.weixin.qq.com/s/Fb0Q7nKEJtORSTz7Ukv_EA)
 * [学会这个Github上3w人收藏的 nature-skills 是不是就可以发Nature了！](https://mp.weixin.qq.com/s/LNtbj5pO9iTrrgRbq9eV5g)
 * [Bioinformatics — Gateway to 400+ bioinformatics skills from bioSkills and ClawBio | Hermes Agent](https://hermes-agent.nousresearch.com/docs/user-guide/skills/optional/research/research-bioinformatics)
+* [科研人必装的40个科研skills，亲测效率绝了](https://mp.weixin.qq.com/s/gyfcJmTRFNOre1DNE7_SrQ)
 
 ## Claude & Codex
 
