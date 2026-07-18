@@ -461,6 +461,7 @@
 * [《Nature》| 如何做演讲汇报：一份小抄送给你~](https://mp.weixin.qq.com/s/iXpI3Sll0SYU8nW9TNWOsQ)
 * [Scientific presentations: A cheat sheet | Naturejobs Blog](https://blogs.nature.com/naturejobs/2017/01/11/scientific-presentations-a-cheat-sheet/)
 * [Nature发文指南：6位顶级专家教你写出“一等一”的论文](https://mp.weixin.qq.com/s/4manqOYTSXs3lY9Tfn0lsA)
+* [Zotero＋Zotero Connector＋茉莉花插件，纯新手友好型](https://mp.weixin.qq.com/s/CweIXxN2ITyGjSQzcvZrLA)
 
 ## 数据集
 
