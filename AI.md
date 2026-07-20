@@ -93,6 +93,7 @@
 * [aweswitch更新：启动即记录，升级不操心](https://mp.weixin.qq.com/s/o3tEmFJuW7k3GFN0SqbuWg)
 * [NB！才发现这几个非常好用的AI科研工具网站](https://mp.weixin.qq.com/s/OC4Jya_F5t8tufI-7Fmgcw)
 * [生信智能体 OmicOS 初体验：易上手，但还不能放心交给它全自动分析！](https://mp.weixin.qq.com/s/CmfzRw1GNm-K8z85O7TWRg)
+* [毕方：以 Bio-OS 为可信执行底座，让 AI 真正参与科研分析](https://mp.weixin.qq.com/s/wDK1VLHE0Xp1UD1FbPPwYQ)
 
 
 ## 变革思考
