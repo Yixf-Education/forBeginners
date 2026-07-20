@@ -587,6 +587,7 @@
 * [如何从差异分析结果中筛选lnc或者miRNA](https://mp.weixin.qq.com/s/cRcRxZ19oD68ZlSHcHDYdw)
 * [从冗长到优雅：绘图代码简化实践](https://mp.weixin.qq.com/s/zbsaitDXdWSE9DKo7zJqmg)
 * [FeatureHeatmap解锁自带通路注释的神仙热图](https://mp.weixin.qq.com/s/MmlVlXpIjVpZXfUcCg9-GQ)
+* [临床预测模型6张图，一套R代码全搞定（附完整模板）](https://mp.weixin.qq.com/s/8h29yRYkpttiw-U4mWqjww)
 
 # R包
 
