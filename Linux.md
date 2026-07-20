@@ -423,6 +423,7 @@
 * [终端党的武器库：这些工具让我效率起飞](https://mp.weixin.qq.com/s/kRwuJtaOi5jFrSY6KHLOzw)
 * [10个Linux高效操作命令](https://mp.weixin.qq.com/s/JX8qh0Mx5UzBB6jA8pN1gg)
 * [告别笨重的图形界面，这 5 款终端神器，彻底重塑了我的 Linux 工作流](chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=%E5%91%8A%E5%88%AB%E7%AC%A8%E9%87%8D%E7%9A%84%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2%EF%BC%8C%E8%BF%99%205%20%E6%AC%BE%E7%BB%88%E7%AB%AF%E7%A5%9E%E5%99%A8%EF%BC%8C%E5%BD%BB%E5%BA%95%E9%87%8D%E5%A1%91%E4%BA%86%E6%88%91%E7%9A%84%20Linux%20%E5%B7%A5%E4%BD%9C%E6%B5%81&pos=39.31428527832031&uri=https://mp.weixin.qq.com/s/TkoRJ6Mc6Z2csRPBjahxPQ)
+* [10个Linux高效操作命令（3）](https://mp.weixin.qq.com/s/7RJ6wScAEBMdKg0lvp_VCA)
 
 ## 运维
 
