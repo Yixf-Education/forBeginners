@@ -137,6 +137,7 @@
 * [SSH 工具有新选择了，手机也能用、还带 AI 助手](https://mp.weixin.qq.com/s/F8PV1gwIKkANbOeCY5a5yQ)
 * [谁不想要一个好看点的终端界面呢](https://mp.weixin.qq.com/s/F5CoEeZteaHxLdOpMGZXvw)
 * [用Python写一个可视化的点球大战游戏](https://mp.weixin.qq.com/s/SyWj394QTpT6Hld0b67s1g)
+* [Linux必装的20款免费好用软件｜下篇](https://mp.weixin.qq.com/s/s0zQWkWkLh3g2syvRdBX2A)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
