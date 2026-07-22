@@ -147,6 +147,7 @@
 * [中国科学家提出“AI语言”：人类难懂但模型能懂；挪威将禁止6到13岁小学生使用生成式人工智能 | 环球科学要闻](https://mp.weixin.qq.com/s/ScfybThcliu2OPwmtkk2MA)
 * [AI 正在悄悄"改写"生信工程师的命运：你是被放大，还是被淘汰？](https://mp.weixin.qq.com/s/2w8hFl8_Aa5QAxuiIFPQNA)
 * [数学害怕AI造出假证明，而生物学担心的问题更加棘手](https://mp.weixin.qq.com/s/TfdFFyBugrHVxgJuH5g60g)
+* [生信人的大模型购车指南（不要迷信Claude code/Codex）](https://mp.weixin.qq.com/s/QfyqCg2K6d4RqO3GzpyRMQ)
 
 
 ## 基本使用
@@ -182,6 +183,7 @@
 * [跟着新叶上道AI工具OpenCode：配置GLM-5.2模型（与Claude Fable 5一争高下）](https://mp.weixin.qq.com/s/Ot3CQxXNoK3FhjHPWa_hwA)
 * [白嫖大模型，做用ai新新人类](https://mp.weixin.qq.com/s/djNqSS4LMEPiuFFPOVK2YA)
 * [过去调半天的 GSEA 富集分析图，现在Codex 5 分钟复现 Nature 同款](https://mp.weixin.qq.com/s/71A0gsRGBicguepf16l4jw)
+* [R语言也能调大模型了！我用DeepSeek API批量处理1000条文本，完整代码模板送你](https://mp.weixin.qq.com/s/4uRdxEO5W7YpiHc2jbOCqQ)
 
 
 
@@ -370,6 +372,8 @@
 * [Bioinformatics — Gateway to 400+ bioinformatics skills from bioSkills and ClawBio | Hermes Agent](https://hermes-agent.nousresearch.com/docs/user-guide/skills/optional/research/research-bioinformatics)
 * [科研人必装的40个科研skills，亲测效率绝了](https://mp.weixin.qq.com/s/gyfcJmTRFNOre1DNE7_SrQ)
 * [上一次介绍了nature-skills，这一次又来一个science-skills，后面还会有cell-skills吗？](https://mp.weixin.qq.com/s/EfiiPyxOT9M5j7fhiLiIlg)
+* [这个 skill 蒸馏了 1287 篇 Nature 审稿意见，可以基于顶刊作者经验进行 AI 审稿与审稿意见回复！](https://mp.weixin.qq.com/s/vlQwoCF2f8cLyDLgGmNX0w)
+* [整理了一套AI科研Skill（目前最佳方案），涵盖从选题到汇报全流程！](https://mp.weixin.qq.com/s/ow-EmH6PxLLzhadyFqT_fw)
 
 ## Claude & Codex
 
