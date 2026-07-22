@@ -106,6 +106,7 @@
 * [万字长文｜生命是大模型，但不仅仅是大语言模型](https://mp.weixin.qq.com/s/Bu562wdV9tBYpv91lkiUcQ)
 * [图书馆刘大妈除了要帮我找对象，还教我排序算法](https://mp.weixin.qq.com/s/vOyoYNKHGPR_8ygAJL893w)
 * [Python Tutor - Python Online Compiler with Visual AI Help](https://pythontutor.com/)
+* [GitHub 全站第一！52w+ star 的开源神器：想真正学会编程，就把它亲手造一遍](https://mp.weixin.qq.com/s/e-MGbk-_rG1BBUICTcjJrQ)
 
 ## 统计
 
@@ -462,6 +463,7 @@
 * [Scientific presentations: A cheat sheet | Naturejobs Blog](https://blogs.nature.com/naturejobs/2017/01/11/scientific-presentations-a-cheat-sheet/)
 * [Nature发文指南：6位顶级专家教你写出“一等一”的论文](https://mp.weixin.qq.com/s/4manqOYTSXs3lY9Tfn0lsA)
 * [Zotero＋Zotero Connector＋茉莉花插件，纯新手友好型](https://mp.weixin.qq.com/s/CweIXxN2ITyGjSQzcvZrLA)
+* [为什么聪明又努力的人，大多数最终平庸？40年前这场演讲给出了答案](https://mp.weixin.qq.com/s/opYg_DhBuk2RlJE2m7pScg)
 
 ## 数据集
 
