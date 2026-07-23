@@ -124,6 +124,7 @@
 * [都2024了再弄转录组的综述，有什么特别吗？](https://mp.weixin.qq.com/s/ZGc1HkMglVF7_FCsSRO_KQ)
 * [R tips：VisiumHD的HE空间图绘制方法](https://mp.weixin.qq.com/s/qK4MzWo2u9sRl-6tQU8qWQ)
 * [空间转录组分析“工具箱”：软件推荐](https://mp.weixin.qq.com/s/cg7_STAh9W38_eBApWP8oA)
+* [Nature Methods等｜空间转录组细胞通讯工具大横评：9款软件安装、速度、绘图与引用实测](https://mp.weixin.qq.com/s/YcrPATpr2H63NMpq84D6Mw?poc_token=HKBxYWqjVLb8XcWnbo5jsJVxmsqHAaOzpI5bAKma)
 
 ## Markers
 
