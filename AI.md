@@ -184,6 +184,7 @@
 * [白嫖大模型，做用ai新新人类](https://mp.weixin.qq.com/s/djNqSS4LMEPiuFFPOVK2YA)
 * [过去调半天的 GSEA 富集分析图，现在Codex 5 分钟复现 Nature 同款](https://mp.weixin.qq.com/s/71A0gsRGBicguepf16l4jw)
 * [R语言也能调大模型了！我用DeepSeek API批量处理1000条文本，完整代码模板送你](https://mp.weixin.qq.com/s/4uRdxEO5W7YpiHc2jbOCqQ)
+* [被这个开源项目惊喜到了，用MonkeyCode做网站跟呼吸一样简单](https://mp.weixin.qq.com/s/Wg-2uD5ecdRLbzdBkaWXLA?poc_token=HI1xYWqjVZJzTeSUUtD1eLDko6gcpfEZkEAGD43j)
 
 
 
