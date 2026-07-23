@@ -138,6 +138,9 @@
 * [谁不想要一个好看点的终端界面呢](https://mp.weixin.qq.com/s/F5CoEeZteaHxLdOpMGZXvw)
 * [用Python写一个可视化的点球大战游戏](https://mp.weixin.qq.com/s/SyWj394QTpT6Hld0b67s1g)
 * [Linux必装的20款免费好用软件｜下篇](https://mp.weixin.qq.com/s/s0zQWkWkLh3g2syvRdBX2A)
+* [作为一名Linux用户，你得了解这15个工具！](https://mp.weixin.qq.com/s/cI6-EcL7ZVZCBN0k8nAy1Q?poc_token=HKpxYWqj_5zo0ggNtui_96JS6No0ucF6xEqX-rO9)
+* [Linux必装的20款免费好用软件｜装完系统照着装一遍就行](https://mp.weixin.qq.com/s/lsvLQdJuTU_cRoQKzHqpow?poc_token=HJFxYWqjQN4IPAOCy5AJLWWA2RvCTbfuUIlCtwU_)
+* [Mac效率神器｜15款让Mac好用到飞起的软件](https://mp.weixin.qq.com/s/uvijvd0_Pk69ehclFg1M5Q?poc_token=HKdxYWqjS6sUiygDWeeafSkXtfSLSHswnxhTQr_u)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
