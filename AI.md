@@ -376,6 +376,7 @@
 * [上一次介绍了nature-skills，这一次又来一个science-skills，后面还会有cell-skills吗？](https://mp.weixin.qq.com/s/EfiiPyxOT9M5j7fhiLiIlg)
 * [这个 skill 蒸馏了 1287 篇 Nature 审稿意见，可以基于顶刊作者经验进行 AI 审稿与审稿意见回复！](https://mp.weixin.qq.com/s/vlQwoCF2f8cLyDLgGmNX0w)
 * [整理了一套AI科研Skill（目前最佳方案），涵盖从选题到汇报全流程！](https://mp.weixin.qq.com/s/ow-EmH6PxLLzhadyFqT_fw)
+* [50 个 Skills 打造你的 AI 创作系统。](https://mp.weixin.qq.com/s/i4rVkK12W5sRI8T3Drk-rw)
 
 ## Claude & Codex
 
