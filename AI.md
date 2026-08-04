@@ -148,6 +148,7 @@
 * [AI 正在悄悄"改写"生信工程师的命运：你是被放大，还是被淘汰？](https://mp.weixin.qq.com/s/2w8hFl8_Aa5QAxuiIFPQNA)
 * [数学害怕AI造出假证明，而生物学担心的问题更加棘手](https://mp.weixin.qq.com/s/TfdFFyBugrHVxgJuH5g60g)
 * [生信人的大模型购车指南（不要迷信Claude code/Codex）](https://mp.weixin.qq.com/s/QfyqCg2K6d4RqO3GzpyRMQ)
+* [对 AI 说「请」，到底有没有用？](https://mp.weixin.qq.com/s/19wDKFReMedg-fLB8qfLNA)
 
 
 ## 基本使用
