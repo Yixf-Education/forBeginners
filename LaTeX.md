@@ -126,6 +126,7 @@
 * [2026 年最新结构化教案模板](https://mp.weixin.qq.com/s/VLO4QWfNxgztq3Yaiy95nw)
 * [LaTeX汉字排版神包 hanzibox——田字格、拼音习题、作文纸秒生成](https://mp.weixin.qq.com/s/ZGmSW8NiRuhzlrWWut-UBg)
 * [审稿人一眼看懂改动：revbadge，一键标记论文所有修改，三色标注工具全解析](https://mp.weixin.qq.com/s/P0oFR10Lu2p4SsFQQ8WUmw)
+* [影响力仅次于 ElegantLaTeX 的 The Legrand Orange Book 增强版本开箱即用了](https://mp.weixin.qq.com/s/m00qHy_LUlHBr4KJA3HJDg)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
