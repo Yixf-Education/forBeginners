@@ -550,6 +550,7 @@
 * [生信，正在失去护城河](https://mp.weixin.qq.com/s/O1BfpHlWud1xGD_lmtCaNg)
 * [基因组大小估计的K-mer方法](https://mp.weixin.qq.com/s/SvQ63ISutvBA7dUzNciU-w)
 * [你的虚拟细胞，到底虚拟了什么？](https://mp.weixin.qq.com/s/uHW99hqcnNNoRrvjkbH8cw)
+* [癌症和阿尔茨海默病，为什么不容易找上同一个人？](https://mp.weixin.qq.com/s/TXQlI38jF4rAkKpC0mWR_g)
 
 ## 系统课程
 
