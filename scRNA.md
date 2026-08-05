@@ -221,3 +221,4 @@
 
 * [**seandavi/awesome-single-cell**](https://github.com/seandavi/awesome-single-cell): Community-curated list of software packages and data resources for single-cell, including RNA-seq, ATAC-seq, etc.
 * [6k star 的单细胞工具大全：从 scRNA-seq 到 scATAC-seq 一网打尽](https://mp.weixin.qq.com/s/pXSx_TbxralmPYpeEe7K8g)
+* [只需一个GEO编号，一键跑完单细胞全流程——自动质控、双细胞、聚类、注释、差异、富集全给你](https://mp.weixin.qq.com/s/Z8x1a1Q8A5uQq3qAzBpDpg)
