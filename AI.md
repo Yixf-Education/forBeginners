@@ -355,6 +355,7 @@
 ## 教育教学
 
 * [【AI实践】当AI走进课堂，教学竟然可以这样玩？](https://mp.weixin.qq.com/s/oVSNa74Jew8udidB2AupHw?poc_token=HETAs2mjcj9YNC7w9DmrSDqdNL8rpV_IMqt-2e7f)
+* [教师如何使用AI开展高质量教研](https://mp.weixin.qq.com/s/AkgCFNkwlarhKRNC3tb0Tw)
 
 ## Skills
 
