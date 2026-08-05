@@ -36,6 +36,7 @@
 * [10 个杀手级的 Python 自动化脚本！](https://mp.weixin.qq.com/s/287-RQ0U4GOVTLScHx1CyQ)
 * [程序员建议遵守的优秀编程风格](https://mp.weixin.qq.com/s/cepwGOtzBxoybpVLeGbXPA)
 * [10个牛逼的编程范式，你已经用过了几个？](https://mp.weixin.qq.com/s/gsep2Qy4AbNxE0Ru7KvAHw)
+* [用程序计算100以内质数之和](https://mp.weixin.qq.com/s/SpyFMjFOvotJJpeP23v6kg)
 
 ## Perl系列
 
