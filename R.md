@@ -588,6 +588,7 @@
 * [从冗长到优雅：绘图代码简化实践](https://mp.weixin.qq.com/s/zbsaitDXdWSE9DKo7zJqmg)
 * [FeatureHeatmap解锁自带通路注释的神仙热图](https://mp.weixin.qq.com/s/MmlVlXpIjVpZXfUcCg9-GQ)
 * [临床预测模型6张图，一套R代码全搞定（附完整模板）](https://mp.weixin.qq.com/s/8h29yRYkpttiw-U4mWqjww)
+* [论文缺失值不敢删？3段R代码+AI辅助，10分钟完成多重插补](https://mp.weixin.qq.com/s/ZF2Ik4UoVOSg6hF9e0zPhA)
 
 # R包
 
