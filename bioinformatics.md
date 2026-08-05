@@ -648,6 +648,7 @@
 ## 肿瘤分析
 
 * [在线泛癌分析工具 - GSCA](https://mp.weixin.qq.com/s/8GPeabEMg61hsWGHmUmupQ?poc_token=HPC_s2mjDTULGwQVjYn3dMdnkc-mJZnXyMmHG6FY)
+* [人类精心培育的美丽宠物，却出生就注定会患癌惨死](https://mp.weixin.qq.com/s/V5P83D58q5UYTtauL-U4RQ)
 
 ## QTL
 
