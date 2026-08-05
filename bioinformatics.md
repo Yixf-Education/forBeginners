@@ -84,6 +84,7 @@
 * [超级好用测序数据下载流程iseq](https://mp.weixin.qq.com/s/Wdk11wXMS93Ektflpljq9Q)
 * [OmicVerse Web｜完全开源的云分析系统 谁用谁知](https://mp.weixin.qq.com/s/46ud11G97YHnruc2o4Ts4A)
 * [文章附件批量下载神器，告别一个文件点一下](https://mp.weixin.qq.com/s/qdn12GJVSmo2lMXfHCIfoQ)
+* [OmicVerse Documentation — omicverse](https://omicverse.readthedocs.io/en/latest/index.html)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
