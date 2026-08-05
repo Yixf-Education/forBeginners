@@ -590,6 +590,7 @@
 * [临床预测模型6张图，一套R代码全搞定（附完整模板）](https://mp.weixin.qq.com/s/8h29yRYkpttiw-U4mWqjww)
 * [论文缺失值不敢删？3段R代码+AI辅助，10分钟完成多重插补](https://mp.weixin.qq.com/s/ZF2Ik4UoVOSg6hF9e0zPhA)
 * [论文Cox回归跑不通？3段R代码+AI辅助，10分钟出森林图](https://mp.weixin.qq.com/s/o35Dbm-7XXoaxVtVCo639Q)
+* [论文Table 1手工做1周？3段R代码+AI辅助，10分钟出基线表](https://mp.weixin.qq.com/s/XtBeJAocS7TYa-S4GrqByg)
 
 # R包
 
