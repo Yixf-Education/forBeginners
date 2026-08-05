@@ -377,6 +377,7 @@
 * [这个 skill 蒸馏了 1287 篇 Nature 审稿意见，可以基于顶刊作者经验进行 AI 审稿与审稿意见回复！](https://mp.weixin.qq.com/s/vlQwoCF2f8cLyDLgGmNX0w)
 * [整理了一套AI科研Skill（目前最佳方案），涵盖从选题到汇报全流程！](https://mp.weixin.qq.com/s/ow-EmH6PxLLzhadyFqT_fw)
 * [50 个 Skills 打造你的 AI 创作系统。](https://mp.weixin.qq.com/s/i4rVkK12W5sRI8T3Drk-rw)
+* [将博导十年科研经验炼化 AI 技能，从构思到论文投稿，你的 AI 科研副导师，现已接入豆包办公模式](https://mp.weixin.qq.com/s/be1mYcfWfIg00umcJVho4g)
 
 ## Claude & Codex
 
