@@ -149,6 +149,7 @@
 * [数学害怕AI造出假证明，而生物学担心的问题更加棘手](https://mp.weixin.qq.com/s/TfdFFyBugrHVxgJuH5g60g)
 * [生信人的大模型购车指南（不要迷信Claude code/Codex）](https://mp.weixin.qq.com/s/QfyqCg2K6d4RqO3GzpyRMQ)
 * [对 AI 说「请」，到底有没有用？](https://mp.weixin.qq.com/s/19wDKFReMedg-fLB8qfLNA)
+* [“豆包、千问突然下线智能体”，AI为什么不允许“像人”了？](https://mp.weixin.qq.com/s/sYV8LHg51JjNn2SH5C42ZQ)
 
 
 ## 基本使用
