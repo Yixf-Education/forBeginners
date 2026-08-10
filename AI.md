@@ -300,6 +300,7 @@
 * [推倒生信分析这道高墙 | 百奥智汇推出AI生物医学研究平台C2R](https://mp.weixin.qq.com/s/trbmCSmHzdwvpxlFujl05w)
 * [AI 一键将论文转换成 PPT、演讲视频，微软这个开源太爽了！](https://mp.weixin.qq.com/s/Mi12nm8s7jtZjyGtPGOpMA)
 * [科研人的“超级外挂”来了，中国队用 AI 打通研究全流程](https://mp.weixin.qq.com/s/nLczGONLI1EtFzqa8WwtIw)
+* [不到1块钱，我完成了单细胞文献调研工作](https://mp.weixin.qq.com/s/gNVfK7Fkyn0Ujpu3JTPwgQ)
 
 
 ## 分析绘图
