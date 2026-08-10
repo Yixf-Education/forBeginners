@@ -303,6 +303,7 @@
 * [AI 一键将论文转换成 PPT、演讲视频，微软这个开源太爽了！](https://mp.weixin.qq.com/s/Mi12nm8s7jtZjyGtPGOpMA)
 * [科研人的“超级外挂”来了，中国队用 AI 打通研究全流程](https://mp.weixin.qq.com/s/nLczGONLI1EtFzqa8WwtIw)
 * [不到1块钱，我完成了单细胞文献调研工作](https://mp.weixin.qq.com/s/gNVfK7Fkyn0Ujpu3JTPwgQ)
+* [论文校样阶段，如何高效解决文献插入问题？](https://mp.weixin.qq.com/s/0J8UHhtiR-UE71qPB1deYw)
 
 
 ## 分析绘图
