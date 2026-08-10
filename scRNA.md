@@ -196,6 +196,7 @@
 * [八年老兵，万字长文，国产单细胞通鉴2026](https://mp.weixin.qq.com/s/fSFLdVQg4HCbseoZaUE25A)
 * [肺腺癌单细胞数据集GSE189357复现系列之六：上皮细胞细分亚群细分 下](https://mp.weixin.qq.com/s/MTXr4uB1RCs7fWEV2jKnQw)
 * [解读机制：SCENIC 调控子、基因集打分与差异富集](https://mp.weixin.qq.com/s/U1R1DCUAnI1Ve5j1saG_ig?poc_token=HItxYWqjnd-UAYmCR540KZMSQYV-4rWz2r45WSFr)
+* [优先级、稀有细胞与空间：Augur、密度检测、cell2location 与 CellOracle](https://mp.weixin.qq.com/s/fS5zs-4ZnXUTk9yPL5Sk6Q)
 
 ## scATAC-seq
 
