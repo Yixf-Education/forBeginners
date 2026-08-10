@@ -94,6 +94,7 @@
 * [NB！才发现这几个非常好用的AI科研工具网站](https://mp.weixin.qq.com/s/OC4Jya_F5t8tufI-7Fmgcw)
 * [生信智能体 OmicOS 初体验：易上手，但还不能放心交给它全自动分析！](https://mp.weixin.qq.com/s/CmfzRw1GNm-K8z85O7TWRg)
 * [毕方：以 Bio-OS 为可信执行底座，让 AI 真正参与科研分析](https://mp.weixin.qq.com/s/wDK1VLHE0Xp1UD1FbPPwYQ)
+* [Open Science 是什么？一个开源、本地优先的 AI 科研工作台](https://mp.weixin.qq.com/s/TXn6HpS9gnFHThhT9d7oug)
 
 
 ## 变革思考
