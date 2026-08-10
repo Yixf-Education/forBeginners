@@ -464,6 +464,7 @@
 * [Nature发文指南：6位顶级专家教你写出“一等一”的论文](https://mp.weixin.qq.com/s/4manqOYTSXs3lY9Tfn0lsA)
 * [Zotero＋Zotero Connector＋茉莉花插件，纯新手友好型](https://mp.weixin.qq.com/s/CweIXxN2ITyGjSQzcvZrLA)
 * [为什么聪明又努力的人，大多数最终平庸？40年前这场演讲给出了答案](https://mp.weixin.qq.com/s/opYg_DhBuk2RlJE2m7pScg)
+* [AI与人类的智商：演化中心师生的学术夜谈](https://mp.weixin.qq.com/s/MiXggoJwZNnjP-SF017RJg?scene=1&click_id=284)
 
 ## 数据集
 
