@@ -466,6 +466,7 @@
 * [Zotero＋Zotero Connector＋茉莉花插件，纯新手友好型](https://mp.weixin.qq.com/s/CweIXxN2ITyGjSQzcvZrLA)
 * [为什么聪明又努力的人，大多数最终平庸？40年前这场演讲给出了答案](https://mp.weixin.qq.com/s/opYg_DhBuk2RlJE2m7pScg)
 * [AI与人类的智商：演化中心师生的学术夜谈](https://mp.weixin.qq.com/s/MiXggoJwZNnjP-SF017RJg?scene=1&click_id=284)
+* [Typora|科研笔记模板](https://mp.weixin.qq.com/s/Rev_dAZmUUbPk0qmCdOIBA)
 
 ## 数据集
 
