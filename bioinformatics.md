@@ -553,6 +553,7 @@
 * [你的虚拟细胞，到底虚拟了什么？](https://mp.weixin.qq.com/s/uHW99hqcnNNoRrvjkbH8cw)
 * [癌症和阿尔茨海默病，为什么不容易找上同一个人？](https://mp.weixin.qq.com/s/TXQlI38jF4rAkKpC0mWR_g)
 * [比较基因组学范式](https://mp.weixin.qq.com/s/b72cOtEI_fNKOi1-A74TEQ)
+* [细胞的身份，能改到哪儿？](https://mp.weixin.qq.com/s/BxlR-fdop7g1zrai8c95BA)
 
 ## 系统课程
 
