@@ -287,3 +287,4 @@
 * [优雅 Material Design设计风格简历，还支持脚本自动更新](https://mp.weixin.qq.com/s/Wxa62lzSQmNv_jxEQiwP7w)
 * [绝了！用 stylishcv 打造吸睛简历，轻松赢在科研求职起跑线](https://mp.weixin.qq.com/s/1pYlPpkASkagIdEQrJ73nA)
 * [惊艳 HR 简历！4种高级配色+极简排版，跑赢求职季的 LaTeX 王炸模版](https://mp.weixin.qq.com/s/BLZWfwgu6mogtCwUeEFkag)
+* [一个 LaTeX 排版的典型学术简历](https://mp.weixin.qq.com/s/5CXxzAv2by32JcYgNp0CZg)
