@@ -453,6 +453,9 @@
 * [当云平台碰上AI会有什么不一样的火花！](https://mp.weixin.qq.com/s/yP2eP7XsChTS4pkb-Xa2SA?scene=1&click_id=535&poc_token=HLdYgmqjd9BKAFzbZ7rY1LXJZol6MstsLJrpDXLd)
 * [不睡觉连肝三小时，deepseek原生harness首批实测来了!](https://mp.weixin.qq.com/s/2O2nLCXXnIyUovNvP1NOnA?poc_token=HI5YgmqjcvbzO3Bkiw6V91I9P3rS0FLReaj3LCwV)
 * [首发体验 | DeepSeek Harness 来了，它不想做下一个Codex](https://mp.weixin.qq.com/s/foAKf0UU_CEtZLNpEmyqpA?poc_token=HLxYgmqjCKQG8p0TQS41TMCLhiifmDcVRVx1AAFN)
+* [如果 Claude Science 用不上，不妨看看哈佛这两套开源科研工具](https://mp.weixin.qq.com/s/kVAS-2chPu-j36ceQDB5Nw)
+* [Claude for Life Sciences（生命科学研究AI工具）](https://mp.weixin.qq.com/s/t1FTPyAKCVLZVlF1vqEoWg)
+* [article-with-mermaid](https://mp.weixin.qq.com/s/J1P-v06kYYs_Wom8EXD-sw)
 
 ## 学习资料
 
