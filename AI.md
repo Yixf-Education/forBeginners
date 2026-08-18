@@ -95,6 +95,7 @@
 * [生信智能体 OmicOS 初体验：易上手，但还不能放心交给它全自动分析！](https://mp.weixin.qq.com/s/CmfzRw1GNm-K8z85O7TWRg)
 * [毕方：以 Bio-OS 为可信执行底座，让 AI 真正参与科研分析](https://mp.weixin.qq.com/s/wDK1VLHE0Xp1UD1FbPPwYQ)
 * [Open Science 是什么？一个开源、本地优先的 AI 科研工作台](https://mp.weixin.qq.com/s/TXn6HpS9gnFHThhT9d7oug)
+* [awerouter：不怕deepseek 涨价，一句话让智能路由给你省钱](https://mp.weixin.qq.com/s/8jucVeQWQRjCIUEXxj-fHQ)
 
 
 ## 变革思考
@@ -342,6 +343,7 @@
 * [用DeepSeek V4做R语言临床预测模型全流程：LASSO筛变量→建模→三件套图，一篇文章全搞定](https://mp.weixin.qq.com/s/xum2ErPDxa7x7Z0ws7gV-Q)
 * [同一份RNA-seq数据，8个大模型跑出的结果一致吗？](https://mp.weixin.qq.com/s/q3tWxD_g1tbyL1kAeBfpOw)
 * [Positron + DeepSeek V4：我用AI复现了一篇SCI论文](https://mp.weixin.qq.com/s/3alPVggYWDBKhmNdopJ6RA)
+* [从 RStudio 到 Rho，AI 替你跑代码，但控制权还是你的](https://mp.weixin.qq.com/s/X7tY3J9UPRPboGNbVDIWWQ)
 
 ## 生物模型
 
@@ -386,6 +388,7 @@
 * [整理了一套AI科研Skill（目前最佳方案），涵盖从选题到汇报全流程！](https://mp.weixin.qq.com/s/ow-EmH6PxLLzhadyFqT_fw)
 * [50 个 Skills 打造你的 AI 创作系统。](https://mp.weixin.qq.com/s/i4rVkK12W5sRI8T3Drk-rw)
 * [将博导十年科研经验炼化 AI 技能，从构思到论文投稿，你的 AI 科研副导师，现已接入豆包办公模式](https://mp.weixin.qq.com/s/be1mYcfWfIg00umcJVho4g)
+* [2026年科研skill排行榜 Top 10](https://mp.weixin.qq.com/s/d_YNp1X0YEYbPuhIpTSpxg)
 
 ## Claude & Codex
 
@@ -456,6 +459,8 @@
 * [如果 Claude Science 用不上，不妨看看哈佛这两套开源科研工具](https://mp.weixin.qq.com/s/kVAS-2chPu-j36ceQDB5Nw)
 * [Claude for Life Sciences（生命科学研究AI工具）](https://mp.weixin.qq.com/s/t1FTPyAKCVLZVlF1vqEoWg)
 * [article-with-mermaid](https://mp.weixin.qq.com/s/J1P-v06kYYs_Wom8EXD-sw)
+* [科研AI开始争夺"操作系统"：Claude Science与OpenScience的两条路线](https://mp.weixin.qq.com/s/GICz5cX3oRIGkP823Sz1Jw)
+* [开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills](https://mp.weixin.qq.com/s/FroB6Z52CElGuB_ch18esA)
 
 ## 学习资料
 
