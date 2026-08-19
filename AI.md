@@ -389,6 +389,7 @@
 * [50 个 Skills 打造你的 AI 创作系统。](https://mp.weixin.qq.com/s/i4rVkK12W5sRI8T3Drk-rw)
 * [将博导十年科研经验炼化 AI 技能，从构思到论文投稿，你的 AI 科研副导师，现已接入豆包办公模式](https://mp.weixin.qq.com/s/be1mYcfWfIg00umcJVho4g)
 * [2026年科研skill排行榜 Top 10](https://mp.weixin.qq.com/s/d_YNp1X0YEYbPuhIpTSpxg)
+* [Academic-Research-Skills 全流程地图：写论文的每一步，该切到哪个 skill](https://mp.weixin.qq.com/s/sMSDqVir_DOnVPunm17wNw)
 
 ## Claude & Codex
 
