@@ -96,6 +96,7 @@
 * [毕方：以 Bio-OS 为可信执行底座，让 AI 真正参与科研分析](https://mp.weixin.qq.com/s/wDK1VLHE0Xp1UD1FbPPwYQ)
 * [Open Science 是什么？一个开源、本地优先的 AI 科研工作台](https://mp.weixin.qq.com/s/TXn6HpS9gnFHThhT9d7oug)
 * [awerouter：不怕deepseek 涨价，一句话让智能路由给你省钱](https://mp.weixin.qq.com/s/8jucVeQWQRjCIUEXxj-fHQ)
+* [你的服务器密码或API Key可能正在被AI"记住"！](https://mp.weixin.qq.com/s/9yNf5PNflX3MQHAs0RPkBw)
 
 
 ## 变革思考
@@ -390,6 +391,7 @@
 * [将博导十年科研经验炼化 AI 技能，从构思到论文投稿，你的 AI 科研副导师，现已接入豆包办公模式](https://mp.weixin.qq.com/s/be1mYcfWfIg00umcJVho4g)
 * [2026年科研skill排行榜 Top 10](https://mp.weixin.qq.com/s/d_YNp1X0YEYbPuhIpTSpxg)
 * [Academic-Research-Skills 全流程地图：写论文的每一步，该切到哪个 skill](https://mp.weixin.qq.com/s/sMSDqVir_DOnVPunm17wNw)
+* [只要有论文标题，也能一键下到 全文](https://mp.weixin.qq.com/s/UlFzcThpPocvST8v-P2MZg)
 
 ## Claude & Codex
 
@@ -462,6 +464,7 @@
 * [article-with-mermaid](https://mp.weixin.qq.com/s/J1P-v06kYYs_Wom8EXD-sw)
 * [科研AI开始争夺"操作系统"：Claude Science与OpenScience的两条路线](https://mp.weixin.qq.com/s/GICz5cX3oRIGkP823Sz1Jw)
 * [开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills](https://mp.weixin.qq.com/s/FroB6Z52CElGuB_ch18esA)
+* [293 个技能、41 个数据库：OpenScience 如何把科研做成可执行闭环](https://mp.weixin.qq.com/s/YYpi8wMtu9NFw9BSf8pnXg)
 
 ## 学习资料
 
