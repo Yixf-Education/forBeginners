@@ -34,6 +34,8 @@
 * [你会使用 Linux 编辑器 vim 吗?](https://mp.weixin.qq.com/s/sQPpx62XrNCaYkVVcZJxbQ)
 * [别再低效使用Vim了，原来有这么多快捷指令可以用](https://mp.weixin.qq.com/s/s4a5WnYdsq1Wxn3PZpKfwQ)
 * [Vim 缩进插入删除使用技巧](https://mp.weixin.qq.com/s/WXirukd6zvScs2aYu82pTA)
+* [Linux Vim 高级用法：告别低效，编辑器效率翻倍](https://mp.weixin.qq.com/s/ryRXXOJuYdPaYNEXPCF8KA)
+* [Vim命令毫无规律么？其实它是一门设计精妙的微型语言](https://mp.weixin.qq.com/s/1MZ-1AyhFBBDicuz78OtDQ)
 
 ## Vim卡片
 * [初学者Vi备忘单](https://linux.cn/article-7110-1.html)
