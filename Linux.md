@@ -141,6 +141,8 @@
 * [作为一名Linux用户，你得了解这15个工具！](https://mp.weixin.qq.com/s/cI6-EcL7ZVZCBN0k8nAy1Q?poc_token=HKpxYWqj_5zo0ggNtui_96JS6No0ucF6xEqX-rO9)
 * [Linux必装的20款免费好用软件｜装完系统照着装一遍就行](https://mp.weixin.qq.com/s/lsvLQdJuTU_cRoQKzHqpow?poc_token=HJFxYWqjQN4IPAOCy5AJLWWA2RvCTbfuUIlCtwU_)
 * [Mac效率神器｜15款让Mac好用到飞起的软件](https://mp.weixin.qq.com/s/uvijvd0_Pk69ehclFg1M5Q?poc_token=HKdxYWqjS6sUiygDWeeafSkXtfSLSHswnxhTQr_u)
+* [为什么 Linux 不看扩展名也能识别文件？](https://mp.weixin.qq.com/s/tM_UwGueiOG7IZRKlZ1Fog)
+* [操作系统那些事儿⑦：macOS——为什么它是真 Unix，而 Linux 却不是](https://mp.weixin.qq.com/s/kS9CVEOrWqOWnpXuVR1l4Q)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
@@ -429,6 +431,12 @@
 * [告别笨重的图形界面，这 5 款终端神器，彻底重塑了我的 Linux 工作流](chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=%E5%91%8A%E5%88%AB%E7%AC%A8%E9%87%8D%E7%9A%84%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2%EF%BC%8C%E8%BF%99%205%20%E6%AC%BE%E7%BB%88%E7%AB%AF%E7%A5%9E%E5%99%A8%EF%BC%8C%E5%BD%BB%E5%BA%95%E9%87%8D%E5%A1%91%E4%BA%86%E6%88%91%E7%9A%84%20Linux%20%E5%B7%A5%E4%BD%9C%E6%B5%81&pos=39.31428527832031&uri=https://mp.weixin.qq.com/s/TkoRJ6Mc6Z2csRPBjahxPQ)
 * [10个Linux高效操作命令（3）](https://mp.weixin.qq.com/s/7RJ6wScAEBMdKg0lvp_VCA)
 * [80条Linux文本处理神技](https://mp.weixin.qq.com/s/ISffPxLzQfXODSaUdHmj-w)
+* [用了多年Linux，才发现最实用的命令不是grep和find](https://mp.weixin.qq.com/s/lPF9gdjeTv2fv1F_hRqtuw)
+* [掌握 Linux里的25个特殊符号，从新手向高手迈进](https://mp.weixin.qq.com/s/QaxT2Np2DTROS_U98hv09g)
+* [为什么 find 很强，但很多人一直不会用？](https://mp.weixin.qq.com/s/uQc6zE3SZztW5K62wbRqFw)
+* [99%的 Linux 用户还不会：tr 命令让文本转换快到飞起](https://mp.weixin.qq.com/s/jEEqb53MQe4MOEV-xCSI9g)
+* [为什么 grep 是 Linux 排障神器？新手一定要会](https://mp.weixin.qq.com/s/_J7oY0oEXBkYsrolVa2Msw)
+* [Linux 新手第一天：记住这 10 个命令，你就能在终端里活下来](https://mp.weixin.qq.com/s/0Ac01sDUpqfWkNQiZQXxGg)
 
 ## 运维
 
