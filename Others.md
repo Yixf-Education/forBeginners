@@ -186,6 +186,8 @@
 * [【转载】为什么“统计显著性”毫无意义](https://mp.weixin.qq.com/s/Cp1WrBqSupqVjWXwDFrUmw)
 * [Pearson还是Spearman？一文讲透相关性算法选择](https://mp.weixin.qq.com/s/enWe6KRa9BDCSdmYgHTVEA)
 * [数据不显著千万别改！80%的硕博不知道：换个方法，p 值瞬间从 0.08 变 0.02](https://mp.weixin.qq.com/s/5gn9JgZfORgq-5P8hnBhnQ)
+* [CS229: Machine Learning](https://cs229.stanford.edu/index.html-spr26)
+* [Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction - YouTube](https://www.youtube.com/watch?v=DATnpGoGhM8)
 
 ## 统计学入门
 
