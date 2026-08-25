@@ -437,6 +437,9 @@
 * [99%的 Linux 用户还不会：tr 命令让文本转换快到飞起](https://mp.weixin.qq.com/s/jEEqb53MQe4MOEV-xCSI9g)
 * [为什么 grep 是 Linux 排障神器？新手一定要会](https://mp.weixin.qq.com/s/_J7oY0oEXBkYsrolVa2Msw)
 * [Linux 新手第一天：记住这 10 个命令，你就能在终端里活下来](https://mp.weixin.qq.com/s/0Ac01sDUpqfWkNQiZQXxGg)
+* [10个Linux高效操作命令](https://mp.weixin.qq.com/s/wurEO7EAFbaieCOBGznxcg)
+
+  
 
 ## 运维
 
