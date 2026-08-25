@@ -469,6 +469,8 @@
 * [为什么聪明又努力的人，大多数最终平庸？40年前这场演讲给出了答案](https://mp.weixin.qq.com/s/opYg_DhBuk2RlJE2m7pScg)
 * [AI与人类的智商：演化中心师生的学术夜谈](https://mp.weixin.qq.com/s/MiXggoJwZNnjP-SF017RJg?scene=1&click_id=284)
 * [Typora|科研笔记模板](https://mp.weixin.qq.com/s/Rev_dAZmUUbPk0qmCdOIBA)
+* [《Nature》首席编辑：什么论文才会被Nature给Accept?](https://mp.weixin.qq.com/s/6-48GYBZU4GH80M3vyR-rQ)
+* [刚刚！《Nature》如何高效开组会protocol？](https://mp.weixin.qq.com/s/a_ZlaJZTXddQY-xZWv4aag?scene=1&click_id=167)
 
 ## 数据集
 
