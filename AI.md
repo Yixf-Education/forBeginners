@@ -361,6 +361,7 @@
 * [毫秒级搜索10亿生物序列！腾讯×浙大合作推出最强生物序列搜索AI工具——ERAST](https://mp.weixin.qq.com/s/Vjhn83AYvW5vn3j0duJfOQ)
 * [hugohe3/ppt-master: AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He](https://github.com/hugohe3/ppt-master)
 * [Carbon：一半参数打平 Evo2，275 倍速的 DNA 大模型](https://mp.weixin.qq.com/s/Q3sFH99w1F7xh4iqrsJUkA)
+* [全球首个「虚拟细胞+世界模型」来了，David Baker领衔！](https://mp.weixin.qq.com/s/TJTdb3TGGN6cm8mI49-chw)
 
 ## 教育教学
 
