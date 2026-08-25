@@ -220,6 +220,7 @@
 * [零基础 R 语言入门：使用Positron+GithubCopilot写中文注释，AI 帮你写代码，30 分钟见效](https://mp.weixin.qq.com/s/4bnJeuS6yhLWeBokGYvIfQ)
 * [驯龙高手，利用claude code进行生物信息分析（六）：四种运行模式](https://mp.weixin.qq.com/s/0E2rmkSK6xPs3D93bDNB4A)
 * [装了Positron但AI不回你？5步配置从"能打开"到"能跑通"](https://mp.weixin.qq.com/s/Fus8mXpS2DaepRQgtKUHCw)
+* [数据太乱？R语言10种数据处理一次搞定：缺失值·异常值·长宽转换·合并·日期（附代码）](https://mp.weixin.qq.com/s/ZpXrKvlXsmY1Z0KzDMvvfQ)
 
 
 ## 论文课题
