@@ -556,6 +556,7 @@
 * [细胞的身份，能改到哪儿？](https://mp.weixin.qq.com/s/BxlR-fdop7g1zrai8c95BA)
 * [Cell、Nature：共病可能源于"共同衰老"](https://mp.weixin.qq.com/s/RisCaCucVg1aDFptQhcOKQ)
 * [肺腺癌单细胞数据集GSE189357复现系列之十：联合bulk数据进行细胞亚群预后验证](https://mp.weixin.qq.com/s/Cj3SWqZTrRP8ex7rM_uTZA)
+* [染色质开放性(一)｜ATAC-seq 奠基论文：读懂一套质量标尺](https://mp.weixin.qq.com/s/mzSwb8KPob14eFZsj2LJLA)
 
 ## 系统课程
 
