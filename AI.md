@@ -309,6 +309,7 @@
 * [科研人的“超级外挂”来了，中国队用 AI 打通研究全流程](https://mp.weixin.qq.com/s/nLczGONLI1EtFzqa8WwtIw)
 * [不到1块钱，我完成了单细胞文献调研工作](https://mp.weixin.qq.com/s/gNVfK7Fkyn0Ujpu3JTPwgQ)
 * [论文校样阶段，如何高效解决文献插入问题？](https://mp.weixin.qq.com/s/0J8UHhtiR-UE71qPB1deYw)
+* [整整10天、23亿token，158位学者、13059篇论文，一位大二本科生做了一个「图情谱系」网站，正式上线](https://mp.weixin.qq.com/s/HA_eGmimXmSYes85JzI2KA?scene=1&click_id=231)
 
 
 ## 分析绘图
