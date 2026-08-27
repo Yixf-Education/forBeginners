@@ -156,6 +156,9 @@
 * [听说 AI 已经能自己做科研了？别急，这篇文章专门来拆台](https://mp.weixin.qq.com/s/ZqGQuT4Mi1ITSlHuAUZJXg)
 * [硅基（Scaling-Law）算不动了，碳基（生命的 Scaling Law）要下场，是否能迎来AGI？](https://mp.weixin.qq.com/s/AN5PVLC6Uqex5cNi-Yqpxw?poc_token=HLhYgmqji7Ygewka-GUnIuS5R75nKIIdfkBvKZYJ)
 * [观点分享｜AI会取代生物信息学家吗——人工智能时代对生物信息学专业素养的再思考](https://mp.weixin.qq.com/s/MviNzq_0sO3W2W_g2zdcRQ)
+* [待了3年的公司，裁掉80%生信工程师](https://mp.weixin.qq.com/s/CCzoBb84ptqd3nBq3sMoLQ)
+* [当生信分析越来越自动化，专业价值正在转向哪里？](https://mp.weixin.qq.com/s/PLK0658Am__fWdRp4V4jFA)
+* 
 
 
 ## 基本使用
