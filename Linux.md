@@ -143,6 +143,8 @@
 * [Mac效率神器｜15款让Mac好用到飞起的软件](https://mp.weixin.qq.com/s/uvijvd0_Pk69ehclFg1M5Q?poc_token=HKdxYWqjS6sUiygDWeeafSkXtfSLSHswnxhTQr_u)
 * [为什么 Linux 不看扩展名也能识别文件？](https://mp.weixin.qq.com/s/tM_UwGueiOG7IZRKlZ1Fog)
 * [操作系统那些事儿⑦：macOS——为什么它是真 Unix，而 Linux 却不是](https://mp.weixin.qq.com/s/kS9CVEOrWqOWnpXuVR1l4Q)
+* [用 Claude Code/OpenCode 写代码，你还在用系统自带的终端？](https://mp.weixin.qq.com/s/O0e42sxcz4Axty76xOuGkQ)
+* [Linux 为什么有 /bin 又有 /usr/bin？因为 1971 年一块 1.5MB 的硬盘满了](https://mp.weixin.qq.com/s/prqGbP3PF0L1bHbFpV4JXw)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
