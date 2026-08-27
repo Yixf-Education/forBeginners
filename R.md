@@ -648,6 +648,7 @@
 * [R语言 | 包管理工具pak](https://mp.weixin.qq.com/s/d_tlWRefuh1tYRtjrgFDLA)
 * [Positron+Copilot：R 语言专家级保姆教程——从工程师到架构师的跃迁](https://mp.weixin.qq.com/s/PPP-a5t4TOXDGL14GtY84Q)
 * [Monocle史诗级排雷，他们不更新我给你更新](https://mp.weixin.qq.com/s/j50ukeQXDTJbm49AxJzZ-A)
+* [用qs2替代RData，加速大型单细胞对象存储](https://mp.weixin.qq.com/s/fhxDyoHLul-a3Ra67XuvUQ)
 
 # Shiny
 
