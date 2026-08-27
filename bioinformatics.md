@@ -85,6 +85,7 @@
 * [OmicVerse Web｜完全开源的云分析系统 谁用谁知](https://mp.weixin.qq.com/s/46ud11G97YHnruc2o4Ts4A)
 * [文章附件批量下载神器，告别一个文件点一下](https://mp.weixin.qq.com/s/qdn12GJVSmo2lMXfHCIfoQ)
 * [OmicVerse Documentation — omicverse](https://omicverse.readthedocs.io/en/latest/index.html)
+* [【生信基础】比NCBI还顺手？seqout快速检索公共测序数据](https://mp.weixin.qq.com/s/mzyEwjJEp8agqRt2Gnn9bA)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
@@ -557,6 +558,8 @@
 * [Cell、Nature：共病可能源于"共同衰老"](https://mp.weixin.qq.com/s/RisCaCucVg1aDFptQhcOKQ)
 * [肺腺癌单细胞数据集GSE189357复现系列之十：联合bulk数据进行细胞亚群预后验证](https://mp.weixin.qq.com/s/Cj3SWqZTrRP8ex7rM_uTZA)
 * [染色质开放性(一)｜ATAC-seq 奠基论文：读懂一套质量标尺](https://mp.weixin.qq.com/s/mzSwb8KPob14eFZsj2LJLA)
+* [染色质开放性(二)｜ATAC-seq实验protocol](https://mp.weixin.qq.com/s/W2NiatfqUBfwjh0866H8kQ)
+* [【生信基础】生信表达矩阵急救包：count、归一化、标准化、log2，别再搞反顺序](https://mp.weixin.qq.com/s/3ZJAXpoCgFLhMzZxqzAXrA)
 
 ## 系统课程
 
