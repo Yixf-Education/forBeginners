@@ -36,6 +36,7 @@
 * [Vim 缩进插入删除使用技巧](https://mp.weixin.qq.com/s/WXirukd6zvScs2aYu82pTA)
 * [Linux Vim 高级用法：告别低效，编辑器效率翻倍](https://mp.weixin.qq.com/s/ryRXXOJuYdPaYNEXPCF8KA)
 * [Vim命令毫无规律么？其实它是一门设计精妙的微型语言](https://mp.weixin.qq.com/s/1MZ-1AyhFBBDicuz78OtDQ)
+* [Vim 实用技巧与快捷键速查](https://mp.weixin.qq.com/s/UQflGOqncNQrlazh3UQnKA?poc_token=HG4RlmqjPH580ye3c-y2Brn9eVzc2eVypLUsWOoK)
 
 ## Vim卡片
 * [初学者Vi备忘单](https://linux.cn/article-7110-1.html)
