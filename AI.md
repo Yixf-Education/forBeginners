@@ -398,6 +398,9 @@
 * [2026年科研skill排行榜 Top 10](https://mp.weixin.qq.com/s/d_YNp1X0YEYbPuhIpTSpxg)
 * [Academic-Research-Skills 全流程地图：写论文的每一步，该切到哪个 skill](https://mp.weixin.qq.com/s/sMSDqVir_DOnVPunm17wNw)
 * [只要有论文标题，也能一键下到 全文](https://mp.weixin.qq.com/s/UlFzcThpPocvST8v-P2MZg)
+* [IOBRpy-可借助Agent规范解析和快速获得抗肿瘤免疫数据](https://mp.weixin.qq.com/s/_7uRiJNNekqYtb_V1zu8ww)
+* [科研经验被写成Agent可调用的Skill](https://mp.weixin.qq.com/s/pob_-MoqzCRwMMiKdFYdLg?scene=1&click_id=29)
+* 
 
 ## Claude & Codex
 
@@ -471,6 +474,8 @@
 * [科研AI开始争夺"操作系统"：Claude Science与OpenScience的两条路线](https://mp.weixin.qq.com/s/GICz5cX3oRIGkP823Sz1Jw)
 * [开源版Claude Science来了！零依赖、MIT协议，内置30+项科研Skills](https://mp.weixin.qq.com/s/FroB6Z52CElGuB_ch18esA)
 * [293 个技能、41 个数据库：OpenScience 如何把科研做成可执行闭环](https://mp.weixin.qq.com/s/YYpi8wMtu9NFw9BSf8pnXg)
+* [我让 Codex 做了一条短视频：一句话交付脚本、分镜、字幕和成片](https://mp.weixin.qq.com/s/OegAOvWE5Xxio5NqfTr8uA?scene=1)
+* [ChatGPT + Codex + GPT-Image-2 完成一座7 张图的山地民宿](https://mp.weixin.qq.com/s/-CKVa_-xVJ0Zu6vLla7Tmg?scene=1&click_id=27)
 
 ## 学习资料
 
