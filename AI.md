@@ -350,6 +350,7 @@
 * [同一份RNA-seq数据，8个大模型跑出的结果一致吗？](https://mp.weixin.qq.com/s/q3tWxD_g1tbyL1kAeBfpOw)
 * [Positron + DeepSeek V4：我用AI复现了一篇SCI论文](https://mp.weixin.qq.com/s/3alPVggYWDBKhmNdopJ6RA)
 * [从 RStudio 到 Rho，AI 替你跑代码，但控制权还是你的](https://mp.weixin.qq.com/s/X7tY3J9UPRPboGNbVDIWWQ)
+* [做预测模型必出的6张图，AI+tidymodels 一天跑完（附完整代码）](https://mp.weixin.qq.com/s/IVYbokXNsOF2zaaVETal2Q)
 
 ## 生物模型
 
@@ -476,6 +477,7 @@
 * [293 个技能、41 个数据库：OpenScience 如何把科研做成可执行闭环](https://mp.weixin.qq.com/s/YYpi8wMtu9NFw9BSf8pnXg)
 * [我让 Codex 做了一条短视频：一句话交付脚本、分镜、字幕和成片](https://mp.weixin.qq.com/s/OegAOvWE5Xxio5NqfTr8uA?scene=1)
 * [ChatGPT + Codex + GPT-Image-2 完成一座7 张图的山地民宿](https://mp.weixin.qq.com/s/-CKVa_-xVJ0Zu6vLla7Tmg?scene=1&click_id=27)
+* [OpenAI 发布生命科学 AI 工作台——Rosalind Bench](https://mp.weixin.qq.com/s/9EezEFqGHFC6OUUIml5f6Q)
 
 ## 学习资料
 
