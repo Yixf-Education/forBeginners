@@ -145,6 +145,8 @@
 * [操作系统那些事儿⑦：macOS——为什么它是真 Unix，而 Linux 却不是](https://mp.weixin.qq.com/s/kS9CVEOrWqOWnpXuVR1l4Q)
 * [用 Claude Code/OpenCode 写代码，你还在用系统自带的终端？](https://mp.weixin.qq.com/s/O0e42sxcz4Axty76xOuGkQ)
 * [Linux 为什么有 /bin 又有 /usr/bin？因为 1971 年一块 1.5MB 的硬盘满了](https://mp.weixin.qq.com/s/prqGbP3PF0L1bHbFpV4JXw)
+* [为什么 Linux 中文文件名会乱码？](https://mp.weixin.qq.com/s/xHW1mlbF1uQ0utItkVZ9mw?poc_token=HHARlmqjvONLw8uIYE42etElMJYwwQ1jwYXhR-5e)
+* [为什么 Linux 命令名都这么短？（ls、cd、grep 背后的秘密）](https://mp.weixin.qq.com/s/JDCyzpcb-r7-ear6DAe79g?poc_token=HGwRlmqjmCEixPUoFWIMu-tfxSLHXrXZrRHjnVIx)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
