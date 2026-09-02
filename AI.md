@@ -158,7 +158,7 @@
 * [观点分享｜AI会取代生物信息学家吗——人工智能时代对生物信息学专业素养的再思考](https://mp.weixin.qq.com/s/MviNzq_0sO3W2W_g2zdcRQ)
 * [待了3年的公司，裁掉80%生信工程师](https://mp.weixin.qq.com/s/CCzoBb84ptqd3nBq3sMoLQ)
 * [当生信分析越来越自动化，专业价值正在转向哪里？](https://mp.weixin.qq.com/s/PLK0658Am__fWdRp4V4jFA)
-* 
+* [科研的稀缺性正在瓦解， “全民科研时代”即将到来](https://mp.weixin.qq.com/s/xRORheK8jB2tUXleVVKoxw)
 
 
 ## 基本使用
