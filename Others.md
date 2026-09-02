@@ -473,6 +473,7 @@
 * [《Nature》首席编辑：什么论文才会被Nature给Accept?](https://mp.weixin.qq.com/s/6-48GYBZU4GH80M3vyR-rQ)
 * [刚刚！《Nature》如何高效开组会protocol？](https://mp.weixin.qq.com/s/a_ZlaJZTXddQY-xZWv4aag?scene=1&click_id=167)
 * [Cover Letter 十句“扣分话”，和十句“加分话”](https://mp.weixin.qq.com/s/VuXt3gG4orOtxIGVYaYISA?poc_token=HHIRlmqj7Vsffu09-a5TWEc4gVg6309WgwJl-aSt)
+* [如何看出一篇文献的水平？](https://mp.weixin.qq.com/s/CODvCSA_NatNimA-DGyrFw)
 
 ## 数据集
 
