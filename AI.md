@@ -97,6 +97,7 @@
 * [Open Science 是什么？一个开源、本地优先的 AI 科研工作台](https://mp.weixin.qq.com/s/TXn6HpS9gnFHThhT9d7oug)
 * [awerouter：不怕deepseek 涨价，一句话让智能路由给你省钱](https://mp.weixin.qq.com/s/8jucVeQWQRjCIUEXxj-fHQ)
 * [你的服务器密码或API Key可能正在被AI"记住"！](https://mp.weixin.qq.com/s/9yNf5PNflX3MQHAs0RPkBw)
+* [至多领 4 个月会员！豆包电脑端这波上新实在是太狠了](https://mp.weixin.qq.com/s/Uhh7I9NzIWYmeFNvMBwvTQ)
 
 
 ## 变革思考
@@ -401,7 +402,7 @@
 * [只要有论文标题，也能一键下到 全文](https://mp.weixin.qq.com/s/UlFzcThpPocvST8v-P2MZg)
 * [IOBRpy-可借助Agent规范解析和快速获得抗肿瘤免疫数据](https://mp.weixin.qq.com/s/_7uRiJNNekqYtb_V1zu8ww)
 * [科研经验被写成Agent可调用的Skill](https://mp.weixin.qq.com/s/pob_-MoqzCRwMMiKdFYdLg?scene=1&click_id=29)
-* 
+* [Codex 最推荐的15个skill，每一个都值得收藏！](https://mp.weixin.qq.com/s/N4rjNK9FFS7YvQPdnVLQVA)
 
 ## Claude & Codex
 
