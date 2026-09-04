@@ -479,6 +479,7 @@
 * [我让 Codex 做了一条短视频：一句话交付脚本、分镜、字幕和成片](https://mp.weixin.qq.com/s/OegAOvWE5Xxio5NqfTr8uA?scene=1)
 * [ChatGPT + Codex + GPT-Image-2 完成一座7 张图的山地民宿](https://mp.weixin.qq.com/s/-CKVa_-xVJ0Zu6vLla7Tmg?scene=1&click_id=27)
 * [OpenAI 发布生命科学 AI 工作台——Rosalind Bench](https://mp.weixin.qq.com/s/9EezEFqGHFC6OUUIml5f6Q)
+* [OmicOS x 西柚云｜OmicOS Rosalind正式发布，让生命科学的研究再无壁垒](https://mp.weixin.qq.com/s/682enAtl7UJRvsSO9l7HzQ)
 
 ## 学习资料
 
