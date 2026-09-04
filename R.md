@@ -205,6 +205,7 @@
 * [R语言特殊实战篇3：用R打造个人效率工具箱](https://mp.weixin.qq.com/s/kSr_dfKpipCxoyD8OgwRNw)
 * [RStudio 优化设置](https://mp.weixin.qq.com/s/RFxyYVpCrnzFip7wJUSNtQ)
 * [我劝你换 Positron，但有话要先说清楚](https://mp.weixin.qq.com/s/_UhKWqdBjrFvVfl6A7oVZA)
+* [从“能运行”到“可复现”：用 Rho 管理 R 环境](https://mp.weixin.qq.com/s/bErvn2HUKH5aMM9nVznDqg)
 
 # 《R语千寻》系列
 * [初识R语言](http://mp.weixin.qq.com/s?__biz=MzA5MjEyMTYwMg==&mid=2650236942&idx=1&sn=f351a6c569a19bebfde773b32ceb1799)
