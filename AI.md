@@ -480,6 +480,9 @@
 * [ChatGPT + Codex + GPT-Image-2 完成一座7 张图的山地民宿](https://mp.weixin.qq.com/s/-CKVa_-xVJ0Zu6vLla7Tmg?scene=1&click_id=27)
 * [OpenAI 发布生命科学 AI 工作台——Rosalind Bench](https://mp.weixin.qq.com/s/9EezEFqGHFC6OUUIml5f6Q)
 * [OmicOS x 西柚云｜OmicOS Rosalind正式发布，让生命科学的研究再无壁垒](https://mp.weixin.qq.com/s/682enAtl7UJRvsSO9l7HzQ)
+* [现在搞科研真是太方便了！一个新的agent](https://mp.weixin.qq.com/s?__biz=MzkxMzYyMTk1Mw==&mid=2247485527&idx=1&sn=f286fffac5a3f868b640dd59de96ff97&scene=21&poc_token=HFt8m2qjJG7OQE6Fe8b__g_PWXru78dldh-mketq)
+* [AI 会自己跑生信分析了，继续推荐agent系列-PromptBio](https://mp.weixin.qq.com/s/jxjD2T3U4nbyguRYrZv2OA)
+* 
 
 ## 学习资料
 
