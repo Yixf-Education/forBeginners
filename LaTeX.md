@@ -190,6 +190,7 @@
 * [告别繁琐编译！一行代码，让你的 LaTeX 论文排版自动化飞起！](https://mp.weixin.qq.com/s/5HOBzGmrvyYrMH74-zVqNA)
 * [告别TikZ噩梦！开源 OpenTikZ，AI 一键产出顶会标准论文插图](chrome-extension://noogafoofpebimajpfpamcfhoaifemoa/suspended.html#ttl=%E5%91%8A%E5%88%ABTikZ%E5%99%A9%E6%A2%A6%EF%BC%81%E5%BC%80%E6%BA%90%20OpenTikZ%EF%BC%8CAI%20%E4%B8%80%E9%94%AE%E4%BA%A7%E5%87%BA%E9%A1%B6%E4%BC%9A%E6%A0%87%E5%87%86%E8%AE%BA%E6%96%87%E6%8F%92%E5%9B%BE&pos=672.4571533203125&uri=https://mp.weixin.qq.com/s/ZbMc0rjhkIXnQRQedIrKPQ)
 * [Neovim 写 LaTeX 不用反复切 PDF！vimtex-follow 自动跟随预览，科研人狂喜](https://mp.weixin.qq.com/s/mT1-rWlxA9fKadSq2IXxAw)
+* [一站式科研工作台：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器任务编排，管理科研全周期](https://mp.weixin.qq.com/s/Y6oC35cXckEZOoK2WflPEw)
 
 
 ## 教学
