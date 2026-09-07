@@ -46,3 +46,7 @@
 * [vim/vi命令整理](https://zhuanlan.zhihu.com/p/21278816)
 * [vim中文速查表](https://github.com/skywind3000/awesome-cheatsheets/blob/master/editors/vim.txt)
 
+## Neovim
+
+* [Neovim 配置从零写太累、用 LazyVim 又太重？kickstart.nvim 给你个「读得懂、改得动、升级不冲突」的中间地带](https://mp.weixin.qq.com/s/f8RqLnT3-y2QIsrFdo8ayg)
+
