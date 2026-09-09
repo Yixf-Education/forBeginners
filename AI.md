@@ -352,6 +352,7 @@
 * [Positron + DeepSeek V4：我用AI复现了一篇SCI论文](https://mp.weixin.qq.com/s/3alPVggYWDBKhmNdopJ6RA)
 * [从 RStudio 到 Rho，AI 替你跑代码，但控制权还是你的](https://mp.weixin.qq.com/s/X7tY3J9UPRPboGNbVDIWWQ)
 * [做预测模型必出的6张图，AI+tidymodels 一天跑完（附完整代码）](https://mp.weixin.qq.com/s/IVYbokXNsOF2zaaVETal2Q)
+* [当组学分析开始听懂你的话|OmicStudio以AI重新设计科研云平台](https://mp.weixin.qq.com/s/vts167Ckm32OhB0hZDGPmw)
 
 ## 生物模型
 
