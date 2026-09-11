@@ -442,6 +442,8 @@
 * [为什么 grep 是 Linux 排障神器？新手一定要会](https://mp.weixin.qq.com/s/_J7oY0oEXBkYsrolVa2Msw)
 * [Linux 新手第一天：记住这 10 个命令，你就能在终端里活下来](https://mp.weixin.qq.com/s/0Ac01sDUpqfWkNQiZQXxGg)
 * [10个Linux高效操作命令](https://mp.weixin.qq.com/s/wurEO7EAFbaieCOBGznxcg)
+* [这 10 个现代 Linux 命令行工具，让 Terminal 工作流焕然一新](https://mp.weixin.qq.com/s/kNc76s8D4d4YglPDwVcauA)
+* [10 个让终端像超级能力一样强大的 CLI 工具](https://mp.weixin.qq.com/s/LhB2QtIopEA4rF1YivuhRw)
 
   
 
