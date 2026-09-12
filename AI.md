@@ -314,6 +314,7 @@
 * [不到1块钱，我完成了单细胞文献调研工作](https://mp.weixin.qq.com/s/gNVfK7Fkyn0Ujpu3JTPwgQ)
 * [论文校样阶段，如何高效解决文献插入问题？](https://mp.weixin.qq.com/s/0J8UHhtiR-UE71qPB1deYw)
 * [整整10天、23亿token，158位学者、13059篇论文，一位大二本科生做了一个「图情谱系」网站，正式上线](https://mp.weixin.qq.com/s/HA_eGmimXmSYes85JzI2KA?scene=1&click_id=231)
+* [我的 Codex 论文流程：15个skills、7个阶段、4个注意事项、1条红线](https://mp.weixin.qq.com/s/xTKHSAVdguQ9lrToZDHOtA)
 
 
 ## 分析绘图
