@@ -593,6 +593,7 @@
 * [论文Cox回归跑不通？3段R代码+AI辅助，10分钟出森林图](https://mp.weixin.qq.com/s/o35Dbm-7XXoaxVtVCo639Q)
 * [论文Table 1手工做1周？3段R代码+AI辅助，10分钟出基线表](https://mp.weixin.qq.com/s/XtBeJAocS7TYa-S4GrqByg)
 * [随机森林还是 XGBoost？别再拍脑袋选了——3 行 tidymodels 代码告诉你](https://mp.weixin.qq.com/s/g1PtTj_ZoxZG8gs5WqcpKg)
+* [ggraph：用 ggplot2 的语法，画出六种网络与层级图](https://mp.weixin.qq.com/s/v7s3V71fbTqeyQGTNNtyCA)
 
 # R包
 
