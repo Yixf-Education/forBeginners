@@ -354,6 +354,7 @@
 * [从 RStudio 到 Rho，AI 替你跑代码，但控制权还是你的](https://mp.weixin.qq.com/s/X7tY3J9UPRPboGNbVDIWWQ)
 * [做预测模型必出的6张图，AI+tidymodels 一天跑完（附完整代码）](https://mp.weixin.qq.com/s/IVYbokXNsOF2zaaVETal2Q)
 * [当组学分析开始听懂你的话|OmicStudio以AI重新设计科研云平台](https://mp.weixin.qq.com/s/vts167Ckm32OhB0hZDGPmw)
+* [让 Codex 重绘科研图片：生成一份真正可编辑的 PPT](https://mp.weixin.qq.com/s/fjwy512j3Ur8aLkWIuoJYw)
 
 ## 生物模型
 
@@ -405,6 +406,7 @@
 * [IOBRpy-可借助Agent规范解析和快速获得抗肿瘤免疫数据](https://mp.weixin.qq.com/s/_7uRiJNNekqYtb_V1zu8ww)
 * [科研经验被写成Agent可调用的Skill](https://mp.weixin.qq.com/s/pob_-MoqzCRwMMiKdFYdLg?scene=1&click_id=29)
 * [Codex 最推荐的15个skill，每一个都值得收藏！](https://mp.weixin.qq.com/s/N4rjNK9FFS7YvQPdnVLQVA)
+* [封神！8 款 GitHub 顶级科研 Skills，承包论文全流程](https://mp.weixin.qq.com/s/ZyTqbAZ8Mf9cFxKGvjJtQQ)
 
 ## Claude & Codex
 
