@@ -248,6 +248,7 @@
 * [别以为学术海报只能“将就”，Gemini：一个把 beamerposter 变成艺术的主题](https://mp.weixin.qq.com/s/d3C1u8aOP6nAsg25ZY1SGQ)
 * [arcAman07/TexGuardian: AI-powered terminal assistant for LaTeX academic papers — verifies, fixes, and polishes your paper for conference submission with reviewable diff patches and checkpoint safety.](https://github.com/arcAman07/TexGuardian)
 * [arXiv最新论文：让 LaTeX 代码成为AI的高质量知识源，教你用 LaTeX 自动化生成语义增强知识库！科研/教学辅助效率翻倍！](https://mp.weixin.qq.com/s/6uHkwx8nNpZjGOUoZbv_Cg)
+* [论文排版 Word 还是 LaTeX？经济学顶刊审稿人用随机对照实验给出了答案](https://mp.weixin.qq.com/s/CLEWVdCOQ43Zz8hXs4y-zg)
 
 ## 幻灯片
 * [R Markdown 制作 beamer 幻灯片](https://mp.weixin.qq.com/s/vnDD1Ovx1TaW4TdBnf56vQ)
