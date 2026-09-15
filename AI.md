@@ -160,6 +160,7 @@
 * [待了3年的公司，裁掉80%生信工程师](https://mp.weixin.qq.com/s/CCzoBb84ptqd3nBq3sMoLQ)
 * [当生信分析越来越自动化，专业价值正在转向哪里？](https://mp.weixin.qq.com/s/PLK0658Am__fWdRp4V4jFA)
 * [科研的稀缺性正在瓦解， “全民科研时代”即将到来](https://mp.weixin.qq.com/s/xRORheK8jB2tUXleVVKoxw)
+* [AI能证明"自己不会失控"吗？其实哥德尔不完备定理早就回答了.....](https://mp.weixin.qq.com/s/zksh8Lk5LFB7YplHCuRa4g)
 
 
 ## 基本使用
@@ -355,6 +356,7 @@
 * [做预测模型必出的6张图，AI+tidymodels 一天跑完（附完整代码）](https://mp.weixin.qq.com/s/IVYbokXNsOF2zaaVETal2Q)
 * [当组学分析开始听懂你的话|OmicStudio以AI重新设计科研云平台](https://mp.weixin.qq.com/s/vts167Ckm32OhB0hZDGPmw)
 * [让 Codex 重绘科研图片：生成一份真正可编辑的 PPT](https://mp.weixin.qq.com/s/fjwy512j3Ur8aLkWIuoJYw)
+* [如何使用DeepSeek进行相关性分析和图表绘制？](https://mp.weixin.qq.com/s/tSa9DMPzp-IbSG3O_6bEsA)
 
 ## 生物模型
 
