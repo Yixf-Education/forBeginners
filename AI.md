@@ -161,6 +161,7 @@
 * [当生信分析越来越自动化，专业价值正在转向哪里？](https://mp.weixin.qq.com/s/PLK0658Am__fWdRp4V4jFA)
 * [科研的稀缺性正在瓦解， “全民科研时代”即将到来](https://mp.weixin.qq.com/s/xRORheK8jB2tUXleVVKoxw)
 * [AI能证明"自己不会失控"吗？其实哥德尔不完备定理早就回答了.....](https://mp.weixin.qq.com/s/zksh8Lk5LFB7YplHCuRa4g)
+* [当AI什么都会，大学该教什么？](https://mp.weixin.qq.com/s/YMZoKZ1P_5HjpORPXph6Lw)
 
 
 ## 基本使用
