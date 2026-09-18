@@ -98,6 +98,7 @@
 * [awerouter：不怕deepseek 涨价，一句话让智能路由给你省钱](https://mp.weixin.qq.com/s/8jucVeQWQRjCIUEXxj-fHQ)
 * [你的服务器密码或API Key可能正在被AI"记住"！](https://mp.weixin.qq.com/s/9yNf5PNflX3MQHAs0RPkBw)
 * [至多领 4 个月会员！豆包电脑端这波上新实在是太狠了](https://mp.weixin.qq.com/s/Uhh7I9NzIWYmeFNvMBwvTQ)
+* [比 LibreOffice 快 256 倍！这款 1.7 万 Star 的 Rust 神器，把 14 种文档一键转成 Markdown](https://mp.weixin.qq.com/s/4zPreWm1mtvTRs03yaOkqg)
 
 
 ## 变革思考
