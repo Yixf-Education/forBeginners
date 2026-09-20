@@ -412,6 +412,7 @@
 * [Codex 最推荐的15个skill，每一个都值得收藏！](https://mp.weixin.qq.com/s/N4rjNK9FFS7YvQPdnVLQVA)
 * [封神！8 款 GitHub 顶级科研 Skills，承包论文全流程](https://mp.weixin.qq.com/s/ZyTqbAZ8Mf9cFxKGvjJtQQ)
 * [Nature Skills 增至 19 个：它已经不只是帮你写论文了](https://mp.weixin.qq.com/s/QGBZfVi68-wDd0ne96ULlg)
+* [GitHub 10 个高 Star 科研 Skills，到底怎么选？](https://mp.weixin.qq.com/s/InPlfHnPqT3YfC3CBsUrDQ)
 
 ## Claude & Codex
 
