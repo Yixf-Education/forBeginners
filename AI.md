@@ -411,6 +411,7 @@
 * [科研经验被写成Agent可调用的Skill](https://mp.weixin.qq.com/s/pob_-MoqzCRwMMiKdFYdLg?scene=1&click_id=29)
 * [Codex 最推荐的15个skill，每一个都值得收藏！](https://mp.weixin.qq.com/s/N4rjNK9FFS7YvQPdnVLQVA)
 * [封神！8 款 GitHub 顶级科研 Skills，承包论文全流程](https://mp.weixin.qq.com/s/ZyTqbAZ8Mf9cFxKGvjJtQQ)
+* [Nature Skills 增至 19 个：它已经不只是帮你写论文了](https://mp.weixin.qq.com/s/QGBZfVi68-wDd0ne96ULlg)
 
 ## Claude & Codex
 
@@ -491,6 +492,8 @@
 * [现在搞科研真是太方便了！一个新的agent](https://mp.weixin.qq.com/s?__biz=MzkxMzYyMTk1Mw==&mid=2247485527&idx=1&sn=f286fffac5a3f868b640dd59de96ff97&scene=21&poc_token=HFt8m2qjJG7OQE6Fe8b__g_PWXru78dldh-mketq)
 * [AI 会自己跑生信分析了，继续推荐agent系列-PromptBio](https://mp.weixin.qq.com/s/jxjD2T3U4nbyguRYrZv2OA)
 * [我愿称之为 ”越狱版“ WorkBuddy](https://mp.weixin.qq.com/s/LqqhRc2Pxla_07LvajtTvQ)
+* [Codex让我的科研绘图提升好几个档次，这个skill神助攻了](https://mp.weixin.qq.com/s/HgyVcMlO2X4jONU6UsEE9w)
+* [刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家](https://mp.weixin.qq.com/s/TVxmHaOAUMlKn4MqBxKenQ)
 
 ## 学习资料
 
