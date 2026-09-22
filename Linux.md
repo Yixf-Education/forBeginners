@@ -147,6 +147,7 @@
 * [Linux 为什么有 /bin 又有 /usr/bin？因为 1971 年一块 1.5MB 的硬盘满了](https://mp.weixin.qq.com/s/prqGbP3PF0L1bHbFpV4JXw)
 * [为什么 Linux 中文文件名会乱码？](https://mp.weixin.qq.com/s/xHW1mlbF1uQ0utItkVZ9mw?poc_token=HHARlmqjvONLw8uIYE42etElMJYwwQ1jwYXhR-5e)
 * [为什么 Linux 命令名都这么短？（ls、cd、grep 背后的秘密）](https://mp.weixin.qq.com/s/JDCyzpcb-r7-ear6DAe79g?poc_token=HGwRlmqjmCEixPUoFWIMu-tfxSLHXrXZrRHjnVIx)
+* [90% 程序员都不会用 Terminal：这 11 个技巧，让你的效率直接翻倍](https://mp.weixin.qq.com/s/m8jhQX4lHd0ucwyQ8rqBfw)
 
 ## 命令行
 * [**ibraheemdev/modern-unix: A collection of modern/faster/saner alternatives to common unix commands.**](https://github.com/ibraheemdev/modern-unix)
