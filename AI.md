@@ -163,6 +163,7 @@
 * [科研的稀缺性正在瓦解， “全民科研时代”即将到来](https://mp.weixin.qq.com/s/xRORheK8jB2tUXleVVKoxw)
 * [AI能证明"自己不会失控"吗？其实哥德尔不完备定理早就回答了.....](https://mp.weixin.qq.com/s/zksh8Lk5LFB7YplHCuRa4g)
 * [当AI什么都会，大学该教什么？](https://mp.weixin.qq.com/s/YMZoKZ1P_5HjpORPXph6Lw)
+* [纽大教授警告：AI正在偷走你的研究](https://mp.weixin.qq.com/s/YTCWWb4FWGLW1nps3JpMMA)
 
 
 ## 基本使用
@@ -200,6 +201,7 @@
 * [过去调半天的 GSEA 富集分析图，现在Codex 5 分钟复现 Nature 同款](https://mp.weixin.qq.com/s/71A0gsRGBicguepf16l4jw)
 * [R语言也能调大模型了！我用DeepSeek API批量处理1000条文本，完整代码模板送你](https://mp.weixin.qq.com/s/4uRdxEO5W7YpiHc2jbOCqQ)
 * [被这个开源项目惊喜到了，用MonkeyCode做网站跟呼吸一样简单](https://mp.weixin.qq.com/s/Wg-2uD5ecdRLbzdBkaWXLA?poc_token=HI1xYWqjVZJzTeSUUtD1eLDko6gcpfEZkEAGD43j)
+* [我把这个公众号的所有文章都放进了ima知识库](https://mp.weixin.qq.com/s/OApsDn1V-GHHuwZI2ElPCg?scene=1&click_id=2132352274)
 
 
 
