@@ -164,6 +164,7 @@
 * [AI能证明"自己不会失控"吗？其实哥德尔不完备定理早就回答了.....](https://mp.weixin.qq.com/s/zksh8Lk5LFB7YplHCuRa4g)
 * [当AI什么都会，大学该教什么？](https://mp.weixin.qq.com/s/YMZoKZ1P_5HjpORPXph6Lw)
 * [纽大教授警告：AI正在偷走你的研究](https://mp.weixin.qq.com/s/YTCWWb4FWGLW1nps3JpMMA)
+* [MIT、谷歌发布重磅报告：AI让科研假设变得“廉价”，实验环节成新瓶颈](https://mp.weixin.qq.com/s/o-n9SDhNXbg2pwUP6ruheQ)
 
 
 ## 基本使用
@@ -320,6 +321,7 @@
 * [论文校样阶段，如何高效解决文献插入问题？](https://mp.weixin.qq.com/s/0J8UHhtiR-UE71qPB1deYw)
 * [整整10天、23亿token，158位学者、13059篇论文，一位大二本科生做了一个「图情谱系」网站，正式上线](https://mp.weixin.qq.com/s/HA_eGmimXmSYes85JzI2KA?scene=1&click_id=231)
 * [我的 Codex 论文流程：15个skills、7个阶段、4个注意事项、1条红线](https://mp.weixin.qq.com/s/xTKHSAVdguQ9lrToZDHOtA)
+* [国产超级AI科研助手来了，140＋学科，2.7亿论文和专利](https://mp.weixin.qq.com/s/jeVTp1Ox66dWCU7OtMni3w)
 
 
 ## 分析绘图
