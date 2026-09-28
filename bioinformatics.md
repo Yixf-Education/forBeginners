@@ -664,3 +664,4 @@
 * [单细胞多组学+GWAS：终于打通基因功能解析的“最后一公里”（上）](https://mp.weixin.qq.com/s/B9EM_SDqp9bbL-1qdLqUng)
 * [笔记：从 SNP 到 GWAS、eQTL 与 TWAS](https://mp.weixin.qq.com/s/EMUHxCMOB-4mYfjYs8RthA)
 * [遗传学、GWAS、eQTL、MR和共定位的基本概念](https://mp.weixin.qq.com/s/X_N74XhhEQuv070WidoB5A)
+* [从一个 SNP 到一个候选基因：GWAS、eQTL、TWAS 到底是如何串联起来的？](https://mp.weixin.qq.com/s/adIyyOmJK9lGbpRsO6D9Fw)
