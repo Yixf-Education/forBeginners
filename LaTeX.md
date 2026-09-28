@@ -129,6 +129,7 @@
 * [影响力仅次于 ElegantLaTeX 的 The Legrand Orange Book 增强版本开箱即用了](https://mp.weixin.qq.com/s/m00qHy_LUlHBr4KJA3HJDg)
 * [从 Acorn 到 Youtube，这款 LaTeX 图标神宏包，1400+ 免费图标随取随用，这才是排版该有的样子](https://mp.weixin.qq.com/s/DrtcIWYI76N8BXXyYcN0pw)
 * [别再手动配 listings 了，xlistings 宏包搞定 20+ 种语言代码高亮，三行代码排版优雅高亮的代码块](https://mp.weixin.qq.com/s/KyzzuMlWTuFXtIIZjxqQGw)
+* [告别 Beamer 简陋演讲稿！有了这个神仙宏包，LaTeX 幻灯片也能做演讲者模式与视频嵌入了](https://mp.weixin.qq.com/s/A4fiY6Dq_sHRrLrhJHvX9Q)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
