@@ -165,6 +165,7 @@
 * [当AI什么都会，大学该教什么？](https://mp.weixin.qq.com/s/YMZoKZ1P_5HjpORPXph6Lw)
 * [纽大教授警告：AI正在偷走你的研究](https://mp.weixin.qq.com/s/YTCWWb4FWGLW1nps3JpMMA)
 * [MIT、谷歌发布重磅报告：AI让科研假设变得“廉价”，实验环节成新瓶颈](https://mp.weixin.qq.com/s/o-n9SDhNXbg2pwUP6ruheQ)
+* [AI暴力破解千禧年难题，数学界为什么怒了？](https://mp.weixin.qq.com/s/sh9tU7rieJnM1n_F1A8KBQ)
 
 
 ## 基本使用
