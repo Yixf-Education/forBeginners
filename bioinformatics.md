@@ -658,6 +658,7 @@
 
 * [在线泛癌分析工具 - GSCA](https://mp.weixin.qq.com/s/8GPeabEMg61hsWGHmUmupQ?poc_token=HPC_s2mjDTULGwQVjYn3dMdnkc-mJZnXyMmHG6FY)
 * [人类精心培育的美丽宠物，却出生就注定会患癌惨死](https://mp.weixin.qq.com/s/V5P83D58q5UYTtauL-U4RQ)
+* [早发癌症的流行病学变化：从出生队列效应到器官特异性衰老](https://mp.weixin.qq.com/s/sVcVYyNtkWdf6kUsLDQ4Qw)
 
 ## QTL
 
