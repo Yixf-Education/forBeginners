@@ -560,6 +560,7 @@
 * [染色质开放性(一)｜ATAC-seq 奠基论文：读懂一套质量标尺](https://mp.weixin.qq.com/s/mzSwb8KPob14eFZsj2LJLA)
 * [染色质开放性(二)｜ATAC-seq实验protocol](https://mp.weixin.qq.com/s/W2NiatfqUBfwjh0866H8kQ)
 * [【生信基础】生信表达矩阵急救包：count、归一化、标准化、log2，别再搞反顺序](https://mp.weixin.qq.com/s/3ZJAXpoCgFLhMzZxqzAXrA)
+* [13 个gene signatures分享：免疫检查点治疗应答预测签名集](https://mp.weixin.qq.com/s/rNHZZ6ovM3Mk50YL8zcvOw)
 
 ## 系统课程
 
