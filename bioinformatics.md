@@ -86,6 +86,7 @@
 * [文章附件批量下载神器，告别一个文件点一下](https://mp.weixin.qq.com/s/qdn12GJVSmo2lMXfHCIfoQ)
 * [OmicVerse Documentation — omicverse](https://omicverse.readthedocs.io/en/latest/index.html)
 * [【生信基础】比NCBI还顺手？seqout快速检索公共测序数据](https://mp.weixin.qq.com/s/mzyEwjJEp8agqRt2Gnn9bA)
+* [这个网站下载数据贼方便：seqout](https://mp.weixin.qq.com/s/NTbqjaQ6cqiOvnl2dKcdGA)
 
 ## 生信问题与编程技能
 * [**GitHub - gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics**](https://github.com/gao-lab/Guideline-for-Computational-Biology-and-Bioinformatics?tab=readme-ov-file#head3)
