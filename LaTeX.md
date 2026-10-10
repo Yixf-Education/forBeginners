@@ -130,6 +130,7 @@
 * [从 Acorn 到 Youtube，这款 LaTeX 图标神宏包，1400+ 免费图标随取随用，这才是排版该有的样子](https://mp.weixin.qq.com/s/DrtcIWYI76N8BXXyYcN0pw)
 * [别再手动配 listings 了，xlistings 宏包搞定 20+ 种语言代码高亮，三行代码排版优雅高亮的代码块](https://mp.weixin.qq.com/s/KyzzuMlWTuFXtIIZjxqQGw)
 * [告别 Beamer 简陋演讲稿！有了这个神仙宏包，LaTeX 幻灯片也能做演讲者模式与视频嵌入了](https://mp.weixin.qq.com/s/A4fiY6Dq_sHRrLrhJHvX9Q)
+* [gradbars 宏包｜让 LaTeX 表格告别纯文本，数值与条形可视化一步到位](https://mp.weixin.qq.com/s/LqIYx3vPZFRTqP0A_2pU6w)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
