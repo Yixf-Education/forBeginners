@@ -131,6 +131,7 @@
 * [别再手动配 listings 了，xlistings 宏包搞定 20+ 种语言代码高亮，三行代码排版优雅高亮的代码块](https://mp.weixin.qq.com/s/KyzzuMlWTuFXtIIZjxqQGw)
 * [告别 Beamer 简陋演讲稿！有了这个神仙宏包，LaTeX 幻灯片也能做演讲者模式与视频嵌入了](https://mp.weixin.qq.com/s/A4fiY6Dq_sHRrLrhJHvX9Q)
 * [gradbars 宏包｜让 LaTeX 表格告别纯文本，数值与条形可视化一步到位](https://mp.weixin.qq.com/s/LqIYx3vPZFRTqP0A_2pU6w)
+* [重磅｜xpinyin v3.2 更新！LaTeX 汉字自动注音宏包迎来社区新版，一键完成汉字注音](https://mp.weixin.qq.com/s/cWOWOYJYkwzQi8t_WuNXMg)
 
 ## 编辑器与工具
 * [Crixet - An AI Latex Editor](https://app.crixet.com/)
