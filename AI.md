@@ -100,6 +100,7 @@
 * [至多领 4 个月会员！豆包电脑端这波上新实在是太狠了](https://mp.weixin.qq.com/s/Uhh7I9NzIWYmeFNvMBwvTQ)
 * [比 LibreOffice 快 256 倍！这款 1.7 万 Star 的 Rust 神器，把 14 种文档一键转成 Markdown](https://mp.weixin.qq.com/s/4zPreWm1mtvTRs03yaOkqg)
 * [是时候替换你手里的 CC switch了：使用magpie连接任意Agent与模型](https://mp.weixin.qq.com/s/cMjCLVUFlLoFuMT2s5hN_w)
+* [WorkBuddy 与 豆包工作 该选谁？我们从10个方面深度分析对比](https://mp.weixin.qq.com/s/jl5NuPsVNh-P69mQtNhgCg)
 
 
 ## 变革思考
@@ -168,6 +169,7 @@
 * [MIT、谷歌发布重磅报告：AI让科研假设变得“廉价”，实验环节成新瓶颈](https://mp.weixin.qq.com/s/o-n9SDhNXbg2pwUP6ruheQ)
 * [AI暴力破解千禧年难题，数学界为什么怒了？](https://mp.weixin.qq.com/s/sh9tU7rieJnM1n_F1A8KBQ)
 * [AI让知识变得廉价，大学何去何从？](https://mp.weixin.qq.com/s/nrNt_zJZeijJjKJLORqcvQ)
+* [惊人研究：DeepSeek对男女一视同仁，美系AI却“区别对待”！](https://mp.weixin.qq.com/s/37Bz8lZJg15hLIoWqvVQsg)
 
 
 ## 基本使用
