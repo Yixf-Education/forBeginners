@@ -99,6 +99,7 @@
 * [你的服务器密码或API Key可能正在被AI"记住"！](https://mp.weixin.qq.com/s/9yNf5PNflX3MQHAs0RPkBw)
 * [至多领 4 个月会员！豆包电脑端这波上新实在是太狠了](https://mp.weixin.qq.com/s/Uhh7I9NzIWYmeFNvMBwvTQ)
 * [比 LibreOffice 快 256 倍！这款 1.7 万 Star 的 Rust 神器，把 14 种文档一键转成 Markdown](https://mp.weixin.qq.com/s/4zPreWm1mtvTRs03yaOkqg)
+* [是时候替换你手里的 CC switch了：使用magpie连接任意Agent与模型](https://mp.weixin.qq.com/s/cMjCLVUFlLoFuMT2s5hN_w)
 
 
 ## 变革思考
@@ -166,6 +167,7 @@
 * [纽大教授警告：AI正在偷走你的研究](https://mp.weixin.qq.com/s/YTCWWb4FWGLW1nps3JpMMA)
 * [MIT、谷歌发布重磅报告：AI让科研假设变得“廉价”，实验环节成新瓶颈](https://mp.weixin.qq.com/s/o-n9SDhNXbg2pwUP6ruheQ)
 * [AI暴力破解千禧年难题，数学界为什么怒了？](https://mp.weixin.qq.com/s/sh9tU7rieJnM1n_F1A8KBQ)
+* [AI让知识变得廉价，大学何去何从？](https://mp.weixin.qq.com/s/nrNt_zJZeijJjKJLORqcvQ)
 
 
 ## 基本使用
@@ -425,6 +427,8 @@
 * [aisdk还是太超前了：继Y叔，生信技能树被蒸馏后，还可以自主接入任何想要的skills！](https://mp.weixin.qq.com/s/jG5CsL0zNB-gi_SZrvDovw)
 * [给 Claude Code 装上生信绘图的翅膀：Bizard SKILLS](https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247551483&idx=1&sn=409ee2b1fbe6f0ff33050e0e0a4fed3f&scene=21&poc_token=HFz2yWqjjChIltNs2YdZfCDh7OXe-DwMunOUQG4n)
 * [virgiliojr94/book-to-skill: Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.](https://github.com/virgiliojr94/book-to-skill)
+* [ning2978/codex-omics-skills](https://github.com/ning2978/codex-omics-skills)
+* [WorkBuddy最值得推荐的15个技能（10月最新版）](https://mp.weixin.qq.com/s/GyPxCjvbXcRtL2trXXXpog)
 
 ## Claude & Codex
 
@@ -507,6 +511,7 @@
 * [我愿称之为 ”越狱版“ WorkBuddy](https://mp.weixin.qq.com/s/LqqhRc2Pxla_07LvajtTvQ)
 * [Codex让我的科研绘图提升好几个档次，这个skill神助攻了](https://mp.weixin.qq.com/s/HgyVcMlO2X4jONU6UsEE9w)
 * [刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家](https://mp.weixin.qq.com/s/TVxmHaOAUMlKn4MqBxKenQ)
+* [博林智研上线 WorkBuddy：医学科研的 AI 工作台](https://mp.weixin.qq.com/s/mYsyLoRzKE4AjLLlDWP4Ow)
 
 ## 学习资料
 
