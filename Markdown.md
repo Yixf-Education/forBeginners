@@ -23,6 +23,7 @@
 * [腾讯出品！这款 Markdown 神器让你码字效率翻倍，双模式编辑太香了！](https://mp.weixin.qq.com/s/-p2ymoupze5Fuyykz9YbPw)
 * [Markdown编辑器，轻松搞定文档编写](https://mp.weixin.qq.com/s/fdKrTjHL959v238dYA2uww)
 * [Zendor - Markdown Editor](https://zendor.vercel.app/editor)
+* [12 个贼好用的 Markdown 工具，哪一个是你的菜！](https://mp.weixin.qq.com/s/pW7BWY66Nfq0R1BETGkqAw)
 
 ## 语法
 * [什么是 Markdown?](http://jingxuan.io/markdown/)
