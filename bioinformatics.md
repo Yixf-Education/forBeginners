@@ -562,6 +562,7 @@
 * [染色质开放性(二)｜ATAC-seq实验protocol](https://mp.weixin.qq.com/s/W2NiatfqUBfwjh0866H8kQ)
 * [【生信基础】生信表达矩阵急救包：count、归一化、标准化、log2，别再搞反顺序](https://mp.weixin.qq.com/s/3ZJAXpoCgFLhMzZxqzAXrA)
 * [13 个gene signatures分享：免疫检查点治疗应答预测签名集](https://mp.weixin.qq.com/s/rNHZZ6ovM3Mk50YL8zcvOw)
+* [做生信必须看懂的文件格式：FASTA、FASTQ、SAM/BAM、GFF/GTF、BED、VCF一次讲清楚](https://mp.weixin.qq.com/s/cdr7kbs-rll8aGV1MIPlOA)
 
 ## 系统课程
 
