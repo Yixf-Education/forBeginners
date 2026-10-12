@@ -392,6 +392,7 @@
 * [GPTomics/bioSkills: a set of SKILLS.md for doing bioinformatics with agents like claude code](https://github.com/GPTomics/bioSkills)
 * [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills): Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.
 * [Imbad0202/academic-research-skills: Academic Research Skills for Claude Code: research → write → review → revise → finalize](https://github.com/imbad0202/academic-research-skills)
+* [The Agent Skills Directory](https://www.skills.sh/)
 * [32个AI Agent组队帮你写论文](https://mp.weixin.qq.com/s/2qeXCJjmgKaqQZlv0byanA)
 * [**科研Skills更新了，Claude Code，Codex和小龙虾都能用**](https://mp.weixin.qq.com/s/SLX8PNTXQDjTRqYCmfWBew)
 * [GitHub 6.4k Stars！用 Claude Code 写论文的全套流水线，有人打包开源了](https://mp.weixin.qq.com/s/A03zTmo_oGsUC74FUhGMUw)
@@ -420,6 +421,10 @@
 * [Nature Skills 增至 19 个：它已经不只是帮你写论文了](https://mp.weixin.qq.com/s/QGBZfVi68-wDd0ne96ULlg)
 * [GitHub 10 个高 Star 科研 Skills，到底怎么选？](https://mp.weixin.qq.com/s/InPlfHnPqT3YfC3CBsUrDQ)
 * [如果只能装一个科研 Codex Skill，我会选它](https://mp.weixin.qq.com/s/mUnbfcWOeqOKWeL1QktdGw)
+* [都是自己人就是好办事，workbuddy可以蒸馏任何公众号](https://mp.weixin.qq.com/s/7TakaR0pqR_o8T7CYID86g)
+* [aisdk还是太超前了：继Y叔，生信技能树被蒸馏后，还可以自主接入任何想要的skills！](https://mp.weixin.qq.com/s/jG5CsL0zNB-gi_SZrvDovw)
+* [给 Claude Code 装上生信绘图的翅膀：Bizard SKILLS](https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng==&mid=2247551483&idx=1&sn=409ee2b1fbe6f0ff33050e0e0a4fed3f&scene=21&poc_token=HFz2yWqjjChIltNs2YdZfCDh7OXe-DwMunOUQG4n)
+* [virgiliojr94/book-to-skill: Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.](https://github.com/virgiliojr94/book-to-skill)
 
 ## Claude & Codex
 
