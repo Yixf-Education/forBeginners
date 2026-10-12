@@ -475,6 +475,7 @@
 * [刚刚！《Nature》如何高效开组会protocol？](https://mp.weixin.qq.com/s/a_ZlaJZTXddQY-xZWv4aag?scene=1&click_id=167)
 * [Cover Letter 十句“扣分话”，和十句“加分话”](https://mp.weixin.qq.com/s/VuXt3gG4orOtxIGVYaYISA?poc_token=HHIRlmqj7Vsffu09-a5TWEc4gVg6309WgwJl-aSt)
 * [如何看出一篇文献的水平？](https://mp.weixin.qq.com/s/CODvCSA_NatNimA-DGyrFw)
+* [Zotero 装这 11 个插件，文献从「躺着」到「自己动起来」](https://mp.weixin.qq.com/s/p_Q6FF4dcj75mh4BWVr4mw)
 
 ## 数据集
 
