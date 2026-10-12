@@ -109,6 +109,7 @@
 * [GitHub 全站第一！52w+ star 的开源神器：想真正学会编程，就把它亲手造一遍](https://mp.weixin.qq.com/s/e-MGbk-_rG1BBUICTcjJrQ)
 * [浏览器里加几个符号，结果完全不一样](https://mp.weixin.qq.com/s/2c58aOn4Nyz7ltRMZcAQWg)
 * [中国科学院院士谈避坑：这 10 种导师千万不要选](https://mp.weixin.qq.com/s/d_FvOzEETKpUsxxpjh9CQg)
+* [陈向明：我经常被师生关系中如何保持亲密与疏离之间的适度所困扰](https://mp.weixin.qq.com/s/WVtBKeSO8raEwdwx9PEHXg)
 
 ## 统计
 
