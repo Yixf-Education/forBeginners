@@ -327,6 +327,7 @@
 * [整整10天、23亿token，158位学者、13059篇论文，一位大二本科生做了一个「图情谱系」网站，正式上线](https://mp.weixin.qq.com/s/HA_eGmimXmSYes85JzI2KA?scene=1&click_id=231)
 * [我的 Codex 论文流程：15个skills、7个阶段、4个注意事项、1条红线](https://mp.weixin.qq.com/s/xTKHSAVdguQ9lrToZDHOtA)
 * [国产超级AI科研助手来了，140＋学科，2.7亿论文和专利](https://mp.weixin.qq.com/s/jeVTp1Ox66dWCU7OtMni3w)
+* [Nature：科研人如何选择适合自己的AI工具？](https://mp.weixin.qq.com/s/uS-j_ZN1tbfFwmoaaNLWtw?poc_token=HP2DzWqj8ALglPNTXmlt8W_uN_VmTmSWxiCC9x2E)
 
 
 ## 分析绘图
