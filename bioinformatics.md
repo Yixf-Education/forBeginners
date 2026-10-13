@@ -601,6 +601,7 @@
 * [quinlan-lab/applied-computational-genomics: Applied Computational Genomics Course at UU: Spring 2020](https://github.com/quinlan-lab/applied-computational-genomics?tab=readme-ov-file)
 * [Dr.Tom 简介](https://biosys.bgi.com/help/)
 * [想系统入门生信，快来看看这个代码资源！](https://mp.weixin.qq.com/s/LFy5_IrE90eoRzdaJperfg)
+* [在AI时代写给每一位的生信入门书](https://book.bioinfo.info/)
 
 ## Galaxy
 
