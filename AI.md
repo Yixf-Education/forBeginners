@@ -432,6 +432,9 @@
 * [virgiliojr94/book-to-skill: Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.](https://github.com/virgiliojr94/book-to-skill)
 * [ning2978/codex-omics-skills](https://github.com/ning2978/codex-omics-skills)
 * [WorkBuddy最值得推荐的15个技能（10月最新版）](https://mp.weixin.qq.com/s/GyPxCjvbXcRtL2trXXXpog)
+* [Nature发布“去AI味”工具](https://mp.weixin.qq.com/s/16yLbf0pLYrge_1kSt_MDA)
+* [科研人别再瞎装 Skill 了：GitHub 上这些科研 Skill，真正值得装的只有这一批](https://mp.weixin.qq.com/s/0JLeEuAzknfAe9ZjL3trMQ)
+* [从读文献到回审稿：科研人最该先用的 10 个 Skills](https://mp.weixin.qq.com/s/hmNxzrG3hOeH0S4sTcus7Q)
 
 ## Claude & Codex
 
