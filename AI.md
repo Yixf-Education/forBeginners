@@ -435,6 +435,7 @@
 * [Nature发布“去AI味”工具](https://mp.weixin.qq.com/s/16yLbf0pLYrge_1kSt_MDA)
 * [科研人别再瞎装 Skill 了：GitHub 上这些科研 Skill，真正值得装的只有这一批](https://mp.weixin.qq.com/s/0JLeEuAzknfAe9ZjL3trMQ)
 * [从读文献到回审稿：科研人最该先用的 10 个 Skills](https://mp.weixin.qq.com/s/hmNxzrG3hOeH0S4sTcus7Q)
+* [2026 年科研 Skill Top10：你需要的才是最好的](https://mp.weixin.qq.com/s/Xw5SWvPKCdsfZN-uH1JVIA)
 
 ## Claude & Codex
 
@@ -518,6 +519,7 @@
 * [Codex让我的科研绘图提升好几个档次，这个skill神助攻了](https://mp.weixin.qq.com/s/HgyVcMlO2X4jONU6UsEE9w)
 * [刚刚，Claude四周重写30个生物模型，ScienceIDE已规模化训练AI科学家](https://mp.weixin.qq.com/s/TVxmHaOAUMlKn4MqBxKenQ)
 * [博林智研上线 WorkBuddy：医学科研的 AI 工作台](https://mp.weixin.qq.com/s/mYsyLoRzKE4AjLLlDWP4Ow)
+* [AIPOCH Open-Science科研工作台1.0.0 正式发布：为“可复现”而生，用 .science 研究包交接科研项目](https://mp.weixin.qq.com/s/_m598T-oA-CeM_RDIOGt9w)
 
 ## 学习资料
 
