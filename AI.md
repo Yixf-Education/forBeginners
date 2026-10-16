@@ -436,6 +436,7 @@
 * [科研人别再瞎装 Skill 了：GitHub 上这些科研 Skill，真正值得装的只有这一批](https://mp.weixin.qq.com/s/0JLeEuAzknfAe9ZjL3trMQ)
 * [从读文献到回审稿：科研人最该先用的 10 个 Skills](https://mp.weixin.qq.com/s/hmNxzrG3hOeH0S4sTcus7Q)
 * [2026 年科研 Skill Top10：你需要的才是最好的](https://mp.weixin.qq.com/s/Xw5SWvPKCdsfZN-uH1JVIA)
+* [刚刚，Natue级审稿 skill 公开了](https://mp.weixin.qq.com/s/xSlljFkhjTArXduB2bv6Wg)
 
 ## Claude & Codex
 
