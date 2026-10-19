@@ -101,6 +101,8 @@
 * [比 LibreOffice 快 256 倍！这款 1.7 万 Star 的 Rust 神器，把 14 种文档一键转成 Markdown](https://mp.weixin.qq.com/s/4zPreWm1mtvTRs03yaOkqg)
 * [是时候替换你手里的 CC switch了：使用magpie连接任意Agent与模型](https://mp.weixin.qq.com/s/cMjCLVUFlLoFuMT2s5hN_w)
 * [WorkBuddy 与 豆包工作 该选谁？我们从10个方面深度分析对比](https://mp.weixin.qq.com/s/jl5NuPsVNh-P69mQtNhgCg)
+* [不想买token？本地部署AI模型+数据看板](https://mp.weixin.qq.com/s/ULoe69o6iXQDgoInjl2CAg)
+* [DeepSeek 24.7万星底座，AI生信桌面收录2174个技能](https://mp.weixin.qq.com/s/Bp3Z4NJHJoSIc8tZyF1djw)
 
 
 ## 变革思考
