@@ -451,6 +451,7 @@
 * [从Idea到投稿！6个WorkBuddy科研Skill就够了！](https://mp.weixin.qq.com/s/cNEaCa-HQlYtJS7P1PeuTQ)
 * [这个 skill 蒸馏了 1000 篇顶刊文献，可以进行 Nature 风格的 AI 英文写作，甚至支持图例写作？！](https://mp.weixin.qq.com/s/dXVelcLBoTNjGdbnGagS4A)
 * [科研人必备的4个申报书Skill！按类型直接选！](https://mp.weixin.qq.com/s/FEw5PfX2WYbgIn6tItmkSQ)
+* [找文献别再一个库一个库地翻！2026年10月 AI学术搜索工具 Top 10](https://mp.weixin.qq.com/s/4-UnF2UQxsTXtF2jP8WLqA)
 
 ## Claude & Codex
 
