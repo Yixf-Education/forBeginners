@@ -438,6 +438,17 @@
 * [从读文献到回审稿：科研人最该先用的 10 个 Skills](https://mp.weixin.qq.com/s/hmNxzrG3hOeH0S4sTcus7Q)
 * [2026 年科研 Skill Top10：你需要的才是最好的](https://mp.weixin.qq.com/s/Xw5SWvPKCdsfZN-uH1JVIA)
 * [刚刚，Natue级审稿 skill 公开了](https://mp.weixin.qq.com/s/xSlljFkhjTArXduB2bv6Wg)
+* [Codex让我科研绘图少折腾很多：这个Skill值得装](https://mp.weixin.qq.com/s/jT9I8Ek64gPESbn93AVYVg)
+* [科研工具_顶刊绘图Skill：耶鲁PhD开源，图表范例、风格规范与使用方法](https://mp.weixin.qq.com/s/X_taD461ZG_hQcvYKLpuTw)
+* [又发现一个神级Skill，绝对是科研党必备！](https://mp.weixin.qq.com/s/oP3Zl32-7OcMEzPIR6gKHQ)
+* [Codex、Claude学术写作用哪些Skill？15个GitHub仓库热度排名与选择指南](https://mp.weixin.qq.com/s/vPHR-Y7GmcdvhtTP3M3jRQ)
+* [2026 文献检索 Skill 排行榜：10 个值得收藏的科研检索工具](https://mp.weixin.qq.com/s/5qfUr40Epu_VM4wSDZxpnA)
+* [ChromSkills：33个skills让智能体做染色质分析的正确打开方式](https://mp.weixin.qq.com/s/WKzdzfqn0GutQOcbSGWuWQ)
+* [4.9 万 Star 的科研写作 Skill，现在能装进 WorkBuddy 了](https://mp.weixin.qq.com/s/aEFl0E-08kuqX3aZ7BRqwA)
+* [用Codex画论文配图，这4个科研绘图skill怎么选、怎么用？](https://mp.weixin.qq.com/s/G022PAfrcg8wi29a1gV5LQ)
+* [从Idea到投稿！6个WorkBuddy科研Skill就够了！](https://mp.weixin.qq.com/s/cNEaCa-HQlYtJS7P1PeuTQ)
+* [这个 skill 蒸馏了 1000 篇顶刊文献，可以进行 Nature 风格的 AI 英文写作，甚至支持图例写作？！](https://mp.weixin.qq.com/s/dXVelcLBoTNjGdbnGagS4A)
+* [科研人必备的4个申报书Skill！按类型直接选！](https://mp.weixin.qq.com/s/FEw5PfX2WYbgIn6tItmkSQ)
 
 ## Claude & Codex
 
