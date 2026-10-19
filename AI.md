@@ -328,6 +328,7 @@
 * [我的 Codex 论文流程：15个skills、7个阶段、4个注意事项、1条红线](https://mp.weixin.qq.com/s/xTKHSAVdguQ9lrToZDHOtA)
 * [国产超级AI科研助手来了，140＋学科，2.7亿论文和专利](https://mp.weixin.qq.com/s/jeVTp1Ox66dWCU7OtMni3w)
 * [Nature：科研人如何选择适合自己的AI工具？](https://mp.weixin.qq.com/s/uS-j_ZN1tbfFwmoaaNLWtw?poc_token=HP2DzWqj8ALglPNTXmlt8W_uN_VmTmSWxiCC9x2E)
+* [被低估了！Gemini3的杀手锏不是写代码，而是教科书级科研绘图](https://view.inews.qq.com/k/20260207A074TG00?scene=wap&no-redirect=1)
 
 
 ## 分析绘图
