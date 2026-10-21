@@ -172,6 +172,7 @@
 * [AI暴力破解千禧年难题，数学界为什么怒了？](https://mp.weixin.qq.com/s/sh9tU7rieJnM1n_F1A8KBQ)
 * [AI让知识变得廉价，大学何去何从？](https://mp.weixin.qq.com/s/nrNt_zJZeijJjKJLORqcvQ)
 * [惊人研究：DeepSeek对男女一视同仁，美系AI却“区别对待”！](https://mp.weixin.qq.com/s/37Bz8lZJg15hLIoWqvVQsg)
+* [AI大洪水（二）：寒窗苦读和上大学的意义在哪里？](https://mp.weixin.qq.com/s/wAsNG5B7n1NHsYOOGN4FzA)
 
 
 ## 基本使用
