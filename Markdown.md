@@ -3,7 +3,7 @@
 ## 编辑器
 * [Cmd Markdown](https://www.zybuluo.com/mdeditor): 在线 Markdown 编辑阅读器
 * [MaHua](http://mahua.jser.me/): 在线 Markdown 编辑阅读器
-* [Markable](http://markable.in/editor/): 在线 Markdown 编辑阅读器
+* [Coddy Markdown Editor](https://coddy.tech/tools/markdown-editor): 在线 Markdown 编辑阅读器
 * [StackEdit](https://stackedit.io/editor): 在线 Markdown 编辑阅读器
 * [Madoko](https://www.madoko.net/)
 * [马克飞象](http://maxiang.info/): 专为印象笔记（Evernote）打造的 Markdown 编辑器

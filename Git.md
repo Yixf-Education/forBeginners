@@ -5,13 +5,12 @@
 * [Pro Git](http://git-scm.com/book/zh/v2)
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 * [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
-* [Git Reference](http://gitref.org/)
+* [Git命令详解（Coddy）](https://coddy.tech/git-commands)
 * [GitHub秘籍](http://snowdream86.gitbooks.io/github-cheat-sheet/content/zh/index.html): Git和Github非常酷同时又少有人知的功能
 * [Git pretty](http://justinhileman.info/article/git-pretty/)
-* [tryGit](https://try.github.io): Git的15分钟教程，交互式练习
+* [Coddy Git Playground](https://coddy.tech/playground/git): 在浏览器里运行真实的 git 命令，交互式练习
 * [shortcutfoo](https://www.shortcutfoo.com/): Learn Shortcuts. Work Smarter. （包括Vim，Git，命令行等）
 * [GitHub Help](https://help.github.com/)
-* [Git Reference](http://gitref.org/)
 * [GitHub Guides](https://guides.github.com/)
 * [图解Git](http://marklodato.github.io/visual-git-guide/index-zh-cn.html): 图解Git中的最常用命令
 * [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
