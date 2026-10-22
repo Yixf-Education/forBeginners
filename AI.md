@@ -173,6 +173,7 @@
 * [AI让知识变得廉价，大学何去何从？](https://mp.weixin.qq.com/s/nrNt_zJZeijJjKJLORqcvQ)
 * [惊人研究：DeepSeek对男女一视同仁，美系AI却“区别对待”！](https://mp.weixin.qq.com/s/37Bz8lZJg15hLIoWqvVQsg)
 * [AI大洪水（二）：寒窗苦读和上大学的意义在哪里？](https://mp.weixin.qq.com/s/wAsNG5B7n1NHsYOOGN4FzA)
+* [让 AI 打王者越打越强，物理 AI 与世界模型大会惊现开源神器！](https://mp.weixin.qq.com/s/dGwLYWmVCRgKzCW9OA5G8A)
 
 
 ## 基本使用
