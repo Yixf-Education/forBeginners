@@ -174,6 +174,8 @@
 * [惊人研究：DeepSeek对男女一视同仁，美系AI却“区别对待”！](https://mp.weixin.qq.com/s/37Bz8lZJg15hLIoWqvVQsg)
 * [AI大洪水（二）：寒窗苦读和上大学的意义在哪里？](https://mp.weixin.qq.com/s/wAsNG5B7n1NHsYOOGN4FzA)
 * [让 AI 打王者越打越强，物理 AI 与世界模型大会惊现开源神器！](https://mp.weixin.qq.com/s/dGwLYWmVCRgKzCW9OA5G8A)
+* [一个教授，在他的作业中，加了句“AI暗语”，结果35名学生32人中招，教授挥手全判“不及格”](https://mp.weixin.qq.com/s/AAO_RpSVOXtim0rhKpAOQQ)
+* [谷歌把4个AI扔进《我的世界》，死了605次后自己写代码手撕大boss](https://mp.weixin.qq.com/s/F5R9ciZKaL_P3F0_550brw)
 
 
 ## 基本使用
