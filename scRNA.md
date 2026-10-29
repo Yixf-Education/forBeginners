@@ -126,6 +126,7 @@
 * [空间转录组分析“工具箱”：软件推荐](https://mp.weixin.qq.com/s/cg7_STAh9W38_eBApWP8oA)
 * [Nature Methods等｜空间转录组细胞通讯工具大横评：9款软件安装、速度、绘图与引用实测](https://mp.weixin.qq.com/s/YcrPATpr2H63NMpq84D6Mw?poc_token=HKBxYWqjVLb8XcWnbo5jsJVxmsqHAaOzpI5bAKma)
 * [多样本空间转录组 Harmony 整合与标签转移指南](https://mp.weixin.qq.com/s/qc0I9sGMtoaQkkEUru_EcQ)
+* [空间组学进入虚拟时代：从细胞生态图谱到组织重建与功能预测](https://mp.weixin.qq.com/s/IIXqdvE_yXQWTSs7n2eDfw)
 
 ## Markers
 
