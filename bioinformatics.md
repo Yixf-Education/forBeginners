@@ -333,6 +333,7 @@
 * [干货 | KEGG通路图着色指南](https://mp.weixin.qq.com/s/oiIeUCD3C8P6egiZP4sfcQ)
 * [GTExV11全流程详解](https://mp.weixin.qq.com/s/9NS9GcNPucMwmvbQLV8Hcg)
 * [2026最新！！！TCGA下载方法大全](https://mp.weixin.qq.com/s/ZaUhkwXCtUhaov4SkXKOmw)
+* [RNA-seq原理与实操：从原始数据到Count、FPKM、TPM和差异表达分析](https://mp.weixin.qq.com/s/POsrxpIG6jmg4kCLC-TooQ)
 
 ## 基因组坐标系统
 
@@ -665,6 +666,7 @@
 * [在线泛癌分析工具 - GSCA](https://mp.weixin.qq.com/s/8GPeabEMg61hsWGHmUmupQ?poc_token=HPC_s2mjDTULGwQVjYn3dMdnkc-mJZnXyMmHG6FY)
 * [人类精心培育的美丽宠物，却出生就注定会患癌惨死](https://mp.weixin.qq.com/s/V5P83D58q5UYTtauL-U4RQ)
 * [早发癌症的流行病学变化：从出生队列效应到器官特异性衰老](https://mp.weixin.qq.com/s/sVcVYyNtkWdf6kUsLDQ4Qw)
+* [Nature Reviews Cancer，单细胞肿瘤系统发育学](https://mp.weixin.qq.com/s/FwiOQRpMYt5t9XMHZQclJw)
 
 ## QTL
 
