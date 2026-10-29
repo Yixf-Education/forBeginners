@@ -176,6 +176,7 @@
 * [让 AI 打王者越打越强，物理 AI 与世界模型大会惊现开源神器！](https://mp.weixin.qq.com/s/dGwLYWmVCRgKzCW9OA5G8A)
 * [一个教授，在他的作业中，加了句“AI暗语”，结果35名学生32人中招，教授挥手全判“不及格”](https://mp.weixin.qq.com/s/AAO_RpSVOXtim0rhKpAOQQ)
 * [谷歌把4个AI扔进《我的世界》，死了605次后自己写代码手撕大boss](https://mp.weixin.qq.com/s/F5R9ciZKaL_P3F0_550brw)
+* [悉尼教授用AI“诈骗”骗子，浪费骗子17年时间，破防骗子对AI骂了1000万次脏话](https://mp.weixin.qq.com/s/sr1I9CPS674OVc_XMPwMuA)
 
 
 ## 基本使用
@@ -242,6 +243,7 @@
 * [驯龙高手，利用claude code进行生物信息分析（六）：四种运行模式](https://mp.weixin.qq.com/s/0E2rmkSK6xPs3D93bDNB4A)
 * [装了Positron但AI不回你？5步配置从"能打开"到"能跑通"](https://mp.weixin.qq.com/s/Fus8mXpS2DaepRQgtKUHCw)
 * [数据太乱？R语言10种数据处理一次搞定：缺失值·异常值·长宽转换·合并·日期（附代码）](https://mp.weixin.qq.com/s/ZpXrKvlXsmY1Z0KzDMvvfQ)
+* [AI写的R代码能跑通，结果却是错的：3个不报错的坑](https://mp.weixin.qq.com/s/BF2F66Tnn2FYptNj0iPdjQ)
 
 
 ## 论文课题
