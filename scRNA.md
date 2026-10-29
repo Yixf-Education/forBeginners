@@ -214,6 +214,8 @@
 * [monocle3推断发育轨迹](https://mp.weixin.qq.com/s/-EAaTE312J3Bnah7HDJDEA)
 * [零代码绘制发表级scATAC高级分析图片](https://mp.weixin.qq.com/s/EndJwExBRuzAiDDXKqBG7Q)
 * [基于Signac的motif分析流程学习](https://mp.weixin.qq.com/s/CAUlyjGJ9yz_aJrEc7WWOg)
+* [22种人不同组织scATAC质控](https://mp.weixin.qq.com/s/KOHYLHJkOyxDkwKbD1g3KQ)
+* [只有 fragment 文件能做 scATAC 分析吗？](https://mp.weixin.qq.com/s/iUJCq4QLrmIaUsrHqBw8Lg)
 
 ## 数据集
 
