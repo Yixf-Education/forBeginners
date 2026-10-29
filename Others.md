@@ -110,6 +110,8 @@
 * [浏览器里加几个符号，结果完全不一样](https://mp.weixin.qq.com/s/2c58aOn4Nyz7ltRMZcAQWg)
 * [中国科学院院士谈避坑：这 10 种导师千万不要选](https://mp.weixin.qq.com/s/d_FvOzEETKpUsxxpjh9CQg)
 * [陈向明：我经常被师生关系中如何保持亲密与疏离之间的适度所困扰](https://mp.weixin.qq.com/s/WVtBKeSO8raEwdwx9PEHXg)
+* [牛逼，GitHub有人把中小学到高中的全学科知识图谱做出来了，可以更加高效的辅导孩子学习。](https://mp.weixin.qq.com/s/eoCDtoUtl0sMjKAVqrQLTw)
+* [xiaoyang111222/cn-math-taxonomy: 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。](https://github.com/xiaoyang111222/cn-math-taxonomy)
 
 ## 统计
 
