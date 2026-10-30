@@ -596,6 +596,7 @@
 * [ggraph：用 ggplot2 的语法，画出六种网络与层级图](https://mp.weixin.qq.com/s/v7s3V71fbTqeyQGTNNtyCA)
 * [拿到一个Excel别急着分析：先让R做这8项数据体检](https://mp.weixin.qq.com/s/ghkyTbLqXpoEz_4rVwRYDQ)
 * [用AI写Tidymodels建模代码，最容易错的不是语法，是数据泄漏](https://mp.weixin.qq.com/s/A_dDMHC0ktnQLYSCbiuo9g)
+* [5个容易被忽略的AI科研统计陷阱，附R语言验证方法](https://mp.weixin.qq.com/s/FkSIi4NxhWtzy0Njr66zUw)
 
 # R包
 
