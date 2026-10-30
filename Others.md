@@ -480,6 +480,7 @@
 * [如何看出一篇文献的水平？](https://mp.weixin.qq.com/s/CODvCSA_NatNimA-DGyrFw)
 * [Zotero 装这 11 个插件，文献从「躺着」到「自己动起来」](https://mp.weixin.qq.com/s/p_Q6FF4dcj75mh4BWVr4mw)
 * [很多报告不是想讲明白，就是想震住你](https://mp.weixin.qq.com/s/nMg4hwaNvBZW5dFpAZOijA)
+* [如何为一篇论文找候选文献？我推荐你试试ResearchRabbit](https://mp.weixin.qq.com/s/IpZKdwQexFOYXV_aa3tDrA)
 
 ## 数据集
 
