@@ -200,6 +200,7 @@
 * [优先级、稀有细胞与空间：Augur、密度检测、cell2location 与 CellOracle](https://mp.weixin.qq.com/s/fS5zs-4ZnXUTk9yPL5Sk6Q)
 * [应审稿人要求| pseudo bulk差异分析](https://mp.weixin.qq.com/s/uFQQY00qFDUTYbnPKA0pcg)
 * [单细胞UMAP图还能画成“山脉”？Python复刻论文同款3D密度图，附2D版完整代码](https://mp.weixin.qq.com/s/p4fycUDKc6jLSKzZ1IAxAg)
+* [单细胞 RNA-seq 双包体Doublet过滤需要注意的几个小点](https://mp.weixin.qq.com/s/Sy-n2MoRiWcCUaTXJXy0AA)
 
 ## scATAC-seq
 
