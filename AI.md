@@ -177,6 +177,7 @@
 * [一个教授，在他的作业中，加了句“AI暗语”，结果35名学生32人中招，教授挥手全判“不及格”](https://mp.weixin.qq.com/s/AAO_RpSVOXtim0rhKpAOQQ)
 * [谷歌把4个AI扔进《我的世界》，死了605次后自己写代码手撕大boss](https://mp.weixin.qq.com/s/F5R9ciZKaL_P3F0_550brw)
 * [悉尼教授用AI“诈骗”骗子，浪费骗子17年时间，破防骗子对AI骂了1000万次脏话](https://mp.weixin.qq.com/s/sr1I9CPS674OVc_XMPwMuA)
+* [AI时代纯生信的突围指南](https://mp.weixin.qq.com/s/6QTiR5cGAkskJfhMKgskDw)
 
 
 ## 基本使用
@@ -338,6 +339,10 @@
 * [国产超级AI科研助手来了，140＋学科，2.7亿论文和专利](https://mp.weixin.qq.com/s/jeVTp1Ox66dWCU7OtMni3w)
 * [Nature：科研人如何选择适合自己的AI工具？](https://mp.weixin.qq.com/s/uS-j_ZN1tbfFwmoaaNLWtw?poc_token=HP2DzWqj8ALglPNTXmlt8W_uN_VmTmSWxiCC9x2E)
 * [被低估了！Gemini3的杀手锏不是写代码，而是教科书级科研绘图](https://view.inews.qq.com/k/20260207A074TG00?scene=wap&no-redirect=1)
+* [ChrisLou-bioinfo/AImednews: 肺癌 EGFR/MET 分子诊疗情报看板｜CC BY-NC 4.0 非商业许可，引用须署名并保留 loujiacheng1986@foxmail.com｜ClinicalTrials.gov / PubTator / Open Targets 多层采集，证据全程可溯源，支持交互筛选与导出可编辑 PPTX。](https://github.com/ChrisLou-bioinfo/AImednews)
+* [GPT-6 + Zotero + Skill：每天自动筛选指定领域最新论文，查重入库并推送简读报告](https://mp.weixin.qq.com/s/dGz1wvqaPQP25DR8yAEHVw)
+* [GPT-6 + Zotero + Skill ，全自动完成搜索文献和分类管理](https://mp.weixin.qq.com/s?__biz=MzkzODQ3NzY3MQ==&mid=2247519385&idx=1&sn=b697c87b4b2b3484a8bd02b00ec75ef2&scene=21&poc_token=HMA66GqjyhfiNn9fzS2ZFTYOlYedug4ORRt6jC63)
+* [GPT-6 + Zotero + Skill，全自动生成文献综述和文章精读报告](https://mp.weixin.qq.com/s?__biz=MzkzODQ3NzY3MQ==&mid=2247519533&idx=1&sn=12d95ca07341d6a7f0606eee599a949e&scene=21&poc_token=HMw66Gqjlef_6U1pO-zlnqLtmfNtbYyQQKRKhKRl)
 
 
 ## 分析绘图
