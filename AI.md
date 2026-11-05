@@ -103,6 +103,7 @@
 * [WorkBuddy 与 豆包工作 该选谁？我们从10个方面深度分析对比](https://mp.weixin.qq.com/s/jl5NuPsVNh-P69mQtNhgCg)
 * [不想买token？本地部署AI模型+数据看板](https://mp.weixin.qq.com/s/ULoe69o6iXQDgoInjl2CAg)
 * [DeepSeek 24.7万星底座，AI生信桌面收录2174个技能](https://mp.weixin.qq.com/s/Bp3Z4NJHJoSIc8tZyF1djw)
+* [终于有知识库能分析你电脑里的上万文件，秒级出结果，非常方便！](https://mp.weixin.qq.com/s/Hi8fLxPMGDF0gz9nlqZEPg)
 
 
 ## 变革思考
