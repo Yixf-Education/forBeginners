@@ -344,6 +344,7 @@
 * [GPT-6 + Zotero + Skill：每天自动筛选指定领域最新论文，查重入库并推送简读报告](https://mp.weixin.qq.com/s/dGz1wvqaPQP25DR8yAEHVw)
 * [GPT-6 + Zotero + Skill ，全自动完成搜索文献和分类管理](https://mp.weixin.qq.com/s?__biz=MzkzODQ3NzY3MQ==&mid=2247519385&idx=1&sn=b697c87b4b2b3484a8bd02b00ec75ef2&scene=21&poc_token=HMA66GqjyhfiNn9fzS2ZFTYOlYedug4ORRt6jC63)
 * [GPT-6 + Zotero + Skill，全自动生成文献综述和文章精读报告](https://mp.weixin.qq.com/s?__biz=MzkzODQ3NzY3MQ==&mid=2247519533&idx=1&sn=12d95ca07341d6a7f0606eee599a949e&scene=21&poc_token=HMw66Gqjlef_6U1pO-zlnqLtmfNtbYyQQKRKhKRl)
+* [为了不逐篇啃文献，我用R写了个论文阅读Skill，开放体验！](https://mp.weixin.qq.com/s/DhmNnlxmfavm1qstJvtqUw)
 
 
 ## 分析绘图
