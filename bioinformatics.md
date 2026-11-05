@@ -675,3 +675,7 @@
 * [笔记：从 SNP 到 GWAS、eQTL 与 TWAS](https://mp.weixin.qq.com/s/EMUHxCMOB-4mYfjYs8RthA)
 * [遗传学、GWAS、eQTL、MR和共定位的基本概念](https://mp.weixin.qq.com/s/X_N74XhhEQuv070WidoB5A)
 * [从一个 SNP 到一个候选基因：GWAS、eQTL、TWAS 到底是如何串联起来的？](https://mp.weixin.qq.com/s/adIyyOmJK9lGbpRsO6D9Fw)
+
+## 虚拟生物学
+
+* [从虚拟细胞到虚拟患者：生命科学这30年，到底“虚拟”了什么？](https://mp.weixin.qq.com/s/UBDvnibf7sFVqI33PmfGmw)
