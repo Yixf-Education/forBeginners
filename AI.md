@@ -248,6 +248,7 @@
 * [数据太乱？R语言10种数据处理一次搞定：缺失值·异常值·长宽转换·合并·日期（附代码）](https://mp.weixin.qq.com/s/ZpXrKvlXsmY1Z0KzDMvvfQ)
 * [AI写的R代码能跑通，结果却是错的：3个不报错的坑](https://mp.weixin.qq.com/s/BF2F66Tnn2FYptNj0iPdjQ)
 * [许愿式分析：说一句话，R 给你一条管道](https://mp.weixin.qq.com/s/mifAOYljnD2-kwBvsiLomQ)
+* [Y叔团队出品：Rho 带来的 Agent 分析新体验](https://mp.weixin.qq.com/s/LHw0FoO6Bns2NEn_8v613w)
 
 
 ## 论文课题
