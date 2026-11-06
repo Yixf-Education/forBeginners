@@ -179,6 +179,7 @@
 * [谷歌把4个AI扔进《我的世界》，死了605次后自己写代码手撕大boss](https://mp.weixin.qq.com/s/F5R9ciZKaL_P3F0_550brw)
 * [悉尼教授用AI“诈骗”骗子，浪费骗子17年时间，破防骗子对AI骂了1000万次脏话](https://mp.weixin.qq.com/s/sr1I9CPS674OVc_XMPwMuA)
 * [AI时代纯生信的突围指南](https://mp.weixin.qq.com/s/6QTiR5cGAkskJfhMKgskDw)
+* [Nature警告：AI如何损害真正创新的研究](https://mp.weixin.qq.com/s/tR0kdpzYBNf40GIg1-9tXA)
 
 
 ## 基本使用
