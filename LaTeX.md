@@ -198,6 +198,7 @@
 * [一站式科研工作台：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器任务编排，管理科研全周期](https://mp.weixin.qq.com/s/Y6oC35cXckEZOoK2WflPEw)
 * [告别 Overleaf 限制！自建高校级 LaTeX 协作平台：LaTeX Core 架构与实践](https://mp.weixin.qq.com/s/iNvCQah8o6XAII7tEeixxA?poc_token=HOjlqWqjWBBfcjcG42QaSVeS9UoaLinmimMyGO-Y)
 * [Pulala-180/Switchable-color-scheme-LaTeX-template](https://github.com/Pulala-180/Switchable-color-scheme-LaTeX-template)
+* [还在用 PDF 阅读器放 Beamer？告别 Overleaf 与 Adobe！这款学术党专属开源神器，把 LaTeX 演讲体验直接拉满！](https://mp.weixin.qq.com/s/kAsOFbodu8PN-Hyv9rwPBw)
 
 
 ## 教学
