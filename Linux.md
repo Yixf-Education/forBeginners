@@ -445,6 +445,7 @@
 * [10个Linux高效操作命令](https://mp.weixin.qq.com/s/wurEO7EAFbaieCOBGznxcg)
 * [这 10 个现代 Linux 命令行工具，让 Terminal 工作流焕然一新](https://mp.weixin.qq.com/s/kNc76s8D4d4YglPDwVcauA)
 * [10 个让终端像超级能力一样强大的 CLI 工具](https://mp.weixin.qq.com/s/LhB2QtIopEA4rF1YivuhRw)
+* [Linux 老用户都可以试试，这 5 个终端工具太实用了](https://mp.weixin.qq.com/s/CtAroHRcQrGWr9dhT7fiEg)
 
   
 
