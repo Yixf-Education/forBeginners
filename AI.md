@@ -181,6 +181,8 @@
 * [AI时代纯生信的突围指南](https://mp.weixin.qq.com/s/6QTiR5cGAkskJfhMKgskDw)
 * [Nature警告：AI如何损害真正创新的研究](https://mp.weixin.qq.com/s/tR0kdpzYBNf40GIg1-9tXA)
 * [防AI写作工具上线：可监控写作全过程](https://mp.weixin.qq.com/s/itMG_LKi0KUZBPV9eduEAw)
+* [给AI爱因斯坦的知识量，它能想出相对论吗？](https://mp.weixin.qq.com/s/27OGn-LTfOdiiGUtZwrtdA)
+* [Anthropic给AI喂下“迷魂药”！抹掉考场记忆后，Claude当场勒索人类](https://mp.weixin.qq.com/s/wJl2ltG1YhB8NjsKwvfI4g)
 
 
 ## 基本使用
@@ -471,6 +473,7 @@
 * [找文献别再一个库一个库地翻！2026年10月 AI学术搜索工具 Top 10](https://mp.weixin.qq.com/s/4-UnF2UQxsTXtF2jP8WLqA)
 * [试试这个文献检索skill，没有找不到的论文！](https://mp.weixin.qq.com/s/dRWL1XVSq3JcKt9XrOWwcA)
 * [分享5个神级Skill，用完真的有点回不去了](https://mp.weixin.qq.com/s/KGL0NLzTlnHMc1VdBmbZ1A)
+* [academic-figure-skill一键部署，29 种图型，按期刊版面出图](https://mp.weixin.qq.com/s/lIGlQZ0r50ZJ7HPb3LpJ4A?poc_token=HIwV9WqjsebTcZ9SsSBqBPQ4rlq_cfe52vcr1ZKC)
 
 ## Claude & Codex
 
