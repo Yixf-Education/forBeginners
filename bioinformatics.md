@@ -568,6 +568,8 @@
 * [HCA 十周年｜首版人类细胞图谱预计 2027 年发布，为下一代 AI 虚拟细胞奠基](https://mp.weixin.qq.com/s/oY7qCB2h8iY6Ixqz5P7U2A)
 * [Nature领衔：没有长期随访，疾病的“时间轴”从哪里来？虚拟队列正在改变医学研究](https://mp.weixin.qq.com/s/QDqXSmhXr8Q8BI5j7l9fbQ)
 * [同一份序列，为什么会建出不同的树？｜用四条序列算懂 NJ、MP、ML 和 BI](https://mp.weixin.qq.com/s/qliXhLnRU_mZOL31671yYA)
+* [Meta森林图怎么看？？](https://mp.weixin.qq.com/s/46XMlFfmbbKhY2wf1eFTVA)
+* [做生信必看！9 张经典图表解读](https://mp.weixin.qq.com/s/mZChX0DZqrDVePHWQW5DXQ)
 
 ## 系统课程
 
@@ -639,6 +641,7 @@
 * [infercnv 官方全流程](https://mp.weixin.qq.com/s/5TS2oAP1NBYhXJMW9oTrAQ)
 * [端到端的单细胞管道 SCP - 标准流程](https://mp.weixin.qq.com/s/ypDH3hV-r1pjooOM-SZehQ)
 * [单细胞转录组的 3 种常规数据分析思路](https://mp.weixin.qq.com/s/yNzFblUS2oNPqGngafDTlg)
+* [做生信必看！9 张经典图表解读](https://mp.weixin.qq.com/s/mZChX0DZqrDVePHWQW5DXQ)
 
 ## GWAS
 
