@@ -193,6 +193,7 @@
 * [数据不显著千万别改！80%的硕博不知道：换个方法，p 值瞬间从 0.08 变 0.02](https://mp.weixin.qq.com/s/5gn9JgZfORgq-5P8hnBhnQ)
 * [CS229: Machine Learning](https://cs229.stanford.edu/index.html-spr26)
 * [Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction - YouTube](https://www.youtube.com/watch?v=DATnpGoGhM8)
+* [数据分析怎么选？9 类常见问题。](https://mp.weixin.qq.com/s/tizSuWx0FOWWp6A2lWqC7A)
 
 ## 统计学入门
 
