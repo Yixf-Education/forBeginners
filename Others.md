@@ -194,6 +194,7 @@
 * [CS229: Machine Learning](https://cs229.stanford.edu/index.html-spr26)
 * [Stanford CS229 Machine Learning | Spring 2026 | Lecture 1: Introduction - YouTube](https://www.youtube.com/watch?v=DATnpGoGhM8)
 * [数据分析怎么选？9 类常见问题。](https://mp.weixin.qq.com/s/tizSuWx0FOWWp6A2lWqC7A)
+* [临床机器学习预测模型｜6大常用算法汇总](https://mp.weixin.qq.com/s/ruUt3qFvTVljxuksOQZ--A?poc_token=HOCl_mqjG1dq3jDOtbWvNpJCZNLrJ_Co1Kmc6P7e)
 
 ## 统计学入门
 
