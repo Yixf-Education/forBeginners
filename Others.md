@@ -484,6 +484,7 @@
 * [很多报告不是想讲明白，就是想震住你](https://mp.weixin.qq.com/s/nMg4hwaNvBZW5dFpAZOijA)
 * [如何为一篇论文找候选文献？我推荐你试试ResearchRabbit](https://mp.weixin.qq.com/s/IpZKdwQexFOYXV_aa3tDrA)
 * [分享17个我自己常用的科研工具](https://mp.weixin.qq.com/s/_u-BGalef8-8LRvqKAYo_g)
+* [\[W15-1\] Cover Letter 怎么写？5 段结构 + 3 类必含信息](https://mp.weixin.qq.com/s/pZOrzfhUN0iqK9XmKWJXMQ)
 
 ## 数据集
 
