@@ -684,3 +684,4 @@
 
 * [从虚拟细胞到虚拟患者：生命科学这30年，到底“虚拟”了什么？](https://mp.weixin.qq.com/s/UBDvnibf7sFVqI33PmfGmw)
 * [虚拟细胞的下一个门槛：知道自己“在哪”——空间虚拟细胞正在从“加坐标”走向“虚拟组织”](https://mp.weixin.qq.com/s/_bqoBjglSRt5c0SCGMkWxg)
+* [从零开始学虚拟细胞02：AIVC与scRNA seq的三层关系](https://mp.weixin.qq.com/s/HxyqyL81nZBVTpa9LgzTxA)
