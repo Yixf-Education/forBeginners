@@ -183,6 +183,8 @@
 * [防AI写作工具上线：可监控写作全过程](https://mp.weixin.qq.com/s/itMG_LKi0KUZBPV9eduEAw)
 * [给AI爱因斯坦的知识量，它能想出相对论吗？](https://mp.weixin.qq.com/s/27OGn-LTfOdiiGUtZwrtdA)
 * [Anthropic给AI喂下“迷魂药”！抹掉考场记忆后，Claude当场勒索人类](https://mp.weixin.qq.com/s/wJl2ltG1YhB8NjsKwvfI4g)
+* [医生几十年没查出的疾病，AI找到了！未来临床诊断，可能被彻底改变！新英格兰医学杂志和华尔街日报分别报道了人工智能的新突破](https://mp.weixin.qq.com/s/uTxQzF7itJBaZCl-qbzHHg)
+* [主人「去世」后，唯一选择活下去的 AI，花剩 5 美元后关掉了自己](https://mp.weixin.qq.com/s/kyMD9FOx5_ACjrwl_AESEQ)
 
 
 ## 基本使用
