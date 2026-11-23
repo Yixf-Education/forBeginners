@@ -475,6 +475,7 @@
 * [试试这个文献检索skill，没有找不到的论文！](https://mp.weixin.qq.com/s/dRWL1XVSq3JcKt9XrOWwcA)
 * [分享5个神级Skill，用完真的有点回不去了](https://mp.weixin.qq.com/s/KGL0NLzTlnHMc1VdBmbZ1A)
 * [academic-figure-skill一键部署，29 种图型，按期刊版面出图](https://mp.weixin.qq.com/s/lIGlQZ0r50ZJ7HPb3LpJ4A?poc_token=HIwV9WqjsebTcZ9SsSBqBPQ4rlq_cfe52vcr1ZKC)
+* [刚刚，微软官方公开了科研研究Skill](https://mp.weixin.qq.com/s/ZUtDQjIfcdgyxtGbxVHtzw)
 
 ## Claude & Codex
 
