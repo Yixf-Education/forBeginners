@@ -463,3 +463,4 @@
 * [每一位Linux工程师都应刷过的100个shell脚本~](https://mp.weixin.qq.com/s/IiHqYQj3-lYu9JdUFkFQ9w)
 * [30 个 Linux 命令组合：解决 99% 日常运维需求，看完就能用！](https://mp.weixin.qq.com/s/Kf4HUUHe33gmqhA3kPa1zA)
 * [Linux 老用户注意了：这 7 个命令正在被新工具取代](https://mp.weixin.qq.com/s/z0FLkjm835EknkPpegMWDg)
+* [Linux 操作系统新加了硬盘，为什么不能直接使用](https://mp.weixin.qq.com/s/QzY3m1EtrV__1mxqetmHMQ)
