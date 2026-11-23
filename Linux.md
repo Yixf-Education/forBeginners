@@ -446,6 +446,8 @@
 * [这 10 个现代 Linux 命令行工具，让 Terminal 工作流焕然一新](https://mp.weixin.qq.com/s/kNc76s8D4d4YglPDwVcauA)
 * [10 个让终端像超级能力一样强大的 CLI 工具](https://mp.weixin.qq.com/s/LhB2QtIopEA4rF1YivuhRw)
 * [Linux 老用户都可以试试，这 5 个终端工具太实用了](https://mp.weixin.qq.com/s/CtAroHRcQrGWr9dhT7fiEg)
+* [Linux 必会的 108 个操作](https://mp.weixin.qq.com/s/8dwiU5inB0t2lDzZOPyDdQ)
+* [13 条命令，摸清一台陌生 Linux](https://mp.weixin.qq.com/s/XWBVSVxSPD1dUkjWIEt4Ug)
 
   
 
