@@ -642,6 +642,7 @@
 * [端到端的单细胞管道 SCP - 标准流程](https://mp.weixin.qq.com/s/ypDH3hV-r1pjooOM-SZehQ)
 * [单细胞转录组的 3 种常规数据分析思路](https://mp.weixin.qq.com/s/yNzFblUS2oNPqGngafDTlg)
 * [做生信必看！9 张经典图表解读](https://mp.weixin.qq.com/s/mZChX0DZqrDVePHWQW5DXQ)
+* [细胞类型注释更准，单细胞分析更深——Atera数据表现全面升级](https://mp.weixin.qq.com/s/qCvM-IOriYwKoz4VHYstpQ)
 
 ## GWAS
 
